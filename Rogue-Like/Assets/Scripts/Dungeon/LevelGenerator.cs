@@ -13,6 +13,7 @@ public class RoomPrefabs
 
 public class LevelGenerator : MonoBehaviour
 {
+    [SerializeField] private GameObject dungeonParent;
     [SerializeField] private RoomPrefabs roomPrefabs;
     [SerializeField] private GameObject playerPrefab;
     [SerializeField] private GameObject enemyPrefab;
@@ -38,6 +39,7 @@ public class LevelGenerator : MonoBehaviour
         markers = new List<GameObject>();
 
         roomParent = new GameObject("Rooms").transform;
+        roomParent.SetParent(dungeonParent.transform);
         enemyParent = new GameObject("Enemies").transform;
 
         startRoomPosition = generationPoint.position;
