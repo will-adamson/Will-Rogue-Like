@@ -3,28 +3,46 @@ using UnityEngine;
 
 public class ObjectPoolManager : MonoBehaviour
 {
-    public static ObjectPoolManager Instance { get; private set; }
+    private static ObjectPoolManager _instance;
+    public static ObjectPoolManager Instance
+    {
+        get
+        {
+            if (_instance == null)
+            {
+                GameObject obj = new GameObject("Object Pool Manager");
+                _instance = obj.AddComponent<ObjectPoolManager>();
+                DontDestroyOnLoad(obj);
+            }
+            return _instance;
+        }
+    }
 
     private readonly Dictionary<GameObject, Queue<GameObject>> pools = new();
 
     private void Awake()
     {
-        if (Instance != null && Instance != this) { Destroy(gameObject); return; }
-        Instance = this;
+        if (_instance != null && _instance != this) { Destroy(gameObject); return; }
+        _instance = this;
+        DontDestroyOnLoad(gameObject);
+    }
+
+    public void Prewarm(GameObject prefab, int count)
+    {
+        Queue<GameObject> pool = GetOrCreatePool(prefab);
+        for (int i = 0; i < count; i++)
+        {
+            GameObject obj = Instantiate(prefab, transform);
+            obj.SetActive(false);
+            pool.Enqueue(obj);
+        }
     }
 
     public GameObject Get(GameObject prefab)
     {
         Queue<GameObject> pool = GetOrCreatePool(prefab);
-
-        if (pool.Count > 0)
-        {
-            GameObject obj = pool.Dequeue();
-            obj.SetActive(true);
-            return obj;
-        }
-
-        return Instantiate(prefab, transform);
+        GameObject obj = pool.Count > 0 ? pool.Dequeue() : Instantiate(prefab, transform);
+        return obj;
     }
 
     public void Return(GameObject prefab, GameObject obj)
@@ -37,7 +55,6 @@ public class ObjectPoolManager : MonoBehaviour
     {
         if (!pools.ContainsKey(prefab))
             pools[prefab] = new Queue<GameObject>();
-
         return pools[prefab];
     }
 }

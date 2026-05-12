@@ -18,6 +18,8 @@ public class ProjectileAttackComponent : MonoBehaviour, IAttacker
         speed = projectileData.speed;
         range = projectileData.range;
         cooldown = projectileData.cooldown;
+
+        ObjectPoolManager.Instance.Prewarm(projectileData.projectilePrefab, 10);
     }
 
     public void Attack(Vector2 direction)
@@ -29,7 +31,6 @@ public class ProjectileAttackComponent : MonoBehaviour, IAttacker
     private IEnumerator FireRoutine(Vector2 direction)
     {
         CanAttack = false;
-
         float angle = Mathf.Atan2(direction.y, direction.x) * Mathf.Rad2Deg;
 
         GameObject obj = ObjectPoolManager.Instance.Get(projectileData.projectilePrefab);

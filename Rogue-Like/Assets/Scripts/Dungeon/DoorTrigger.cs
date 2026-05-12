@@ -7,6 +7,7 @@ public class DoorTrigger : MonoBehaviour
     private const float X_OFFSET_MAX = 4f;
     private const float Y_OFFSET_MIN = -2f;
     private const float Y_OFFSET_MAX = 2f;
+
     private Vector3 endRoomPosition;
     private GameObject enemyPrefab;
     private int enemyCount;

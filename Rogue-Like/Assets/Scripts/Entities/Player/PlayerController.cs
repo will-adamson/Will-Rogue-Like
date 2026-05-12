@@ -20,11 +20,11 @@ public class PlayerController : EntityController
 
     protected override float MaxHealth => playerData.health;
     protected override float GetDefence() => playerData.defence;
+
     protected InputActionMap PlayerActionMap { get; private set; }
 
     protected override void Awake()
     {
-
         if (Instance != null && Instance != this) { Destroy(gameObject); return; }
         Instance = this;
 
@@ -39,7 +39,6 @@ public class PlayerController : EntityController
         if (playerData.sprite != null) Sprite.sprite = playerData.sprite;
 
         lastMoveDir = Vector2.right;
-
     }
 
     protected virtual void OnEnable() => moveAction.Enable();

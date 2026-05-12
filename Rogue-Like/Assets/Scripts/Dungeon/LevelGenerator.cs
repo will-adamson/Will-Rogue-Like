@@ -29,12 +29,17 @@ public class LevelGenerator : MonoBehaviour
     private Vector3 endRoomPosition;
     private List<Vector3> roomPositions;
     private List<GameObject> markers;
-
     private Transform roomParent;
     private Transform enemyParent;
 
     void Start()
     {
+        if (ObjectPoolManager.Instance == null)
+        {
+            GameObject objPoolManager = new GameObject("Object Pool Manager");
+            objPoolManager.AddComponent<ObjectPoolManager>();
+        }
+
         roomPositions = new List<Vector3>();
         markers = new List<GameObject>();
 
