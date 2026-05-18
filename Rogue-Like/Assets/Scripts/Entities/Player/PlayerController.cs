@@ -14,8 +14,6 @@ public class PlayerController : EntityController, IAimProvider
 
     private MovementComponent moveComp;
     private InputAction moveAction;
-    private Animator animator;
-
     private Vector2 moveInput;
 
     public Vector2 AimDirection { get; private set; } = Vector2.right;
@@ -24,6 +22,7 @@ public class PlayerController : EntityController, IAimProvider
     protected override float GetDefence() => playerData.defence;
 
     protected InputActionMap PlayerActionMap { get; private set; }
+    protected Animator Animator { get; private set; }
 
     protected override void Awake()
     {
@@ -35,7 +34,7 @@ public class PlayerController : EntityController, IAimProvider
         moveComp = GetComponent<MovementComponent>();
         moveComp.Init(Rb, playerData.speed);
 
-        animator = GetComponent<Animator>();
+        Animator = GetComponent<Animator>();
 
         PlayerActionMap = inputActions.FindActionMap("Player");
         moveAction = PlayerActionMap.FindAction("Move");
