@@ -2,7 +2,7 @@ using UnityEngine;
 using UnityEngine.InputSystem;
 
 [RequireComponent(typeof(MovementComponent))]
-public class PlayerController : EntityController
+public class PlayerController : EntityController, IAimProvider
 {
     public static PlayerController Instance { get; private set; }
 
@@ -13,10 +13,11 @@ public class PlayerController : EntityController
     [SerializeField] protected InputActionAsset inputActions;
 
     private MovementComponent moveComp;
+    private InputAction moveAction;
 
-    protected InputAction moveAction;
-    protected Vector2 moveInput;
-    protected Vector2 lastMoveDir;
+    private Vector2 moveInput;
+
+    public Vector2 AimDirection { get; private set; } = Vector2.right;
 
     protected override float MaxHealth => playerData.health;
     protected override float GetDefence() => playerData.defence;
@@ -37,8 +38,6 @@ public class PlayerController : EntityController
         moveAction = PlayerActionMap.FindAction("Move");
 
         if (playerData.sprite != null) Sprite.sprite = playerData.sprite;
-
-        lastMoveDir = Vector2.right;
     }
 
     protected virtual void OnEnable() => moveAction.Enable();
@@ -50,8 +49,7 @@ public class PlayerController : EntityController
 
         moveInput = moveAction.ReadValue<Vector2>();
 
-        if (moveInput != Vector2.zero) lastMoveDir = moveInput.normalized;
-
+        if (moveInput != Vector2.zero) AimDirection = moveInput.normalized;
         if (moveInput.x != 0f) Sprite.flipX = moveInput.x < 0f;
     }
 
@@ -59,5 +57,10 @@ public class PlayerController : EntityController
     {
         if (IsDead) return;
         moveComp.Move(moveInput);
+    }
+
+    protected override void HandleDeath()
+    {
+        moveComp.Move(Vector2.zero); 
     }
 }

@@ -21,8 +21,8 @@ public class LevelGenerator : MonoBehaviour
     [SerializeField] private int distanceToEnd;
     [SerializeField] private Transform generationPoint;
     [SerializeField] private Direction direction;
-    [SerializeField] private float xOffset = 18f;
-    [SerializeField] private float yOffset = 10f;
+    [SerializeField] private float xOffset = 30f;
+    [SerializeField] private float yOffset = 30f;
     [SerializeField] private LayerMask roomLayerMask;
 
     private Vector3 startRoomPosition;
