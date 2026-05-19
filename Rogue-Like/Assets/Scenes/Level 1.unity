@@ -412,7 +412,7 @@ MonoBehaviour:
     roomUpLeftRightDown: {fileID: 4711847044189635438, guid: 2e8405fa6e6ee45abafb7834a45e2ef3, type: 3}
     roomUpRight: {fileID: 4711847044189635438, guid: a158f97ebebd3404e920ca37c856a3fe, type: 3}
     roomUpRightDown: {fileID: 4711847044189635438, guid: 475d39821dd1742ec8b705b365eacd36, type: 3}
-  playerPrefab: {fileID: 1126463114312989008, guid: abb1f7b57b6c34e5da8a39161ee6fb6f, type: 3}
+  playerPrefab: {fileID: 8275022656891357064, guid: 992328dab61b340e29791e420519f66c, type: 3}
   enemyPrefab: {fileID: 6856069884653584963, guid: 20aa68c61ef26402aae1e34a0b16c0b1, type: 3}
   enemyCount: 3
   distanceToEnd: 10

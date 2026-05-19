@@ -1,7 +1,7 @@
 using UnityEngine;
 using UnityEngine.InputSystem;
 
-[RequireComponent(typeof(MovementComponent))]
+[RequireComponent(typeof(MovementComponent), typeof(Animator))]
 public class PlayerController : EntityController, IAimProvider
 {
     public static PlayerController Instance { get; private set; }
@@ -14,6 +14,7 @@ public class PlayerController : EntityController, IAimProvider
 
     private MovementComponent moveComp;
     private InputAction moveAction;
+    private Animator animator;
 
     private Vector2 moveInput;
 
@@ -33,6 +34,8 @@ public class PlayerController : EntityController, IAimProvider
 
         moveComp = GetComponent<MovementComponent>();
         moveComp.Init(Rb, playerData.speed);
+
+        animator = GetComponent<Animator>();
 
         PlayerActionMap = inputActions.FindActionMap("Player");
         moveAction = PlayerActionMap.FindAction("Move");
@@ -61,6 +64,6 @@ public class PlayerController : EntityController, IAimProvider
 
     protected override void HandleDeath()
     {
-        moveComp.Move(Vector2.zero); 
+        moveComp.Move(Vector2.zero);
     }
 }
