@@ -56,13 +56,25 @@ PrefabInstance:
       propertyPath: m_Name
       value: Warrior
       objectReference: {fileID: 0}
+    - target: {fileID: 8854439022456856642, guid: e8ea2479f365a402e8af549b9df918dc, type: 3}
+      propertyPath: m_ActionEvents.Array.size
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 8854439022456856642, guid: e8ea2479f365a402e8af549b9df918dc, type: 3}
+      propertyPath: m_ActionEvents.Array.data[2].m_ActionId
+      value: 79b9e917-d141-4809-802c-55fe9c14eb6b
+      objectReference: {fileID: 0}
+    - target: {fileID: 8854439022456856642, guid: e8ea2479f365a402e8af549b9df918dc, type: 3}
+      propertyPath: m_ActionEvents.Array.data[2].m_ActionName
+      value: 'Player/Attack[/Keyboard/space]'
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
     m_AddedComponents:
     - targetCorrespondingSourceObject: {fileID: 7671588603364208770, guid: e8ea2479f365a402e8af549b9df918dc, type: 3}
-      insertIndex: -1
-      addedObject: {fileID: 2380154590421804102}
+      insertIndex: 5
+      addedObject: {fileID: -4252225251475058662}
     - targetCorrespondingSourceObject: {fileID: 7671588603364208770, guid: e8ea2479f365a402e8af549b9df918dc, type: 3}
       insertIndex: -1
       addedObject: {fileID: 5074923563245655244}
@@ -75,7 +87,7 @@ GameObject:
   m_CorrespondingSourceObject: {fileID: 7671588603364208770, guid: e8ea2479f365a402e8af549b9df918dc, type: 3}
   m_PrefabInstance: {fileID: 1774484718509946634}
   m_PrefabAsset: {fileID: 0}
---- !u!114 &2380154590421804102
+--- !u!114 &-4252225251475058662
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -84,9 +96,9 @@ MonoBehaviour:
   m_GameObject: {fileID: 8275022656891357064}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 62c4169290602d241a2168d93df7923a, type: 3}
+  m_Script: {fileID: 11500000, guid: d97ec63132a23473d896ff62d9b66b9b, type: 3}
   m_Name: 
-  m_EditorClassIdentifier: Assembly-CSharp::PlayerController
+  m_EditorClassIdentifier: Assembly-CSharp::WarriorController
   playerData: {fileID: 11400000, guid: bdedf0a6f39c44b68af17405f49407e4, type: 2}
   inputActions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
 --- !u!114 &5074923563245655244
