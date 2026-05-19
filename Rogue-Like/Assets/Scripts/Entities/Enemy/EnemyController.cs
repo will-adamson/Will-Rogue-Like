@@ -1,55 +1,45 @@
 using UnityEngine;
 
-[RequireComponent(typeof(MovementComponent), typeof(ProjectileAttackComponent), typeof(PlayerDetectorComponent))]
-public class EnemyController : EntityController
+[RequireComponent(typeof(MoveComponent))]
+[RequireComponent(typeof(PlayerDetectorComponent))]
+public abstract class EnemyController : EntityController
 {
-    [Header("SO Data")]
-    [SerializeField] private EnemyData enemyData;
+    protected abstract EnemyData Data { get; }
 
-    private MovementComponent movementComp;
-    private ProjectileAttackComponent projectileAttackComp;
-    private PlayerDetectorComponent playerDetectorComp;
+    protected MoveComponent MovementComp { get; private set; }
+    protected PlayerDetectorComponent PlayerDetectorComp { get; private set; }
 
-    protected override float MaxHealth => enemyData.health;
-    protected override float GetDefence() => enemyData.defence;
+    protected override float MaxHealth => Data.health;
+    protected override float GetDefence() => Data.defence;
 
     protected override void Awake()
     {
         base.Awake();
 
-        movementComp = GetComponent<MovementComponent>();
-        projectileAttackComp = GetComponent<ProjectileAttackComponent>();
-        playerDetectorComp = GetComponent<PlayerDetectorComponent>();
+        MovementComp = GetComponent<MoveComponent>();
+        MovementComp.Init(Rb, Data.speed);
 
-        movementComp.Init(Rb, enemyData.speed);
-
-        if (projectileAttackComp != null && enemyData.projectileData != null)
-            projectileAttackComp.Init(enemyData.projectileData, bonusDamage: enemyData.damage);
-
-        playerDetectorComp.Init(enemyData.detectionRange, enemyData.attackRange);
-
-        if (enemyData.sprite != null) Sprite.sprite = enemyData.sprite;
+        PlayerDetectorComp = GetComponent<PlayerDetectorComponent>();
+        PlayerDetectorComp.Init(Data.detectionRange, Data.attackRange);
     }
 
     private void Update()
     {
-        if (IsDead || playerDetectorComp == null) return;
-        if (!playerDetectorComp.IsTargetDetected(out Vector2 dir, out float sqrDist)) return;
+        if (IsDead || PlayerDetectorComp == null) return;
+        if (!PlayerDetectorComp.IsTargetDetected(out Vector2 dir, out float sqrDist)) return;
 
         Sprite.flipX = dir.x < 0f;
 
-        bool inAttackRange = playerDetectorComp.IsInAttackRange(sqrDist);
+        bool inAttackRange = PlayerDetectorComp.IsInAttackRange(sqrDist);
 
-        if (!inAttackRange && !enemyData.isHoldPosition) movementComp.Move(dir);
+        if (!inAttackRange && !Data.isHoldPosition)
+            MovementComp.Move(dir);
 
         if (inAttackRange)
-        {
-            if (projectileAttackComp != null) projectileAttackComp.Attack(dir);
-        }
+            HandleAttack(dir);
     }
 
-    protected override void HandleDeath()
-    {
-        Destroy(gameObject);
-    }
+    protected abstract void HandleAttack(Vector2 dir);
+
+    protected override void HandleDeath() => Destroy(gameObject);
 }

@@ -52,10 +52,18 @@ PrefabInstance:
       propertyPath: m_Sprite
       value: 
       objectReference: {fileID: -2222203184754918373, guid: d1eda7b82c1f044298f613ccbaa16cb5, type: 3}
+    - target: {fileID: 1017813279480442857, guid: e8ea2479f365a402e8af549b9df918dc, type: 3}
+      propertyPath: m_WasSpriteAssigned
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 7671588603364208770, guid: e8ea2479f365a402e8af549b9df918dc, type: 3}
       propertyPath: m_Name
       value: Warrior
       objectReference: {fileID: 0}
+    - target: {fileID: 8018796966690288438, guid: e8ea2479f365a402e8af549b9df918dc, type: 3}
+      propertyPath: m_Controller
+      value: 
+      objectReference: {fileID: 9100000, guid: 714f6bede964d44e0ad0af9a25f9fc19, type: 2}
     - target: {fileID: 8854439022456856642, guid: e8ea2479f365a402e8af549b9df918dc, type: 3}
       propertyPath: m_ActionEvents.Array.size
       value: 3
@@ -73,14 +81,8 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents:
     - targetCorrespondingSourceObject: {fileID: 7671588603364208770, guid: e8ea2479f365a402e8af549b9df918dc, type: 3}
-      insertIndex: 5
+      insertIndex: 7
       addedObject: {fileID: -4252225251475058662}
-    - targetCorrespondingSourceObject: {fileID: 7671588603364208770, guid: e8ea2479f365a402e8af549b9df918dc, type: 3}
-      insertIndex: -1
-      addedObject: {fileID: 5074923563245655244}
-    - targetCorrespondingSourceObject: {fileID: 7671588603364208770, guid: e8ea2479f365a402e8af549b9df918dc, type: 3}
-      insertIndex: -1
-      addedObject: {fileID: 8640227526232835132}
   m_SourcePrefab: {fileID: 100100000, guid: e8ea2479f365a402e8af549b9df918dc, type: 3}
 --- !u!1 &8275022656891357064 stripped
 GameObject:
@@ -99,39 +101,5 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d97ec63132a23473d896ff62d9b66b9b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::WarriorController
-  playerData: {fileID: 11400000, guid: bdedf0a6f39c44b68af17405f49407e4, type: 2}
+  playerData: {fileID: 11400000, guid: 8448a012fdaea9549b2ba3e8bdcc8093, type: 2}
   inputActions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
---- !u!114 &5074923563245655244
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 8275022656891357064}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 01e5f06aef0ff4c53a8997edb117959e, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: Assembly-CSharp::HealthComponent
---- !u!95 &8640227526232835132
-Animator:
-  serializedVersion: 7
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 8275022656891357064}
-  m_Enabled: 1
-  m_Avatar: {fileID: 0}
-  m_Controller: {fileID: 9100000, guid: 714f6bede964d44e0ad0af9a25f9fc19, type: 2}
-  m_CullingMode: 0
-  m_UpdateMode: 0
-  m_ApplyRootMotion: 0
-  m_LinearVelocityBlending: 0
-  m_StabilizeFeet: 0
-  m_AnimatePhysics: 0
-  m_WarningMessage: 
-  m_HasTransformHierarchy: 1
-  m_AllowConstantClipSamplingOptimization: 1
-  m_KeepAnimatorStateOnDisable: 0
-  m_WriteDefaultValuesOnDisable: 0

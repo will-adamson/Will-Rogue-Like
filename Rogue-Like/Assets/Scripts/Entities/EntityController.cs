@@ -1,13 +1,17 @@
 using UnityEngine;
 
-[RequireComponent(typeof(Rigidbody2D), typeof(SpriteRenderer),
-                  typeof(HealthComponent))]
+[RequireComponent(typeof(Rigidbody2D))]
+[RequireComponent(typeof(SpriteRenderer))]
+[RequireComponent(typeof(HealthComponent))]
+[RequireComponent(typeof(Animator))]
 public abstract class EntityController : MonoBehaviour, IDamageable
 {
     public Rigidbody2D Rb { get; private set; }
     public SpriteRenderer Sprite { get; private set; }
 
     protected HealthComponent Health { get; private set; }
+    protected Animator Animator { get; private set; }
+
     private DamageFlashComponent damageFlash;
 
     public bool IsDead => Health.IsDead;
@@ -23,6 +27,8 @@ public abstract class EntityController : MonoBehaviour, IDamageable
         Health = GetComponent<HealthComponent>();
         Health.Init(MaxHealth);
         Health.OnDeath += HandleDeath;
+
+        Animator = GetComponent<Animator>();
 
         damageFlash = GetComponent<DamageFlashComponent>();
         damageFlash?.Init(Sprite);
