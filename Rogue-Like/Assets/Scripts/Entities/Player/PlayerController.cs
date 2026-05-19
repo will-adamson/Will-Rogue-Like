@@ -1,18 +1,18 @@
 using UnityEngine;
 using UnityEngine.InputSystem;
 
-[RequireComponent(typeof(MovementComponent), typeof(Animator))]
+[RequireComponent(typeof(MoveComponent))]
 public class PlayerController : EntityController, IAimProvider
 {
     public static PlayerController Instance { get; private set; }
 
-    [Header("Data")]
+    [Header("SO Data")]
     [SerializeField] protected PlayerData playerData;
 
     [Header("Input")]
     [SerializeField] protected InputActionAsset inputActions;
 
-    private MovementComponent moveComp;
+    private MoveComponent moveComp;
     private InputAction moveAction;
     private Vector2 moveInput;
 
@@ -22,7 +22,6 @@ public class PlayerController : EntityController, IAimProvider
     protected override float GetDefence() => playerData.defence;
 
     protected InputActionMap PlayerActionMap { get; private set; }
-    protected Animator Animator { get; private set; }
 
     protected override void Awake()
     {
@@ -31,10 +30,8 @@ public class PlayerController : EntityController, IAimProvider
 
         base.Awake();
 
-        moveComp = GetComponent<MovementComponent>();
+        moveComp = GetComponent<MoveComponent>();
         moveComp.Init(Rb, playerData.speed);
-
-        Animator = GetComponent<Animator>();
 
         PlayerActionMap = inputActions.FindActionMap("Player");
         moveAction = PlayerActionMap.FindAction("Move");

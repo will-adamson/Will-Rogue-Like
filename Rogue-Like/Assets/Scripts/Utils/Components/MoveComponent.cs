@@ -1,7 +1,7 @@
 using UnityEngine;
 
 [RequireComponent(typeof(Rigidbody2D))]
-public class MovementComponent : MonoBehaviour, IMovable
+public class MoveComponent : MonoBehaviour, IMovable
 {
     private Rigidbody2D rb;
     private float speed;
