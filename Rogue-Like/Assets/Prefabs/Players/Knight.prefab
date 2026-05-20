@@ -9,6 +9,14 @@ PrefabInstance:
     m_TransformParent: {fileID: 0}
     m_Modifications:
     - target: {fileID: 168685986553614318, guid: e8ea2479f365a402e8af549b9df918dc, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 0.75
+      objectReference: {fileID: 0}
+    - target: {fileID: 168685986553614318, guid: e8ea2479f365a402e8af549b9df918dc, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 0.75
+      objectReference: {fileID: 0}
+    - target: {fileID: 168685986553614318, guid: e8ea2479f365a402e8af549b9df918dc, type: 3}
       propertyPath: m_LocalPosition.x
       value: 0
       objectReference: {fileID: 0}
@@ -49,16 +57,24 @@ PrefabInstance:
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 1017813279480442857, guid: e8ea2479f365a402e8af549b9df918dc, type: 3}
+      propertyPath: m_Size.x
+      value: 1.03125
+      objectReference: {fileID: 0}
+    - target: {fileID: 1017813279480442857, guid: e8ea2479f365a402e8af549b9df918dc, type: 3}
+      propertyPath: m_Size.y
+      value: 1.09375
+      objectReference: {fileID: 0}
+    - target: {fileID: 1017813279480442857, guid: e8ea2479f365a402e8af549b9df918dc, type: 3}
       propertyPath: m_Sprite
       value: 
-      objectReference: {fileID: -2222203184754918373, guid: d1eda7b82c1f044298f613ccbaa16cb5, type: 3}
+      objectReference: {fileID: 6463269995255551577, guid: 4e849f6479d584c33992ed869b424c54, type: 3}
     - target: {fileID: 1017813279480442857, guid: e8ea2479f365a402e8af549b9df918dc, type: 3}
       propertyPath: m_WasSpriteAssigned
       value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 7671588603364208770, guid: e8ea2479f365a402e8af549b9df918dc, type: 3}
       propertyPath: m_Name
-      value: Warrior
+      value: Knight
       objectReference: {fileID: 0}
     - target: {fileID: 8018796966690288438, guid: e8ea2479f365a402e8af549b9df918dc, type: 3}
       propertyPath: m_Controller
@@ -106,6 +122,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::WarriorController
   playerData: {fileID: 11400000, guid: 8448a012fdaea9549b2ba3e8bdcc8093, type: 2}
   inputActions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
+  tombstonePrefabs:
+  - {fileID: 2165334475683372404, guid: 3a7d07cf6a6d242eb89fe82d50b197db, type: 3}
+  - {fileID: 6793544996667055961, guid: 304c21989af7140549221457f1451e21, type: 3}
 --- !u!114 &-5110157513668002672
 MonoBehaviour:
   m_ObjectHideFlags: 0

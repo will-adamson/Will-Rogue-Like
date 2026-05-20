@@ -1,43 +1,43 @@
 fileFormatVersion: 2
-guid: 5a8f602c909c547b6bb5509963471bc0
+guid: f5244ced6eb454e17b2d8e3befc1a6b9
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 2168889318782393592
-    second: Enemy06Idle-Sheet_0
+      213: 5541528016183633216
+    second: Enemy06Idle-Sheet2x_0
   - first:
-      213: 3477782160818196755
-    second: Enemy06Idle-Sheet_1
+      213: -1474997374827654171
+    second: Enemy06Idle-Sheet2x_1
   - first:
-      213: -4797233919944096322
-    second: Enemy06Idle-Sheet_2
+      213: -7852037344191431899
+    second: Enemy06Idle-Sheet2x_2
   - first:
-      213: 6796052816963641895
-    second: Enemy06Idle-Sheet_3
+      213: 4682431711073990069
+    second: Enemy06Idle-Sheet2x_3
   - first:
-      213: 536061163877923715
-    second: Enemy06Idle-Sheet_4
+      213: -2419286026237270875
+    second: Enemy06Idle-Sheet2x_4
   - first:
-      213: -7973414706599300254
-    second: Enemy06Idle-Sheet_5
+      213: 6324549505656774728
+    second: Enemy06Idle-Sheet2x_5
   - first:
-      213: 7977717796199699090
-    second: Enemy06Idle-Sheet_6
+      213: 1165320289115510939
+    second: Enemy06Idle-Sheet2x_6
   - first:
-      213: -2781813030041675162
-    second: Enemy06Idle-Sheet_7
+      213: -4066717449250385248
+    second: Enemy06Idle-Sheet2x_7
   - first:
-      213: 3008884190792153099
-    second: Enemy06Idle-Sheet_8
+      213: -1952463355910398276
+    second: Enemy06Idle-Sheet2x_8
   - first:
-      213: -1350031230048461428
-    second: Enemy06Idle-Sheet_9
+      213: 8697655713287309073
+    second: Enemy06Idle-Sheet2x_9
   - first:
-      213: 3516286615208835915
-    second: Enemy06Idle-Sheet_10
+      213: 1245663309739978503
+    second: Enemy06Idle-Sheet2x_10
   - first:
-      213: -3728300780057550477
-    second: Enemy06Idle-Sheet_11
+      213: -4085155673975241872
+    second: Enemy06Idle-Sheet2x_11
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -84,7 +84,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 16
+  spritePixelsToUnits: 32
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -133,13 +133,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Enemy06Idle-Sheet_0
+      name: Enemy06Idle-Sheet2x_0
       rect:
         serializedVersion: 2
-        x: 2
+        x: 5
         y: 0
-        width: 15
-        height: 11
+        width: 28
+        height: 21
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -148,20 +148,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 8fcd92b1851791e10800000000000000
-      internalID: 2168889318782393592
+      spriteID: 0452085de5677ec40800000000000000
+      internalID: 5541528016183633216
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Enemy06Idle-Sheet_1
+      name: Enemy06Idle-Sheet2x_1
       rect:
         serializedVersion: 2
-        x: 18
+        x: 37
         y: 0
-        width: 17
-        height: 10
+        width: 32
+        height: 19
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -170,20 +170,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 31152cdf270934030800000000000000
-      internalID: 3477782160818196755
+      spriteID: 5e393c4d3b1c78be0800000000000000
+      internalID: -1474997374827654171
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Enemy06Idle-Sheet_2
+      name: Enemy06Idle-Sheet2x_2
       rect:
         serializedVersion: 2
-        x: 35
+        x: 71
         y: 0
-        width: 17
-        height: 9
+        width: 32
+        height: 17
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -192,20 +192,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: eb50749aa2dcc6db0800000000000000
-      internalID: -4797233919944096322
+      spriteID: 52b3e5823a5f70390800000000000000
+      internalID: -7852037344191431899
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Enemy06Idle-Sheet_3
+      name: Enemy06Idle-Sheet2x_3
       rect:
         serializedVersion: 2
-        x: 53
+        x: 107
         y: 0
-        width: 15
-        height: 12
+        width: 28
+        height: 23
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -214,20 +214,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 72229eda70e605e50800000000000000
-      internalID: 6796052816963641895
+      spriteID: 5b5f69725d65bf040800000000000000
+      internalID: 4682431711073990069
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Enemy06Idle-Sheet_4
+      name: Enemy06Idle-Sheet2x_4
       rect:
         serializedVersion: 2
-        x: 70
+        x: 141
         y: 0
-        width: 15
-        height: 13
+        width: 28
+        height: 25
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -236,20 +236,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 38b73d2d9c8707700800000000000000
-      internalID: 536061163877923715
+      spriteID: 5a4af045d28fc6ed0800000000000000
+      internalID: -2419286026237270875
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Enemy06Idle-Sheet_5
+      name: Enemy06Idle-Sheet2x_5
       rect:
         serializedVersion: 2
-        x: 87
+        x: 175
         y: 0
-        width: 15
-        height: 13
+        width: 28
+        height: 25
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -258,20 +258,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 263f54eb19db85190800000000000000
-      internalID: -7973414706599300254
+      spriteID: 8406b09344055c750800000000000000
+      internalID: 6324549505656774728
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Enemy06Idle-Sheet_6
+      name: Enemy06Idle-Sheet2x_6
       rect:
         serializedVersion: 2
-        x: 104
+        x: 209
         y: 0
-        width: 15
-        height: 11
+        width: 28
+        height: 21
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -280,20 +280,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 2929bc0611c86be60800000000000000
-      internalID: 7977717796199699090
+      spriteID: b98194af0ac0c2010800000000000000
+      internalID: 1165320289115510939
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Enemy06Idle-Sheet_7
+      name: Enemy06Idle-Sheet2x_7
       rect:
         serializedVersion: 2
-        x: 120
+        x: 241
         y: 0
-        width: 17
-        height: 10
+        width: 32
+        height: 19
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -302,20 +302,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 66a10d0b9c30569d0800000000000000
-      internalID: -2781813030041675162
+      spriteID: 0a25c8bb60e1097c0800000000000000
+      internalID: -4066717449250385248
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Enemy06Idle-Sheet_8
+      name: Enemy06Idle-Sheet2x_8
       rect:
         serializedVersion: 2
-        x: 137
+        x: 275
         y: 0
-        width: 17
-        height: 9
+        width: 32
+        height: 17
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -324,20 +324,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: b087472da34b1c920800000000000000
-      internalID: 3008884190792153099
+      spriteID: cbe5ef12ce477e4e0800000000000000
+      internalID: -1952463355910398276
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Enemy06Idle-Sheet_9
+      name: Enemy06Idle-Sheet2x_9
       rect:
         serializedVersion: 2
-        x: 155
+        x: 311
         y: 0
-        width: 15
-        height: 12
+        width: 28
+        height: 23
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -346,20 +346,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: c8d1741cfb9b34de0800000000000000
-      internalID: -1350031230048461428
+      spriteID: 11703210ac744b870800000000000000
+      internalID: 8697655713287309073
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Enemy06Idle-Sheet_10
+      name: Enemy06Idle-Sheet2x_10
       rect:
         serializedVersion: 2
-        x: 172
+        x: 345
         y: 0
-        width: 15
-        height: 13
+        width: 28
+        height: 25
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -368,20 +368,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: b4bbbf3eb0c5cc030800000000000000
-      internalID: 3516286615208835915
+      spriteID: 70fe9ce2e2c794110800000000000000
+      internalID: 1245663309739978503
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Enemy06Idle-Sheet_11
+      name: Enemy06Idle-Sheet2x_11
       rect:
         serializedVersion: 2
-        x: 189
+        x: 379
         y: 0
-        width: 15
-        height: 13
+        width: 28
+        height: 25
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -390,8 +390,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 371abd4a13a624cc0800000000000000
-      internalID: -3728300780057550477
+      spriteID: 073c8800f8c9e47c0800000000000000
+      internalID: -4085155673975241872
       vertices: []
       indices: 
       edges: []
@@ -410,18 +410,18 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      Enemy06Idle-Sheet_0: 2168889318782393592
-      Enemy06Idle-Sheet_1: 3477782160818196755
-      Enemy06Idle-Sheet_10: 3516286615208835915
-      Enemy06Idle-Sheet_11: -3728300780057550477
-      Enemy06Idle-Sheet_2: -4797233919944096322
-      Enemy06Idle-Sheet_3: 6796052816963641895
-      Enemy06Idle-Sheet_4: 536061163877923715
-      Enemy06Idle-Sheet_5: -7973414706599300254
-      Enemy06Idle-Sheet_6: 7977717796199699090
-      Enemy06Idle-Sheet_7: -2781813030041675162
-      Enemy06Idle-Sheet_8: 3008884190792153099
-      Enemy06Idle-Sheet_9: -1350031230048461428
+      Enemy06Idle-Sheet2x_0: 5541528016183633216
+      Enemy06Idle-Sheet2x_1: -1474997374827654171
+      Enemy06Idle-Sheet2x_10: 1245663309739978503
+      Enemy06Idle-Sheet2x_11: -4085155673975241872
+      Enemy06Idle-Sheet2x_2: -7852037344191431899
+      Enemy06Idle-Sheet2x_3: 4682431711073990069
+      Enemy06Idle-Sheet2x_4: -2419286026237270875
+      Enemy06Idle-Sheet2x_5: 6324549505656774728
+      Enemy06Idle-Sheet2x_6: 1165320289115510939
+      Enemy06Idle-Sheet2x_7: -4066717449250385248
+      Enemy06Idle-Sheet2x_8: -1952463355910398276
+      Enemy06Idle-Sheet2x_9: 8697655713287309073
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

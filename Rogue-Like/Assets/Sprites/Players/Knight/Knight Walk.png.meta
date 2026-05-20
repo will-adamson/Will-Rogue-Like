@@ -1,28 +1,37 @@
 fileFormatVersion: 2
-guid: 81d3ef4145a0147039fbee6e175dc7cd
+guid: 9018398e5bfd84b66b75184fc9de925a
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -1327499931505640658
-    second: Enemy06Dying-Sheet_0
+      213: 736147444415942798
+    second: Hero03 Knight Walkingcycle-Sheet2x_0
   - first:
-      213: 6837614576602085676
-    second: Enemy06Dying-Sheet_1
+      213: -3485445283986443932
+    second: Hero03 Knight Walkingcycle-Sheet2x_1
   - first:
-      213: -1848256701502308860
-    second: Enemy06Dying-Sheet_2
+      213: -5039845668868981985
+    second: Hero03 Knight Walkingcycle-Sheet2x_2
   - first:
-      213: 869364958198204800
-    second: Enemy06Dying-Sheet_3
+      213: -1859237317915739117
+    second: Hero03 Knight Walkingcycle-Sheet2x_3
   - first:
-      213: -5726012566026746216
-    second: Enemy06Dying-Sheet_4
+      213: -3673431870447020631
+    second: Hero03 Knight Walkingcycle-Sheet2x_4
   - first:
-      213: 6025148655363323872
-    second: Enemy06Dying-Sheet_5
+      213: 2902088432947660836
+    second: Hero03 Knight Walkingcycle-Sheet2x_5
   - first:
-      213: 4357940114161300004
-    second: Enemy06Dying-Sheet_6
+      213: -3307203892648782971
+    second: Hero03 Knight Walkingcycle-Sheet2x_6
+  - first:
+      213: -4773836925921001253
+    second: Hero03 Knight Walkingcycle-Sheet2x_7
+  - first:
+      213: -7379937654667722210
+    second: Hero03 Knight Walkingcycle-Sheet2x_8
+  - first:
+      213: 466144719022812131
+    second: Hero03 Knight Walkingcycle-Sheet2x_9
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -69,7 +78,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 16
+  spritePixelsToUnits: 32
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -118,13 +127,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Enemy06Dying-Sheet_0
+      name: Hero03 Knight Walkingcycle-Sheet2x_0
       rect:
         serializedVersion: 2
-        x: 2
+        x: 1
         y: 0
-        width: 15
-        height: 11
+        width: 32
+        height: 37
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -133,20 +142,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: e2b304f78d5c39de0800000000000000
-      internalID: -1327499931505640658
+      spriteID: e8059be4332573a00800000000000000
+      internalID: 736147444415942798
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Enemy06Dying-Sheet_1
+      name: Hero03 Knight Walkingcycle-Sheet2x_1
       rect:
         serializedVersion: 2
-        x: 18
+        x: 39
         y: 0
-        width: 17
-        height: 12
+        width: 32
+        height: 35
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -155,20 +164,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: c29766dea3614ee50800000000000000
-      internalID: 6837614576602085676
+      spriteID: 4617deb1bf531afc0800000000000000
+      internalID: -3485445283986443932
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Enemy06Dying-Sheet_2
+      name: Hero03 Knight Walkingcycle-Sheet2x_2
       rect:
         serializedVersion: 2
-        x: 35
+        x: 77
         y: 0
-        width: 17
-        height: 12
+        width: 32
+        height: 33
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -177,20 +186,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 40e383d825ca956e0800000000000000
-      internalID: -1848256701502308860
+      spriteID: f1bf540011fde0ab0800000000000000
+      internalID: -5039845668868981985
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Enemy06Dying-Sheet_3
+      name: Hero03 Knight Walkingcycle-Sheet2x_3
       rect:
         serializedVersion: 2
-        x: 52
+        x: 113
         y: 0
-        width: 16
-        height: 7
+        width: 34
+        height: 31
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -199,64 +208,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 0898399c2da901c00800000000000000
-      internalID: 869364958198204800
+      spriteID: 31c7b709289a236e0800000000000000
+      internalID: -1859237317915739117
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Enemy06Dying-Sheet_4
+      name: Hero03 Knight Walkingcycle-Sheet2x_4
       rect:
         serializedVersion: 2
-        x: 53
-        y: 6
-        width: 6
-        height: 6
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 8968d8ea8ed1980b0800000000000000
-      internalID: -5726012566026746216
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Enemy06Dying-Sheet_5
-      rect:
-        serializedVersion: 2
-        x: 57
-        y: 4
-        width: 11
-        height: 9
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 0e77ad987c0ad9350800000000000000
-      internalID: 6025148655363323872
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Enemy06Dying-Sheet_6
-      rect:
-        serializedVersion: 2
-        x: 68
+        x: 153
         y: 0
-        width: 63
-        height: 14
+        width: 32
+        height: 35
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -265,8 +230,118 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 4227209c1738a7c30800000000000000
-      internalID: 4357940114161300004
+      spriteID: 9a5186f2d29550dc0800000000000000
+      internalID: -3673431870447020631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero03 Knight Walkingcycle-Sheet2x_5
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 0
+        width: 32
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4288d98cd0a464820800000000000000
+      internalID: 2902088432947660836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero03 Knight Walkingcycle-Sheet2x_6
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 0
+        width: 32
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58351eaf4937a12d0800000000000000
+      internalID: -3307203892648782971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero03 Knight Walkingcycle-Sheet2x_7
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 0
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd006d6db9cefbdb0800000000000000
+      internalID: -4773836925921001253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero03 Knight Walkingcycle-Sheet2x_8
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 0
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e12400dbdc1359990800000000000000
+      internalID: -7379937654667722210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero03 Knight Walkingcycle-Sheet2x_9
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 0
+        width: 32
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3eb6747f624187600800000000000000
+      internalID: 466144719022812131
       vertices: []
       indices: 
       edges: []
@@ -285,13 +360,16 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      Enemy06Dying-Sheet_0: -1327499931505640658
-      Enemy06Dying-Sheet_1: 6837614576602085676
-      Enemy06Dying-Sheet_2: -1848256701502308860
-      Enemy06Dying-Sheet_3: 869364958198204800
-      Enemy06Dying-Sheet_4: -5726012566026746216
-      Enemy06Dying-Sheet_5: 6025148655363323872
-      Enemy06Dying-Sheet_6: 4357940114161300004
+      Hero03 Knight Walkingcycle-Sheet2x_0: 736147444415942798
+      Hero03 Knight Walkingcycle-Sheet2x_1: -3485445283986443932
+      Hero03 Knight Walkingcycle-Sheet2x_2: -5039845668868981985
+      Hero03 Knight Walkingcycle-Sheet2x_3: -1859237317915739117
+      Hero03 Knight Walkingcycle-Sheet2x_4: -3673431870447020631
+      Hero03 Knight Walkingcycle-Sheet2x_5: 2902088432947660836
+      Hero03 Knight Walkingcycle-Sheet2x_6: -3307203892648782971
+      Hero03 Knight Walkingcycle-Sheet2x_7: -4773836925921001253
+      Hero03 Knight Walkingcycle-Sheet2x_8: -7379937654667722210
+      Hero03 Knight Walkingcycle-Sheet2x_9: 466144719022812131
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
