@@ -1,7 +1,6 @@
 using UnityEngine;
 
-[CreateAssetMenu(fileName = "PlayerData", menuName = "Scriptable Objects/PlayerData")]
-public class PlayerData : ScriptableObject
+public abstract class PlayerData : ScriptableObject
 {
     [Header("Identity")]
     public Sprite sprite;
@@ -17,11 +16,4 @@ public class PlayerData : ScriptableObject
     [Header("Crit")]
     [Range(0f, 1f)] public float critChance = 0f;
     public float critMultiplier = 1.5f;
-
-    [Header("Combat")]
-    public float attackCooldown = 0.5f;
-    public float knockbackForce = 2f;
-
-    [Header("Projectile")]
-    public ProjectileData projectileData;
 }

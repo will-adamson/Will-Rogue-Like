@@ -10,7 +10,7 @@ GameObject:
   m_Component:
   - component: {fileID: 5954739612165767702}
   - component: {fileID: 7495353457963646805}
-  m_Layer: 7
+  m_Layer: 0
   m_Name: Mage Projectile Pool
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -26,7 +26,7 @@ Transform:
   m_GameObject: {fileID: 1944341416076724013}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 103.94775, y: 4.12218, z: 0}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -41,8 +41,6 @@ MonoBehaviour:
   m_GameObject: {fileID: 1944341416076724013}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 3f44dca3a83d202458b6e38107b2a66d, type: 3}
+  m_Script: {fileID: 11500000, guid: c54cba2ddccd344c4aa38603a614b581, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::ObjectPool
-  prefab: {fileID: 2217087995820154819, guid: 5068ef83e3b064b708c52ab2be8e53f9, type: 3}
-  poolSize: 10

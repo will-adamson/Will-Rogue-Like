@@ -17,7 +17,8 @@ public class PlayerController : EntityController, IAimProvider
 
     private MoveComponent moveComp;
     private InputAction moveAction;
-    private Vector2 moveInput;
+
+    protected Vector2 moveInput;
 
     public Vector2 AimDirection { get; private set; } = Vector2.right;
 

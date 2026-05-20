@@ -210,6 +210,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Slime
       objectReference: {fileID: 0}
+    - target: {fileID: 8351115511179455850, guid: d5e85201d9ebe8e41961b431a42857cd, type: 3}
+      propertyPath: m_SortingOrder
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 9160702493203675077, guid: d5e85201d9ebe8e41961b431a42857cd, type: 3}
       propertyPath: m_LocalPosition.x
       value: -7.22
@@ -369,7 +373,7 @@ Camera:
   m_Depth: -1
   m_CullingMask:
     serializedVersion: 2
-    m_Bits: 503
+    m_Bits: 1015
   m_RenderingPath: -1
   m_TargetTexture: {fileID: 0}
   m_TargetDisplay: 0
@@ -472,7 +476,7 @@ MonoBehaviour:
     roomUpLeftRightDown: {fileID: 4711847044189635438, guid: 2e8405fa6e6ee45abafb7834a45e2ef3, type: 3}
     roomUpRight: {fileID: 4711847044189635438, guid: a158f97ebebd3404e920ca37c856a3fe, type: 3}
     roomUpRightDown: {fileID: 4711847044189635438, guid: 475d39821dd1742ec8b705b365eacd36, type: 3}
-  playerPrefab: {fileID: 8275022656891357064, guid: 78de47b1b33704cd9a8b8faffbcac3ad, type: 3}
+  playerPrefab: {fileID: 8275022656891357064, guid: ae347eb598d2d4e72979975453918fd4, type: 3}
   enemyPrefab: {fileID: 6464531875417237264, guid: d5e85201d9ebe8e41961b431a42857cd, type: 3}
   enemyCount: 3
   distanceToEnd: 10
