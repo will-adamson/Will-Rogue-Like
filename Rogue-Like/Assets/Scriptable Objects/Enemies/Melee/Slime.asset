@@ -14,7 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::MeleeEnemyData
   sprite: {fileID: 2168889318782393592, guid: 5a8f602c909c547b6bb5509963471bc0, type: 3}
   name: Slime
-  health: 100
+  health: 10
   damage: 10
   speed: 2
   defence: 0
@@ -22,5 +22,5 @@ MonoBehaviour:
   detectionRange: 6
   isHoldPosition: 0
   xpReward: 10
-  knockbackForce: 5
+  knockbackForce: 0
   attackCooldown: 1

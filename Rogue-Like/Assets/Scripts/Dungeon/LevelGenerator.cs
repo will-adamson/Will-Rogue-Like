@@ -176,7 +176,7 @@ public class LevelGenerator : MonoBehaviour
         col.size = Vector2.one;
 
         DoorTrigger trigger = door.AddComponent<DoorTrigger>();
-        trigger.Initialize(endRoomPosition, enemyPrefab, enemyCount, enemyParent);
+        // trigger.Initialize(endRoomPosition, enemyPrefab, enemyCount, enemyParent);
     }
 
     private GameObject GetRoomPrefab(bool up, bool down, bool left, bool right)

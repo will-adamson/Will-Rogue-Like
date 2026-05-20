@@ -10,7 +10,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: -5562656548723984508, guid: 20aa68c61ef26402aae1e34a0b16c0b1, type: 3}
       propertyPath: m_Enabled
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: -1352613725890456741, guid: 20aa68c61ef26402aae1e34a0b16c0b1, type: 3}
       propertyPath: m_Controller
