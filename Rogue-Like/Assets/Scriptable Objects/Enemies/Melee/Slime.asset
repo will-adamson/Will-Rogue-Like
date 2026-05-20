@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c80815e4b7cd2f64497efedf321cbd48, type: 3}
   m_Name: Slime
   m_EditorClassIdentifier: Assembly-CSharp::MeleeEnemyData
-  sprite: {fileID: 2168889318782393592, guid: 5a8f602c909c547b6bb5509963471bc0, type: 3}
+  sprite: {fileID: 5541528016183633216, guid: f5244ced6eb454e17b2d8e3befc1a6b9, type: 3}
   name: Slime
   health: 10
   damage: 10
