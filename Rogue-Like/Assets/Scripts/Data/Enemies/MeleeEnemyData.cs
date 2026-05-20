@@ -4,6 +4,6 @@ using UnityEngine;
 public class MeleeEnemyData : EnemyData
 {
     [Header("Melee")]
-    public float knockbackForce = 5f;
+    public float knockbackForce = 2f;
     public float attackCooldown = 1f;
 }

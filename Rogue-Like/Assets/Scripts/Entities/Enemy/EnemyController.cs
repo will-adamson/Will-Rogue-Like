@@ -4,6 +4,9 @@ using UnityEngine;
 [RequireComponent(typeof(PlayerDetectorComponent))]
 public abstract class EnemyController : EntityController
 {
+    private static readonly int HashAttack = Animator.StringToHash("Attack");
+    private static readonly int HashDie = Animator.StringToHash("Die");
+
     protected abstract EnemyData Data { get; }
 
     protected MoveComponent MovementComp { get; private set; }
@@ -41,5 +44,23 @@ public abstract class EnemyController : EntityController
 
     protected abstract void HandleAttack(Vector2 dir);
 
-    protected override void HandleDeath() => Destroy(gameObject);
+    protected void TriggerAttackAnimation()
+    {
+        Anim.SetTrigger(HashAttack);
+    }
+
+    protected override void HandleDeath()
+    {
+        Anim.SetTrigger(HashDie);
+        Destroy(gameObject, GetDeathClipLength());
+    }
+
+    private float GetDeathClipLength()
+    {
+        foreach (AnimationClip clip in Anim.runtimeAnimatorController.animationClips)
+            if (clip.name.IndexOf("die", System.StringComparison.OrdinalIgnoreCase) >= 0 ||
+                clip.name.IndexOf("death", System.StringComparison.OrdinalIgnoreCase) >= 0)
+                return clip.length;
+        return 1f;
+    }
 }

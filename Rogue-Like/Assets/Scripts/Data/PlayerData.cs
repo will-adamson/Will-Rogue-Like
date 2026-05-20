@@ -20,6 +20,7 @@ public class PlayerData : ScriptableObject
 
     [Header("Combat")]
     public float attackCooldown = 0.5f;
+    public float knockbackForce = 2f;
 
     [Header("Projectile")]
     public ProjectileData projectileData;

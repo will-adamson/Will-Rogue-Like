@@ -1,17 +1,24 @@
 using UnityEngine;
 using UnityEngine.InputSystem;
 
+[RequireComponent(typeof(MeleeAttackComponent))]
 public class WarriorController : PlayerController
 {
+    private const string LAYER_NAME_ENEMY = "Enemy";
+    
     private InputAction attackAction;
+    private MeleeAttackComponent meleeAttackComp;
 
-    private static readonly int HashAttack = Animator.StringToHash("isAttacking");
+    private static readonly int HashAttack = Animator.StringToHash("Attack");
 
     protected override void Awake()
     {
         base.Awake();
 
         attackAction = PlayerActionMap.FindAction("Attack");
+
+        meleeAttackComp = GetComponent<MeleeAttackComponent>();
+        meleeAttackComp.Init(playerData.damage, playerData.knockbackForce, playerData.attackCooldown, LAYER_NAME_ENEMY);
     }
 
     protected override void OnEnable()
@@ -31,6 +38,8 @@ public class WarriorController : PlayerController
     private void OnAttackPerformed(InputAction.CallbackContext ctx)
     {
         if (IsDead) return;
-        Animator.SetTrigger(HashAttack);
+
+        if (meleeAttackComp != null && meleeAttackComp.Attack(AimDirection))
+            Anim.SetTrigger(HashAttack);
     }
 }

@@ -20,6 +20,7 @@ public class PlayerDetectorComponent : MonoBehaviour, IDetector
 
         Vector2 toPlayer = (Vector2)(PlayerController.Instance.transform.position - transform.position);
         sqrtDistance = toPlayer.sqrMagnitude;
+
         if (sqrtDistance > detectionRangeSqrt) return false;
 
         directionToTarget = toPlayer.normalized;

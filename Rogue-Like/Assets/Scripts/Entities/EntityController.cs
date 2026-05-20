@@ -10,7 +10,7 @@ public abstract class EntityController : MonoBehaviour, IDamageable
     public SpriteRenderer Sprite { get; private set; }
 
     protected HealthComponent Health { get; private set; }
-    protected Animator Animator { get; private set; }
+    protected Animator Anim { get; private set; }
 
     private DamageFlashComponent damageFlash;
 
@@ -28,7 +28,7 @@ public abstract class EntityController : MonoBehaviour, IDamageable
         Health.Init(MaxHealth);
         Health.OnDeath += HandleDeath;
 
-        Animator = GetComponent<Animator>();
+        Anim = GetComponent<Animator>();
 
         damageFlash = GetComponent<DamageFlashComponent>();
         damageFlash?.Init(Sprite);
