@@ -15,7 +15,7 @@ GameObject:
   - component: {fileID: 5977292899081270748}
   - component: {fileID: -7697205496282119835}
   m_Layer: 9
-  m_Name: Mage Projectile
+  m_Name: Archer Projectile
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -83,7 +83,7 @@ SpriteRenderer:
   m_GlobalIlluminationMeshLod: 0
   m_SortingLayerID: 141823735
   m_SortingLayer: 1
-  m_SortingOrder: 1
+  m_SortingOrder: 0
   m_MaskInteraction: 0
   m_Sprite: {fileID: 6269461445247891977, guid: 8a051d4f413354f06994ef4ad89bfbc3, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}

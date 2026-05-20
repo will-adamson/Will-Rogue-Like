@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3e72fac6619f44a919edc4522980fa15, type: 3}
   m_Name: Archer
   m_EditorClassIdentifier: Assembly-CSharp::ArcherData
-  sprite: {fileID: 0}
+  sprite: {fileID: 2730903356912373620, guid: b60c7bea51c98c649a19a81613b05285, type: 3}
   name: Archer
   playerType: 3
   health: 90
@@ -21,7 +21,7 @@ MonoBehaviour:
   defence: 0
   critChance: 0
   critMultiplier: 1.5
-  arrowData: {fileID: 0}
+  arrowData: {fileID: 11400000, guid: 728bac5ca80774c858f36b8ec81ca04b, type: 2}
   drawCooldown: 0.6
   arrowRange: 12
   arrowSpeed: 15
