@@ -1,43 +1,43 @@
 fileFormatVersion: 2
-guid: d1eda7b82c1f044298f613ccbaa16cb5
+guid: 4e849f6479d584c33992ed869b424c54
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -2222203184754918373
-    second: Hero03 Knight Idle-Sheet_0
+      213: 6463269995255551577
+    second: Hero03 Knight Idle-Sheet2x_0
   - first:
-      213: 677960904076279543
-    second: Hero03 Knight Idle-Sheet_1
+      213: -6044845436773788513
+    second: Hero03 Knight Idle-Sheet2x_1
   - first:
-      213: 593782490693033407
-    second: Hero03 Knight Idle-Sheet_2
+      213: -358676061889262734
+    second: Hero03 Knight Idle-Sheet2x_2
   - first:
-      213: 4136732528084342390
-    second: Hero03 Knight Idle-Sheet_3
+      213: 1079754490676592998
+    second: Hero03 Knight Idle-Sheet2x_3
   - first:
-      213: -1796016681777607033
-    second: Hero03 Knight Idle-Sheet_4
+      213: -4359883579838043612
+    second: Hero03 Knight Idle-Sheet2x_4
   - first:
-      213: -3592767857334126764
-    second: Hero03 Knight Idle-Sheet_5
+      213: 2089625845709534918
+    second: Hero03 Knight Idle-Sheet2x_5
   - first:
-      213: -3588506660596810491
-    second: Hero03 Knight Idle-Sheet_6
+      213: -4144108611595983042
+    second: Hero03 Knight Idle-Sheet2x_6
   - first:
-      213: -1312951626836782049
-    second: Hero03 Knight Idle-Sheet_7
+      213: 5112092932152509835
+    second: Hero03 Knight Idle-Sheet2x_7
   - first:
-      213: 4949015591420817387
-    second: Hero03 Knight Idle-Sheet_8
+      213: 1763283613923386160
+    second: Hero03 Knight Idle-Sheet2x_8
   - first:
-      213: -8974032489262241635
-    second: Hero03 Knight Idle-Sheet_9
+      213: 695826125433033967
+    second: Hero03 Knight Idle-Sheet2x_9
   - first:
-      213: -2544036600627496975
-    second: Hero03 Knight Idle-Sheet_10
+      213: -4568749406498671909
+    second: Hero03 Knight Idle-Sheet2x_10
   - first:
-      213: 8860540574145167812
-    second: Hero03 Knight Idle-Sheet_11
+      213: -5744347829854730938
+    second: Hero03 Knight Idle-Sheet2x_11
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -84,7 +84,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 16
+  spritePixelsToUnits: 32
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -133,13 +133,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Hero03 Knight Idle-Sheet_0
+      name: Hero03 Knight Idle-Sheet2x_0
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 17
-        height: 18
+        width: 33
+        height: 35
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -148,42 +148,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: b1cf0f92af52921e0800000000000000
-      internalID: -2222203184754918373
+      spriteID: 956d5aa11d522b950800000000000000
+      internalID: 6463269995255551577
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Hero03 Knight Idle-Sheet_1
-      rect:
-        serializedVersion: 2
-        x: 18
-        y: 0
-        width: 18
-        height: 17
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 7feb11ba9d9986900800000000000000
-      internalID: 677960904076279543
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Hero03 Knight Idle-Sheet_2
+      name: Hero03 Knight Idle-Sheet2x_1
       rect:
         serializedVersion: 2
         x: 37
         y: 0
-        width: 18
-        height: 16
+        width: 34
+        height: 33
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -192,42 +170,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: fbdda9f770a8d3800800000000000000
-      internalID: 593782490693033407
+      spriteID: f9415fa2a156c1ca0800000000000000
+      internalID: -6044845436773788513
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Hero03 Knight Idle-Sheet_3
-      rect:
-        serializedVersion: 2
-        x: 56
-        y: 0
-        width: 18
-        height: 15
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 67655432150a86930800000000000000
-      internalID: 4136732528084342390
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Hero03 Knight Idle-Sheet_4
+      name: Hero03 Knight Idle-Sheet2x_2
       rect:
         serializedVersion: 2
         x: 75
         y: 0
-        width: 18
-        height: 16
+        width: 34
+        height: 31
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -236,42 +192,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 78e48f7f7544317e0800000000000000
-      internalID: -1796016681777607033
+      spriteID: 27b87a5a50ab50bf0800000000000000
+      internalID: -358676061889262734
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Hero03 Knight Idle-Sheet_5
-      rect:
-        serializedVersion: 2
-        x: 94
-        y: 0
-        width: 18
-        height: 17
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 45778274bace32ec0800000000000000
-      internalID: -3592767857334126764
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Hero03 Knight Idle-Sheet_6
+      name: Hero03 Knight Idle-Sheet2x_3
       rect:
         serializedVersion: 2
         x: 113
         y: 0
-        width: 18
-        height: 18
+        width: 34
+        height: 29
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -280,42 +214,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 50df0057430133ec0800000000000000
-      internalID: -3588506660596810491
+      spriteID: 661496d0dfe0cfe00800000000000000
+      internalID: 1079754490676592998
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Hero03 Knight Idle-Sheet_7
-      rect:
-        serializedVersion: 2
-        x: 132
-        y: 0
-        width: 18
-        height: 17
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: f145f13a37577cde0800000000000000
-      internalID: -1312951626836782049
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Hero03 Knight Idle-Sheet_8
+      name: Hero03 Knight Idle-Sheet2x_4
       rect:
         serializedVersion: 2
         x: 151
         y: 0
-        width: 18
-        height: 16
+        width: 34
+        height: 31
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -324,42 +236,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: befe18a957f6ea440800000000000000
-      internalID: 4949015591420817387
+      spriteID: 42ae1b9dbf49e73c0800000000000000
+      internalID: -4359883579838043612
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Hero03 Knight Idle-Sheet_9
-      rect:
-        serializedVersion: 2
-        x: 170
-        y: 0
-        width: 18
-        height: 15
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: d98a5ba5ff4d57380800000000000000
-      internalID: -8974032489262241635
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Hero03 Knight Idle-Sheet_10
+      name: Hero03 Knight Idle-Sheet2x_5
       rect:
         serializedVersion: 2
         x: 189
         y: 0
-        width: 18
-        height: 16
+        width: 34
+        height: 33
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -368,20 +258,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 1f7710cc034c1bcd0800000000000000
-      internalID: -2544036600627496975
+      spriteID: 6c6fdf6a2a7dffc10800000000000000
+      internalID: 2089625845709534918
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Hero03 Knight Idle-Sheet_11
+      name: Hero03 Knight Idle-Sheet2x_6
       rect:
         serializedVersion: 2
-        x: 208
+        x: 227
         y: 0
-        width: 18
-        height: 17
+        width: 34
+        height: 35
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -390,8 +280,118 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 4c1cbdff4b6f6fa70800000000000000
-      internalID: 8860540574145167812
+      spriteID: e372f279c2b2d76c0800000000000000
+      internalID: -4144108611595983042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero03 Knight Idle-Sheet2x_7
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 0
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b854cbfcf6dc1f640800000000000000
+      internalID: 5112092932152509835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero03 Knight Idle-Sheet2x_8
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 0
+        width: 34
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 033ab26ca11787810800000000000000
+      internalID: 1763283613923386160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero03 Knight Idle-Sheet2x_9
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 0
+        width: 34
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe45fd7ac2218a900800000000000000
+      internalID: 695826125433033967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero03 Knight Idle-Sheet2x_10
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 0
+        width: 34
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd2beddfe9a8890c0800000000000000
+      internalID: -4568749406498671909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero03 Knight Idle-Sheet2x_11
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 0
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6450937651af740b0800000000000000
+      internalID: -5744347829854730938
       vertices: []
       indices: 
       edges: []
@@ -410,18 +410,18 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      Hero03 Knight Idle-Sheet_0: -2222203184754918373
-      Hero03 Knight Idle-Sheet_1: 677960904076279543
-      Hero03 Knight Idle-Sheet_10: -2544036600627496975
-      Hero03 Knight Idle-Sheet_11: 8860540574145167812
-      Hero03 Knight Idle-Sheet_2: 593782490693033407
-      Hero03 Knight Idle-Sheet_3: 4136732528084342390
-      Hero03 Knight Idle-Sheet_4: -1796016681777607033
-      Hero03 Knight Idle-Sheet_5: -3592767857334126764
-      Hero03 Knight Idle-Sheet_6: -3588506660596810491
-      Hero03 Knight Idle-Sheet_7: -1312951626836782049
-      Hero03 Knight Idle-Sheet_8: 4949015591420817387
-      Hero03 Knight Idle-Sheet_9: -8974032489262241635
+      Hero03 Knight Idle-Sheet2x_0: 6463269995255551577
+      Hero03 Knight Idle-Sheet2x_1: -6044845436773788513
+      Hero03 Knight Idle-Sheet2x_10: -4568749406498671909
+      Hero03 Knight Idle-Sheet2x_11: -5744347829854730938
+      Hero03 Knight Idle-Sheet2x_2: -358676061889262734
+      Hero03 Knight Idle-Sheet2x_3: 1079754490676592998
+      Hero03 Knight Idle-Sheet2x_4: -4359883579838043612
+      Hero03 Knight Idle-Sheet2x_5: 2089625845709534918
+      Hero03 Knight Idle-Sheet2x_6: -4144108611595983042
+      Hero03 Knight Idle-Sheet2x_7: 5112092932152509835
+      Hero03 Knight Idle-Sheet2x_8: 1763283613923386160
+      Hero03 Knight Idle-Sheet2x_9: 695826125433033967
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -12,6 +12,9 @@ public class PlayerController : EntityController, IAimProvider
     [Header("Input")]
     [SerializeField] protected InputActionAsset inputActions;
 
+    [Header("Death")]
+    [SerializeField] private GameObject[] tombstonePrefabs;
+
     private MoveComponent moveComp;
     private InputAction moveAction;
     private Vector2 moveInput;
@@ -22,6 +25,8 @@ public class PlayerController : EntityController, IAimProvider
     protected override float GetDefence() => playerData.defence;
 
     protected InputActionMap PlayerActionMap { get; private set; }
+
+    private static readonly int HashIsWalking = Animator.StringToHash("IsWalking");
 
     protected override void Awake()
     {
@@ -50,6 +55,8 @@ public class PlayerController : EntityController, IAimProvider
 
         if (moveInput != Vector2.zero) AimDirection = moveInput.normalized;
         if (moveInput.x != 0f) Sprite.flipX = moveInput.x < 0f;
+
+        Anim.SetBool(HashIsWalking, moveInput != Vector2.zero);
     }
 
     private void FixedUpdate()
@@ -60,6 +67,12 @@ public class PlayerController : EntityController, IAimProvider
 
     protected override void HandleDeath()
     {
-        moveComp.Move(Vector2.zero);
+        if (tombstonePrefabs != null && tombstonePrefabs.Length > 0)
+        {
+            GameObject randomTombstone = tombstonePrefabs[Random.Range(0, tombstonePrefabs.Length)];
+            Instantiate(randomTombstone, transform.position, Quaternion.identity);
+        }
+
+        Destroy(gameObject);
     }
 }

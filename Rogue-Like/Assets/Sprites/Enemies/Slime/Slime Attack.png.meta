@@ -1,28 +1,28 @@
 fileFormatVersion: 2
-guid: 3d23a958bd5544d89b902047edb716d6
+guid: 5246afccc576540dfbd1b7906bf7a5f5
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -6098610341140237762
-    second: Enemy06Atk-Sheet_0
+      213: 3378531703369852365
+    second: Enemy06Atk-Sheet2x_0
   - first:
-      213: -525031675286044705
-    second: Enemy06Atk-Sheet_1
+      213: -8625377728868513183
+    second: Enemy06Atk-Sheet2x_1
   - first:
-      213: 2894540287633626032
-    second: Enemy06Atk-Sheet_2
+      213: -1773057731030321835
+    second: Enemy06Atk-Sheet2x_2
   - first:
-      213: 1034919975465598252
-    second: Enemy06Atk-Sheet_3
+      213: -4371862643837903519
+    second: Enemy06Atk-Sheet2x_3
   - first:
-      213: 5676838718915362085
-    second: Enemy06Atk-Sheet_4
+      213: -7998451328124039778
+    second: Enemy06Atk-Sheet2x_4
   - first:
-      213: 5524790616321296711
-    second: Enemy06Atk-Sheet_5
+      213: 3742225611700480251
+    second: Enemy06Atk-Sheet2x_5
   - first:
-      213: 1575918997652108711
-    second: Enemy06Atk-Sheet_6
+      213: -1372817345697298421
+    second: Enemy06Atk-Sheet2x_6
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -69,7 +69,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 16
+  spritePixelsToUnits: 32
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -118,13 +118,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Enemy06Atk-Sheet_0
+      name: Enemy06Atk-Sheet2x_0
       rect:
         serializedVersion: 2
-        x: 2
+        x: 5
         y: 0
-        width: 15
-        height: 11
+        width: 28
+        height: 21
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -133,20 +133,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: e32ffc0e4326d5ba0800000000000000
-      internalID: -6098610341140237762
+      spriteID: dc561c91fa4f2ee20800000000000000
+      internalID: 3378531703369852365
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Enemy06Atk-Sheet_1
+      name: Enemy06Atk-Sheet2x_1
       rect:
         serializedVersion: 2
-        x: 19
+        x: 39
         y: 0
-        width: 15
-        height: 13
+        width: 28
+        height: 25
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -155,20 +155,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: fdf3fba1976b6b8f0800000000000000
-      internalID: -525031675286044705
+      spriteID: 16a0a31a7a08c4880800000000000000
+      internalID: -8625377728868513183
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Enemy06Atk-Sheet_2
+      name: Enemy06Atk-Sheet2x_2
       rect:
         serializedVersion: 2
-        x: 36
+        x: 73
         y: 0
-        width: 16
-        height: 14
+        width: 30
+        height: 27
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -177,20 +177,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 0b395704e097b2820800000000000000
-      internalID: 2894540287633626032
+      spriteID: 5557daf3365d467e0800000000000000
+      internalID: -1773057731030321835
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Enemy06Atk-Sheet_3
+      name: Enemy06Atk-Sheet2x_3
       rect:
         serializedVersion: 2
-        x: 51
+        x: 103
         y: 0
-        width: 17
-        height: 10
+        width: 32
+        height: 19
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -199,20 +199,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: c2d35940c36cc5e00800000000000000
-      internalID: 1034919975465598252
+      spriteID: 16ddd3ba6160453c0800000000000000
+      internalID: -4371862643837903519
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Enemy06Atk-Sheet_4
+      name: Enemy06Atk-Sheet2x_4
       rect:
         serializedVersion: 2
-        x: 67
+        x: 135
         y: 0
-        width: 18
-        height: 10
+        width: 34
+        height: 19
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -221,20 +221,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 52d3228dcbe28ce40800000000000000
-      internalID: 5676838718915362085
+      spriteID: e9d4ae905eacff090800000000000000
+      internalID: -7998451328124039778
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Enemy06Atk-Sheet_5
+      name: Enemy06Atk-Sheet2x_5
       rect:
         serializedVersion: 2
-        x: 87
+        x: 175
         y: 0
-        width: 15
-        height: 11
+        width: 28
+        height: 21
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -243,20 +243,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 7490e304bcffbac40800000000000000
-      internalID: 5524790616321296711
+      spriteID: bf8a6cedd5e0fe330800000000000000
+      internalID: 3742225611700480251
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Enemy06Atk-Sheet_6
+      name: Enemy06Atk-Sheet2x_6
       rect:
         serializedVersion: 2
-        x: 104
+        x: 209
         y: 0
-        width: 15
-        height: 11
+        width: 28
+        height: 21
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -265,8 +265,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 7a5f7d19af9ced510800000000000000
-      internalID: 1575918997652108711
+      spriteID: b08c738c5e5c2fce0800000000000000
+      internalID: -1372817345697298421
       vertices: []
       indices: 
       edges: []
@@ -285,13 +285,13 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      Enemy06Atk-Sheet_0: -6098610341140237762
-      Enemy06Atk-Sheet_1: -525031675286044705
-      Enemy06Atk-Sheet_2: 2894540287633626032
-      Enemy06Atk-Sheet_3: 1034919975465598252
-      Enemy06Atk-Sheet_4: 5676838718915362085
-      Enemy06Atk-Sheet_5: 5524790616321296711
-      Enemy06Atk-Sheet_6: 1575918997652108711
+      Enemy06Atk-Sheet2x_0: 3378531703369852365
+      Enemy06Atk-Sheet2x_1: -8625377728868513183
+      Enemy06Atk-Sheet2x_2: -1773057731030321835
+      Enemy06Atk-Sheet2x_3: -4371862643837903519
+      Enemy06Atk-Sheet2x_4: -7998451328124039778
+      Enemy06Atk-Sheet2x_5: 3742225611700480251
+      Enemy06Atk-Sheet2x_6: -1372817345697298421
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -2,7 +2,7 @@ using UnityEngine;
 using UnityEngine.InputSystem;
 
 [RequireComponent(typeof(MeleeAttackComponent))]
-public class WarriorController : PlayerController
+public class MeleePlayerController : PlayerController
 {
     private const string LAYER_NAME_ENEMY = "Enemy";
     
