@@ -5,25 +5,21 @@ using UnityEngine.InputSystem;
 public class MagePlayerController : PlayerController
 {
     private static readonly int HashAttack = Animator.StringToHash("Attack");
-    private static readonly int HashIsWalking = Animator.StringToHash("IsWalking");
 
     private MageData mageData;
-    private IAttacker attacker;
     private InputAction attackAction;
-    private Vector2 pendingDirection;
 
     protected override void Awake()
     {
         base.Awake();
 
         mageData = playerData as MageData;
-
         if (mageData == null) return;
 
         ProjectileAttackComponent projectileAttackComp = GetComponent<ProjectileAttackComponent>();
         projectileAttackComp.Init(mageData.projectileData, bonusDamage: mageData.damage);
 
-        attacker = projectileAttackComp;
+        Attacker = projectileAttackComp;
         attackAction = PlayerActionMap.FindAction("Project");
     }
 
@@ -43,21 +39,10 @@ public class MagePlayerController : PlayerController
         attackAction.performed -= OnAttackPerformed;
     }
 
-    protected override void Update()
-    {
-        base.Update();
-        Anim.SetBool(HashIsWalking, moveInput != Vector2.zero);
-    }
-
     private void OnAttackPerformed(InputAction.CallbackContext ctx)
     {
         if (IsDead) return;
-        pendingDirection = AimDirection;
+        PendingDirection = AimDirection;
         Anim.SetTrigger(HashAttack);
-    }
-
-    public void FireProjectile()
-    {
-        attacker.Attack(pendingDirection);
     }
 }

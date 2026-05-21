@@ -20,6 +20,9 @@ public class PlayerController : EntityController, IAimProvider
 
     protected Vector2 moveInput;
 
+    protected IAttacker Attacker { get; set; }
+    protected Vector2 PendingDirection { get; set; }
+
     public Vector2 AimDirection { get; private set; } = Vector2.right;
 
     protected override float MaxHealth => playerData.health;
@@ -65,6 +68,8 @@ public class PlayerController : EntityController, IAimProvider
         if (IsDead) return;
         moveComp.Move(moveInput);
     }
+
+    public void FireAttack() => Attacker?.Attack(PendingDirection);
 
     protected override void HandleDeath()
     {

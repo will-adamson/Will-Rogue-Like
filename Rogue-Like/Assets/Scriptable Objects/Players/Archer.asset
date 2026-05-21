@@ -21,7 +21,7 @@ MonoBehaviour:
   defence: 0
   critChance: 0
   critMultiplier: 1.5
-  arrowData: {fileID: 11400000, guid: 728bac5ca80774c858f36b8ec81ca04b, type: 2}
+  arrowData: {fileID: 11400000, guid: 5d6b2cbb5caf1534c8f83559153c733d, type: 2}
   drawCooldown: 0.6
   arrowRange: 12
   arrowSpeed: 15
