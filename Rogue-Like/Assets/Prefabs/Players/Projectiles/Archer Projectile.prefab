@@ -11,7 +11,7 @@ GameObject:
   - component: {fileID: 4377835362921961415}
   - component: {fileID: -5908540400602547244}
   - component: {fileID: 7821101412337182066}
-  - component: {fileID: 1014763005192908839}
+  - component: {fileID: 2512249960790232642}
   - component: {fileID: 5977292899081270748}
   - component: {fileID: -7697205496282119835}
   m_Layer: 9
@@ -31,7 +31,7 @@ Transform:
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalScale: {x: 0.5, y: 0.5, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
@@ -85,7 +85,7 @@ SpriteRenderer:
   m_SortingLayer: 1
   m_SortingOrder: 0
   m_MaskInteraction: 0
-  m_Sprite: {fileID: 6269461445247891977, guid: 8a051d4f413354f06994ef4ad89bfbc3, type: 3}
+  m_Sprite: {fileID: -833965199606837203, guid: ed0c3871385f16a47a208eab8c907309, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -122,8 +122,8 @@ Rigidbody2D:
   m_SleepingMode: 1
   m_CollisionDetection: 1
   m_Constraints: 4
---- !u!58 &1014763005192908839
-CircleCollider2D:
+--- !u!61 &2512249960790232642
+BoxCollider2D:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
@@ -157,7 +157,17 @@ CircleCollider2D:
   m_CompositeOperation: 0
   m_CompositeOrder: 0
   m_Offset: {x: 0, y: 0}
-  m_Radius: 0.25
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0.5, y: 0.5}
+    oldSize: {x: 0.8125, y: 0.3125}
+    newSize: {x: 0.3125, y: 0.25}
+    adaptiveTilingThreshold: 0.5
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  m_Size: {x: 0.8125, y: 0.3125}
+  m_EdgeRadius: 0
 --- !u!114 &5977292899081270748
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -180,7 +190,7 @@ Animator:
   m_GameObject: {fileID: 2217087995820154819}
   m_Enabled: 1
   m_Avatar: {fileID: 0}
-  m_Controller: {fileID: 9100000, guid: e4910984b84954098b2a951b80003a15, type: 2}
+  m_Controller: {fileID: 9100000, guid: f4c2bc0907a4f674292fe49eb76bb266, type: 2}
   m_CullingMode: 0
   m_UpdateMode: 0
   m_ApplyRootMotion: 0
