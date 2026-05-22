@@ -39,6 +39,8 @@ public abstract class EntityController : MonoBehaviour, IDamageable
 
     public void TakeDamage(float rawAmount)
     {
+        Debug.Log($"{gameObject.name} HP: {Health.Current} / {Health.Max}");
+        
         Health.ApplyDamage(rawAmount, GetDefence());
     }
 
