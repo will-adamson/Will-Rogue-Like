@@ -100,8 +100,8 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 8180926924005358605}
-  - component: {fileID: 6612664297000670041}
   - component: {fileID: 7227023936512563310}
+  - component: {fileID: 6612664297000670041}
   m_Layer: 12
   m_Name: Acid Puddle
   m_TagString: Untagged
@@ -127,20 +127,6 @@ Transform:
   - {fileID: 4190587018437293521}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &6612664297000670041
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 6324641187560411397}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 5f2584a3a450e4699bffedb829c42239, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: Assembly-CSharp::AcidPuddle
-  damagePerTick: 5
-  tickInterval: 1
 --- !u!61 &7227023936512563310
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -187,6 +173,20 @@ BoxCollider2D:
   m_AutoTiling: 0
   m_Size: {x: 0.6097359, y: 0.6293755}
   m_EdgeRadius: 0
+--- !u!114 &6612664297000670041
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6324641187560411397}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5f2584a3a450e4699bffedb829c42239, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::AcidPuddle
+  damagePerTick: 5
+  tickInterval: 1
 --- !u!1 &6525151909619272294
 GameObject:
   m_ObjectHideFlags: 0

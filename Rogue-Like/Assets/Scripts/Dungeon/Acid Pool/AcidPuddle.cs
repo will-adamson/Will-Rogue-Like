@@ -7,8 +7,23 @@ public class AcidPuddle : MonoBehaviour
     [SerializeField] private float damagePerTick = 5f;
     [SerializeField] private float tickInterval = 1f;
 
+    [Header("Fade")]
+    [SerializeField] private bool isPermanent = false;
+    [SerializeField] private float minLifetime = 3f;
+    [SerializeField] private float maxLifetime = 10f;
+    [SerializeField] private float fadeDuration = 1.5f;
+
     private bool playerInside = false;
     private Coroutine damageCoroutine;
+    private SpriteRenderer sr;
+
+    private void Start()
+    {
+        sr = GetComponentInChildren<SpriteRenderer>();
+
+        if (!isPermanent)
+            StartCoroutine(LifetimeRoutine());
+    }
 
     private void OnTriggerEnter2D(Collider2D other)
     {
@@ -37,5 +52,24 @@ public class AcidPuddle : MonoBehaviour
             playerController.TakeDamage(damagePerTick);
             yield return new WaitForSeconds(tickInterval);
         }
+    }
+
+    private IEnumerator LifetimeRoutine()
+    {
+        float randomLifetime = Random.Range(minLifetime, maxLifetime);
+        yield return new WaitForSeconds(randomLifetime);
+
+        float elapsed = 0f;
+        Color startColor = sr.color;
+
+        while (elapsed < fadeDuration)
+        {
+            elapsed += Time.deltaTime;
+            float alpha = Mathf.Lerp(1f, 0f, elapsed / fadeDuration);
+            sr.color = new Color(startColor.r, startColor.g, startColor.b, alpha);
+            yield return null;
+        }
+
+        Destroy(gameObject);
     }
 }
