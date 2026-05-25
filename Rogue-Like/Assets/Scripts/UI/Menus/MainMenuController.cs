@@ -5,9 +5,9 @@ using UnityEngine.SceneManagement;
 [RequireComponent(typeof(UIDocument))]
 public class MainMenuController : MonoBehaviour
 {
-    [SerializeField] private string newRunScene = "CharacterSelect";
-    [SerializeField] private string continueScene = "DungeonGame";
-    [SerializeField] private string settingsScene = "Settings";
+    [SerializeField] private string newRunScene = "Character Select";
+    [SerializeField] private string continueScene = "Dungeon Game";
+    [SerializeField] private string settingsScene = "Settings Menu";
     [SerializeField] private string saveKey = "hasSave";
 
     private void OnEnable()
