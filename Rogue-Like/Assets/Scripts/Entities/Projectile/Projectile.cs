@@ -8,6 +8,7 @@ public class Projectile : MonoBehaviour
     private float lifetime;
     private GameObject prefab;
     private Rigidbody2D rb;
+    private bool isInitialised;
 
     public void Init(float damage, float speed, float range, GameObject prefab)
     {
@@ -15,10 +16,13 @@ public class Projectile : MonoBehaviour
         this.speed = speed;
         this.prefab = prefab;
         lifetime = range / speed;
+        isInitialised = true;
     }
 
     private void OnEnable()
     {
+        if (!isInitialised) return;
+
         rb = GetComponent<Rigidbody2D>();
         rb.linearVelocity = transform.right * speed;
         Invoke(nameof(ReturnToPool), lifetime);
@@ -28,6 +32,7 @@ public class Projectile : MonoBehaviour
     {
         CancelInvoke();
         if (rb != null) rb.linearVelocity = Vector2.zero;
+        isInitialised = false;
     }
 
     private void OnCollisionEnter2D(Collision2D collision)

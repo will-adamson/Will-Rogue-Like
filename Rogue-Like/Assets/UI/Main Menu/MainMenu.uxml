@@ -1,0 +1,16 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements">
+    <Style src="MainMenu.uss" />
+    <ui:VisualElement name="root" class="root">
+        <ui:VisualElement name="main-container" class="main-container">
+            <ui:Label class="title" text="PLACEHOLDER TITLE" />
+            <ui:Label class="subtitle" text="PLACEHOLDER SUBTITLE" />
+            <ui:VisualElement class="divider" />
+            <ui:Button name="btn-new-run" class="btn" text="NEW RUN" />
+            <ui:Button name="btn-continue" class="btn" text="CONTINUE" />
+            <ui:Button name="btn-settings" class="btn" text="SETTINGS" />
+            <ui:Button name="btn-quit" class="btn" text="QUIT" />
+            <ui:Label name="version" class="version" text="v0.1.0" />
+            <ui:Label class="credit" text="PLACEHOLDER CREDIT" />
+        </ui:VisualElement>
+    </ui:VisualElement>
+</ui:UXML>

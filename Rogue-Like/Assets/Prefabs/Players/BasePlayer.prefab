@@ -15,6 +15,7 @@ GameObject:
   - component: {fileID: 8854439022456856642}
   - component: {fileID: -8961431755896028479}
   - component: {fileID: 6831393718694618054}
+  - component: {fileID: 7035404848354599040}
   - component: {fileID: 8018796966690288438}
   m_Layer: 7
   m_Name: BasePlayer
@@ -85,7 +86,7 @@ SpriteRenderer:
   m_GlobalIlluminationMeshLod: 0
   m_SortingLayerID: 141823735
   m_SortingLayer: 1
-  m_SortingOrder: 0
+  m_SortingOrder: 1
   m_MaskInteraction: 0
   m_Sprite: {fileID: 0}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
@@ -238,6 +239,21 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 01e5f06aef0ff4c53a8997edb117959e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::HealthComponent
+--- !u!114 &7035404848354599040
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7671588603364208770}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6f9374d27e5f34dcf9fefa98604f428d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::DamageFlashComponent
+  flashDuration: 0.1
+  flashColor: {r: 1, g: 0, b: 0, a: 1}
+  deadColor: {r: 0.5, g: 0.5, b: 0.5, a: 1}
 --- !u!95 &8018796966690288438
 Animator:
   serializedVersion: 7

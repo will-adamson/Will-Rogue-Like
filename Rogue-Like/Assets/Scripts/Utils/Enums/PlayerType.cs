@@ -1,3 +1,3 @@
 using UnityEngine;
 
-public enum PlayerType { Warrior, Rogue, Mage }
+public enum PlayerType { Knight, Rogue, Mage, Archer }
