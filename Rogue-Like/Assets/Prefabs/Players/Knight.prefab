@@ -120,7 +120,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d97ec63132a23473d896ff62d9b66b9b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::WarriorController
-  playerData: {fileID: 11400000, guid: 8448a012fdaea9549b2ba3e8bdcc8093, type: 2}
+  playerData: {fileID: 11400000, guid: 649d43d7f9152481e892fb4028198b6f, type: 2}
   inputActions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
   tombstonePrefabs:
   - {fileID: 2165334475683372404, guid: 3a7d07cf6a6d242eb89fe82d50b197db, type: 3}

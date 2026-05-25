@@ -1,7 +1,6 @@
 using UnityEngine;
 
-[RequireComponent(typeof(MoveComponent))]
-[RequireComponent(typeof(PlayerDetectorComponent))]
+[RequireComponent(typeof(MoveComponent), typeof(PlayerDetectorComponent))]
 public abstract class EnemyController : EntityController
 {
     private static readonly int HashAttack = Animator.StringToHash("Attack");

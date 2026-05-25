@@ -10,10 +10,12 @@ public class ProjectileAttackComponent : MonoBehaviour, IAttacker
     private float speed;
     private float range;
     private float cooldown;
+    private string projectileLayer;
 
-    public void Init(ProjectileData projectileData, float bonusDamage = 0f)
+    public void Init(ProjectileData projectileData, float bonusDamage = 0f, string projectileLayer = "Player Projectile")
     {
         this.projectileData = projectileData;
+        this.projectileLayer = projectileLayer;
         damage = projectileData.damage + bonusDamage;
         speed = projectileData.speed;
         range = projectileData.range;
@@ -35,6 +37,10 @@ public class ProjectileAttackComponent : MonoBehaviour, IAttacker
 
         GameObject obj = ObjectPoolManager.Instance.Get(projectileData.projectilePrefab);
         obj.transform.SetPositionAndRotation(transform.position, Quaternion.Euler(0f, 0f, angle));
+        int layer = LayerMask.NameToLayer(projectileLayer);
+        obj.layer = layer;
+        foreach (Transform child in obj.transform)
+            child.gameObject.layer = layer;
         obj.GetComponent<Projectile>().Init(damage, speed, range, projectileData.projectilePrefab);
         obj.SetActive(true);
 
