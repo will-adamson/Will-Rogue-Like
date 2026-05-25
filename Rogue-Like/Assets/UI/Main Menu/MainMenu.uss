@@ -1,0 +1,101 @@
+/* Colour palette sampled from Tile_Dungeon.png
+   bg-dark:    #12131e  (near-black blue)
+   bg-mid:     #1e2236  (dark navy)
+   blue-dim:   #3a4a6b  (mid dungeon blue)
+   blue-mid:   #4a5a7a  (tile border blue)
+   blue-light: #6a7aaa  (highlight blue)
+   blue-pale:  #8a9ab8  (lightest tile blue)
+   accent:     #8b4a2a  (terracotta, use sparingly)
+*/
+
+.root {
+    width: 100%;
+    height: 100%;
+    background-color: #12131e;
+    align-items: center;
+    justify-content: center;
+}
+
+.main-container {
+    width: 360px;
+    align-items: stretch;
+}
+
+.title {
+    font-size: 56px;
+    color: #c8d8f0;
+    -unity-font-style: bold;
+    -unity-text-align: upper-center;
+    letter-spacing: 8px;
+}
+
+.subtitle {
+    font-size: 14px;
+    color: #6a7aaa;
+    -unity-text-align: upper-center;
+    letter-spacing: 5px;
+    margin-bottom: 4px;
+}
+
+.divider {
+    height: 1px;
+    background-color: #3a4a6b;
+    margin-top: 12px;
+    margin-bottom: 20px;
+}
+
+.btn {
+    height: 48px;
+    margin-bottom: 10px;
+    background-color: #1a1d2e;
+    border-color: #3a4a6b;
+    border-width: 1px;
+    border-radius: 2px;
+    color: #8a9ab8;
+    font-size: 14px;
+    letter-spacing: 3px;
+    transition-duration: 0.15s;
+    cursor: link;
+}
+
+.btn:hover {
+    background-color: #2a3a5a;
+    border-color: #8a9ab8;
+    color: #c8d8f0;
+}
+
+.btn:active {
+    scale: 0.98;
+    background-color: #3a4a6b;
+}
+
+.btn-primary {
+    border-color: #6a7aaa;
+    color: #8a9ab8;
+}
+
+.btn-danger {
+    border-color: #6b3a2a;
+    color: #8b4a2a;
+}
+
+.btn-danger:hover {
+    background-color: rgba(107, 58, 42, 0.3);
+    border-color: #8b4a2a;
+    color: #b06040;
+}
+
+.version {
+    font-size: 11px;
+    color: #2e3650;
+    -unity-text-align: upper-center;
+    margin-top: 16px;
+}
+
+.credit {
+    font-size: 10px;
+    color: #2e3650;
+    -unity-text-align: upper-center;
+    margin-top: 6px;
+    letter-spacing: 1px;
+}
