@@ -187,6 +187,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::AcidPuddle
   damagePerTick: 5
   tickInterval: 1
+  isPermanent: 1
+  minLifetime: 3
+  maxLifetime: 10
+  fadeDuration: 1.5
 --- !u!1 &6525151909619272294
 GameObject:
   m_ObjectHideFlags: 0
