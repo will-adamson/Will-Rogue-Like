@@ -2170,7 +2170,7 @@ Tilemap:
     m_Data: {r: 1, g: 1, b: 1, a: 1}
   - serializedVersion: 2
     m_RefCount: 1
-3    m_Data: {r: 0.7297883, g: 0.4746655, b: 0.48637393, a: 1}
+    m_Data: {r: 0.7297883, g: 0.4746655, b: 0.48637393, a: 1}
   - serializedVersion: 2
     m_RefCount: 1
     m_Data: {r: 0.87540734, g: 0.5068315, b: 0.5720304, a: 1}
