@@ -40,7 +40,6 @@
     border-width: 1px;
     border-radius: 2px;
     align-items: center;
-    cursor: link;
     transition-duration: 0.15s;
 }
 
@@ -55,11 +54,12 @@
     border-width: 2px;
 }
 
-.card-icon {
-    font-size: 32px;
-    -unity-text-align: upper-center;
+.card-sprite {
+    width: 80px;
+    height: 80px;
     margin-bottom: 10px;
-    color: #8a9ab8;
+    -unity-background-scale-mode: scale-to-fit;
+    background-color: rgba(0,0,0,0);
 }
 
 .card-name {
@@ -88,18 +88,39 @@
     font-size: 10px;
     color: #3a4a6b;
     letter-spacing: 2px;
+    width: 30px;
+    flex-shrink: 0;
     margin-bottom: 2px;
 }
 
-.stat-val {
-    font-size: 11px;
-    letter-spacing: 2px;
+.stat-track {
+    flex-grow: 1;
+    height: 5px;
+    background-color: #12131e;
+    border-color: #2a3a5a;
+    border-width: 1px;
+    border-radius: 2px;
+    overflow: hidden;
     margin-bottom: 6px;
 }
 
-.stat-high { color: #8a9ab8; }
-.stat-mid  { color: #4a5a7a; }
-.stat-low  { color: #2e3650; }
+.stat-fill {
+    height: 100%;
+    width: 0%;
+    border-radius: 2px;
+}
+
+.stat-fill-hp  { background-color: #6b2a2a; }
+.stat-fill-atk { background-color: #6b4a2a; }
+.stat-fill-spd { background-color: #2a5a4a; }
+
+.card-passive {
+    font-size: 10px;
+    color: #3a4a6b;
+    -unity-text-align: upper-center;
+    white-space: normal;
+    margin-top: 8px;
+}
 
 .info-bar {
     width: 100%;
@@ -138,7 +159,6 @@
     font-size: 13px;
     letter-spacing: 3px;
     transition-duration: 0.15s;
-    cursor: link;
 }
 
 .btn:hover {
