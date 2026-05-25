@@ -1,9 +1,7 @@
 using UnityEngine;
 
-[RequireComponent(typeof(Rigidbody2D))]
-[RequireComponent(typeof(SpriteRenderer))]
-[RequireComponent(typeof(HealthComponent))]
-[RequireComponent(typeof(Animator))]
+[RequireComponent(typeof(Rigidbody2D), typeof(SpriteRenderer), typeof(HealthComponent))]
+[RequireComponent(typeof(DamageFlashComponent), typeof(Animator))]
 public abstract class EntityController : MonoBehaviour, IDamageable
 {
     public Rigidbody2D Rb { get; private set; }
@@ -31,7 +29,7 @@ public abstract class EntityController : MonoBehaviour, IDamageable
         Anim = GetComponent<Animator>();
 
         damageFlash = GetComponent<DamageFlashComponent>();
-        damageFlash?.Init(Sprite);
+        damageFlash.Init(Sprite);
         if (damageFlash != null)
         {
             Health.OnHealthChanged += (_, _) => damageFlash.PlayHitFlash();
@@ -41,6 +39,8 @@ public abstract class EntityController : MonoBehaviour, IDamageable
 
     public void TakeDamage(float rawAmount)
     {
+        Debug.Log($"{gameObject.name} HP: {Health.Current} / {Health.Max}");
+        
         Health.ApplyDamage(rawAmount, GetDefence());
     }
 
