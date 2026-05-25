@@ -1,5 +1,5 @@
 <ui:UXML xmlns:ui="UnityEngine.UIElements">
-    <Style src="SettingsMenu.uss" />
+    <Style src="Settings.uss" />
     <ui:VisualElement name="root" class="root">
         <ui:VisualElement name="settings-container" class="settings-container">
             <ui:Label class="title" text="SETTINGS" />
@@ -38,7 +38,7 @@
             </ui:VisualElement>
             <ui:VisualElement class="divider" />
             <ui:VisualElement class="button-row">
-                <ui:Button name="btn-back" class="btn" text="BACK" />
+                <ui:Button name="btn-back"  class="btn btn-last" text="BACK" />
                 <ui:Button name="btn-apply" class="btn btn-primary" text="APPLY" />
             </ui:VisualElement>
         </ui:VisualElement>

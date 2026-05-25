@@ -81,7 +81,6 @@
     -unity-text-align: middle-right;
 }
 
-/* Unity 6 toggle selectors */
 .toggle {
     margin-left: 12px;
 }
@@ -121,7 +120,7 @@
     cursor: link;
 }
 
-.btn:last-child {
+.btn-last {
     margin-right: 0;
 }
 
