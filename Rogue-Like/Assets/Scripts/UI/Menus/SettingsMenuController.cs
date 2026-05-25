@@ -50,6 +50,7 @@ public class SettingsController : MonoBehaviour
         sliderMaster.value = PlayerPrefs.GetFloat("vol_master", 80f);
         sliderMusic.value = PlayerPrefs.GetFloat("vol_music", 70f);
         sliderSfx.value = PlayerPrefs.GetFloat("vol_sfx", 90f);
+        
         toggleFullscreen.value = PlayerPrefs.GetInt("fullscreen", 1) == 1;
         toggleColorblind.value = PlayerPrefs.GetInt("colorblind", 0) == 1;
         toggleScreenShake.value = PlayerPrefs.GetInt("screenshake", 1) == 1;

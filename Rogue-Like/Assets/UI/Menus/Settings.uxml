@@ -1,0 +1,46 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements">
+    <Style src="Settings.uss" />
+    <ui:VisualElement name="root" class="root">
+        <ui:VisualElement name="settings-container" class="settings-container">
+            <ui:Label class="title" text="SETTINGS" />
+            <ui:VisualElement class="divider" />
+            <ui:Label class="section-label" text="AUDIO" />
+            <ui:VisualElement class="row">
+                <ui:Label class="row-label" text="Master Volume" />
+                <ui:Slider name="slider-master" class="slider" low-value="0" high-value="100" value="80" />
+                <ui:Label name="label-master" class="slider-value" text="80" />
+            </ui:VisualElement>
+            <ui:VisualElement class="row">
+                <ui:Label class="row-label" text="Music Volume" />
+                <ui:Slider name="slider-music" class="slider" low-value="0" high-value="100" value="70" />
+                <ui:Label name="label-music" class="slider-value" text="70" />
+            </ui:VisualElement>
+            <ui:VisualElement class="row">
+                <ui:Label class="row-label" text="SFX Volume" />
+                <ui:Slider name="slider-sfx" class="slider" low-value="0" high-value="100" value="90" />
+                <ui:Label name="label-sfx" class="slider-value" text="90" />
+            </ui:VisualElement>
+            <ui:VisualElement class="divider-thin" />
+            <ui:Label class="section-label" text="DISPLAY" />
+            <ui:VisualElement class="row">
+                <ui:Label class="row-label" text="Fullscreen" />
+                <ui:Toggle name="toggle-fullscreen" class="toggle" value="true" />
+            </ui:VisualElement>
+            <ui:VisualElement class="row">
+                <ui:Label class="row-label" text="Colorblind Mode" />
+                <ui:Toggle name="toggle-colorblind" class="toggle" value="false" />
+            </ui:VisualElement>
+            <ui:VisualElement class="divider-thin" />
+            <ui:Label class="section-label" text="GAMEPLAY" />
+            <ui:VisualElement class="row">
+                <ui:Label class="row-label" text="Screen Shake" />
+                <ui:Toggle name="toggle-screenshake" class="toggle" value="true" />
+            </ui:VisualElement>
+            <ui:VisualElement class="divider" />
+            <ui:VisualElement class="button-row">
+                <ui:Button name="btn-back"  class="btn btn-last" text="BACK" />
+                <ui:Button name="btn-apply" class="btn btn-primary" text="APPLY" />
+            </ui:VisualElement>
+        </ui:VisualElement>
+    </ui:VisualElement>
+</ui:UXML>
