@@ -1,13 +1,3 @@
-/* Colour palette sampled from Tile_Dungeon.png
-   bg-dark:    #12131e  (near-black blue)
-   bg-mid:     #1e2236  (dark navy)
-   blue-dim:   #3a4a6b  (mid dungeon blue)
-   blue-mid:   #4a5a7a  (tile border blue)
-   blue-light: #6a7aaa  (highlight blue)
-   blue-pale:  #8a9ab8  (lightest tile blue)
-   accent:     #8b4a2a  (terracotta, use sparingly)
-*/
-
 .root {
     width: 100%;
     height: 100%;
