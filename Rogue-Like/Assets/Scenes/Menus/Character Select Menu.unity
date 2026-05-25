@@ -186,7 +186,7 @@ MonoBehaviour:
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 42aa83b7e8ed09844839888b4b9d9c08, type: 3}
   m_Name: 
-  m_EditorClassIdentifier: Assembly-CSharp::CharacterSelectController
+  m_EditorClassIdentifier: Assembly-CSharp::CharacterSelectMenuController
   mainMenuScene: Main Menu
   gameScene: Game
 --- !u!1 &803298699

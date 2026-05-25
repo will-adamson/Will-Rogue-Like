@@ -3,7 +3,7 @@ using UnityEngine.UIElements;
 using UnityEngine.SceneManagement;
 
 [RequireComponent(typeof(UIDocument))]
-public class CharacterSelectController : MonoBehaviour
+public class CharacterSelectMenuController : MonoBehaviour
 {
     [SerializeField] private string mainMenuScene = "Main Menu";
     [SerializeField] private string gameScene = "Game";
