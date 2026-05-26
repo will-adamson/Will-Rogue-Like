@@ -4,41 +4,94 @@
         <ui:Label class="title" text="CHOOSE YOUR CLASS" />
         <ui:VisualElement class="divider" />
         <ui:VisualElement name="card-row" class="card-row">
-            <ui:VisualElement name="card-warrior" class="card">
-                <ui:Label class="card-icon" text="*" />
-                <ui:Label class="card-name" text="WARRIOR" />
-                <ui:Label class="card-desc" text="BLAH" />
+
+            <ui:VisualElement name="card-knight" class="card card-selected">
+                <ui:VisualElement name="card-sprite" class="card-sprite" />
+                <ui:Label name="card-name" class="card-name" text="KNIGHT" />
+                <ui:Label name="card-desc" class="card-desc" text="" />
                 <ui:VisualElement class="card-stats">
-                    <ui:Label class="stat-label" text="" /><ui:Label class="stat-val stat-high" text="BLAH" />
+                    <ui:Label class="stat-label" text="HP" />
+                    <ui:VisualElement class="stat-track">
+                        <ui:VisualElement name="stat-hp-fill" class="stat-fill stat-fill-hp" />
+                    </ui:VisualElement>
+                    <ui:Label class="stat-label" text="ATK" />
+                    <ui:VisualElement class="stat-track">
+                        <ui:VisualElement name="stat-atk-fill" class="stat-fill stat-fill-atk" />
+                    </ui:VisualElement>
+                    <ui:Label class="stat-label" text="SPD" />
+                    <ui:VisualElement class="stat-track">
+                        <ui:VisualElement name="stat-spd-fill" class="stat-fill stat-fill-spd" />
+                    </ui:VisualElement>
                 </ui:VisualElement>
+                <ui:Label name="card-passive" class="card-passive" text="" />
             </ui:VisualElement>
-            <ui:VisualElement name="card-warrior" class="card">
-                <ui:Label class="card-icon" text="*" />
-                <ui:Label class="card-name" text="ARCHER" />
-                <ui:Label class="card-desc" text="BLAH" />
-                <ui:VisualElement class="card-stats">
-                    <ui:Label class="stat-label" text="" /><ui:Label class="stat-val stat-high" text="BLAH" />
-                </ui:VisualElement>
-            </ui:VisualElement>
+
             <ui:VisualElement name="card-rogue" class="card">
-                <ui:Label class="card-icon" text="*" />
-                <ui:Label class="card-name" text="ROGUE" />
-                <ui:Label class="card-desc" text="BLAH" />
+                <ui:VisualElement name="card-sprite" class="card-sprite" />
+                <ui:Label name="card-name" class="card-name" text="ROGUE" />
+                <ui:Label name="card-desc" class="card-desc" text="" />
                 <ui:VisualElement class="card-stats">
-                    <ui:Label class="stat-label" text="" /><ui:Label class="stat-val stat-high" text="BLAH" />
+                    <ui:Label class="stat-label" text="HP" />
+                    <ui:VisualElement class="stat-track">
+                        <ui:VisualElement name="stat-hp-fill" class="stat-fill stat-fill-hp" />
+                    </ui:VisualElement>
+                    <ui:Label class="stat-label" text="ATK" />
+                    <ui:VisualElement class="stat-track">
+                        <ui:VisualElement name="stat-atk-fill" class="stat-fill stat-fill-atk" />
+                    </ui:VisualElement>
+                    <ui:Label class="stat-label" text="SPD" />
+                    <ui:VisualElement class="stat-track">
+                        <ui:VisualElement name="stat-spd-fill" class="stat-fill stat-fill-spd" />
+                    </ui:VisualElement>
                 </ui:VisualElement>
+                <ui:Label name="card-passive" class="card-passive" text="" />
             </ui:VisualElement>
+
             <ui:VisualElement name="card-mage" class="card">
-                <ui:Label class="card-icon" text="*" />
-                <ui:Label class="card-name" text="MAGE" />
-                <ui:Label class="card-desc" text="BLAH" />
+                <ui:VisualElement name="card-sprite" class="card-sprite" />
+                <ui:Label name="card-name" class="card-name" text="MAGE" />
+                <ui:Label name="card-desc" class="card-desc" text="" />
                 <ui:VisualElement class="card-stats">
-                    <ui:Label class="stat-label" text="" /><ui:Label class="stat-val stat-high" text="BLAH" />
+                    <ui:Label class="stat-label" text="HP" />
+                    <ui:VisualElement class="stat-track">
+                        <ui:VisualElement name="stat-hp-fill" class="stat-fill stat-fill-hp" />
+                    </ui:VisualElement>
+                    <ui:Label class="stat-label" text="ATK" />
+                    <ui:VisualElement class="stat-track">
+                        <ui:VisualElement name="stat-atk-fill" class="stat-fill stat-fill-atk" />
+                    </ui:VisualElement>
+                    <ui:Label class="stat-label" text="SPD" />
+                    <ui:VisualElement class="stat-track">
+                        <ui:VisualElement name="stat-spd-fill" class="stat-fill stat-fill-spd" />
+                    </ui:VisualElement>
                 </ui:VisualElement>
+                <ui:Label name="card-passive" class="card-passive" text="" />
             </ui:VisualElement>
+
+            <ui:VisualElement name="card-archer" class="card">
+                <ui:VisualElement name="card-sprite" class="card-sprite" />
+                <ui:Label name="card-name" class="card-name" text="ARCHER" />
+                <ui:Label name="card-desc" class="card-desc" text="" />
+                <ui:VisualElement class="card-stats">
+                    <ui:Label class="stat-label" text="HP" />
+                    <ui:VisualElement class="stat-track">
+                        <ui:VisualElement name="stat-hp-fill" class="stat-fill stat-fill-hp" />
+                    </ui:VisualElement>
+                    <ui:Label class="stat-label" text="ATK" />
+                    <ui:VisualElement class="stat-track">
+                        <ui:VisualElement name="stat-atk-fill" class="stat-fill stat-fill-atk" />
+                    </ui:VisualElement>
+                    <ui:Label class="stat-label" text="SPD" />
+                    <ui:VisualElement class="stat-track">
+                        <ui:VisualElement name="stat-spd-fill" class="stat-fill stat-fill-spd" />
+                    </ui:VisualElement>
+                </ui:VisualElement>
+                <ui:Label name="card-passive" class="card-passive" text="" />
+            </ui:VisualElement>
+
         </ui:VisualElement>
         <ui:VisualElement name="info-bar" class="info-bar">
-            <ui:Label name="info-passive" class="info-text" text="BLAH" />
+            <ui:Label name="info-passive" class="info-text" text="" />
         </ui:VisualElement>
         <ui:VisualElement class="divider" />
         <ui:VisualElement class="button-row">

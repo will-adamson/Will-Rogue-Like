@@ -189,6 +189,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::CharacterSelectMenuController
   mainMenuScene: Main Menu
   gameScene: Game
+  knightData: {fileID: 11400000, guid: 649d43d7f9152481e892fb4028198b6f, type: 2}
+  rogueData: {fileID: 11400000, guid: b635bc2239d2b4fcea4f570cfb5cd7bd, type: 2}
+  mageData: {fileID: 11400000, guid: f19c52aaad1dd474190b546e05a4142b, type: 2}
+  archerData: {fileID: 11400000, guid: e30dbb4c70aef46a8b8b35a82e031ab8, type: 2}
 --- !u!1 &803298699
 GameObject:
   m_ObjectHideFlags: 0
