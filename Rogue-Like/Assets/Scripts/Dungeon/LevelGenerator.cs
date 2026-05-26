@@ -1,4 +1,3 @@
-using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
@@ -11,172 +10,106 @@ public class RoomPrefabs
         roomUpRight, roomUpRightDown;
 }
 
+[RequireComponent(typeof(PlayerSpawner))]
 public class LevelGenerator : MonoBehaviour
 {
+    [Header("References")]
     [SerializeField] private GameObject dungeonParent;
     [SerializeField] private RoomPrefabs roomPrefabs;
-    [SerializeField] private GameObject playerPrefab;
-    [SerializeField] private GameObject enemyPrefab;
-    [SerializeField] private int enemyCount = 3;
-    [SerializeField] private int distanceToEnd;
     [SerializeField] private Transform generationPoint;
-    [SerializeField] private Direction direction;
+    [SerializeField] private LayerMask roomLayerMask;
+
+    [Header("Generation Settings")]
+    [SerializeField] private int distanceToEnd;
     [SerializeField] private float xOffset = 40f;
     [SerializeField] private float yOffset = 40f;
-    [SerializeField] private LayerMask roomLayerMask;
+
+    private PlayerSpawner playerSpawner;
 
     private Vector3 startRoomPosition;
     private Vector3 endRoomPosition;
     private List<Vector3> roomPositions;
     private List<GameObject> markers;
     private Transform roomParent;
-    private Transform enemyParent;
+    private Direction direction;
 
-    void Start()
+    private void Start()
     {
+        playerSpawner = GetComponent<PlayerSpawner>();
+
         if (ObjectPoolManager.Instance == null)
-        {
-            GameObject objPoolManager = new GameObject("Object Pool Manager");
-            objPoolManager.AddComponent<ObjectPoolManager>();
-        }
+            new GameObject("Object Pool Manager").AddComponent<ObjectPoolManager>();
 
         roomPositions = new List<Vector3>();
         markers = new List<GameObject>();
-
         roomParent = new GameObject("Rooms").transform;
         roomParent.SetParent(dungeonParent.transform);
-        enemyParent = new GameObject("Enemies").transform;
 
-        startRoomPosition = generationPoint.position;
-        PlaceMarker(startRoomPosition);
+        GenerateLayout();
+        PlaceRoomPrefabs();
+        CleanupMarkers();
 
-        direction = (Direction)Random.Range(0, 4);
-        MoveGenerationPoint();
-
-        for (int i = 0; i < distanceToEnd; i++)
-        {
-            Vector3 position = generationPoint.position;
-            PlaceMarker(position);
-
-            if (i == distanceToEnd - 1) endRoomPosition = position;
-            else roomPositions.Add(position);
-
-            Vector3 lastValidPosition = generationPoint.position;
-            direction = (Direction)Random.Range(0, 4);
-            MoveGenerationPoint();
-
-            while (Physics2D.OverlapCircle(generationPoint.position, 0.2f, roomLayerMask))
-            {
-                generationPoint.position = lastValidPosition;
-                direction = (Direction)Random.Range(0, 4);
-                MoveGenerationPoint();
-            }
-        }
-
-        CreateRoomOutline(startRoomPosition);
-        foreach (Vector3 position in roomPositions) CreateRoomOutline(position);
-        CreateRoomOutline(endRoomPosition);
-
-        if (playerPrefab != null)
-        {
-            GameObject player = Instantiate(playerPrefab, startRoomPosition, Quaternion.identity);
-            CameraController.Instance.ChangeTarget(player.transform);
-        }
-
-        PlaceDoorsForEndRoom(endRoomPosition);
-
-        foreach (GameObject marker in markers)
-            Destroy(marker);
+        playerSpawner.SpawnPlayer(startRoomPosition);
 
         GridManager.Instance.BakeWalls();
     }
 
-    private void PlaceMarker(Vector3 position)
+    private void GenerateLayout()
     {
-        GameObject marker = new GameObject("RoomMarker");
-        marker.transform.position = position;
-        marker.layer = GetLayerFromMask(roomLayerMask);
+        startRoomPosition = generationPoint.position;
+        PlaceMarker(startRoomPosition);
 
-        CircleCollider2D col = marker.AddComponent<CircleCollider2D>();
-        col.isTrigger = true;
-        col.radius = 0.1f;
+        direction = RandomDirection();
+        MoveGenerationPoint();
 
-        markers.Add(marker);
+        for (int i = 0; i < distanceToEnd; i++)
+        {
+            Vector3 pos = generationPoint.position;
+            PlaceMarker(pos);
+
+            if (i == distanceToEnd - 1)
+                endRoomPosition = pos;
+            else
+                roomPositions.Add(pos);
+
+            Vector3 lastValid = generationPoint.position;
+            direction = RandomDirection();
+            MoveGenerationPoint();
+
+            int safetyLimit = 100;
+            while (Physics2D.OverlapCircle(generationPoint.position, 0.2f, roomLayerMask))
+            {
+                generationPoint.position = lastValid;
+                direction = RandomDirection();
+                MoveGenerationPoint();
+                if (--safetyLimit <= 0) break;
+            }
+        }
     }
 
-    private int GetLayerFromMask(LayerMask mask)
+    private void PlaceRoomPrefabs()
     {
-        int value = mask.value;
-        int layer = 0;
-        while (value > 1)
-        {
-            value >>= 1;
-            layer++;
-        }
-        return layer;
+        CreateRoomOutline(startRoomPosition);
+        foreach (Vector3 pos in roomPositions) CreateRoomOutline(pos);
+        CreateRoomOutline(endRoomPosition);
     }
 
-    private void MoveGenerationPoint()
+    private void CleanupMarkers()
     {
-        switch (direction)
-        {
-            case Direction.Up: generationPoint.position += new Vector3(0, yOffset, 0); break;
-            case Direction.Down: generationPoint.position += new Vector3(0, -yOffset, 0); break;
-            case Direction.Left: generationPoint.position += new Vector3(-xOffset, 0, 0); break;
-            case Direction.Right: generationPoint.position += new Vector3(xOffset, 0, 0); break;
-        }
+        foreach (GameObject marker in markers) Destroy(marker);
+        markers.Clear();
     }
 
     public void CreateRoomOutline(Vector3 roomPosition)
-    {
-        bool isRoomAbove = Physics2D.OverlapCircle(roomPosition + new Vector3(0, yOffset, 0), 0.2f, roomLayerMask);
-        bool isRoomBelow = Physics2D.OverlapCircle(roomPosition + new Vector3(0, -yOffset, 0), 0.2f, roomLayerMask);
-        bool isRoomLeft = Physics2D.OverlapCircle(roomPosition + new Vector3(-xOffset, 0, 0), 0.2f, roomLayerMask);
-        bool isRoomRight = Physics2D.OverlapCircle(roomPosition + new Vector3(xOffset, 0, 0), 0.2f, roomLayerMask);
-
-        GameObject prefabToSpawn = GetRoomPrefab(isRoomAbove, isRoomBelow, isRoomLeft, isRoomRight);
-
-        if (prefabToSpawn != null)
-            Instantiate(prefabToSpawn, roomPosition, Quaternion.identity, roomParent);
-    }
-
-    private void PlaceDoorsForEndRoom(Vector3 roomPosition)
     {
         bool up = Physics2D.OverlapCircle(roomPosition + new Vector3(0, yOffset, 0), 0.2f, roomLayerMask);
         bool down = Physics2D.OverlapCircle(roomPosition + new Vector3(0, -yOffset, 0), 0.2f, roomLayerMask);
         bool left = Physics2D.OverlapCircle(roomPosition + new Vector3(-xOffset, 0, 0), 0.2f, roomLayerMask);
         bool right = Physics2D.OverlapCircle(roomPosition + new Vector3(xOffset, 0, 0), 0.2f, roomLayerMask);
 
-        if (up) PlaceSingleDoor(roomPosition, Direction.Up);
-        if (down) PlaceSingleDoor(roomPosition, Direction.Down);
-        if (left) PlaceSingleDoor(roomPosition, Direction.Left);
-        if (right) PlaceSingleDoor(roomPosition, Direction.Right);
-    }
-
-    private void PlaceSingleDoor(Vector3 roomPosition, Direction doorDirection)
-    {
-        Vector3 doorPos = doorDirection switch
-        {
-            Direction.Up => roomPosition + new Vector3(0, yOffset * 0.50f, 0),
-            Direction.Down => roomPosition + new Vector3(0, -yOffset * 0.50f, 0),
-            Direction.Left => roomPosition + new Vector3(-xOffset * 0.50f, 0, 0),
-            Direction.Right => roomPosition + new Vector3(xOffset * 0.50f, 0, 0),
-            _ => roomPosition
-        };
-
-        GameObject door = new GameObject($"Door {doorDirection}");
-        door.transform.position = doorPos;
-        door.transform.parent = roomParent;
-
-        bool isHorizontal = doorDirection == Direction.Left || doorDirection == Direction.Right;
-        door.transform.localScale = isHorizontal ? new Vector3(1f, 2f, 1f) : new Vector3(2f, 1f, 1f);
-
-        BoxCollider2D col = door.AddComponent<BoxCollider2D>();
-        col.isTrigger = true;
-        col.size = Vector2.one;
-
-        DoorTrigger trigger = door.AddComponent<DoorTrigger>();
-        // trigger.Initialize(endRoomPosition, enemyPrefab, enemyCount, enemyParent);
+        GameObject prefab = GetRoomPrefab(up, down, left, right);
+        if (prefab != null)
+            Instantiate(prefab, roomPosition, Quaternion.identity, roomParent);
     }
 
     private GameObject GetRoomPrefab(bool up, bool down, bool left, bool right)
@@ -197,9 +130,42 @@ public class LevelGenerator : MonoBehaviour
         if (up && down && !left && right) return roomPrefabs.roomUpRightDown;
         if (up && !down && left && right) return roomPrefabs.roomUpLeftRight;
         if (!up && down && left && right) return roomPrefabs.roomLeftRightDown;
-
         if (up && down && left && right) return roomPrefabs.roomUpLeftRightDown;
 
         return null;
+    }
+
+    private void PlaceMarker(Vector3 position)
+    {
+        GameObject marker = new GameObject("RoomMarker");
+        marker.transform.position = position;
+        marker.layer = GetLayerFromMask(roomLayerMask);
+
+        CircleCollider2D col = marker.AddComponent<CircleCollider2D>();
+        col.isTrigger = true;
+        col.radius = 0.1f;
+
+        markers.Add(marker);
+    }
+
+    private void MoveGenerationPoint()
+    {
+        generationPoint.position += direction switch
+        {
+            Direction.Up => new Vector3(0, yOffset, 0),
+            Direction.Down => new Vector3(0, -yOffset, 0),
+            Direction.Left => new Vector3(-xOffset, 0, 0),
+            Direction.Right => new Vector3(xOffset, 0, 0),
+            _ => Vector3.zero
+        };
+    }
+
+    private static Direction RandomDirection() => (Direction)Random.Range(0, 4);
+
+    private static int GetLayerFromMask(LayerMask mask)
+    {
+        int value = mask.value, layer = 0;
+        while (value > 1) { value >>= 1; layer++; }
+        return layer;
     }
 }
