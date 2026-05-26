@@ -28,6 +28,7 @@ public class LevelGenerator : MonoBehaviour
 
     private Vector3 startRoomPosition;
     private Vector3 endRoomPosition;
+    private Vector3 playerSpawnPosition;
     private List<Vector3> roomPositions;
     private List<GameObject> markers;
     private Transform roomParent;
@@ -49,7 +50,7 @@ public class LevelGenerator : MonoBehaviour
         PlaceRoomPrefabs();
         CleanupMarkers();
 
-        playerSpawner.SpawnPlayer(startRoomPosition);
+        playerSpawner.SpawnPlayer(playerSpawnPosition);
 
         GridManager.Instance.BakeWalls();
     }
@@ -89,9 +90,48 @@ public class LevelGenerator : MonoBehaviour
 
     private void PlaceRoomPrefabs()
     {
-        CreateRoomOutline(startRoomPosition);
-        foreach (Vector3 pos in roomPositions) CreateRoomOutline(pos);
+        GameObject startRoom = CreateRoomOutline(startRoomPosition);
+        if (startRoom != null)
+        {
+            Room room = startRoom.GetComponent<Room>();
+            if (room != null && room.allowPlayerSpawn)
+            {
+                playerSpawnPosition = startRoomPosition;
+            }
+            else
+            {
+                playerSpawnPosition = FindValidSpawnPosition(startRoomPosition);
+            }
+        }
+
+        foreach (Vector3 pos in roomPositions)
+            CreateRoomOutline(pos);
+
         CreateRoomOutline(endRoomPosition);
+    }
+
+    private Vector3 FindValidSpawnPosition(Vector3 fallback)
+    {
+        foreach (Vector3 pos in roomPositions)
+        {
+            bool up = Physics2D.OverlapCircle(pos + new Vector3(0, yOffset, 0), 0.2f, roomLayerMask);
+            bool down = Physics2D.OverlapCircle(pos + new Vector3(0, -yOffset, 0), 0.2f, roomLayerMask);
+            bool left = Physics2D.OverlapCircle(pos + new Vector3(-xOffset, 0, 0), 0.2f, roomLayerMask);
+            bool right = Physics2D.OverlapCircle(pos + new Vector3(xOffset, 0, 0), 0.2f, roomLayerMask);
+
+            if (IsSpawnSafeShape(up, down, left, right))
+                return pos;
+        }
+
+        Debug.LogWarning("LevelGenerator: No valid spawn room found, falling back to start position.");
+        return fallback;
+    }
+
+    private bool IsSpawnSafeShape(bool up, bool down, bool left, bool right)
+    {
+        bool isUpDown = up && down && !left && !right;
+        bool isUpLeftRightDown = up && down && left && right;
+        return !isUpDown && !isUpLeftRightDown;
     }
 
     private void CleanupMarkers()
@@ -100,7 +140,7 @@ public class LevelGenerator : MonoBehaviour
         markers.Clear();
     }
 
-    public void CreateRoomOutline(Vector3 roomPosition)
+    public GameObject CreateRoomOutline(Vector3 roomPosition)
     {
         bool up = Physics2D.OverlapCircle(roomPosition + new Vector3(0, yOffset, 0), 0.2f, roomLayerMask);
         bool down = Physics2D.OverlapCircle(roomPosition + new Vector3(0, -yOffset, 0), 0.2f, roomLayerMask);
@@ -108,8 +148,9 @@ public class LevelGenerator : MonoBehaviour
         bool right = Physics2D.OverlapCircle(roomPosition + new Vector3(xOffset, 0, 0), 0.2f, roomLayerMask);
 
         GameObject prefab = GetRoomPrefab(up, down, left, right);
-        if (prefab != null)
-            Instantiate(prefab, roomPosition, Quaternion.identity, roomParent);
+        if (prefab == null) return null;
+
+        return Instantiate(prefab, roomPosition, Quaternion.identity, roomParent);
     }
 
     private GameObject GetRoomPrefab(bool up, bool down, bool left, bool right)
