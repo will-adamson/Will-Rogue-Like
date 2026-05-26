@@ -10,7 +10,7 @@ GameObject:
   m_Component:
   - component: {fileID: 343478663395915847}
   - component: {fileID: 7796279236628498144}
-  m_Layer: 12
+  m_Layer: 0
   m_Name: Acid Puddle 1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -102,7 +102,7 @@ GameObject:
   - component: {fileID: 8180926924005358605}
   - component: {fileID: 7227023936512563310}
   - component: {fileID: 6612664297000670041}
-  m_Layer: 12
+  m_Layer: 0
   m_Name: Acid Puddle
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -201,7 +201,7 @@ GameObject:
   m_Component:
   - component: {fileID: 4190587018437293521}
   - component: {fileID: 9192232544657074661}
-  m_Layer: 12
+  m_Layer: 0
   m_Name: Acid Puddle 3
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -270,7 +270,7 @@ SpriteRenderer:
   m_GlobalIlluminationMeshLod: 0
   m_SortingLayerID: 141823735
   m_SortingLayer: 1
-  m_SortingOrder: 0
+  m_SortingOrder: 1
   m_MaskInteraction: 0
   m_Sprite: {fileID: 7488091419982254617, guid: bd04f5f3de43049efa725787601e582a, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
@@ -292,7 +292,7 @@ GameObject:
   m_Component:
   - component: {fileID: 7679958745388519585}
   - component: {fileID: 3530927304605324870}
-  m_Layer: 12
+  m_Layer: 0
   m_Name: Acid Puddle 2
   m_TagString: Untagged
   m_Icon: {fileID: 0}

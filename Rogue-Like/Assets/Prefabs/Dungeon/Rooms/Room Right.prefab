@@ -1116,8 +1116,8 @@ Tilemap:
   - first: {x: 8, y: -1, z: 0}
     second:
       serializedVersion: 2
-      m_TileIndex: 8
-      m_TileSpriteIndex: 8
+      m_TileIndex: 14
+      m_TileSpriteIndex: 14
       m_TileMatrixIndex: 0
       m_TileColorIndex: 0
       m_TileObjectToInstantiateIndex: 65535
@@ -1296,8 +1296,8 @@ Tilemap:
   - first: {x: 8, y: 0, z: 0}
     second:
       serializedVersion: 2
-      m_TileIndex: 8
-      m_TileSpriteIndex: 8
+      m_TileIndex: 14
+      m_TileSpriteIndex: 14
       m_TileMatrixIndex: 0
       m_TileColorIndex: 0
       m_TileObjectToInstantiateIndex: 65535
@@ -2230,7 +2230,7 @@ Tilemap:
     m_RefCount: 128
     m_Data: {fileID: 11400000, guid: dacb363dfe4e94fdaada249b027c0bdb, type: 2}
   - serializedVersion: 2
-    m_RefCount: 2
+    m_RefCount: 0
     m_Data: {fileID: 11400000, guid: 37c5241dcccf54e048e01c55f7c969ca, type: 2}
   - serializedVersion: 2
     m_RefCount: 16
@@ -2248,8 +2248,8 @@ Tilemap:
     m_RefCount: 18
     m_Data: {fileID: 11400000, guid: e756c03df64b24357854bdd97710eb4f, type: 2}
   - serializedVersion: 2
-    m_RefCount: 0
-    m_Data: {fileID: 11400000, guid: 09df5a9a30aee47fab43b739a64e01e6, type: 2}
+    m_RefCount: 2
+    m_Data: {fileID: 11400000, guid: e79d55c7907394ff2ad9026591940e68, type: 2}
   m_TileSpriteArray:
   - serializedVersion: 2
     m_RefCount: 0
@@ -2276,7 +2276,7 @@ Tilemap:
     m_RefCount: 128
     m_Data: {fileID: 1976063036, guid: ea37df6e352ac4a90a1db4f42a01c118, type: 3}
   - serializedVersion: 2
-    m_RefCount: 2
+    m_RefCount: 0
     m_Data: {fileID: 616640400, guid: ea37df6e352ac4a90a1db4f42a01c118, type: 3}
   - serializedVersion: 2
     m_RefCount: 16
@@ -2294,8 +2294,8 @@ Tilemap:
     m_RefCount: 18
     m_Data: {fileID: 917211929, guid: ea37df6e352ac4a90a1db4f42a01c118, type: 3}
   - serializedVersion: 2
-    m_RefCount: 0
-    m_Data: {fileID: 1482874017, guid: ea37df6e352ac4a90a1db4f42a01c118, type: 3}
+    m_RefCount: 2
+    m_Data: {fileID: 7593058130922230278, guid: ea37df6e352ac4a90a1db4f42a01c118, type: 3}
   m_TileMatrixArray:
   - serializedVersion: 2
     m_RefCount: 2
@@ -2569,6 +2569,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 397f04261caf640c18e89a30881e63f3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: '::'
+  allowPlayerSpawn: 1
 --- !u!1 &7508086296397917476
 GameObject:
   m_ObjectHideFlags: 0
