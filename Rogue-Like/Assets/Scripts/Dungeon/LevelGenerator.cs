@@ -92,10 +92,10 @@ public class LevelGenerator : MonoBehaviour
     {
         CreateRoomOutline(startRoomPosition);
 
-        bool up    = Physics2D.OverlapCircle(startRoomPosition + new Vector3(0, yOffset, 0),  0.2f, roomLayerMask);
-        bool down  = Physics2D.OverlapCircle(startRoomPosition + new Vector3(0, -yOffset, 0), 0.2f, roomLayerMask);
-        bool left  = Physics2D.OverlapCircle(startRoomPosition + new Vector3(-xOffset, 0, 0), 0.2f, roomLayerMask);
-        bool right = Physics2D.OverlapCircle(startRoomPosition + new Vector3(xOffset, 0, 0),  0.2f, roomLayerMask);
+        bool up = Physics2D.OverlapCircle(startRoomPosition + new Vector3(0, yOffset, 0), 0.2f, roomLayerMask);
+        bool down = Physics2D.OverlapCircle(startRoomPosition + new Vector3(0, -yOffset, 0), 0.2f, roomLayerMask);
+        bool left = Physics2D.OverlapCircle(startRoomPosition + new Vector3(-xOffset, 0, 0), 0.2f, roomLayerMask);
+        bool right = Physics2D.OverlapCircle(startRoomPosition + new Vector3(xOffset, 0, 0), 0.2f, roomLayerMask);
 
         playerSpawnPosition = IsSpawnSafeShape(up, down, left, right)
             ? startRoomPosition
@@ -111,16 +111,15 @@ public class LevelGenerator : MonoBehaviour
     {
         foreach (Vector3 pos in roomPositions)
         {
-            bool up    = Physics2D.OverlapCircle(pos + new Vector3(0, yOffset, 0),  0.2f, roomLayerMask);
-            bool down  = Physics2D.OverlapCircle(pos + new Vector3(0, -yOffset, 0), 0.2f, roomLayerMask);
-            bool left  = Physics2D.OverlapCircle(pos + new Vector3(-xOffset, 0, 0), 0.2f, roomLayerMask);
-            bool right = Physics2D.OverlapCircle(pos + new Vector3(xOffset, 0, 0),  0.2f, roomLayerMask);
+            bool up = Physics2D.OverlapCircle(pos + new Vector3(0, yOffset, 0), 0.2f, roomLayerMask);
+            bool down = Physics2D.OverlapCircle(pos + new Vector3(0, -yOffset, 0), 0.2f, roomLayerMask);
+            bool left = Physics2D.OverlapCircle(pos + new Vector3(-xOffset, 0, 0), 0.2f, roomLayerMask);
+            bool right = Physics2D.OverlapCircle(pos + new Vector3(xOffset, 0, 0), 0.2f, roomLayerMask);
 
             if (IsSpawnSafeShape(up, down, left, right))
                 return pos;
         }
 
-        Debug.LogWarning("LevelGenerator: No valid spawn room found, falling back to start position.");
         return fallback;
     }
 
@@ -139,10 +138,10 @@ public class LevelGenerator : MonoBehaviour
 
     public GameObject CreateRoomOutline(Vector3 roomPosition)
     {
-        bool up    = Physics2D.OverlapCircle(roomPosition + new Vector3(0, yOffset, 0),  0.2f, roomLayerMask);
-        bool down  = Physics2D.OverlapCircle(roomPosition + new Vector3(0, -yOffset, 0), 0.2f, roomLayerMask);
-        bool left  = Physics2D.OverlapCircle(roomPosition + new Vector3(-xOffset, 0, 0), 0.2f, roomLayerMask);
-        bool right = Physics2D.OverlapCircle(roomPosition + new Vector3(xOffset, 0, 0),  0.2f, roomLayerMask);
+        bool up = Physics2D.OverlapCircle(roomPosition + new Vector3(0, yOffset, 0), 0.2f, roomLayerMask);
+        bool down = Physics2D.OverlapCircle(roomPosition + new Vector3(0, -yOffset, 0), 0.2f, roomLayerMask);
+        bool left = Physics2D.OverlapCircle(roomPosition + new Vector3(-xOffset, 0, 0), 0.2f, roomLayerMask);
+        bool right = Physics2D.OverlapCircle(roomPosition + new Vector3(xOffset, 0, 0), 0.2f, roomLayerMask);
 
         GameObject prefab = GetRoomPrefab(up, down, left, right);
         if (prefab == null) return null;
@@ -168,7 +167,7 @@ public class LevelGenerator : MonoBehaviour
         if (up && down && !left && right) return roomPrefabs.roomUpRightDown;
         if (up && !down && left && right) return roomPrefabs.roomUpLeftRight;
         if (!up && down && left && right) return roomPrefabs.roomLeftRightDown;
-        if (up && down && left && right)  return roomPrefabs.roomUpLeftRightDown;
+        if (up && down && left && right) return roomPrefabs.roomUpLeftRightDown;
 
         return null;
     }
@@ -190,11 +189,11 @@ public class LevelGenerator : MonoBehaviour
     {
         generationPoint.position += direction switch
         {
-            Direction.Up    => new Vector3(0, yOffset, 0),
-            Direction.Down  => new Vector3(0, -yOffset, 0),
-            Direction.Left  => new Vector3(-xOffset, 0, 0),
+            Direction.Up => new Vector3(0, yOffset, 0),
+            Direction.Down => new Vector3(0, -yOffset, 0),
+            Direction.Left => new Vector3(-xOffset, 0, 0),
             Direction.Right => new Vector3(xOffset, 0, 0),
-            _               => Vector3.zero
+            _ => Vector3.zero
         };
     }
 
