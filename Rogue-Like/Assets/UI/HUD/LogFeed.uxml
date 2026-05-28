@@ -1,0 +1,12 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements">
+    <Style src="LogFeed.uss" />
+    <ui:VisualElement name="root" class="root">
+        <ui:VisualElement name="log-container" class="log-container">
+            <ui:ScrollView name="log-scroll" class="log-scroll"
+                vertical-scroller-visibility="Hidden"
+                horizontal-scroller-visibility="Hidden">
+                <ui:VisualElement name="log-content" class="log-content" />
+            </ui:ScrollView>
+        </ui:VisualElement>
+    </ui:VisualElement>
+</ui:UXML>
