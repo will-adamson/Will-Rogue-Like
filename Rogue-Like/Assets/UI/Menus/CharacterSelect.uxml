@@ -95,7 +95,7 @@
         </ui:VisualElement>
         <ui:VisualElement class="divider" />
         <ui:VisualElement class="button-row">
-            <ui:Button name="btn-back"  class="btn" text="BACK" />
+            <ui:Button name="btn-back" class="btn" text="BACK" />
             <ui:Button name="btn-start" class="btn btn-primary" text="DESCEND" />
         </ui:VisualElement>
     </ui:VisualElement>

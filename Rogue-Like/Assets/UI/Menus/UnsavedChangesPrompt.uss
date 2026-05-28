@@ -1,0 +1,18 @@
+.prompt-container {
+    width: 400px;
+    background-color: #1a1d2e;
+    border-color: #3a4a6b;
+    border-width: 1px;
+    border-radius: 2px;
+    padding: 32px;
+    align-items: stretch;
+}
+
+.prompt-text {
+    font-size: 12px;
+    color: #6a7aaa;
+    -unity-text-align: upper-center;
+    white-space: normal;
+    margin-bottom: 8px;
+    letter-spacing: 1px;
+}
