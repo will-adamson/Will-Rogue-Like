@@ -69,18 +69,26 @@ public class PlayerController : EntityController, IAimProvider
 
     protected virtual void Start()
     {
-        if (HUDController.Instance != null)
+        if (HUDController.Instance == null) return;
+
+        if (HUDController.Instance.IsReady)
+        {
+            OnHUDReady();
+        }
+        else
         {
             HUDController.Instance.OnHUDReady += OnHUDReady;
-            OnHUDReady();
         }
     }
 
     private void OnHUDReady()
     {
+        HUDController.Instance.OnHUDReady -= OnHUDReady;
+
         PlayerData data = GameSession.SelectedClass ?? playerData;
         HUDController.Instance.HealthBars.SetCharacter(data);
         RefreshHUD();
+        HUDController.Instance.LogFeed.LogSystem("Welcome to Placeholder.");
     }
 
     protected virtual void Update()
@@ -109,18 +117,6 @@ public class PlayerController : EntityController, IAimProvider
         HUDController.Instance.HealthBars.Refresh(Stats);
     }
 
-    public new void TakeDamage(float rawAmount)
-    {
-        base.TakeDamage(rawAmount);
-        if (Stats == null) return;
-
-        float actualDamage = Mathf.Max(0f, rawAmount - GetDefence());
-        Stats.ModifyHp(-actualDamage);
-
-        HUDController.Instance?.LogFeed.LogDamage(
-            $"You take {Mathf.RoundToInt(actualDamage)} damage.");
-    }
-
     public void UseStamina(float amount)
     {
         Stats?.ModifyStamina(-amount);
@@ -131,13 +127,9 @@ public class PlayerController : EntityController, IAimProvider
         if (Stats == null) return;
         int levelBefore = Stats.Level;
         Stats.AddExp(amount);
-
-        HUDController.Instance?.LogFeed.LogGold(
-            $"You gain {Mathf.RoundToInt(amount)} experience.");
-
+        HUDController.Instance?.LogFeed.LogGold($"You gained {Mathf.RoundToInt(amount)} experience.");
         if (Stats.Level > levelBefore)
-            HUDController.Instance?.LogFeed.LogSystem(
-                $"You reached level {Stats.Level}!");
+            HUDController.Instance?.LogFeed.LogSystem($"You reached level {Stats.Level}!");
     }
 
     protected override void HandleDeath()
@@ -151,5 +143,13 @@ public class PlayerController : EntityController, IAimProvider
         }
 
         Destroy(gameObject);
+    }
+
+    protected override void OnDamageTaken(float rawAmount)
+    {
+        if (Stats == null) return;
+        float actualDamage = Mathf.Max(0f, rawAmount - GetDefence());
+        Stats.ModifyHp(-actualDamage);
+        HUDController.Instance?.LogFeed.LogDamage($"You took {Mathf.RoundToInt(actualDamage)} damage.");
     }
 }

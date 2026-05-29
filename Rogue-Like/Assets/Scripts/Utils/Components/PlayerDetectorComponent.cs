@@ -2,31 +2,30 @@ using UnityEngine;
 
 public class PlayerDetectorComponent : MonoBehaviour, IDetector
 {
-    private float detectionRangeSqrt;
-    private float attackRangeSqrt;
+    private float detectionRangeSqr;
+    private float attackRangeSqr;
 
     public void Init(float detectionRange, float attackRange)
     {
-        detectionRangeSqrt = detectionRange * detectionRange;
-        attackRangeSqrt = attackRange * attackRange;
+        detectionRangeSqr = detectionRange * detectionRange;
+        attackRangeSqr = attackRange * attackRange;
     }
 
-    public bool IsTargetDetected(out Vector2 directionToTarget, out float sqrtDistance)
+    public bool IsTargetDetected(out Vector2 directionToTarget, out float sqrDistance)
     {
         directionToTarget = Vector2.zero;
-        sqrtDistance = float.MaxValue;
+        sqrDistance = float.MaxValue;
 
         if (PlayerController.Instance == null) return false;
 
         Vector2 toPlayer = (Vector2)(PlayerController.Instance.transform.position - transform.position);
-        sqrtDistance = toPlayer.sqrMagnitude;
+        sqrDistance = toPlayer.sqrMagnitude;
 
-        if (sqrtDistance > detectionRangeSqrt) return false;
+        if (sqrDistance > detectionRangeSqr) return false;
 
         directionToTarget = toPlayer.normalized;
-
         return true;
     }
 
-    public bool IsInAttackRange(float sqrtDistance) => sqrtDistance <= attackRangeSqrt;
+    public bool IsInAttackRange(float sqrDistance) => sqrDistance <= attackRangeSqr;
 }

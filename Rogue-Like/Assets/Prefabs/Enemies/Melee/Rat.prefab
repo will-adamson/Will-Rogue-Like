@@ -15,10 +15,22 @@ PrefabInstance:
     - target: {fileID: -1352613725890456741, guid: 20aa68c61ef26402aae1e34a0b16c0b1, type: 3}
       propertyPath: m_Controller
       value: 
-      objectReference: {fileID: 9100000, guid: c068dfde5ebee454ebfbb9cab407d390, type: 2}
+      objectReference: {fileID: 0}
+    - target: {fileID: 3996945981899954103, guid: 20aa68c61ef26402aae1e34a0b16c0b1, type: 3}
+      propertyPath: deadColor.b
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3996945981899954103, guid: 20aa68c61ef26402aae1e34a0b16c0b1, type: 3}
+      propertyPath: deadColor.g
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3996945981899954103, guid: 20aa68c61ef26402aae1e34a0b16c0b1, type: 3}
+      propertyPath: deadColor.r
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 6856069884653584963, guid: 20aa68c61ef26402aae1e34a0b16c0b1, type: 3}
       propertyPath: m_Name
-      value: Slime
+      value: Rat
       objectReference: {fileID: 0}
     - target: {fileID: 8463980101459232825, guid: 20aa68c61ef26402aae1e34a0b16c0b1, type: 3}
       propertyPath: m_Size.x
@@ -31,7 +43,7 @@ PrefabInstance:
     - target: {fileID: 8463980101459232825, guid: 20aa68c61ef26402aae1e34a0b16c0b1, type: 3}
       propertyPath: m_Sprite
       value: 
-      objectReference: {fileID: 5541528016183633216, guid: f5244ced6eb454e17b2d8e3befc1a6b9, type: 3}
+      objectReference: {fileID: 10913, guid: 0000000000000000f000000000000000, type: 0}
     - target: {fileID: 8463980101459232825, guid: 20aa68c61ef26402aae1e34a0b16c0b1, type: 3}
       propertyPath: m_WasSpriteAssigned
       value: 1
@@ -90,20 +102,20 @@ PrefabInstance:
     m_AddedComponents:
     - targetCorrespondingSourceObject: {fileID: 6856069884653584963, guid: 20aa68c61ef26402aae1e34a0b16c0b1, type: 3}
       insertIndex: 3
-      addedObject: {fileID: 7505933005938462457}
+      addedObject: {fileID: 8391883972558961916}
     - targetCorrespondingSourceObject: {fileID: 6856069884653584963, guid: 20aa68c61ef26402aae1e34a0b16c0b1, type: 3}
       insertIndex: -1
       addedObject: {fileID: 6297427333758384340}
     - targetCorrespondingSourceObject: {fileID: 6856069884653584963, guid: 20aa68c61ef26402aae1e34a0b16c0b1, type: 3}
       insertIndex: -1
-      addedObject: {fileID: 7031480733988407866}
+      addedObject: {fileID: -9028020026696458796}
   m_SourcePrefab: {fileID: 100100000, guid: 20aa68c61ef26402aae1e34a0b16c0b1, type: 3}
 --- !u!1 &6464531875417237264 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 6856069884653584963, guid: 20aa68c61ef26402aae1e34a0b16c0b1, type: 3}
   m_PrefabInstance: {fileID: 473729263513167187}
   m_PrefabAsset: {fileID: 0}
---- !u!58 &7505933005938462457
+--- !u!58 &8391883972558961916
 CircleCollider2D:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -138,7 +150,7 @@ CircleCollider2D:
   m_CompositeOperation: 0
   m_CompositeOrder: 0
   m_Offset: {x: 0, y: 0}
-  m_Radius: 0.4375
+  m_Radius: 0.1
 --- !u!114 &6297427333758384340
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -151,7 +163,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 52a5f73ceb792e140a14501635ef78b0, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::MeleeAttackComponent
---- !u!114 &7031480733988407866
+--- !u!114 &-9028020026696458796
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -160,10 +172,8 @@ MonoBehaviour:
   m_GameObject: {fileID: 6464531875417237264}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: f0f182a140c774923a730b7fd2eb6c22, type: 3}
+  m_Script: {fileID: 11500000, guid: 297dfe87666cb409c87f5f0f667ae9d7, type: 3}
   m_Name: 
-  m_EditorClassIdentifier: Assembly-CSharp::SlimeEnemyController
-  meleeData: {fileID: 11400000, guid: ac2641263d10bf342a3c4dff96f50e20, type: 2}
-  smallSlimePrefab: {fileID: 6464531875417237264}
-  splitCount: 2
-  splitSpread: 1.2
+  m_EditorClassIdentifier: Assembly-CSharp::RatEnemyController
+  meleeData: {fileID: 11400000, guid: 8bf9dad798a944272b25a0236bcdc95a, type: 2}
+  panicSpeedMultiplier: 1.75

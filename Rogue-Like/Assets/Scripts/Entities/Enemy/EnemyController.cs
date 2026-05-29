@@ -27,31 +27,45 @@ public abstract class EnemyController : EntityController
 
     private void Update()
     {
-        if (IsDead || PlayerDetectorComp == null) return;
-        if (!PlayerDetectorComp.IsTargetDetected(out Vector2 dir, out float sqrDist)) return;
+        if (IsDead || PlayerDetectorComp == null)
+        {
+            MovementComp.Move(Vector2.zero);
+            return;
+        }
+
+        if (!PlayerDetectorComp.IsTargetDetected(out Vector2 dir, out float sqrDist))
+        {
+            MovementComp.Move(Vector2.zero);
+            return;
+        }
 
         Sprite.flipX = dir.x < 0f;
 
         bool inAttackRange = PlayerDetectorComp.IsInAttackRange(sqrDist);
 
         if (!inAttackRange && !Data.isHoldPosition)
-            MovementComp.Move(dir);
+            HandleMovement(dir, sqrDist);
+        else
+            MovementComp.Move(Vector2.zero);
 
         if (inAttackRange)
             HandleAttack(dir);
     }
 
+    protected virtual void HandleMovement(Vector2 dir, float sqrDist)
+    {
+        MovementComp.Move(dir);
+    }
+
     protected abstract void HandleAttack(Vector2 dir);
 
-    protected void TriggerAttackAnimation()
-    {
-        Anim.SetTrigger(HashAttack);
-    }
+    protected void TriggerAttackAnimation() => Anim.SetTrigger(HashAttack);
 
     protected override void HandleDeath()
     {
         Anim.SetTrigger(HashDie);
         Destroy(gameObject, GetDeathClipLength());
+        HUDController.Instance?.LogFeed.LogSystem($" {Data.name} was defeated.");
     }
 
     private float GetDeathClipLength()

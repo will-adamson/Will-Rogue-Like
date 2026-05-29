@@ -12,11 +12,11 @@ public class LogFeedComponent : IHUDComponent
     public void Init(VisualElement root, int maxLines)
     {
         this.maxLines = maxLines;
-        scroll  = root.Q<ScrollView>("log-scroll");
+        scroll = root.Q<ScrollView>("log-scroll");
         content = root.Q<VisualElement>("log-content");
     }
 
-    public void AddLog(string message, LogType type = LogType.Normal)
+    public void AddLog(string message, LogType type)
     {
         if (content == null) return;
 
@@ -30,10 +30,14 @@ public class LogFeedComponent : IHUDComponent
         {
             VisualElement prev = content[content.childCount - 1];
             prev.RemoveFromClassList("log-line-latest");
-            ApplyTypeClass(prev, type);
+            ApplyTypeClass(prev, (LogType)prev.userData);
         }
 
-        Label line = new Label { text = message };
+        Label line = new Label
+        {
+            text = message,
+            userData = type
+        };
         line.AddToClassList("log-line");
         line.AddToClassList("log-line-latest");
         content.Add(line);
@@ -45,8 +49,8 @@ public class LogFeedComponent : IHUDComponent
     }
 
     public void LogDamage(string message) => AddLog(message, LogType.Damage);
-    public void LogGood(string message)   => AddLog(message, LogType.Good);
-    public void LogGold(string message)   => AddLog(message, LogType.Gold);
+    public void LogGood(string message) => AddLog(message, LogType.Good);
+    public void LogGold(string message) => AddLog(message, LogType.Gold);
     public void LogSystem(string message) => AddLog(message, LogType.System);
 
     public void Clear()
@@ -60,8 +64,8 @@ public class LogFeedComponent : IHUDComponent
         switch (type)
         {
             case LogType.Damage: el.AddToClassList("log-line-damage"); break;
-            case LogType.Good:   el.AddToClassList("log-line-good");   break;
-            case LogType.Gold:   el.AddToClassList("log-line-gold");   break;
+            case LogType.Good: el.AddToClassList("log-line-good"); break;
+            case LogType.Gold: el.AddToClassList("log-line-gold"); break;
             case LogType.System: el.AddToClassList("log-line-system"); break;
         }
     }

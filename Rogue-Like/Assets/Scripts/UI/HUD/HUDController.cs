@@ -9,18 +9,16 @@ public class HUDController : MonoBehaviour
     public static HUDController Instance { get; private set; }
 
     public HealthBarsComponent HealthBars { get; private set; }
-    public LogFeedComponent    LogFeed    { get; private set; }
+    public LogFeedComponent LogFeed { get; private set; }
 
     public event System.Action OnHUDReady;
+    public bool IsReady { get; private set; }
 
     private void Awake()
     {
         if (Instance != null && Instance != this) { Destroy(gameObject); return; }
         Instance = this;
-    }
 
-    private void OnEnable()
-    {
         VisualElement root = GetComponent<UIDocument>().rootVisualElement;
 
         HealthBars = new HealthBarsComponent();
@@ -36,6 +34,7 @@ public class HUDController : MonoBehaviour
     {
         GetComponent<UIDocument>().rootVisualElement
             .UnregisterCallback<GeometryChangedEvent>(OnLayoutReady);
+        IsReady = true;
         OnHUDReady?.Invoke();
     }
 
@@ -43,5 +42,6 @@ public class HUDController : MonoBehaviour
     {
         GetComponent<UIDocument>().rootVisualElement
             .UnregisterCallback<GeometryChangedEvent>(OnLayoutReady);
+        IsReady = false;
     }
 }

@@ -5,21 +5,12 @@ public class DamageFlashComponent : MonoBehaviour
 {
     [SerializeField] private float flashDuration = 0.1f;
     [SerializeField] private Color flashColor = Color.red;
-    [SerializeField] private Color deadColor = Color.gray;
 
     private SpriteRenderer spriteRenderer;
 
     public void Init(SpriteRenderer sr) => spriteRenderer = sr;
 
     public void PlayHitFlash() => StartCoroutine(FlashRoutine());
-
-    public void PlayDeathVisual()
-    {
-        StopAllCoroutines();
-        
-        if (spriteRenderer != null)
-            spriteRenderer.color = deadColor;
-    }
 
     private IEnumerator FlashRoutine()
     {
@@ -28,6 +19,13 @@ public class DamageFlashComponent : MonoBehaviour
         yield return new WaitForSeconds(flashDuration);
 
         if (spriteRenderer.color == flashColor)
+            spriteRenderer.color = Color.white;
+    }
+
+    public void ResetColor()
+    {
+        StopAllCoroutines();
+        if (spriteRenderer != null)
             spriteRenderer.color = Color.white;
     }
 }

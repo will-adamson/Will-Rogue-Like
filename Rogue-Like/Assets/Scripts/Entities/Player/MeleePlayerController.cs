@@ -5,7 +5,7 @@ using UnityEngine.InputSystem;
 public class MeleePlayerController : PlayerController
 {
     private const string LAYER_NAME_ENEMY = "Enemy";
-    
+
     private InputAction attackAction;
     private MeleeAttackComponent meleeAttackComp;
 

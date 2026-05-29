@@ -8,13 +8,12 @@ public abstract class EnemyData : ScriptableObject
 
     [Header("Base Stats")]
     public float health = 100f;
-    public float damage = 10f;
     public float speed = 2f;
     public float defence = 0f;
 
-    [Header("Combat")]
-    public float attackRange = 1f;
+    [Header("Detection")]
     public float detectionRange = 6f;
+    public float attackRange = 1f;
 
     [Header("Behaviour")]
     public bool isHoldPosition = false;

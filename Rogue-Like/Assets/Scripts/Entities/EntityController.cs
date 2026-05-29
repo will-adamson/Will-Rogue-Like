@@ -29,18 +29,20 @@ public abstract class EntityController : MonoBehaviour, IDamageable
         Anim = GetComponent<Animator>();
 
         damageFlash = GetComponent<DamageFlashComponent>();
-        damageFlash.Init(Sprite);
         if (damageFlash != null)
         {
+            damageFlash.Init(Sprite);
             Health.OnHealthChanged += (_, _) => damageFlash.PlayHitFlash();
-            Health.OnDeath += damageFlash.PlayDeathVisual;
         }
     }
 
     public void TakeDamage(float rawAmount)
-    {        
+    {
         Health.ApplyDamage(rawAmount, GetDefence());
+        OnDamageTaken(rawAmount);
     }
+
+    protected virtual void OnDamageTaken(float rawAmount) { }
 
     protected abstract void HandleDeath();
 }
