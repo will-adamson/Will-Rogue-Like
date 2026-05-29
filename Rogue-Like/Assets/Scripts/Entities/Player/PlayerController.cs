@@ -32,6 +32,8 @@ public class PlayerController : EntityController, IAimProvider
 
     private static readonly int HashIsWalking = Animator.StringToHash("IsWalking");
 
+    public PlayerStats Stats { get; private set; }
+
     protected override void Awake()
     {
         if (Instance != null && Instance != this) { Destroy(gameObject); return; }
@@ -46,10 +48,40 @@ public class PlayerController : EntityController, IAimProvider
         moveAction = PlayerActionMap.FindAction("Move");
 
         if (playerData.sprite != null) Sprite.sprite = playerData.sprite;
+
+        PlayerData data = GameSession.SelectedClass ?? playerData;
+        Stats = new PlayerStats(data);
     }
 
-    protected virtual void OnEnable() => moveAction.Enable();
-    protected virtual void OnDisable() => moveAction.Disable();
+    protected virtual void OnEnable()
+    {
+        moveAction.Enable();
+        if (Stats != null) Stats.OnChanged += RefreshHUD;
+    }
+
+    protected virtual void OnDisable()
+    {
+        moveAction.Disable();
+        if (Stats != null) Stats.OnChanged -= RefreshHUD;
+        if (HUDController.Instance != null)
+            HUDController.Instance.OnHUDReady -= OnHUDReady;
+    }
+
+    protected virtual void Start()
+    {
+        if (HUDController.Instance != null)
+        {
+            HUDController.Instance.OnHUDReady += OnHUDReady;
+            OnHUDReady();
+        }
+    }
+
+    private void OnHUDReady()
+    {
+        PlayerData data = GameSession.SelectedClass ?? playerData;
+        HUDController.Instance.HealthBars.SetCharacter(data);
+        RefreshHUD();
+    }
 
     protected virtual void Update()
     {
@@ -71,12 +103,51 @@ public class PlayerController : EntityController, IAimProvider
 
     public void FireAttack() => Attacker?.Attack(PendingDirection);
 
+    private void RefreshHUD()
+    {
+        if (HUDController.Instance == null || Stats == null) return;
+        HUDController.Instance.HealthBars.Refresh(Stats);
+    }
+
+    public new void TakeDamage(float rawAmount)
+    {
+        base.TakeDamage(rawAmount);
+        if (Stats == null) return;
+
+        float actualDamage = Mathf.Max(0f, rawAmount - GetDefence());
+        Stats.ModifyHp(-actualDamage);
+
+        HUDController.Instance?.LogFeed.LogDamage(
+            $"You take {Mathf.RoundToInt(actualDamage)} damage.");
+    }
+
+    public void UseStamina(float amount)
+    {
+        Stats?.ModifyStamina(-amount);
+    }
+
+    public void GainExp(float amount)
+    {
+        if (Stats == null) return;
+        int levelBefore = Stats.Level;
+        Stats.AddExp(amount);
+
+        HUDController.Instance?.LogFeed.LogGold(
+            $"You gain {Mathf.RoundToInt(amount)} experience.");
+
+        if (Stats.Level > levelBefore)
+            HUDController.Instance?.LogFeed.LogSystem(
+                $"You reached level {Stats.Level}!");
+    }
+
     protected override void HandleDeath()
     {
+        HUDController.Instance?.LogFeed.LogSystem("You have died.");
+
         if (tombstonePrefabs != null && tombstonePrefabs.Length > 0)
         {
-            GameObject randomTombstone = tombstonePrefabs[Random.Range(0, tombstonePrefabs.Length)];
-            Instantiate(randomTombstone, transform.position, Quaternion.identity);
+            GameObject tombstone = tombstonePrefabs[Random.Range(0, tombstonePrefabs.Length)];
+            Instantiate(tombstone, transform.position, Quaternion.identity);
         }
 
         Destroy(gameObject);

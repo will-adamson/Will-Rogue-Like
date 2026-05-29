@@ -149,10 +149,10 @@ public class MainMenuController : MonoBehaviour
 
         PlayerData selected = classData[selectedIndex];
 
+        // Pass the full asset to the game scene via GameSession
+        GameSession.SetClass(selected);
+
         PlayerPrefs.SetString("selectedClass", classNames[selectedIndex]);
-        PlayerPrefs.SetFloat("startingHp", selected.health);
-        PlayerPrefs.SetFloat("startingAtk", selected.damage);
-        PlayerPrefs.SetFloat("startingSpd", selected.speed);
         PlayerPrefs.SetString("hasSave", "true");
         PlayerPrefs.Save();
 

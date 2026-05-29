@@ -1,42 +1,18 @@
-using UnityEngine;
 using UnityEngine.UIElements;
 
-[RequireComponent(typeof(UIDocument))]
-public class LogFeedController : MonoBehaviour
+public class LogFeedComponent : IHUDComponent
 {
-    [SerializeField] private int maxLines = 50;
-
     private ScrollView scroll;
     private VisualElement content;
     private int lineCount;
+    private int maxLines;
 
-    public static LogFeedController Instance { get; private set; }
+    public void Init(VisualElement root) => Init(root, 50);
 
-    private void Awake()
+    public void Init(VisualElement root, int maxLines)
     {
-        if (Instance != null && Instance != this) { Destroy(gameObject); return; }
-        Instance = this;
-    }
-
-    // Sample logs for testing
-    private void Start()
-    {
-        AddLog("You descend into the dungeon.", LogType.System);
-        AddLog("A goblin warrior notices you.");
-        AddLog("The goblin warrior attacks and hits! (Pierce: 4 = 7 - res 3)", LogType.Damage);
-        AddLog("You strike the goblin warrior for 12 damage.", LogType.Good);
-        AddLog("The goblin warrior shoots an arrow at you but misses.");
-        AddLog("You slay the goblin warrior.", LogType.Good);
-        AddLog("You find 24 gold.", LogType.Gold);
-        AddLog("A goblin shaman enters the room.", LogType.System);
-        AddLog("The goblin shaman casts a curse on you!", LogType.Damage);
-        AddLog("You resist the curse.", LogType.Good);
-    }
-
-    private void OnEnable()
-    {
-        VisualElement root = GetComponent<UIDocument>().rootVisualElement;
-        scroll = root.Q<ScrollView>("log-scroll");
+        this.maxLines = maxLines;
+        scroll  = root.Q<ScrollView>("log-scroll");
         content = root.Q<VisualElement>("log-content");
     }
 
@@ -69,8 +45,8 @@ public class LogFeedController : MonoBehaviour
     }
 
     public void LogDamage(string message) => AddLog(message, LogType.Damage);
-    public void LogGood(string message) => AddLog(message, LogType.Good);
-    public void LogGold(string message) => AddLog(message, LogType.Gold);
+    public void LogGood(string message)   => AddLog(message, LogType.Good);
+    public void LogGold(string message)   => AddLog(message, LogType.Gold);
     public void LogSystem(string message) => AddLog(message, LogType.System);
 
     public void Clear()
@@ -84,8 +60,8 @@ public class LogFeedController : MonoBehaviour
         switch (type)
         {
             case LogType.Damage: el.AddToClassList("log-line-damage"); break;
-            case LogType.Good: el.AddToClassList("log-line-good"); break;
-            case LogType.Gold: el.AddToClassList("log-line-gold"); break;
+            case LogType.Good:   el.AddToClassList("log-line-good");   break;
+            case LogType.Gold:   el.AddToClassList("log-line-gold");   break;
             case LogType.System: el.AddToClassList("log-line-system"); break;
         }
     }
