@@ -40,8 +40,9 @@ public class HUDController : MonoBehaviour
 
     private void OnDisable()
     {
-        GetComponent<UIDocument>().rootVisualElement
-            .UnregisterCallback<GeometryChangedEvent>(OnLayoutReady);
+        UIDocument doc = GetComponent<UIDocument>();
+        if (doc?.rootVisualElement != null)
+            doc.rootVisualElement.UnregisterCallback<GeometryChangedEvent>(OnLayoutReady);
         IsReady = false;
     }
 }
