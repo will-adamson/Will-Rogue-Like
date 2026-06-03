@@ -49,7 +49,7 @@ public class PlayerController : EntityController, IAimProvider
 
         if (playerData.sprite != null) Sprite.sprite = playerData.sprite;
 
-        PlayerData data = GameSession.SelectedClass ?? playerData;
+        PlayerData data = GameSession.SelectedClass != null ? GameSession.SelectedClass : playerData;
         Stats = new PlayerStats(data);
     }
 
@@ -85,10 +85,10 @@ public class PlayerController : EntityController, IAimProvider
     {
         HUDController.Instance.OnHUDReady -= OnHUDReady;
 
-        PlayerData data = GameSession.SelectedClass ?? playerData;
+        PlayerData data = GameSession.SelectedClass != null ? GameSession.SelectedClass : playerData;
         HUDController.Instance.HealthBars.SetCharacter(data);
         RefreshHUD();
-        HUDController.Instance.LogFeed.LogSystem("Welcome to Placeholder.");
+        HUDController.Instance.LogFeed.LogSystem("Welcome to Placeholder");
     }
 
     protected virtual void Update()
@@ -127,14 +127,21 @@ public class PlayerController : EntityController, IAimProvider
         if (Stats == null) return;
         int levelBefore = Stats.Level;
         Stats.AddExp(amount);
-        HUDController.Instance?.LogFeed.LogGold($"You gained {Mathf.RoundToInt(amount)} experience.");
+        HUDController.Instance.LogFeed.LogGold($"You gained {Mathf.RoundToInt(amount)} experience.");
         if (Stats.Level > levelBefore)
-            HUDController.Instance?.LogFeed.LogSystem($"You reached level {Stats.Level}!");
+            HUDController.Instance.LogFeed.LogSystem($"You reached level {Stats.Level}!");
     }
 
     protected override void HandleDeath()
     {
-        HUDController.Instance?.LogFeed.LogSystem("You have died.");
+            HUDController.Instance.LogFeed.LogSystem("You have died. Game Over");
+        
+        if (Stats != null)
+        {
+            HUDController.Instance.HealthBars.SetHp(0, Stats.MaxHp);
+            HUDController.Instance.HealthBars.SetStamina(Stats.CurrentSta, Stats.MaxSta);
+            HUDController.Instance.HealthBars.SetExp(Stats.CurrentExp, Stats.MaxExp, Stats.Level);
+        }
 
         if (tombstonePrefabs != null && tombstonePrefabs.Length > 0)
         {
@@ -150,6 +157,6 @@ public class PlayerController : EntityController, IAimProvider
         if (Stats == null) return;
         float actualDamage = Mathf.Max(0f, rawAmount - GetDefence());
         Stats.ModifyHp(-actualDamage);
-        HUDController.Instance?.LogFeed.LogDamage($"You took {Mathf.RoundToInt(actualDamage)} damage.");
+        HUDController.Instance.LogFeed.LogDamage($"You took {Mathf.RoundToInt(actualDamage)} damage.");
     }
 }

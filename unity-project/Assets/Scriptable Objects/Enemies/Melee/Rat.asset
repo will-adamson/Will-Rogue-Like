@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c80815e4b7cd2f64497efedf321cbd48, type: 3}
   m_Name: Rat
   m_EditorClassIdentifier: Assembly-CSharp::MeleeEnemyData
-  sprite: {fileID: 10913, guid: 0000000000000000f000000000000000, type: 0}
+  sprite: {fileID: 5168849785559519683, guid: 9aed10ab1738f4ff98418da156577e05, type: 3}
   name: Rat
   health: 35
   speed: 3
@@ -23,7 +23,7 @@ MonoBehaviour:
   xpReward: 3
   damage: 5
   knockbackForce: 1
-  attackCooldown: 0.6
+  attackCooldown: 2.5
   attackShape: 1
   attackAngle: 60
   attackHitCount: 1

@@ -116,7 +116,7 @@ public class MeleeAttackComponent : MonoBehaviour
             {
                 string targetDisplayName = col.gameObject.name.Replace("(Clone)", "").Trim();
                 targetDisplayName = string.IsNullOrEmpty(targetDisplayName) ? targetName : targetDisplayName;
-                HUDController.Instance?.LogFeed.LogDamage($"You hit {targetDisplayName} for {Mathf.RoundToInt(damage * damageMultiplier)}.");
+                HUDController.Instance.LogFeed.LogDamage($"You hit {targetDisplayName} for {Mathf.RoundToInt(damage * damageMultiplier)}.");
             }
         }
 
@@ -127,7 +127,7 @@ public class MeleeAttackComponent : MonoBehaviour
         {
             effectable.ApplyEffect(onHitEffect);
             if (isPlayerAttack)
-                HUDController.Instance?.LogFeed.LogSystem($"{onHitEffect.effectName} applied to {targetName}.");
+                HUDController.Instance.LogFeed.LogSystem($"{onHitEffect.effectName} applied to {targetName}");
         }
     }
 }

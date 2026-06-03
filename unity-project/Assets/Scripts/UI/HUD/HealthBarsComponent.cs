@@ -64,21 +64,24 @@ public class HealthBarsComponent : IHUDComponent
     {
         if (labelHp == null) return;
         labelHp.text = $"{Mathf.RoundToInt(current)}/{Mathf.RoundToInt(max)}";
-        barHpFill.style.width = Length.Percent(Mathf.Clamp01(current / max) * 100f);
+        float fillPercent = Mathf.Clamp01(current / max) * 100f;
+        barHpFill.style.width = new Length(fillPercent, LengthUnit.Percent);
     }
 
     public void SetStamina(float current, float max)
     {
         if (labelSta == null) return;
         labelSta.text = $"{Mathf.RoundToInt(current)}/{Mathf.RoundToInt(max)}";
-        barStaFill.style.width = Length.Percent(Mathf.Clamp01(current / max) * 100f);
+        float fillPercent = Mathf.Clamp01(current / max) * 100f;
+        barStaFill.style.width = new Length(fillPercent, LengthUnit.Percent);
     }
 
     public void SetExp(float current, float max, int level)
     {
         if (labelLevel == null) return;
         labelLevel.text = $"Lvl {level}";
-        barExpFill.style.width = Length.Percent(Mathf.Clamp01(current / max) * 100f);
+        float fillPercent = Mathf.Clamp01(current / max) * 100f;
+        barExpFill.style.width = new Length(fillPercent, LengthUnit.Percent);
     }
 
     public void SetStats(float atk, float def, float spd, float crit, float critMul)

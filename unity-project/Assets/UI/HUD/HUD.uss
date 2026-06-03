@@ -81,7 +81,7 @@
 
 .bar-track-exp { height: 7px; }
 
-.bar-fill { height: 100%; width: 100%; }
+.bar-fill { height: 100%; }
 .bar-fill-hp  { background-color: #6b2a2a; }
 .bar-fill-sta { background-color: #2a5a2a; }
 .bar-fill-exp { background-color: #4a3a0a; }

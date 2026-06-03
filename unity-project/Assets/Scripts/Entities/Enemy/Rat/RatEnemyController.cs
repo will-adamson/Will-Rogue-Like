@@ -87,7 +87,7 @@ public class RatEnemyController : MeleeEnemyController
 
     private IEnumerator AlertRoutine()
     {
-        yield return new WaitForSeconds(0.5f);
+        yield return new WaitForSeconds(1.5f);
         MovementComp.ResetSpeed();
         state = EnemyState.Chase;
     }

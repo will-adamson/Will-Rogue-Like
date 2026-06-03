@@ -15,5 +15,5 @@ MonoBehaviour:
   enemies:
   - enemyType: Slime
     count: 2
-    spawnAreaSize: {x: 25, y: 25}
+    spawnAreaSize: {x: 15, y: 15}
   spawnDelay: 0.5

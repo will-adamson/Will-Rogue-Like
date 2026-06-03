@@ -15,11 +15,11 @@ MonoBehaviour:
   enemies:
   - enemyType: Large Rat
     count: 1
-    spawnAreaSize: {x: 20, y: 20}
+    spawnAreaSize: {x: 15, y: 15}
   - enemyType: Small Rat
     count: 2
-    spawnAreaSize: {x: 20, y: 20}
+    spawnAreaSize: {x: 15, y: 15}
   - enemyType: Slime
     count: 2
-    spawnAreaSize: {x: 25, y: 25}
+    spawnAreaSize: {x: 15, y: 15}
   spawnDelay: 0.5

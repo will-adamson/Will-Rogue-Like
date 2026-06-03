@@ -15,8 +15,8 @@ MonoBehaviour:
   enemies:
   - enemyType: Large Rat
     count: 1
-    spawnAreaSize: {x: 20, y: 20}
+    spawnAreaSize: {x: 15, y: 15}
   - enemyType: Small Rat
     count: 3
-    spawnAreaSize: {x: 20, y: 20}
+    spawnAreaSize: {x: 15, y: 15}
   spawnDelay: 0.5
