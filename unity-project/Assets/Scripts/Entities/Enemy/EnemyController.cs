@@ -65,7 +65,7 @@ public abstract class EnemyController : EntityController
     {
         Anim.SetTrigger(HashDie);
         Destroy(gameObject, GetDeathClipLength());
-        HUDController.Instance.LogFeed.LogSystem($" {Data.name} was defeated");
+        HUDController.Instance.LogFeed.LogSystem($" {Data.name} was defeated.");
     }
 
     private float GetDeathClipLength()

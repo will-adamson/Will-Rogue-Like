@@ -61,9 +61,9 @@ public class RoomPrefabs
 /// <remarks>
 /// Generation runs in three phases:
 /// <list type="number">
-///   <item><description><see cref="GenerateLayout"/> — walks a random path to place marker GameObjects.</description></item>
-///   <item><description><see cref="PlaceRoomPrefabs"/> — samples neighbors via <see cref="Physics2D.OverlapCircle"/> and instantiates matching prefabs.</description></item>
-///   <item><description>Post-placement — bakes the nav grid, spawns enemies, and spawns the player.</description></item>
+///   <item><description><see cref="GenerateLayout"/> - walks a random path to place marker GameObjects.</description></item>
+///   <item><description><see cref="PlaceRoomPrefabs"/> - samples neighbors via <see cref="Physics2D.OverlapCircle"/> and instantiates matching prefabs.</description></item>
+///   <item><description>Post-placement - bakes the nav grid, spawns enemies, and spawns the player.</description></item>
 /// </list>
 /// Requires <see cref="PlayerSpawner"/> and <see cref="EnemySpawner"/> components on the same GameObject.
 /// </remarks>

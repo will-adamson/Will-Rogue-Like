@@ -72,6 +72,11 @@
 
         </ui:VisualElement>
 
+        <!-- Minimap -->
+        <ui:VisualElement name="minimap-container" class="minimap-container">
+            <ui:Label name="minimap-zone-label" class="minimap-zone-label" text="MINIMAP PLACEHOLDER" />
+        </ui:VisualElement>
+
         <!-- Log feed -->
         <ui:VisualElement name="log-container" class="log-container">
             <ui:ScrollView name="log-scroll" class="log-scroll"
