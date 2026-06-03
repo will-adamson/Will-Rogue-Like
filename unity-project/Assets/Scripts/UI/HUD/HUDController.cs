@@ -44,6 +44,9 @@ public class HUDController : MonoBehaviour
     /// </summary>
     public LogFeedComponent LogFeed { get; private set; }
 
+    public TelegraphComponent Telegraph { get; private set; }
+
+
     /// <summary>
     /// Raised once on the frame when the UI Toolkit layout pass completes
     /// and all element geometry is valid.
@@ -78,6 +81,9 @@ public class HUDController : MonoBehaviour
 
         LogFeed = new LogFeedComponent();
         LogFeed.Init(root, logMaxLines);
+
+        Telegraph = new TelegraphComponent();
+        Telegraph.Init(root);
 
         root.RegisterCallback<GeometryChangedEvent>(OnLayoutReady);
     }
