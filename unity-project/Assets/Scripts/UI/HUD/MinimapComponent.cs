@@ -1,6 +1,14 @@
 using UnityEngine;
 using UnityEngine.UIElements;
 
+/// <summary>
+/// HUD component that manages the minimap display: the circular panel and zone label.
+/// </summary>
+/// <remarks>
+/// Implements <see cref="IHUDComponent"/>. Call <see cref="Init"/> once after the
+/// UI Document layout is ready. This is a layout shell only; region rendering,
+/// icon overlays, and player-dot positioning are not yet implemented.
+/// </remarks>
 public class MinimapComponent : IHUDComponent
 {
     #region Cached UI Elements
