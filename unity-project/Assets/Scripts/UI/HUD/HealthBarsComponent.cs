@@ -1,26 +1,75 @@
 using UnityEngine;
 using UnityEngine.UIElements;
 
+/// <summary>
+/// HUD component that manages all player stat displays: HP, stamina, and experience bars,
+/// numeric stat labels, character sprite, class identity, and class-specific stat rows.
+/// </summary>
+/// <remarks>
+/// Implements <see cref="IHUDComponent"/>. Call <see cref="Init"/> once after the
+/// UI Document layout is ready, then drive updates via <see cref="Refresh"/> each frame
+/// or <see cref="SetCharacter"/> when the player's class changes.
+/// Class-specific stats are built dynamically via <see cref="BuildClassStats"/> using
+/// a type-switch on <see cref="PlayerData"/> subtypes.
+/// </remarks>
 public class HealthBarsComponent : IHUDComponent
 {
+    #region Cached UI Elements
+
+    /// <summary>Fill element whose width percentage represents current HP.</summary>
     private VisualElement barHpFill;
+
+    /// <summary>Fill element whose width percentage represents current stamina.</summary>
     private VisualElement barStaFill;
+
+    /// <summary>Fill element whose width percentage represents current experience progress.</summary>
     private VisualElement barExpFill;
 
+    /// <summary>Label displaying current/max HP as integers.</summary>
     private Label labelHp;
+
+    /// <summary>Label displaying current/max stamina as integers.</summary>
     private Label labelSta;
+
+    /// <summary>Label displaying the player's current level.</summary>
     private Label labelLevel;
+
+    /// <summary>Label displaying the player's attack stat.</summary>
     private Label labelAtk;
+
+    /// <summary>Label displaying the player's defence stat.</summary>
     private Label labelDef;
+
+    /// <summary>Label displaying the player's speed stat.</summary>
     private Label labelSpd;
+
+    /// <summary>Label displaying the player's critical hit chance as a percentage.</summary>
     private Label labelCrit;
+
+    /// <summary>Label displaying the player's critical hit damage multiplier.</summary>
     private Label labelCritMul;
+
+    /// <summary>Label displaying the player's class name in uppercase.</summary>
     private Label labelClass;
+
+    /// <summary>Label displaying the player's archetype description (e.g. "Melee - Tank").</summary>
     private Label labelType;
 
+    /// <summary>Container whose background image is set to the player's class sprite.</summary>
     private VisualElement charSprite;
+
+    /// <summary>Container into which class-specific stat rows are dynamically added.</summary>
     private VisualElement classStats;
 
+    #endregion
+
+    #region IHUDComponent
+
+    /// <summary>
+    /// Resolves and caches all UI element references from <paramref name="root"/>.
+    /// Must be called before any other method.
+    /// </summary>
+    /// <param name="root">Root <see cref="VisualElement"/> of the HUD UI Document.</param>
     public void Init(VisualElement root)
     {
         barHpFill = root.Q<VisualElement>("bar-hp-fill");
@@ -40,6 +89,15 @@ public class HealthBarsComponent : IHUDComponent
         classStats = root.Q<VisualElement>("class-stats");
     }
 
+    #endregion
+
+    #region Public API
+
+    /// <summary>
+    /// Populates static character information: class name, archetype label, sprite,
+    /// and class-specific stat rows. Call once when a character is selected or loaded.
+    /// </summary>
+    /// <param name="data">The <see cref="PlayerData"/> asset for the chosen class.</param>
     public void SetCharacter(PlayerData data)
     {
         if (labelClass != null)
@@ -54,6 +112,11 @@ public class HealthBarsComponent : IHUDComponent
         BuildClassStats(data);
     }
 
+    /// <summary>
+    /// Updates all dynamic HUD values from the provided <see cref="PlayerStats"/> snapshot.
+    /// Intended to be called each frame or whenever stats change.
+    /// </summary>
+    /// <param name="stats">Current runtime stats of the player.</param>
     public void Refresh(PlayerStats stats)
     {
         SetHp(stats.CurrentHp, stats.MaxHp);
@@ -62,37 +125,57 @@ public class HealthBarsComponent : IHUDComponent
         SetStats(stats.Damage, stats.Defence, stats.Speed, stats.CritChance, stats.CritMul);
     }
 
+    /// <summary>
+    /// Updates the HP bar fill and numeric label.
+    /// </summary>
+    /// <param name="current">Current HP value.</param>
+    /// <param name="max">Maximum HP value.</param>
     public void SetHp(float current, float max)
     {
         if (labelHp == null) return;
-
         labelHp.text = $"{Mathf.RoundToInt(current)}/{Mathf.RoundToInt(max)}";
         float fillPercent = Mathf.Clamp01(current / max) * 100f;
         barHpFill.style.width = new Length(fillPercent, LengthUnit.Percent);
     }
 
+    /// <summary>
+    /// Updates the stamina bar fill and numeric label.
+    /// </summary>
+    /// <param name="current">Current stamina value.</param>
+    /// <param name="max">Maximum stamina value.</param>
     public void SetStamina(float current, float max)
     {
         if (labelSta == null) return;
-
         labelSta.text = $"{Mathf.RoundToInt(current)}/{Mathf.RoundToInt(max)}";
         float fillPercent = Mathf.Clamp01(current / max) * 100f;
         barStaFill.style.width = new Length(fillPercent, LengthUnit.Percent);
     }
 
+    /// <summary>
+    /// Updates the experience bar fill and level label.
+    /// </summary>
+    /// <param name="current">Current experience points accumulated toward the next level.</param>
+    /// <param name="max">Experience points required to reach the next level.</param>
+    /// <param name="level">The player's current level, shown in the label.</param>
     public void SetExp(float current, float max, int level)
     {
         if (labelLevel == null) return;
-
         labelLevel.text = $"Lvl {level}";
         float fillPercent = Mathf.Clamp01(current / max) * 100f;
         barExpFill.style.width = new Length(fillPercent, LengthUnit.Percent);
     }
 
+    /// <summary>
+    /// Updates all core combat stat labels (attack, defence, speed, crit chance, crit multiplier).
+    /// </summary>
+    /// <param name="atk">Attack damage value.</param>
+    /// <param name="def">Defence value.</param>
+    /// <param name="spd">Movement/attack speed value.</param>
+    /// <param name="crit">Critical hit chance as a fraction (0–1); displayed as a percentage.</param>
+    /// <param name="critMul">Critical hit damage multiplier; displayed with an "x" prefix.</param>
     public void SetStats(float atk, float def, float spd, float crit, float critMul)
     {
         if (labelAtk == null) return;
-
         labelAtk.text = Mathf.RoundToInt(atk).ToString();
         labelDef.text = Mathf.RoundToInt(def).ToString();
         labelSpd.text = $"{spd:0.#}";
@@ -100,10 +183,22 @@ public class HealthBarsComponent : IHUDComponent
         labelCritMul.text = $"x{critMul:0.##}";
     }
 
+    #endregion
+
+    #region Private Helpers
+
+    /// <summary>
+    /// Clears <see cref="classStats"/> and rebuilds it with rows specific to the
+    /// player's class subtype. Each row is created via <see cref="AddClassStat"/>.
+    /// </summary>
+    /// <param name="data">
+    /// The <see cref="PlayerData"/> subtype determining which rows are generated.
+    /// Supports <see cref="KnightData"/>, <see cref="RogueData"/>, <see cref="MageData"/>,
+    /// and <see cref="ArcherData"/>.
+    /// </param>
     private void BuildClassStats(PlayerData data)
     {
         if (classStats == null) return;
-
         classStats.Clear();
 
         switch (data)
@@ -142,6 +237,13 @@ public class HealthBarsComponent : IHUDComponent
         }
     }
 
+    /// <summary>
+    /// Creates a key/value row element and appends it to <see cref="classStats"/>.
+    /// Applies USS classes <c>class-stat-row</c>, <c>class-stat-key</c>, and <c>class-stat-val</c>
+    /// for styling.
+    /// </summary>
+    /// <param name="key">The stat name displayed on the left of the row.</param>
+    /// <param name="value">The formatted stat value displayed on the right of the row.</param>
     private void AddClassStat(string key, string value)
     {
         VisualElement row = new VisualElement();
@@ -158,6 +260,11 @@ public class HealthBarsComponent : IHUDComponent
         classStats.Add(row);
     }
 
+    /// <summary>
+    /// Returns a human-readable archetype description for the given <see cref="PlayerData"/> subtype.
+    /// </summary>
+    /// <param name="data">The class data to classify.</param>
+    /// <returns>A string such as "Melee - Tank" or "Ranged - Caster", or "Unknown" for unrecognised types.</returns>
     private string GetClassType(PlayerData data) => data switch
     {
         KnightData => "Melee - Tank",
@@ -166,4 +273,6 @@ public class HealthBarsComponent : IHUDComponent
         ArcherData => "Ranged - Marksman",
         _ => "Unknown"
     };
+
+    #endregion
 }
