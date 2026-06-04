@@ -27,7 +27,8 @@ public class PlayerController : EntityController, IAimProvider
 
     protected override float MaxHealth => playerData.health;
     protected override float GetDefence() => playerData.defence;
-
+    public float Defence => playerData.defence;
+    
     protected InputActionMap PlayerActionMap { get; private set; }
 
     private static readonly int HashIsWalking = Animator.StringToHash("IsWalking");

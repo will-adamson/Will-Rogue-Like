@@ -11,6 +11,7 @@ public class HUDController : MonoBehaviour
     public HealthBarsComponent HealthBars { get; private set; }
     public LogFeedComponent LogFeed { get; private set; }
     public TelegraphComponent Telegraph { get; private set; }
+    public StatusEffectTrayComponent StatusTray { get; private set; }
 
     public event System.Action OnHUDReady;
     public bool IsReady { get; private set; }
@@ -36,12 +37,16 @@ public class HUDController : MonoBehaviour
         Telegraph = new TelegraphComponent();
         Telegraph.Init(root);
 
+        StatusTray = new StatusEffectTrayComponent();
+        StatusTray.Init(root);
+
         root.RegisterCallback<GeometryChangedEvent>(OnLayoutReady);
     }
 
     private void Update()
     {
         Telegraph.Tick(Time.deltaTime);
+        StatusTray.Tick(Time.deltaTime);
     }
 
     private void OnDisable()

@@ -11,4 +11,7 @@ public class StatusEffect : ScriptableObject
 
     /// <summary>Damage per second for DoT effects (poison, burn, etc.). 0 = no DoT.</summary>
     public float damagePerSecond = 0f;
+
+    public bool bypassDefence = false;
+    public int maxStacks = 1;
 }

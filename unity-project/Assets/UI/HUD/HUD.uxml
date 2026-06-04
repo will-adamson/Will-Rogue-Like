@@ -71,6 +71,12 @@
             <ui:Label name="minimap-zone-label" class="minimap-zone-label" text="MINIMAP PLACEHOLDER" />
         </ui:VisualElement>
 
+        <!-- Status effect tray -->
+        <ui:VisualElement name="status-tray-container" class="status-tray-container">
+            <ui:VisualElement name="buff-tray"   class="status-tray" />
+            <ui:VisualElement name="debuff-tray" class="status-tray status-tray-debuff" />
+        </ui:VisualElement>
+
         <!-- Enemy telegraph -->
         <ui:VisualElement name="telegraph-container" class="telegraph-container">
             <ui:VisualElement class="telegraph-inner">
