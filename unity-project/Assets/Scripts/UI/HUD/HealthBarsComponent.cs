@@ -52,7 +52,7 @@ public class HealthBarsComponent : IHUDComponent
     /// <summary>Label displaying the player's class name in uppercase.</summary>
     private Label labelClass;
 
-    /// <summary>Label displaying the player's archetype description (e.g. "Melee — Tank").</summary>
+    /// <summary>Label displaying the player's archetype description (e.g. "Melee - Tank").</summary>
     private Label labelType;
 
     /// <summary>Container whose background image is set to the player's class sprite.</summary>
@@ -264,13 +264,13 @@ public class HealthBarsComponent : IHUDComponent
     /// Returns a human-readable archetype description for the given <see cref="PlayerData"/> subtype.
     /// </summary>
     /// <param name="data">The class data to classify.</param>
-    /// <returns>A string such as "Melee — Tank" or "Ranged — Caster", or "Unknown" for unrecognised types.</returns>
+    /// <returns>A string such as "Melee - Tank" or "Ranged - Caster", or "Unknown" for unrecognised types.</returns>
     private string GetClassType(PlayerData data) => data switch
     {
-        KnightData => "Melee — Tank",
-        RogueData => "Melee — Assassin",
-        MageData => "Ranged — Caster",
-        ArcherData => "Ranged — Marksman",
+        KnightData => "Melee - Tank",
+        RogueData => "Melee - Assassin",
+        MageData => "Ranged - Caster",
+        ArcherData => "Ranged - Marksman",
         _ => "Unknown"
     };
 

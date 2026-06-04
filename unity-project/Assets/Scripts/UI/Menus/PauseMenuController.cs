@@ -40,7 +40,7 @@ public class PauseMenuController : MonoBehaviour
 
     #endregion
 
-    #region Cached UI Elements — Pause Menu
+    #region Cached UI Elements - Pause Menu
 
     private Button btnResume;
     private Button btnInventory;
@@ -49,7 +49,7 @@ public class PauseMenuController : MonoBehaviour
 
     #endregion
 
-    #region Cached UI Elements — Settings
+    #region Cached UI Elements - Settings
 
     private Button btnSettingsBack;
     private Button btnSettingsApply;
@@ -65,7 +65,7 @@ public class PauseMenuController : MonoBehaviour
 
     #endregion
 
-    #region Cached UI Elements — Unsaved Changes Prompt
+    #region Cached UI Elements - Unsaved Changes Prompt
 
     private Button btnApplyLeave;
     private Button btnDiscard;

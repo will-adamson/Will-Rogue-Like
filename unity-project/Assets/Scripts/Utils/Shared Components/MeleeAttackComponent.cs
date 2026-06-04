@@ -127,7 +127,7 @@ public class MeleeAttackComponent : MonoBehaviour
         {
             effectable.ApplyEffect(onHitEffect);
             if (isPlayerAttack)
-                HUDController.Instance.LogFeed.LogSystem($"{onHitEffect.effectName} applied to {targetName}");
+                HUDController.Instance.LogFeed.LogSystem($"{onHitEffect.effectName} applied to {targetName}.");
         }
     }
 }

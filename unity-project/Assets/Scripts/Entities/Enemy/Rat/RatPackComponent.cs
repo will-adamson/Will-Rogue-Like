@@ -51,7 +51,7 @@ public class RatPackComponent : MonoBehaviour
         packMembers.Remove(member);
         RefreshBuffState();
 
-        HUDController.Instance.LogFeed.LogSystem($"Pack member lost. {packMembers.Count} remaining");
+        HUDController.Instance.LogFeed.LogSystem($"Pack member lost. {packMembers.Count} remaining.");
     }
 
     private void RefreshBuffState()
@@ -71,13 +71,13 @@ public class RatPackComponent : MonoBehaviour
     private void ApplyBuff()
     {
         moveComp.SetSpeed(baseData.speed * speedBuffMultiplier);
-        HUDController.Instance.LogFeed.LogSystem($"{gameObject.name} is empowered by the pack");
+        HUDController.Instance.LogFeed.LogSystem($"{gameObject.name} is empowered by the pack.");
     }
 
     private void RemoveBuff()
     {
         moveComp.ResetSpeed();
-        HUDController.Instance.LogFeed.LogSystem($"{gameObject.name} pack is broken. Power fading");
+        HUDController.Instance.LogFeed.LogSystem($"{gameObject.name} pack is broken. Power fading.");
     }
 
     public float GetDamageMultiplier() => isBuffed ? damageBuffMultiplier : 1f;

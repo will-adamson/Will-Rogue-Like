@@ -88,7 +88,7 @@ public class PlayerController : EntityController, IAimProvider
         PlayerData data = GameSession.SelectedClass != null ? GameSession.SelectedClass : playerData;
         HUDController.Instance.HealthBars.SetCharacter(data);
         RefreshHUD();
-        HUDController.Instance.LogFeed.LogSystem("Welcome to Placeholder");
+        HUDController.Instance.LogFeed.LogSystem("Welcome to Placeholder.");
     }
 
     protected virtual void Update()
@@ -129,12 +129,12 @@ public class PlayerController : EntityController, IAimProvider
         Stats.AddExp(amount);
         HUDController.Instance.LogFeed.LogGold($"You gained {Mathf.RoundToInt(amount)} experience.");
         if (Stats.Level > levelBefore)
-            HUDController.Instance.LogFeed.LogSystem($"You reached level {Stats.Level}!");
+            HUDController.Instance.LogFeed.LogSystem($"You reached level {Stats.Level}.");
     }
 
     protected override void HandleDeath()
     {
-            HUDController.Instance.LogFeed.LogSystem("You have died. Game Over");
+            HUDController.Instance.LogFeed.LogSystem("You have died. Game Over.");
         
         if (Stats != null)
         {
