@@ -12,6 +12,7 @@ public class MeleeEnemyController : EnemyController
 
     protected MeleeAttackComponent meleeAttackComp;
     private IMeleeMovementStrategy movementStrategy;
+    private bool telegraphShown = false;
 
     protected override void Awake()
     {
