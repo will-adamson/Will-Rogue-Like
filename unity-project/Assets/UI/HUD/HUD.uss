@@ -393,11 +393,9 @@
 .telegraph-danger-low {
   background-color: #4a8a4a;
 }
-
 .telegraph-danger-medium {
   background-color: #c8a030;
 }
-
 .telegraph-danger-high {
   background-color: #8a2a2a;
 }
@@ -441,4 +439,71 @@
 
 .telegraph-bar-fill.telegraph-danger-high {
   background-color: #6b2a2a;
+}
+
+.status-tray-container {
+  position: absolute;
+  top: 164px;
+  right: 8px;
+  flex-direction: column;
+  align-items: flex-end;
+}
+
+.status-tray {
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: flex-end;
+  max-width: 280px;
+  margin-bottom: 4px;
+}
+
+.tray-slot {
+  width: 64px;
+  height: 64px;
+  background-color: rgba(18, 19, 30, 0.95);
+  border-color: #2a3a5a;
+  border-width: 1px;
+  margin-left: 4px;
+  margin-bottom: 4px;
+  position: relative;
+  overflow: hidden;
+  align-items: center;
+  justify-content: center;
+}
+
+.tray-slot-debuff {
+  border-color: #5a2a2a;
+}
+
+.tray-icon {
+  position: absolute;
+  top: 4px;
+  left: 4px;
+  right: 4px;
+  bottom: 18px;
+  -unity-background-scale-mode: scale-to-fit;
+  background-color: #1a2a4a;
+}
+
+.tray-timer {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  height: 18px;
+  font-size: 11px;
+  color: #c8d8f0;
+  -unity-text-align: middle-center;
+  -unity-font-style: bold;
+  background-color: rgba(0, 0, 0, 0.7);
+}
+
+.tray-stacks {
+  position: absolute;
+  top: 3px;
+  right: 4px;
+  font-size: 11px;
+  color: #c8a030;
+  -unity-font-style: bold;
+  -unity-text-align: upper-right;
 }

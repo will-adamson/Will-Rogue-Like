@@ -3,19 +3,16 @@
     <ui:VisualElement name="root" class="root">
 
         <ui:VisualElement name="top-left" class="top-left">
-
-            <!-- Character identity -->
             <ui:VisualElement class="char-row">
                 <ui:VisualElement name="char-sprite" class="char-sprite" />
                 <ui:VisualElement class="char-info">
                     <ui:Label name="label-class" class="char-name" text="KNIGHT" />
-                    <ui:Label name="label-type" class="char-type" text="Melee" />
+                    <ui:Label name="label-type"  class="char-type"  text="Melee" />
                 </ui:VisualElement>
             </ui:VisualElement>
 
             <ui:VisualElement class="panel-divider" />
 
-            <!-- Resource bars -->
             <ui:VisualElement class="bar-row">
                 <ui:Label class="bar-icon bar-icon-hp" text="HP" />
                 <ui:VisualElement class="bar-track">
@@ -42,7 +39,6 @@
 
             <ui:VisualElement class="panel-divider" />
 
-            <!-- Base stats -->
             <ui:VisualElement class="stat-row">
                 <ui:Label class="stat-key" text="ATK" />
                 <ui:Label name="label-atk" class="stat-val" text="0" />
@@ -66,15 +62,19 @@
 
             <ui:VisualElement class="panel-divider" />
 
-            <!-- Class-specific stats -->
             <ui:Label class="section-title" text="CLASS TRAITS" />
             <ui:VisualElement name="class-stats" class="class-stats" />
-
         </ui:VisualElement>
 
         <!-- Minimap -->
         <ui:VisualElement name="minimap-container" class="minimap-container">
             <ui:Label name="minimap-zone-label" class="minimap-zone-label" text="MINIMAP PLACEHOLDER" />
+        </ui:VisualElement>
+
+        <!-- Status effect tray -->
+        <ui:VisualElement name="status-tray-container" class="status-tray-container">
+            <ui:VisualElement name="buff-tray"   class="status-tray" />
+            <ui:VisualElement name="debuff-tray" class="status-tray status-tray-debuff" />
         </ui:VisualElement>
 
         <!-- Enemy telegraph -->
@@ -85,7 +85,7 @@
                 <ui:VisualElement class="telegraph-attack-row">
                     <ui:VisualElement name="telegraph-danger-pip" class="telegraph-danger-pip" />
                     <ui:Label name="telegraph-attack-name" class="telegraph-attack-name" text="" />
-                    <ui:Label name="telegraph-timer" class="telegraph-timer" text="" />
+                    <ui:Label name="telegraph-timer"       class="telegraph-timer"       text="" />
                 </ui:VisualElement>
                 <ui:VisualElement class="telegraph-bar-track">
                     <ui:VisualElement name="telegraph-bar-fill" class="telegraph-bar-fill" />
@@ -105,59 +105,48 @@
         <!-- Quick slots -->
         <ui:VisualElement name="quickslots-container" class="quickslots-container">
             <ui:VisualElement class="quickslots-row">
-
-                <ui:VisualElement name="slot-0" class="quickslot quickslot-active">
+                <ui:VisualElement name="slot-0" class="quickslot">
                     <ui:Label class="quickslot-keybind" text="1" />
                     <ui:VisualElement class="quickslot-icon" />
                     <ui:Label class="quickslot-count" text="" />
                     <ui:VisualElement class="quickslot-cooldown" />
                 </ui:VisualElement>
-
-                <ui:VisualElement name="slot-1" class="quickslot quickslot-active">
+                <ui:VisualElement name="slot-1" class="quickslot">
                     <ui:Label class="quickslot-keybind" text="2" />
                     <ui:VisualElement class="quickslot-icon" />
                     <ui:Label class="quickslot-count" text="" />
                     <ui:VisualElement class="quickslot-cooldown" />
                 </ui:VisualElement>
-
-                <ui:VisualElement name="slot-2" class="quickslot quickslot-active">
+                <ui:VisualElement name="slot-2" class="quickslot">
                     <ui:Label class="quickslot-keybind" text="3" />
                     <ui:VisualElement class="quickslot-icon" />
                     <ui:Label class="quickslot-count" text="" />
                     <ui:VisualElement class="quickslot-cooldown" />
                 </ui:VisualElement>
-
-                <ui:VisualElement name="slot-3" class="quickslot quickslot-active">
+                <ui:VisualElement name="slot-3" class="quickslot">
                     <ui:Label class="quickslot-keybind" text="4" />
                     <ui:VisualElement class="quickslot-icon" />
                     <ui:Label class="quickslot-count" text="" />
                     <ui:VisualElement class="quickslot-cooldown" />
                 </ui:VisualElement>
-
                 <ui:VisualElement name="slot-4" class="quickslot quickslot-locked">
                     <ui:Label class="quickslot-lock-icon" text="🔒" />
                 </ui:VisualElement>
-
                 <ui:VisualElement name="slot-5" class="quickslot quickslot-locked">
                     <ui:Label class="quickslot-lock-icon" text="🔒" />
                 </ui:VisualElement>
-
                 <ui:VisualElement name="slot-6" class="quickslot quickslot-locked">
                     <ui:Label class="quickslot-lock-icon" text="🔒" />
                 </ui:VisualElement>
-
                 <ui:VisualElement name="slot-7" class="quickslot quickslot-locked">
                     <ui:Label class="quickslot-lock-icon" text="🔒" />
                 </ui:VisualElement>
-
                 <ui:VisualElement name="slot-8" class="quickslot quickslot-locked">
                     <ui:Label class="quickslot-lock-icon" text="🔒" />
                 </ui:VisualElement>
-
                 <ui:VisualElement name="slot-9" class="quickslot quickslot-locked">
                     <ui:Label class="quickslot-lock-icon" text="🔒" />
                 </ui:VisualElement>
-
             </ui:VisualElement>
         </ui:VisualElement>
 
