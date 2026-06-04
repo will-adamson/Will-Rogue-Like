@@ -1,0 +1,85 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements">
+    <Style src="HUD.uss" />
+    <ui:VisualElement name="root" class="root">
+
+        <ui:VisualElement name="top-left" class="top-left">
+
+            <!-- Character identity -->
+            <ui:VisualElement class="char-row">
+                <ui:VisualElement name="char-sprite" class="char-sprite" />
+                <ui:VisualElement class="char-info">
+                    <ui:Label name="label-class" class="char-name" text="KNIGHT" />
+                    <ui:Label name="label-type" class="char-type" text="Melee" />
+                </ui:VisualElement>
+            </ui:VisualElement>
+
+            <ui:VisualElement class="panel-divider" />
+
+            <!-- Resource bars -->
+            <ui:VisualElement class="bar-row">
+                <ui:Label class="bar-icon bar-icon-hp" text="HP" />
+                <ui:VisualElement class="bar-track">
+                    <ui:VisualElement name="bar-hp-fill" class="bar-fill bar-fill-hp" />
+                </ui:VisualElement>
+                <ui:Label name="label-hp" class="bar-num" text="100/100" />
+            </ui:VisualElement>
+
+            <ui:VisualElement class="bar-row">
+                <ui:Label class="bar-icon bar-icon-sta" text="STA" />
+                <ui:VisualElement class="bar-track">
+                    <ui:VisualElement name="bar-sta-fill" class="bar-fill bar-fill-sta" />
+                </ui:VisualElement>
+                <ui:Label name="label-sta" class="bar-num" text="100/100" />
+            </ui:VisualElement>
+
+            <ui:VisualElement class="bar-row">
+                <ui:Label class="bar-icon bar-icon-exp" text="EXP" />
+                <ui:VisualElement class="bar-track bar-track-exp">
+                    <ui:VisualElement name="bar-exp-fill" class="bar-fill bar-fill-exp" />
+                </ui:VisualElement>
+                <ui:Label name="label-level" class="bar-num" text="Lvl 1" />
+            </ui:VisualElement>
+
+            <ui:VisualElement class="panel-divider" />
+
+            <!-- Base stats -->
+            <ui:VisualElement class="stat-row">
+                <ui:Label class="stat-key" text="ATK" />
+                <ui:Label name="label-atk" class="stat-val" text="0" />
+            </ui:VisualElement>
+            <ui:VisualElement class="stat-row">
+                <ui:Label class="stat-key" text="DEF" />
+                <ui:Label name="label-def" class="stat-val" text="0" />
+            </ui:VisualElement>
+            <ui:VisualElement class="stat-row">
+                <ui:Label class="stat-key" text="SPD" />
+                <ui:Label name="label-spd" class="stat-val" text="0" />
+            </ui:VisualElement>
+            <ui:VisualElement class="stat-row">
+                <ui:Label class="stat-key" text="CRIT" />
+                <ui:Label name="label-crit" class="stat-val" text="0%" />
+            </ui:VisualElement>
+            <ui:VisualElement class="stat-row">
+                <ui:Label class="stat-key" text="CRIT DMG" />
+                <ui:Label name="label-crit-mul" class="stat-val" text="x1.5" />
+            </ui:VisualElement>
+
+            <ui:VisualElement class="panel-divider" />
+
+            <!-- Class-specific stats -->
+            <ui:Label class="section-title" text="CLASS TRAITS" />
+            <ui:VisualElement name="class-stats" class="class-stats" />
+
+        </ui:VisualElement>
+
+        <!-- Log feed -->
+        <ui:VisualElement name="log-container" class="log-container">
+            <ui:ScrollView name="log-scroll" class="log-scroll"
+                vertical-scroller-visibility="Hidden"
+                horizontal-scroller-visibility="Hidden">
+                <ui:VisualElement name="log-content" class="log-content" />
+            </ui:ScrollView>
+        </ui:VisualElement>
+
+    </ui:VisualElement>
+</ui:UXML>
