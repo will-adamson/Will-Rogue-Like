@@ -170,10 +170,13 @@
 }
 
 .log-container {
-  width: 50%;
+  position: absolute;
+  bottom: 8px;
+  left: 8px;
+  width: 420px;
   height: 110px;
   background-color: rgba(10, 11, 18, 0.88);
-  border-top-width: 1px;
+  border-width: 1px;
   border-color: #2a3a5a;
   padding: 6px 10px;
   flex-shrink: 0;
@@ -236,22 +239,106 @@
 }
 
 .minimap-container {
-    position: absolute;
-    top: 12px;
-    right: 12px;
-    width: 148px;
-    height: 148px;
-    border-radius: 74px;
-    border-width: 1px;
-    border-color: #2a3a5a;
-    background-color: rgba(18, 19, 30, 0.92);
-    align-items: center;
-    justify-content: center;
+  position: absolute;
+  top: 8px;
+  right: 8px;
+  width: 148px;
+  height: 148px;
+  border-radius: 74px;
+  border-width: 1px;
+  border-color: #2a3a5a;
+  background-color: rgba(18, 19, 30, 0.92);
+  align-items: center;
+  justify-content: center;
 }
 
 .minimap-zone-label {
-    font-size: 8px;
-    color: #3a4a6b;
-    letter-spacing: 2px;
-    -unity-text-align: middle-center;
+  font-size: 8px;
+  color: #3a4a6b;
+  letter-spacing: 2px;
+  -unity-text-align: middle-center;
+}
+
+.quickslots-container {
+  position: absolute;
+  bottom: 8px;
+  left: 0;
+  right: 0;
+  align-items: center;
+}
+
+.quickslots-row {
+  flex-direction: row;
+  align-items: center;
+  background-color: rgba(18, 19, 30, 0.92);
+  border-color: #2a3a5a;
+  border-width: 1px;
+  padding: 6px;
+}
+
+.quickslot {
+  width: 48px;
+  height: 48px;
+  background-color: #0a0b12;
+  border-color: #2a3a5a;
+  border-width: 1px;
+  margin-left: 3px;
+  margin-right: 3px;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+  overflow: hidden;
+}
+
+.quickslot-selected {
+  border-color: #c8d8f0;
+  border-width: 1px;
+}
+
+.quickslot-keybind {
+  position: absolute;
+  top: 2px;
+  left: 3px;
+  font-size: 8px;
+  color: #3a4a6b;
+  -unity-font-style: bold;
+}
+
+.quickslot-icon {
+  position: absolute;
+  top: 6px;
+  left: 6px;
+  right: 6px;
+  bottom: 6px;
+  -unity-background-scale-mode: scale-to-fit;
+}
+
+.quickslot-count {
+  position: absolute;
+  bottom: 2px;
+  right: 3px;
+  font-size: 8px;
+  color: #8a9ab8;
+  -unity-font-style: bold;
+  -unity-text-align: lower-right;
+}
+
+.quickslot-cooldown {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  height: 0;
+  background-color: rgba(0, 0, 0, 0.65);
+}
+
+.quickslot-locked {
+  background-color: rgba(10, 11, 18, 0.5);
+  border-color: #1a2030;
+}
+
+.quickslot-lock-icon {
+  font-size: 14px;
+  color: #2a3a5a;
+  -unity-text-align: middle-center;
 }

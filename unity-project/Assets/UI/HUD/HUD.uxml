@@ -86,5 +86,64 @@
             </ui:ScrollView>
         </ui:VisualElement>
 
+        <!-- Quick slots -->
+        <ui:VisualElement name="quickslots-container" class="quickslots-container">
+            <ui:VisualElement class="quickslots-row">
+
+                <ui:VisualElement name="slot-0" class="quickslot quickslot-active">
+                    <ui:Label class="quickslot-keybind" text="1" />
+                    <ui:VisualElement class="quickslot-icon" />
+                    <ui:Label class="quickslot-count" text="" />
+                    <ui:VisualElement class="quickslot-cooldown" />
+                </ui:VisualElement>
+
+                <ui:VisualElement name="slot-1" class="quickslot quickslot-active">
+                    <ui:Label class="quickslot-keybind" text="2" />
+                    <ui:VisualElement class="quickslot-icon" />
+                    <ui:Label class="quickslot-count" text="" />
+                    <ui:VisualElement class="quickslot-cooldown" />
+                </ui:VisualElement>
+
+                <ui:VisualElement name="slot-2" class="quickslot quickslot-active">
+                    <ui:Label class="quickslot-keybind" text="3" />
+                    <ui:VisualElement class="quickslot-icon" />
+                    <ui:Label class="quickslot-count" text="" />
+                    <ui:VisualElement class="quickslot-cooldown" />
+                </ui:VisualElement>
+
+                <ui:VisualElement name="slot-3" class="quickslot quickslot-active">
+                    <ui:Label class="quickslot-keybind" text="4" />
+                    <ui:VisualElement class="quickslot-icon" />
+                    <ui:Label class="quickslot-count" text="" />
+                    <ui:VisualElement class="quickslot-cooldown" />
+                </ui:VisualElement>
+
+                <ui:VisualElement name="slot-4" class="quickslot quickslot-locked">
+                    <ui:Label class="quickslot-lock-icon" text="🔒" />
+                </ui:VisualElement>
+
+                <ui:VisualElement name="slot-5" class="quickslot quickslot-locked">
+                    <ui:Label class="quickslot-lock-icon" text="🔒" />
+                </ui:VisualElement>
+
+                <ui:VisualElement name="slot-6" class="quickslot quickslot-locked">
+                    <ui:Label class="quickslot-lock-icon" text="🔒" />
+                </ui:VisualElement>
+
+                <ui:VisualElement name="slot-7" class="quickslot quickslot-locked">
+                    <ui:Label class="quickslot-lock-icon" text="🔒" />
+                </ui:VisualElement>
+
+                <ui:VisualElement name="slot-8" class="quickslot quickslot-locked">
+                    <ui:Label class="quickslot-lock-icon" text="🔒" />
+                </ui:VisualElement>
+
+                <ui:VisualElement name="slot-9" class="quickslot quickslot-locked">
+                    <ui:Label class="quickslot-lock-icon" text="🔒" />
+                </ui:VisualElement>
+
+            </ui:VisualElement>
+        </ui:VisualElement>
+
     </ui:VisualElement>
 </ui:UXML>
