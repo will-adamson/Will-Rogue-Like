@@ -342,3 +342,103 @@
   color: #2a3a5a;
   -unity-text-align: middle-center;
 }
+
+.telegraph-container {
+  position: absolute;
+  top: 8px;
+  left: 0;
+  right: 0;
+  align-items: center;
+  display: none;
+}
+
+.telegraph-container.telegraph-visible {
+  display: flex;
+}
+
+.telegraph-inner {
+  flex-direction: column;
+  background-color: rgba(18, 19, 30, 0.92);
+  border-color: #2a3a5a;
+  border-width: 1px;
+  padding: 8px 14px;
+  min-width: 240px;
+  max-width: 360px;
+  align-items: stretch;
+}
+
+.telegraph-enemy-name {
+  font-size: 9px;
+  color: #4a5a7a;
+  letter-spacing: 3px;
+  -unity-font-style: bold;
+  -unity-text-align: middle-center;
+  margin-bottom: 2px;
+}
+
+.telegraph-attack-row {
+  flex-direction: row;
+  align-items: center;
+  margin-bottom: 6px;
+}
+
+.telegraph-danger-pip {
+  width: 6px;
+  height: 6px;
+  border-radius: 3px;
+  margin-right: 7px;
+  flex-shrink: 0;
+}
+
+.telegraph-danger-low {
+  background-color: #4a8a4a;
+}
+
+.telegraph-danger-medium {
+  background-color: #c8a030;
+}
+
+.telegraph-danger-high {
+  background-color: #8a2a2a;
+}
+
+.telegraph-attack-name {
+  font-size: 11px;
+  color: #c8d8f0;
+  -unity-font-style: bold;
+  flex-grow: 1;
+}
+
+.telegraph-timer {
+  font-size: 10px;
+  color: #4a5a7a;
+  -unity-text-align: middle-right;
+  margin-left: 10px;
+  flex-shrink: 0;
+}
+
+.telegraph-bar-track {
+  height: 3px;
+  background-color: #0a0b12;
+  border-color: #2a3a5a;
+  border-width: 1px;
+  overflow: hidden;
+}
+
+.telegraph-bar-fill {
+  height: 100%;
+  width: 100%;
+  background-color: #4a5a7a;
+}
+
+.telegraph-bar-fill.telegraph-danger-low {
+  background-color: #2a5a2a;
+}
+
+.telegraph-bar-fill.telegraph-danger-medium {
+  background-color: #4a3a0a;
+}
+
+.telegraph-bar-fill.telegraph-danger-high {
+  background-color: #6b2a2a;
+}

@@ -60,6 +60,21 @@ public abstract class EnemyData : ScriptableObject
     /// </summary>
     public bool isHoldPosition = false;
 
+    /// <summary>
+    /// Name shown in the HUD for the enemy's incoming attack.
+    /// </summary>
+    public string attackName = "Attack";
+
+    /// <summary>
+    /// Duration in seconds that the telegraph panel stays visible.
+    /// </summary>
+    public float telegraphDuration = 2f;
+
+    /// <summary>
+    /// Threat level styling applied to the telegraph panel.
+    /// </summary>
+    public TelegraphDanger danger = TelegraphDanger.Low;
+
     #endregion
 
     #region Progression

@@ -77,6 +77,22 @@
             <ui:Label name="minimap-zone-label" class="minimap-zone-label" text="MINIMAP PLACEHOLDER" />
         </ui:VisualElement>
 
+        <!-- Enemy telegraph -->
+        <ui:VisualElement name="telegraph-container" class="telegraph-container">
+            <ui:VisualElement class="telegraph-inner">
+                <ui:Label name="telegraph-enemy-name" class="telegraph-enemy-name" text="" />
+                <ui:VisualElement class="panel-divider" />
+                <ui:VisualElement class="telegraph-attack-row">
+                    <ui:VisualElement name="telegraph-danger-pip" class="telegraph-danger-pip" />
+                    <ui:Label name="telegraph-attack-name" class="telegraph-attack-name" text="" />
+                    <ui:Label name="telegraph-timer" class="telegraph-timer" text="" />
+                </ui:VisualElement>
+                <ui:VisualElement class="telegraph-bar-track">
+                    <ui:VisualElement name="telegraph-bar-fill" class="telegraph-bar-fill" />
+                </ui:VisualElement>
+            </ui:VisualElement>
+        </ui:VisualElement>
+
         <!-- Log feed -->
         <ui:VisualElement name="log-container" class="log-container">
             <ui:ScrollView name="log-scroll" class="log-scroll"

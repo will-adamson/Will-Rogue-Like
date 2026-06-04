@@ -12,6 +12,7 @@ public class MeleeEnemyController : EnemyController
 
     protected MeleeAttackComponent meleeAttackComp;
     private IMeleeMovementStrategy movementStrategy;
+    private bool telegraphShown = false;
 
     protected override void Awake()
     {
@@ -37,7 +38,19 @@ public class MeleeEnemyController : EnemyController
 
     protected override void HandleAttack(Vector2 dir)
     {
-        if (meleeAttackComp != null && meleeAttackComp.Attack(dir))
-            TriggerAttackAnimation();
+        if (!meleeAttackComp.CanAttack())
+        {
+            telegraphShown = false;
+            return;
+        }
+
+        if (!telegraphShown)
+        {
+            ShowTelegraph();
+            telegraphShown = true;
+        }
+
+        TriggerAttackAnimation();
+        meleeAttackComp.Attack(dir);
     }
 }

@@ -45,6 +45,12 @@ public class HUDController : MonoBehaviour
     public LogFeedComponent LogFeed { get; private set; }
 
     /// <summary>
+    /// Component managing the enemy attack telegraph panel.
+    /// Valid after <see cref="OnHUDReady"/> fires.
+    /// </summary>
+    public TelegraphComponent Telegraph { get; private set; }
+
+    /// <summary>
     /// Raised once on the frame when the UI Toolkit layout pass completes
     /// and all element geometry is valid.
     /// </summary>
@@ -79,7 +85,15 @@ public class HUDController : MonoBehaviour
         LogFeed = new LogFeedComponent();
         LogFeed.Init(root, logMaxLines);
 
+        Telegraph = new TelegraphComponent();
+        Telegraph.Init(root);
+
         root.RegisterCallback<GeometryChangedEvent>(OnLayoutReady);
+    }
+
+    private void Update()
+    {
+        Telegraph?.Tick(Time.deltaTime);
     }
 
     /// <summary>
