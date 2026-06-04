@@ -13,8 +13,6 @@ public class TelegraphComponent : IHUDComponent
     private float totalDuration;
     private float remainingTime;
 
-    private TelegraphDanger currentDanger;
-
     public void Init(VisualElement root)
     {
         telegraphContainer = root.Q<VisualElement>("telegraph-container");
@@ -25,24 +23,21 @@ public class TelegraphComponent : IHUDComponent
         telegraphBarFill = root.Q<VisualElement>("telegraph-bar-fill");
     }
 
-    public void Show(
-        string enemyName,
-        string attackName,
-        float duration,
-        TelegraphDanger danger)
+    public void Show(string enemyName, string attackName, float duration, TelegraphDanger danger)
     {
-        if (telegraphContainer == null)
-            return;
+        if (telegraphContainer == null) return;
 
         totalDuration = duration;
         remainingTime = duration;
-        currentDanger = danger;
 
         if (telegraphEnemyName != null)
             telegraphEnemyName.text = enemyName.ToUpper();
 
         if (telegraphAttackName != null)
             telegraphAttackName.text = $"Incoming: {attackName}";
+
+        if (telegraphTimer != null)
+            telegraphTimer.text = $"{duration:0.0}s";
 
         ApplyDanger(danger);
         SetProgress(1f);
@@ -52,16 +47,13 @@ public class TelegraphComponent : IHUDComponent
 
     public void Hide()
     {
-        if (telegraphContainer == null)
-            return;
-
+        if (telegraphContainer == null) return;
         telegraphContainer.RemoveFromClassList("telegraph-visible");
     }
 
     public void Tick(float deltaTime)
     {
-        if (totalDuration <= 0f)
-            return;
+        if (totalDuration <= 0f) return;
 
         remainingTime = Mathf.Max(0f, remainingTime - deltaTime);
 
@@ -74,11 +66,9 @@ public class TelegraphComponent : IHUDComponent
             Hide();
     }
 
-    public void SetProgress(float fraction)
+    private void SetProgress(float fraction)
     {
-        if (telegraphBarFill == null)
-            return;
-
+        if (telegraphBarFill == null) return;
         telegraphBarFill.style.width =
             new Length(Mathf.Clamp01(fraction) * 100f, LengthUnit.Percent);
     }

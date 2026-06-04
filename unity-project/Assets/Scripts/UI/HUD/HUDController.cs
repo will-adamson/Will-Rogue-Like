@@ -13,7 +13,6 @@ public class HUDController : MonoBehaviour
     public TelegraphComponent Telegraph { get; private set; }
 
     public event System.Action OnHUDReady;
-
     public bool IsReady { get; private set; }
 
     private void Awake()
@@ -38,6 +37,11 @@ public class HUDController : MonoBehaviour
         Telegraph.Init(root);
 
         root.RegisterCallback<GeometryChangedEvent>(OnLayoutReady);
+    }
+
+    private void Update()
+    {
+        Telegraph.Tick(Time.deltaTime);
     }
 
     private void OnDisable()

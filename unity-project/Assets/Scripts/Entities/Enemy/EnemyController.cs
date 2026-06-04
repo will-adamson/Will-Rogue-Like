@@ -61,6 +61,18 @@ public abstract class EnemyController : EntityController
 
     protected void TriggerAttackAnimation() => Anim.SetTrigger(HashAttack);
 
+    protected void ShowTelegraph()
+    {
+        if (HUDController.Instance == null || !HUDController.Instance.IsReady) return;
+
+        HUDController.Instance.Telegraph.Show(
+            Data.name,
+            Data.attackName,
+            Data.telegraphDuration,
+            Data.danger
+        );
+    }
+
     protected override void HandleDeath()
     {
         Anim.SetTrigger(HashDie);

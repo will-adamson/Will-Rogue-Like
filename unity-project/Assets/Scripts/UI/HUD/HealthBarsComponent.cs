@@ -1,6 +1,3 @@
-Here's the same class with all comments removed:
-
-```csharp
 using UnityEngine;
 using UnityEngine.UIElements;
 
@@ -170,4 +167,3 @@ public class HealthBarsComponent : IHUDComponent
         _ => "Unknown"
     };
 }
-```
