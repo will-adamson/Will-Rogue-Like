@@ -1,7 +1,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-[CreateAssetMenu(fileName = "EnemyPrefabRegistry", menuName = "Scriptable Objects/Enemies/EnemyPrefabRegistry")]
+[CreateAssetMenu(fileName = "EnemyPrefabRegistry", menuName = "Scriptable Objects/Enemies/Enemy Prefab Registry")]
 public class EnemyPrefabRegistry : ScriptableObject
 {
     [SerializeField]
@@ -10,7 +10,7 @@ public class EnemyPrefabRegistry : ScriptableObject
     [System.Serializable]
     private struct EnemyTypePrefab
     {
-        /// <summary>Must match the type string used in EnemyWaveData. Examples: "LargeRat", "SmallSlime".</summary>
+        /// <summary>Must match the type string used in EnemyWaveData. Examples: "Large Rat", "Slime".</summary>
         public string type;
         public GameObject prefab;
     }

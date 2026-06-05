@@ -3,7 +3,7 @@ using UnityEngine;
 [System.Serializable]
 public class EnemySpawn
 {
-    /// <summary>Must match a type registered in EnemyPrefabRegistry. Examples: "LargeRat", "SmallSlime".</summary>
+    /// <summary>Must match a type registered in EnemyPrefabRegistry. Examples: "Large Rat", "Slime".</summary>
     public string enemyType;
     public int count;
 

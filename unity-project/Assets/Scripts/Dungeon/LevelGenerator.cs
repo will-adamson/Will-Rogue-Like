@@ -10,7 +10,7 @@ public class RoomPrefabs
         roomUpRight, roomUpRightDown;
 }
 
-[RequireComponent(typeof(PlayerSpawner), typeof(EnemySpawner))]
+[RequireComponent(typeof(PlayerSpawner), typeof(EnemySpawner), typeof(ChestSpawner))]
 public class LevelGenerator : MonoBehaviour
 {
     [Header("References")]
@@ -29,11 +29,13 @@ public class LevelGenerator : MonoBehaviour
 
     private PlayerSpawner playerSpawner;
     private EnemySpawner enemySpawner;
+    private ChestSpawner chestSpawner;
 
     private Vector3 startRoomPosition;
     private Vector3 endRoomPosition;
     private Vector3 playerSpawnPosition;
     private List<Vector3> roomPositions;
+    private List<Room> spawnedRooms = new List<Room>();
     private List<GameObject> markers;
     private Transform roomParent;
     private Direction direction;
@@ -42,6 +44,7 @@ public class LevelGenerator : MonoBehaviour
     {
         playerSpawner = GetComponent<PlayerSpawner>();
         enemySpawner = GetComponent<EnemySpawner>();
+        chestSpawner = GetComponent<ChestSpawner>();
 
         if (ObjectPoolManager.Instance == null)
             new GameObject("Object Pool Manager").AddComponent<ObjectPoolManager>();
@@ -58,6 +61,7 @@ public class LevelGenerator : MonoBehaviour
         GridManager.Instance.BakeWalls();
 
         SpawnEnemies();
+        SpawnChests();
         playerSpawner.SpawnPlayer(playerSpawnPosition);
     }
 
@@ -97,6 +101,8 @@ public class LevelGenerator : MonoBehaviour
 
     private void PlaceRoomPrefabs()
     {
+        spawnedRooms = new List<Room>();
+
         CreateRoomOutline(startRoomPosition);
 
         bool up = Physics2D.OverlapCircle(startRoomPosition + new Vector3(0, yOffset, 0), 0.2f, roomLayerMask);
@@ -148,6 +154,12 @@ public class LevelGenerator : MonoBehaviour
         }
     }
 
+    private void SpawnChests()
+    {
+        foreach (Room room in spawnedRooms)
+            chestSpawner.OnRoomGenerated(room);
+    }
+
     private void CleanupMarkers()
     {
         foreach (GameObject marker in markers) Destroy(marker);
@@ -164,7 +176,13 @@ public class LevelGenerator : MonoBehaviour
         GameObject prefab = GetRoomPrefab(up, down, left, right);
         if (prefab == null) return null;
 
-        return Instantiate(prefab, roomPosition, Quaternion.identity, roomParent);
+        GameObject instance = Instantiate(prefab, roomPosition, Quaternion.identity, roomParent);
+
+        Room room = instance.GetComponent<Room>();
+        if (room != null && roomPosition != startRoomPosition && roomPosition != endRoomPosition)
+            spawnedRooms.Add(room);
+
+        return instance;
     }
 
     private GameObject GetRoomPrefab(bool up, bool down, bool left, bool right)
