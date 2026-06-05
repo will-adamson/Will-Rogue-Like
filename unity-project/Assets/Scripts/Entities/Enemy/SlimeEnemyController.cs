@@ -27,7 +27,7 @@ public class SlimeEnemyController : MeleeEnemyController
         if (isSplit) StartCoroutine(SpawnScaleIn());
     }
 
-    private void Update()
+    protected override void Update()
     {
         if (IsDead) return;
 
@@ -143,9 +143,6 @@ public class SlimeEnemyController : MeleeEnemyController
                 (Vector2)transform.position + offset, Quaternion.identity);
 
             split.transform.localScale = transform.localScale * 0.6f;
-
-            if (split.TryGetComponent(out DamageFlashComponent flash))
-                flash.ResetColor();
 
             if (split.TryGetComponent(out SlimeEnemyController splitController))
                 splitController.isSplit = true;

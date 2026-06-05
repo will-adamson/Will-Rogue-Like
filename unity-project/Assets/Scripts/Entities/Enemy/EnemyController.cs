@@ -3,9 +3,6 @@ using UnityEngine;
 [RequireComponent(typeof(MoveComponent), typeof(PlayerDetectorComponent))]
 public abstract class EnemyController : EntityController
 {
-    private static readonly int HashAttack = Animator.StringToHash("Attack");
-    private static readonly int HashDie = Animator.StringToHash("Die");
-
     protected abstract EnemyData Data { get; }
 
     protected MoveComponent MovementComp { get; private set; }
@@ -25,7 +22,7 @@ public abstract class EnemyController : EntityController
         PlayerDetectorComp.Init(Data.detectionRange, Data.attackRange);
     }
 
-    private void Update()
+    protected virtual void Update()
     {
         if (IsDead || PlayerDetectorComp == null)
         {

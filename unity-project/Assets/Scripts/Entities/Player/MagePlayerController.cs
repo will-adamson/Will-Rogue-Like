@@ -4,8 +4,6 @@ using UnityEngine.InputSystem;
 [RequireComponent(typeof(ProjectileAttackComponent))]
 public class MagePlayerController : PlayerController
 {
-    private static readonly int HashAttack = Animator.StringToHash("Attack");
-
     private MagePlayerData magePlayerData;
     private InputAction attackAction;
 

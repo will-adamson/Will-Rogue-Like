@@ -192,7 +192,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 297dfe87666cb409c87f5f0f667ae9d7, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::RatEnemyController
-  meleeData: {fileID: 11400000, guid: 8bf9dad798a944272b25a0236bcdc95a, type: 2}
+  meleeEnemyData: {fileID: 11400000, guid: 8bf9dad798a944272b25a0236bcdc95a, type: 2}
   panicSpeedMultiplier: 0
   canPanic: 0
   isPackLeader: 0

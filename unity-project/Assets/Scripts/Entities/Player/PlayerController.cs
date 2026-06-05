@@ -1,3 +1,4 @@
+using System.Collections;
 using UnityEngine;
 using UnityEngine.InputSystem;
 
@@ -19,6 +20,7 @@ public class PlayerController : EntityController, IAimProvider
     private InputAction moveAction;
 
     protected Vector2 moveInput;
+    private float lastHorizontalDir = 1f;
 
     protected IAttacker Attacker { get; set; }
     protected Vector2 PendingDirection { get; set; }
@@ -29,13 +31,13 @@ public class PlayerController : EntityController, IAimProvider
     protected override float GetDefence() => playerData.defence;
     public float Defence => playerData.defence;
 
+    protected override string DeathStateName => "Fighter Die";
+
     protected InputActionMap PlayerActionMap { get; private set; }
 
     private static readonly int HashIsWalking = Animator.StringToHash("IsWalking");
     private static readonly int HashLastDirX = Animator.StringToHash("LastDirX");
     private static readonly int HashLastDirY = Animator.StringToHash("LastDirY");
-
-    private float lastHorizontalDir = 1f; 
 
     public PlayerStats Stats { get; private set; }
 
@@ -77,13 +79,9 @@ public class PlayerController : EntityController, IAimProvider
         if (HUDController.Instance == null) return;
 
         if (HUDController.Instance.IsReady)
-        {
             OnHUDReady();
-        }
         else
-        {
             HUDController.Instance.OnHUDReady += OnHUDReady;
-        }
     }
 
     private void OnHUDReady()
@@ -98,7 +96,11 @@ public class PlayerController : EntityController, IAimProvider
 
     protected virtual void Update()
     {
-        if (IsDead) return;
+        if (IsDead)
+        {
+            moveComp.Move(Vector2.zero);
+            return;
+        }
 
         moveInput = moveAction.ReadValue<Vector2>();
 
@@ -108,7 +110,7 @@ public class PlayerController : EntityController, IAimProvider
             if (Mathf.Abs(moveInput.x) >= Mathf.Abs(moveInput.y))
             {
                 dir = new Vector2(Mathf.Sign(moveInput.x), 0);
-                lastHorizontalDir = Mathf.Sign(moveInput.x); 
+                lastHorizontalDir = Mathf.Sign(moveInput.x);
             }
             else
                 dir = new Vector2(0, Mathf.Sign(moveInput.y));
@@ -131,7 +133,11 @@ public class PlayerController : EntityController, IAimProvider
         moveComp.Move(moveInput);
     }
 
-    public void FireAttack() => Attacker?.Attack(PendingDirection);
+    public void FireAttack()
+    {
+        Attacker?.Attack(PendingDirection);
+        Anim.SetTrigger(HashAttack);
+    }
 
     private void RefreshHUD()
     {
@@ -139,10 +145,7 @@ public class PlayerController : EntityController, IAimProvider
         HUDController.Instance.HealthBars.Refresh(Stats);
     }
 
-    public void UseStamina(float amount)
-    {
-        Stats?.ModifyStamina(-amount);
-    }
+    public void UseStamina(float amount) => Stats?.ModifyStamina(-amount);
 
     public void GainExp(float amount)
     {
@@ -152,6 +155,16 @@ public class PlayerController : EntityController, IAimProvider
         HUDController.Instance.LogFeed.LogGold($"You gained {Mathf.RoundToInt(amount)} experience.");
         if (Stats.Level > levelBefore)
             HUDController.Instance.LogFeed.LogSystem($"You reached level {Stats.Level}.");
+    }
+
+    protected override void OnDamageTaken(float rawAmount)
+    {
+        base.OnDamageTaken(rawAmount);
+
+        if (Stats == null) return;
+        float actualDamage = Mathf.Max(0f, rawAmount - GetDefence());
+        Stats.ModifyHp(-actualDamage);
+        HUDController.Instance.LogFeed.LogDamage($"You took {Mathf.RoundToInt(actualDamage)} damage.");
     }
 
     protected override void HandleDeath()
@@ -165,6 +178,18 @@ public class PlayerController : EntityController, IAimProvider
             HUDController.Instance.HealthBars.SetExp(Stats.CurrentExp, Stats.MaxExp, Stats.Level);
         }
 
+        base.HandleDeath();
+    }
+
+    protected override void OnDeathAnimationComplete()
+    {
+        StartCoroutine(TombstoneRoutine());
+    }
+
+    private IEnumerator TombstoneRoutine()
+    {
+        yield return new WaitForSeconds(1f);
+
         if (tombstonePrefabs != null && tombstonePrefabs.Length > 0)
         {
             GameObject tombstone = tombstonePrefabs[Random.Range(0, tombstonePrefabs.Length)];
@@ -172,13 +197,5 @@ public class PlayerController : EntityController, IAimProvider
         }
 
         Destroy(gameObject);
-    }
-
-    protected override void OnDamageTaken(float rawAmount)
-    {
-        if (Stats == null) return;
-        float actualDamage = Mathf.Max(0f, rawAmount - GetDefence());
-        Stats.ModifyHp(-actualDamage);
-        HUDController.Instance.LogFeed.LogDamage($"You took {Mathf.RoundToInt(actualDamage)} damage.");
     }
 }

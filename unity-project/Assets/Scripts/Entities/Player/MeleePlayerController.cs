@@ -9,8 +9,6 @@ public class MeleePlayerController : PlayerController
     private InputAction attackAction;
     private MeleeAttackComponent meleeAttackComp;
 
-    private static readonly int HashAttack = Animator.StringToHash("Attack");
-
     protected override void Awake()
     {
         base.Awake();

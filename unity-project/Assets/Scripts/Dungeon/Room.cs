@@ -16,8 +16,6 @@ public class Room : MonoBehaviour
 
     public void TrySpawnChest(GameObject chestPrefab, float spawnChance)
     {
-            Debug.Log($"TrySpawnChest called — spawned: {chestSpawned}, points: {chestSpawnPoints?.Length}");
-
         if (chestSpawned) return;
         if (chestSpawnPoints == null || chestSpawnPoints.Length == 0) return;
         if (Random.value > spawnChance) return;

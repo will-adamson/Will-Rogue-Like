@@ -25,7 +25,7 @@ public class RatEnemyController : MeleeEnemyController
         }
     }
 
-    private void Update()
+    protected override void Update()
     {
         if (packComp != null)
             meleeAttackComp.SetDamageMultiplier(packComp.GetDamageMultiplier());

@@ -163,7 +163,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f0f182a140c774923a730b7fd2eb6c22, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::SlimeEnemyController
-  meleeData: {fileID: 11400000, guid: ac2641263d10bf342a3c4dff96f50e20, type: 2}
+  meleeEnemyData: {fileID: 11400000, guid: ac2641263d10bf342a3c4dff96f50e20, type: 2}
   smallSlimePrefab: {fileID: 6464531875417237264}
   splitCount: 2
   splitSpread: 1.2
+  patrolDirection: {x: 1, y: 0}
+  patrolSpeedMultiplier: 0.5
+  patrolChangeInterval: 3
+  separationRadius: 0.8
+  separationForce: 2

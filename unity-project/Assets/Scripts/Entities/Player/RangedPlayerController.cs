@@ -4,8 +4,6 @@ using UnityEngine.InputSystem;
 [RequireComponent(typeof(ProjectileAttackComponent))]
 public class RangedPlayerController : PlayerController
 {
-    private static readonly int HashAttack = Animator.StringToHash("Attack");
-
     private RangedPlayerData rangedPlayerData;
     private InputAction attackAction;
 

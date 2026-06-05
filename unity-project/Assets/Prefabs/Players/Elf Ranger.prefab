@@ -74,7 +74,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7671588603364208770, guid: e8ea2479f365a402e8af549b9df918dc, type: 3}
       propertyPath: m_Name
-      value: Archer
+      value: Elf Ranger
       objectReference: {fileID: 0}
     - target: {fileID: 8018796966690288438, guid: e8ea2479f365a402e8af549b9df918dc, type: 3}
       propertyPath: m_Controller
@@ -92,7 +92,8 @@ PrefabInstance:
       propertyPath: m_ActionEvents.Array.data[2].m_ActionName
       value: 'Player/Attack[/Keyboard/space]'
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    m_RemovedComponents:
+    - {fileID: 7035404848354599040, guid: e8ea2479f365a402e8af549b9df918dc, type: 3}
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
     m_AddedComponents:
