@@ -28,10 +28,14 @@ public class PlayerController : EntityController, IAimProvider
     protected override float MaxHealth => playerData.health;
     protected override float GetDefence() => playerData.defence;
     public float Defence => playerData.defence;
-    
+
     protected InputActionMap PlayerActionMap { get; private set; }
 
     private static readonly int HashIsWalking = Animator.StringToHash("IsWalking");
+    private static readonly int HashLastDirX = Animator.StringToHash("LastDirX");
+    private static readonly int HashLastDirY = Animator.StringToHash("LastDirY");
+
+    private float lastHorizontalDir = 1f; 
 
     public PlayerStats Stats { get; private set; }
 
@@ -98,10 +102,27 @@ public class PlayerController : EntityController, IAimProvider
 
         moveInput = moveAction.ReadValue<Vector2>();
 
-        if (moveInput != Vector2.zero) AimDirection = moveInput.normalized;
-        if (moveInput.x != 0f) Sprite.flipX = moveInput.x < 0f;
+        if (moveInput.magnitude > 0.1f)
+        {
+            Vector2 dir;
+            if (Mathf.Abs(moveInput.x) >= Mathf.Abs(moveInput.y))
+            {
+                dir = new Vector2(Mathf.Sign(moveInput.x), 0);
+                lastHorizontalDir = Mathf.Sign(moveInput.x); 
+            }
+            else
+                dir = new Vector2(0, Mathf.Sign(moveInput.y));
 
-        Anim.SetBool(HashIsWalking, moveInput != Vector2.zero);
+            AimDirection = dir;
+        }
+
+        Vector2 blendDir = AimDirection;
+        if (AimDirection.y < 0 && AimDirection.x == 0)
+            blendDir = new Vector2(lastHorizontalDir, 0);
+
+        Anim.SetBool(HashIsWalking, moveInput.magnitude > 0.1f);
+        Anim.SetFloat(HashLastDirX, blendDir.x);
+        Anim.SetFloat(HashLastDirY, blendDir.y);
     }
 
     private void FixedUpdate()
@@ -135,8 +156,8 @@ public class PlayerController : EntityController, IAimProvider
 
     protected override void HandleDeath()
     {
-            HUDController.Instance.LogFeed.LogSystem("You have died. Game Over.");
-        
+        HUDController.Instance.LogFeed.LogSystem("You have died. Game Over.");
+
         if (Stats != null)
         {
             HUDController.Instance.HealthBars.SetHp(0, Stats.MaxHp);

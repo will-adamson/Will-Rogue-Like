@@ -8,7 +8,7 @@ public class RatEnemyControllerEditor : Editor
     {
         serializedObject.Update();
 
-        EditorGUILayout.PropertyField(serializedObject.FindProperty("meleeData"));
+        EditorGUILayout.PropertyField(serializedObject.FindProperty("meleeEnemyData"));
 
         EditorGUILayout.Space();
 

@@ -1,7 +1,7 @@
 using UnityEngine;
 
-[CreateAssetMenu(fileName = "KnightData", menuName = "Scriptable Objects/Players/KnightData")]
-public class KnightData : MeleeData
+[CreateAssetMenu(fileName = "DwarvenFighter", menuName = "Scriptable Objects/Players/Dwarven Fighter")]
+public class DwarvenFighterData : MeleePlayerData
 {
     /// <summary>Damage reduction when blocking. Range: 0–1. TODO: implement blocking.</summary>
     public float blockDamageReduction = 0.5f;

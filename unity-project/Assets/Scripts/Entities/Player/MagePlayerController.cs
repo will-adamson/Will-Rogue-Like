@@ -6,18 +6,18 @@ public class MagePlayerController : PlayerController
 {
     private static readonly int HashAttack = Animator.StringToHash("Attack");
 
-    private MageData mageData;
+    private MagePlayerData magePlayerData;
     private InputAction attackAction;
 
     protected override void Awake()
     {
         base.Awake();
 
-        mageData = playerData as MageData;
-        if (mageData == null) return;
+        magePlayerData = playerData as MagePlayerData;
+        if (magePlayerData == null) return;
 
         ProjectileAttackComponent projectileAttackComp = GetComponent<ProjectileAttackComponent>();
-        projectileAttackComp.Init(mageData.projectileData, bonusDamage: mageData.damage);
+        projectileAttackComp.Init(magePlayerData.projectileData, bonusDamage: magePlayerData.damage);
 
         Attacker = projectileAttackComp;
         attackAction = PlayerActionMap.FindAction("Project");

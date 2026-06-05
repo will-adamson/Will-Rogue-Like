@@ -1,7 +1,7 @@
 using UnityEngine;
 
-[CreateAssetMenu(fileName = "MageData", menuName = "Scriptable Objects/Players/MageData")]
-public class MageData : PlayerData
+[CreateAssetMenu(fileName = "MagePlayerData", menuName = "Scriptable Objects/Players/MagePlayerData")]
+public class MagePlayerData : PlayerData
 {
     public ProjectileData projectileData;
 

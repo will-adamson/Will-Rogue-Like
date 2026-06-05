@@ -108,22 +108,14 @@ public class HealthBarsComponent : IHUDComponent
 
         switch (data)
         {
-            case KnightData k:
-                AddClassStat("Block Reduction", $"{k.blockDamageReduction * 100f:0}%");
-                AddClassStat("Charge Speed", $"{k.chargeSpeed:0.#}");
-                AddClassStat("Attack Range", $"{k.attackRange:0.#}");
-                AddClassStat("Knockback", $"{k.knockbackForce:0.#}");
+            case DwarvenFighterData d:
+                AddClassStat("Block Reduction", $"{d.blockDamageReduction * 100f:0}%");
+                AddClassStat("Charge Speed", $"{d.chargeSpeed:0.#}");
+                AddClassStat("Attack Range", $"{d.attackRange:0.#}");
+                AddClassStat("Knockback", $"{d.knockbackForce:0.#}");
                 break;
 
-            case RogueData r:
-                AddClassStat("Dodge Chance", $"{r.dodgeChance * 100f:0}%");
-                AddClassStat("Backstab Mul", $"x{r.backstabMultiplier:0.#}");
-                AddClassStat("Dash Speed", $"{r.dashSpeed:0.#}");
-                AddClassStat("Dash Cooldown", $"{r.dashCooldown:0.#}s");
-                AddClassStat("Attack Range", $"{r.attackRange:0.#}");
-                break;
-
-            case MageData m:
+            case MagePlayerData m:
                 AddClassStat("Cast Cooldown", $"{m.castCooldown:0.##}s");
                 AddClassStat("Spell Range", $"{m.spellRange:0.#}");
                 AddClassStat("Spell Speed", $"{m.spellSpeed:0.#}");
@@ -131,7 +123,7 @@ public class HealthBarsComponent : IHUDComponent
                 AddClassStat("Spread", $"{m.spreadAngle:0}°");
                 break;
 
-            case ArcherData a:
+            case RangedPlayerData a:
                 AddClassStat("Arrow Range", $"{a.arrowRange:0.#}");
                 AddClassStat("Arrow Speed", $"{a.arrowSpeed:0.#}");
                 AddClassStat("Draw Cooldown", $"{a.drawCooldown:0.##}s");
@@ -160,10 +152,9 @@ public class HealthBarsComponent : IHUDComponent
 
     private string GetClassType(PlayerData data) => data switch
     {
-        KnightData => "Melee - Tank",
-        RogueData => "Melee - Assassin",
-        MageData => "Ranged - Caster",
-        ArcherData => "Ranged - Marksman",
+        DwarvenFighterData => "PLACEHOLDER",
+        MagePlayerData => "PLACEHOLDER",
+        RangedPlayerData => "PLACEHOLDER",
         _ => "Unknown"
     };
 }

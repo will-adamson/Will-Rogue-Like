@@ -4,8 +4,6 @@ public abstract class PlayerData : ScriptableObject
 {
     public Sprite sprite;
     public new string name;
-    public PlayerType playerType;
-
     public float health = 100f;
     public float stamina = 100f;
     public float damage = 10f;

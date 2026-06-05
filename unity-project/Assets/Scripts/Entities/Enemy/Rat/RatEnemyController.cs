@@ -20,7 +20,7 @@ public class RatEnemyController : MeleeEnemyController
         if (isPackLeader)
         {
             packComp = gameObject.AddComponent<RatPackComponent>();
-            packComp.Init(meleeData);
+            packComp.Init(meleeEnemyData);
             RegisterWithPackMembers();
         }
     }

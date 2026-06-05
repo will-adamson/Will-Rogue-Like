@@ -10,17 +10,18 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 8ec009144a04e4ed3bd1707152701671, type: 3}
-  m_Name: Knight
+  m_Name: Dwarven Fighter
   m_EditorClassIdentifier: Assembly-CSharp::KnightData
-  sprite: {fileID: 6463269995255551577, guid: 4e849f6479d584c33992ed869b424c54, type: 3}
-  name: Knight
-  playerType: 0
+  sprite: {fileID: 9006104351298167142, guid: af40bd469d32b470ea9d2f8e1d56ae46, type: 3}
+  name: Dwarven Fighter
   health: 150
+  stamina: 100
   damage: 15
   speed: 4
   defence: 3
   critChance: 0
   critMultiplier: 1.5
+  experienceToNextLevel: 100
   attackCooldown: 0.5
   knockbackForce: 3
   attackRange: 0.6

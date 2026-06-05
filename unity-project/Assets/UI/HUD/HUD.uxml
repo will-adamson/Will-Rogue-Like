@@ -6,7 +6,7 @@
             <ui:VisualElement class="char-row">
                 <ui:VisualElement name="char-sprite" class="char-sprite" />
                 <ui:VisualElement class="char-info">
-                    <ui:Label name="label-class" class="char-name" text="KNIGHT" />
+                    <ui:Label name="label-class" class="char-name" text="DWARVEN FIGHTER" />
                     <ui:Label name="label-type"  class="char-type"  text="Melee" />
                 </ui:VisualElement>
             </ui:VisualElement>

@@ -10,11 +10,11 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 168685986553614318, guid: e8ea2479f365a402e8af549b9df918dc, type: 3}
       propertyPath: m_LocalScale.x
-      value: 0.75
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 168685986553614318, guid: e8ea2479f365a402e8af549b9df918dc, type: 3}
       propertyPath: m_LocalScale.y
-      value: 0.75
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 168685986553614318, guid: e8ea2479f365a402e8af549b9df918dc, type: 3}
       propertyPath: m_LocalPosition.x
@@ -67,19 +67,19 @@ PrefabInstance:
     - target: {fileID: 1017813279480442857, guid: e8ea2479f365a402e8af549b9df918dc, type: 3}
       propertyPath: m_Sprite
       value: 
-      objectReference: {fileID: 6463269995255551577, guid: 4e849f6479d584c33992ed869b424c54, type: 3}
+      objectReference: {fileID: 9006104351298167142, guid: af40bd469d32b470ea9d2f8e1d56ae46, type: 3}
     - target: {fileID: 1017813279480442857, guid: e8ea2479f365a402e8af549b9df918dc, type: 3}
       propertyPath: m_WasSpriteAssigned
       value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 7671588603364208770, guid: e8ea2479f365a402e8af549b9df918dc, type: 3}
       propertyPath: m_Name
-      value: Knight
+      value: Dwarven Fighter
       objectReference: {fileID: 0}
     - target: {fileID: 8018796966690288438, guid: e8ea2479f365a402e8af549b9df918dc, type: 3}
       propertyPath: m_Controller
       value: 
-      objectReference: {fileID: 9100000, guid: 714f6bede964d44e0ad0af9a25f9fc19, type: 2}
+      objectReference: {fileID: 9100000, guid: 079df9a5dccc640afba3bf7c9dcf8b9f, type: 2}
     - target: {fileID: 8854439022456856642, guid: e8ea2479f365a402e8af549b9df918dc, type: 3}
       propertyPath: m_ActionEvents.Array.size
       value: 4

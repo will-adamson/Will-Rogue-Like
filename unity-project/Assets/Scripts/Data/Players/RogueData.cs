@@ -1,7 +1,7 @@
 using UnityEngine;
 
 [CreateAssetMenu(fileName = "RogueData", menuName = "Scriptable Objects/Players/RogueData")]
-public class RogueData : MeleeData
+public class RogueData : MeleePlayerData
 {
     /// <summary>TODO: implement dash mechanic.</summary>
     public float dashSpeed = 12f;

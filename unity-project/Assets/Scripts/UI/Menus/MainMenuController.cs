@@ -14,10 +14,9 @@ public class MainMenuController : MonoBehaviour
     [SerializeField] private string gameSceneName = "Game";
 
     [Header("Class Data")]
-    [SerializeField] private KnightData knightData;
-    [SerializeField] private RogueData rogueData;
-    [SerializeField] private MageData mageData;
-    [SerializeField] private ArcherData archerData;
+    [SerializeField] private DwarvenFighterData dwarvenFighterData;
+    [SerializeField] private MagePlayerData magePlayerData;
+    [SerializeField] private RangedPlayerData rangedPlayerData;
 
     private Button btnNewRun;
     private Button btnContinue;
@@ -44,18 +43,16 @@ public class MainMenuController : MonoBehaviour
 
     private readonly string[] cardNames =
     {
-        "card-knight",
-        "card-rogue",
-        "card-mage",
-        "card-archer"
+        "card-dwarven-fighter",
+        "card-human-wizard",
+        "card-elf-ranger"
     };
 
     private readonly string[] classNames =
     {
-        "Knight",
-        "Rogue",
-        "Mage",
-        "Archer"
+        "Dwarven Fighter",
+        "Human Wizard",
+        "Elf Ranger"
     };
 
     private int selectedIndex = 0;
@@ -64,10 +61,9 @@ public class MainMenuController : MonoBehaviour
     {
         classData = new PlayerData[]
         {
-            knightData,
-            rogueData,
-            mageData,
-            archerData
+            dwarvenFighterData,
+            magePlayerData,
+            rangedPlayerData
         };
 
         SetupMainMenu();
@@ -255,16 +251,13 @@ public class MainMenuController : MonoBehaviour
 
     private string GetPassiveText(PlayerData data) => data switch
     {
-        KnightData k =>
-            $"Block Reduction: {k.blockDamageReduction * 100f:0}%  |  Charge Speed: {k.chargeSpeed}",
+        DwarvenFighterData d =>
+            $"Block Reduction: {d.blockDamageReduction * 100f:0}%  |  Charge Speed: {d.chargeSpeed}",
 
-        RogueData r =>
-            $"Dodge: {r.dodgeChance * 100f:0}%  |  Backstab: x{r.backstabMultiplier}  |  Dash Speed: {r.dashSpeed}  |  Dash CD: {r.dashCooldown}s",
-
-        MageData m =>
+        MagePlayerData m =>
             $"Cast CD: {m.castCooldown}s  |  Range: {m.spellRange}  |  Speed: {m.spellSpeed}  |  Projectiles: {m.projectilesPerCast}  |  Spread: {m.spreadAngle}°",
 
-        ArcherData a =>
+        RangedPlayerData a =>
             $"Range: {a.arrowRange}  |  Speed: {a.arrowSpeed}  |  Draw CD: {a.drawCooldown}s  |  Arrows: {a.arrowsPerShot}  |  Spread: {a.spreadAngle}°  |  Charged: x{a.chargedShotMultiplier}",
 
         _ => ""

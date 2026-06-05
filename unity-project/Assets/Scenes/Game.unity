@@ -472,10 +472,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 67952c727df154e35844e006d813042b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::PlayerSpawner
-  knightPrefab: {fileID: 8275022656891357064, guid: 992328dab61b340e29791e420519f66c, type: 3}
-  roguePrefab: {fileID: 8275022656891357064, guid: 78de47b1b33704cd9a8b8faffbcac3ad, type: 3}
-  magePrefab: {fileID: 8275022656891357064, guid: ae347eb598d2d4e72979975453918fd4, type: 3}
-  archerPrefab: {fileID: 8275022656891357064, guid: 3941bff45dcb7334aa37de2869d70422, type: 3}
+  dwarvenFighterPrefab: {fileID: 8275022656891357064, guid: 992328dab61b340e29791e420519f66c, type: 3}
+  humanWizardPrefab: {fileID: 8275022656891357064, guid: ae347eb598d2d4e72979975453918fd4, type: 3}
+  elfRangerPrefab: {fileID: 8275022656891357064, guid: 3941bff45dcb7334aa37de2869d70422, type: 3}
 --- !u!114 &611227257
 MonoBehaviour:
   m_ObjectHideFlags: 0

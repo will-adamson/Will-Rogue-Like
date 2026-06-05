@@ -6,9 +6,9 @@ public class MeleeEnemyController : EnemyController
     private const string LayerNamePlayer = "Player";
 
     [Header("SO Data")]
-    [SerializeField] protected MeleeEnemyData meleeData;
+    [SerializeField] protected MeleeEnemyData meleeEnemyData;
 
-    protected override EnemyData Data => meleeData;
+    protected override EnemyData Data => meleeEnemyData;
 
     protected MeleeAttackComponent meleeAttackComp;
     private IMeleeMovementStrategy movementStrategy;
@@ -16,7 +16,7 @@ public class MeleeEnemyController : EnemyController
 
     protected override void Awake()
     {
-        if (meleeData == null)
+        if (meleeEnemyData == null)
         {
             enabled = false;
             return;
@@ -25,14 +25,14 @@ public class MeleeEnemyController : EnemyController
         base.Awake();
 
         meleeAttackComp = GetComponent<MeleeAttackComponent>();
-        meleeAttackComp.Init(meleeData, LayerNamePlayer, meleeData.name);
+        meleeAttackComp.Init(meleeEnemyData, LayerNamePlayer, meleeEnemyData.name);
 
-        movementStrategy = MovementStrategyFactory.Create(meleeData, MovementComp);
+        movementStrategy = MovementStrategyFactory.Create(meleeEnemyData, MovementComp);
     }
 
     protected override void HandleMovement(Vector2 dir, float sqrDist)
     {
-        Vector2 moveDir = movementStrategy.GetMoveDirection(dir, sqrDist, meleeData.circleStrafeDist);
+        Vector2 moveDir = movementStrategy.GetMoveDirection(dir, sqrDist, meleeEnemyData.circleStrafeDist);
         MovementComp.Move(moveDir);
     }
 

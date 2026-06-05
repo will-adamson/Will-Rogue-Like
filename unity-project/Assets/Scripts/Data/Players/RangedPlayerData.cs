@@ -1,7 +1,7 @@
 using UnityEngine;
 
-[CreateAssetMenu(fileName = "ArcherData", menuName = "Scriptable Objects/Players/ArcherData")]
-public class ArcherData : PlayerData
+[CreateAssetMenu(fileName = "RangedPlayerData", menuName = "Scriptable Objects/Players/Ranged Player Data")]
+public class RangedPlayerData : PlayerData
 {
     public ProjectileData arrowData;
 

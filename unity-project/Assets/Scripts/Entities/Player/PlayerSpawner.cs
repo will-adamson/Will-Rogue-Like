@@ -2,22 +2,20 @@ using UnityEngine;
 
 public class PlayerSpawner : MonoBehaviour
 {
-    [SerializeField] private GameObject knightPrefab;
-    [SerializeField] private GameObject roguePrefab;
-    [SerializeField] private GameObject magePrefab;
-    [SerializeField] private GameObject archerPrefab;
+    [SerializeField] private GameObject dwarvenFighterPrefab;
+    [SerializeField] private GameObject humanWizardPrefab;
+    [SerializeField] private GameObject elfRangerPrefab;
 
     public GameObject SpawnPlayer(Vector3 spawnPosition)
     {
-        string selectedClass = PlayerPrefs.GetString("selectedClass", "Knight");
+        string selectedClass = PlayerPrefs.GetString("selectedClass", "Dwarven Fighter");
 
         GameObject prefab = selectedClass switch
         {
-            "Knight" => knightPrefab,
-            "Rogue" => roguePrefab,
-            "Mage" => magePrefab,
-            "Archer" => archerPrefab,
-            _ => knightPrefab
+            "Dwarven Fighter" => dwarvenFighterPrefab,
+            "Human Wizard" => humanWizardPrefab,
+            "Elf Ranger" => elfRangerPrefab,
+            _ => dwarvenFighterPrefab
         };
 
         if (prefab == null) return null;

@@ -15,12 +15,12 @@ public class MeleePlayerController : PlayerController
     {
         base.Awake();
 
-        MeleeData meleeData = playerData as MeleeData;
+        MeleePlayerData meleePlayerData = playerData as MeleePlayerData;
 
         attackAction = PlayerActionMap.FindAction("Attack");
 
         meleeAttackComp = GetComponent<MeleeAttackComponent>();
-        meleeAttackComp.Init(playerData.damage, meleeData.knockbackForce, meleeData.attackCooldown, LAYER_NAME_ENEMY);
+        meleeAttackComp.Init(playerData.damage, meleePlayerData.knockbackForce, meleePlayerData.attackCooldown, LAYER_NAME_ENEMY);
     }
 
     protected override void OnEnable()

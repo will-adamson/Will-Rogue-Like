@@ -2,22 +2,22 @@ using UnityEngine;
 using UnityEngine.InputSystem;
 
 [RequireComponent(typeof(ProjectileAttackComponent))]
-public class ArcherPlayerController : PlayerController
+public class RangedPlayerController : PlayerController
 {
     private static readonly int HashAttack = Animator.StringToHash("Attack");
 
-    private ArcherData archerData;
+    private RangedPlayerData rangedPlayerData;
     private InputAction attackAction;
 
     protected override void Awake()
     {
         base.Awake();
 
-        archerData = playerData as ArcherData;
-        if (archerData == null) return;
+        rangedPlayerData = playerData as RangedPlayerData;
+        if (rangedPlayerData == null) return;
 
         ProjectileAttackComponent projectileAttackComp = GetComponent<ProjectileAttackComponent>();
-        projectileAttackComp.Init(archerData.arrowData, bonusDamage: archerData.damage);
+        projectileAttackComp.Init(rangedPlayerData.arrowData, bonusDamage: rangedPlayerData.damage);
 
         Attacker = projectileAttackComp;
         attackAction = PlayerActionMap.FindAction("Attack");

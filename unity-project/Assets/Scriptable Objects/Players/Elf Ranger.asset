@@ -10,17 +10,18 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 3e72fac6619f44a919edc4522980fa15, type: 3}
-  m_Name: Archer
+  m_Name: Elf Ranger
   m_EditorClassIdentifier: Assembly-CSharp::ArcherData
   sprite: {fileID: 2730903356912373620, guid: b60c7bea51c98c649a19a81613b05285, type: 3}
-  name: Archer
-  playerType: 3
+  name: Elf Ranger
   health: 90
+  stamina: 100
   damage: 14
   speed: 6
   defence: 0
   critChance: 0
   critMultiplier: 1.5
+  experienceToNextLevel: 100
   arrowData: {fileID: 11400000, guid: 5d6b2cbb5caf1534c8f83559153c733d, type: 2}
   drawCooldown: 0.6
   arrowRange: 12
