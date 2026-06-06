@@ -118,13 +118,18 @@ public class PlayerController : EntityController, IAimProvider
             AimDirection = dir;
         }
 
-        Vector2 blendDir = AimDirection;
-        if (AimDirection.y < 0 && AimDirection.x == 0)
-            blendDir = new Vector2(lastHorizontalDir, 0);
+        Vector2 blendDir = GetBlendDirection();
 
         Anim.SetBool(HashIsWalking, moveInput.magnitude > 0.1f);
         Anim.SetFloat(HashLastDirX, blendDir.x);
         Anim.SetFloat(HashLastDirY, blendDir.y);
+    }
+
+    protected virtual Vector2 GetBlendDirection()
+    {
+        if (AimDirection.y < 0 && AimDirection.x == 0)
+            return new Vector2(lastHorizontalDir, 0);
+        return AimDirection;
     }
 
     private void FixedUpdate()
@@ -136,7 +141,6 @@ public class PlayerController : EntityController, IAimProvider
     public void FireAttack()
     {
         Attacker?.Attack(PendingDirection);
-        Anim.SetTrigger(HashAttack);
     }
 
     private void RefreshHUD()
@@ -198,4 +202,6 @@ public class PlayerController : EntityController, IAimProvider
 
         Destroy(gameObject);
     }
+
+    public virtual void OnAttackComplete() { }
 }

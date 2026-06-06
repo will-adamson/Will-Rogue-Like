@@ -6,6 +6,7 @@ public class MagePlayerController : PlayerController
 {
     private MagePlayerData magePlayerData;
     private InputAction attackAction;
+    protected bool IsAttacking { get; set; }
 
     protected override void Awake()
     {
@@ -18,7 +19,7 @@ public class MagePlayerController : PlayerController
         projectileAttackComp.Init(magePlayerData.projectileData, bonusDamage: magePlayerData.damage);
 
         Attacker = projectileAttackComp;
-        attackAction = PlayerActionMap.FindAction("Project");
+        attackAction = PlayerActionMap.FindAction("Attack");
     }
 
     protected override void OnEnable()
@@ -41,6 +42,12 @@ public class MagePlayerController : PlayerController
     {
         if (IsDead) return;
         PendingDirection = AimDirection;
+        IsAttacking = true;
         Anim.SetTrigger(HashAttack);
+    }
+
+    public override void OnAttackComplete()
+    {
+        IsAttacking = false;
     }
 }

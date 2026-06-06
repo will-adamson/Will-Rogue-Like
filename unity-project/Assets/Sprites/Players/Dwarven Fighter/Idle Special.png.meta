@@ -1,0 +1,3343 @@
+fileFormatVersion: 2
+guid: 096afbc4eec0b4ffda0c1af5d00b1975
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3308332402110245163
+    second: Figther_Idle_Special_0
+  - first:
+      213: -5207570620563995289
+    second: Figther_Idle_Special_1
+  - first:
+      213: 9206071600571140258
+    second: Figther_Idle_Special_2
+  - first:
+      213: 4675420503532718183
+    second: Figther_Idle_Special_3
+  - first:
+      213: 3333629078731940019
+    second: Figther_Idle_Special_4
+  - first:
+      213: 8438948735215028582
+    second: Figther_Idle_Special_5
+  - first:
+      213: -5224232065966225929
+    second: Figther_Idle_Special_6
+  - first:
+      213: 4709564333958001512
+    second: Figther_Idle_Special_7
+  - first:
+      213: 2429228291618764254
+    second: Figther_Idle_Special_8
+  - first:
+      213: -450326971052354969
+    second: Figther_Idle_Special_9
+  - first:
+      213: -7523207991687624303
+    second: Figther_Idle_Special_10
+  - first:
+      213: -4840453682317323943
+    second: Figther_Idle_Special_11
+  - first:
+      213: -1301048341772116433
+    second: Figther_Idle_Special_12
+  - first:
+      213: 1278897038552454664
+    second: Figther_Idle_Special_13
+  - first:
+      213: -3159899184728493320
+    second: Figther_Idle_Special_14
+  - first:
+      213: -335597476525131307
+    second: Figther_Idle_Special_15
+  - first:
+      213: 5906641155871945758
+    second: Figther_Idle_Special_16
+  - first:
+      213: -5591539427839189415
+    second: Figther_Idle_Special_17
+  - first:
+      213: 6310552998964407135
+    second: Figther_Idle_Special_18
+  - first:
+      213: -7105042079758483125
+    second: Figther_Idle_Special_19
+  - first:
+      213: 4604721057044415593
+    second: Figther_Idle_Special_20
+  - first:
+      213: -6308436895156680303
+    second: Figther_Idle_Special_21
+  - first:
+      213: -1433961980954511686
+    second: Figther_Idle_Special_22
+  - first:
+      213: -3158209573125094851
+    second: Figther_Idle_Special_23
+  - first:
+      213: 4926078086406477626
+    second: Figther_Idle_Special_24
+  - first:
+      213: -40156774995429374
+    second: Figther_Idle_Special_25
+  - first:
+      213: -2910166320357971695
+    second: Figther_Idle_Special_26
+  - first:
+      213: 6229611327023265678
+    second: Figther_Idle_Special_27
+  - first:
+      213: -6546435459100831743
+    second: Figther_Idle_Special_28
+  - first:
+      213: -8193568093153111070
+    second: Figther_Idle_Special_29
+  - first:
+      213: -6993556890481407151
+    second: Figther_Idle_Special_30
+  - first:
+      213: 636515984855934761
+    second: Figther_Idle_Special_31
+  - first:
+      213: -7507571069153547109
+    second: Figther_Idle_Special_32
+  - first:
+      213: -6430375164394892032
+    second: Figther_Idle_Special_33
+  - first:
+      213: 2642792203890803938
+    second: Figther_Idle_Special_34
+  - first:
+      213: 9124133282792153842
+    second: Figther_Idle_Special_35
+  - first:
+      213: -7471684459688794682
+    second: Figther_Idle_Special_36
+  - first:
+      213: -3315826144258543485
+    second: Figther_Idle_Special_37
+  - first:
+      213: 5328034938350151663
+    second: Figther_Idle_Special_38
+  - first:
+      213: 3631562026454896531
+    second: Figther_Idle_Special_39
+  - first:
+      213: -571692427750662108
+    second: Figther_Idle_Special_40
+  - first:
+      213: -5929780879816438056
+    second: Figther_Idle_Special_41
+  - first:
+      213: -248665968774438692
+    second: Figther_Idle_Special_42
+  - first:
+      213: -5862938927499296655
+    second: Figther_Idle_Special_43
+  - first:
+      213: -1684873912956887007
+    second: Figther_Idle_Special_44
+  - first:
+      213: 7296409173151211709
+    second: Figther_Idle_Special_45
+  - first:
+      213: -1035399973065930526
+    second: Figther_Idle_Special_46
+  - first:
+      213: -4821120657187607307
+    second: Figther_Idle_Special_47
+  - first:
+      213: -3398397117737392468
+    second: Figther_Idle_Special_48
+  - first:
+      213: -5901217472158629687
+    second: Figther_Idle_Special_49
+  - first:
+      213: 6296414716121625552
+    second: Figther_Idle_Special_50
+  - first:
+      213: -8106957310029904660
+    second: Figther_Idle_Special_51
+  - first:
+      213: 4976567846309611401
+    second: Figther_Idle_Special_52
+  - first:
+      213: -1323520199009950917
+    second: Figther_Idle_Special_53
+  - first:
+      213: 8890498693960370519
+    second: Figther_Idle_Special_54
+  - first:
+      213: -7512579104462913194
+    second: Figther_Idle_Special_55
+  - first:
+      213: 6218764641563237095
+    second: Figther_Idle_Special_56
+  - first:
+      213: 1965745010491783290
+    second: Figther_Idle_Special_57
+  - first:
+      213: -5421522754184620542
+    second: Figther_Idle_Special_58
+  - first:
+      213: 2738070691883478642
+    second: Figther_Idle_Special_59
+  - first:
+      213: 8611817658353321227
+    second: Figther_Idle_Special_60
+  - first:
+      213: -9065058492034391578
+    second: Figther_Idle_Special_61
+  - first:
+      213: 855106924045109536
+    second: Figther_Idle_Special_62
+  - first:
+      213: 5321595711582190434
+    second: Figther_Idle_Special_63
+  - first:
+      213: 614272971792091605
+    second: Figther_Idle_Special_64
+  - first:
+      213: 7817443752438935672
+    second: Figther_Idle_Special_65
+  - first:
+      213: 3686603260154959139
+    second: Figther_Idle_Special_66
+  - first:
+      213: -3281240050217546895
+    second: Figther_Idle_Special_67
+  - first:
+      213: -4050002472667657048
+    second: Figther_Idle_Special_68
+  - first:
+      213: 691306087730089702
+    second: Figther_Idle_Special_69
+  - first:
+      213: -2968278895406481581
+    second: Figther_Idle_Special_70
+  - first:
+      213: -1146905175167779722
+    second: Figther_Idle_Special_71
+  - first:
+      213: -5460807283262487373
+    second: Figther_Idle_Special_72
+  - first:
+      213: 3663483624305704271
+    second: Figther_Idle_Special_73
+  - first:
+      213: -460932266501323525
+    second: Figther_Idle_Special_74
+  - first:
+      213: -3042957130537529418
+    second: Figther_Idle_Special_75
+  - first:
+      213: -8402474189615825344
+    second: Figther_Idle_Special_76
+  - first:
+      213: 7974011386324860253
+    second: Figther_Idle_Special_77
+  - first:
+      213: 4211461527880875268
+    second: Figther_Idle_Special_78
+  - first:
+      213: 947696882022269395
+    second: Figther_Idle_Special_79
+  - first:
+      213: -872001470103124868
+    second: Figther_Idle_Special_80
+  - first:
+      213: -3066739733640548635
+    second: Figther_Idle_Special_81
+  - first:
+      213: 5700764402950275097
+    second: Figther_Idle_Special_82
+  - first:
+      213: -2231184721917373376
+    second: Figther_Idle_Special_83
+  - first:
+      213: -8320292904732618408
+    second: Figther_Idle_Special_84
+  - first:
+      213: -152645215849859185
+    second: Figther_Idle_Special_85
+  - first:
+      213: -312145091859409952
+    second: Figther_Idle_Special_86
+  - first:
+      213: 6764916879364592321
+    second: Figther_Idle_Special_87
+  - first:
+      213: 303275588859333389
+    second: Figther_Idle_Special_88
+  - first:
+      213: -4980642954535385215
+    second: Figther_Idle_Special_89
+  - first:
+      213: 8358910826518980468
+    second: Figther_Idle_Special_90
+  - first:
+      213: -195783600954731338
+    second: Figther_Idle_Special_91
+  - first:
+      213: -678037104688780400
+    second: Figther_Idle_Special_92
+  - first:
+      213: 5480285570154677528
+    second: Figther_Idle_Special_93
+  - first:
+      213: 4717259470357431936
+    second: Figther_Idle_Special_94
+  - first:
+      213: 1539869759677719251
+    second: Figther_Idle_Special_95
+  - first:
+      213: 6292779748700061299
+    second: Figther_Idle_Special_96
+  - first:
+      213: -7679847048059119098
+    second: Figther_Idle_Special_97
+  - first:
+      213: 6366157254495501587
+    second: Figther_Idle_Special_98
+  - first:
+      213: 8056942746400274088
+    second: Figther_Idle_Special_99
+  - first:
+      213: -6644789633173919167
+    second: Figther_Idle_Special_100
+  - first:
+      213: 8480691365307084800
+    second: Figther_Idle_Special_101
+  - first:
+      213: -6821543881152017209
+    second: Figther_Idle_Special_102
+  - first:
+      213: 6049032757105925772
+    second: Figther_Idle_Special_103
+  - first:
+      213: -6933003936386628906
+    second: Figther_Idle_Special_104
+  - first:
+      213: 4110043907511664430
+    second: Figther_Idle_Special_105
+  - first:
+      213: 6391379788605850932
+    second: Figther_Idle_Special_106
+  - first:
+      213: -1865500372127774369
+    second: Figther_Idle_Special_107
+  - first:
+      213: -1460240132029503205
+    second: Figther_Idle_Special_108
+  - first:
+      213: -7129392082017640027
+    second: Figther_Idle_Special_109
+  - first:
+      213: -7717114368377710066
+    second: Figther_Idle_Special_110
+  - first:
+      213: 8642987420636719288
+    second: Figther_Idle_Special_111
+  - first:
+      213: 4704908230822971073
+    second: Figther_Idle_Special_112
+  - first:
+      213: 7948168413382181014
+    second: Figther_Idle_Special_113
+  - first:
+      213: -4441519924504566761
+    second: Figther_Idle_Special_114
+  - first:
+      213: -9124950994383529996
+    second: Figther_Idle_Special_115
+  - first:
+      213: 8495296725201119410
+    second: Figther_Idle_Special_116
+  - first:
+      213: -4392766789178886292
+    second: Figther_Idle_Special_117
+  - first:
+      213: 4330670616161539422
+    second: Figther_Idle_Special_118
+  - first:
+      213: -6511278208094934731
+    second: Figther_Idle_Special_119
+  - first:
+      213: -6682304229262238683
+    second: Figther_Idle_Special_120
+  - first:
+      213: 7021963982752036938
+    second: Figther_Idle_Special_121
+  - first:
+      213: -7807956847846113676
+    second: Figther_Idle_Special_122
+  - first:
+      213: -4712663154181039404
+    second: Figther_Idle_Special_123
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Figther Idle Special_0
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 109
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d52530ad8d2974804bffe57aeb7a69ef
+      internalID: -794014021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Figther Idle Special_1
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 109
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 142bb235fd08e463cbd271a7b265f674
+      internalID: 691775349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Figther Idle Special_2
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 109
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d5a0dd88d1654144988bef0c0f8f33c
+      internalID: 1737336064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Figther Idle Special_3
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 109
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 977701d77f59f455f846b465bb568b3f
+      internalID: 661965914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Figther Idle Special_4
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 109
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 543372f572cae48078390ad9c79e4205
+      internalID: -1358913367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Figther Idle Special_5
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 109
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0365ccb955cf8469fb7afd2e81aa4593
+      internalID: 1622130782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Figther Idle Special_6
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 109
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd5f974ed9d094a2294a64def3b61110
+      internalID: 321228075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Figther Idle Special_7
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 109
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe12f2a5c9580472e9d1d0f8ec687e17
+      internalID: 712219911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Figther Idle Special_8
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 109
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01e1ae6b41df248458813efa108940e7
+      internalID: -628286148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Figther Idle Special_9
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 109
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 803f369b7fa004425913ccb96155e8ba
+      internalID: 517238360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Figther Idle Special_10
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 109
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d832d770db8946f3af1165659e54c4e
+      internalID: -1147673596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Figther Idle Special_11
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 109
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03bc9f0ebf19a4566a7ceee54bab8739
+      internalID: 1424092449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Figther Idle Special_12
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 109
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db78ec7dde2d348288145e6c0c216797
+      internalID: -223306692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Figther Idle Special_13
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 109
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5759e29a71424beca986fb0757dcfe9
+      internalID: -1962750653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Figther Idle Special_14
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 109
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fae410f7ea7e0456db9c8b90655ba6b7
+      internalID: 284646674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Figther Idle Special_15
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 109
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caff7c83c6d2b4ed78641b6749d7ecff
+      internalID: -1022797249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Figther Idle Special_16
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 109
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc0e68574bde844df8ccc42db0566597
+      internalID: -2010018433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Figther Idle Special_17
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 109
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d41b4102893f4f05b117157e6679d89
+      internalID: 1811695348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Figther Idle Special_18
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 109
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95efc95d4730e46219b43c4004d8598b
+      internalID: -105513220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Figther Idle Special_19
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 109
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95d48ab7df7764d1ea553be6ee194e54
+      internalID: 1249005904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Figther Idle Special_20
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 109
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f8fc44bbb6f14d5ebcb5676e6ccb778
+      internalID: 1568098870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Figther Idle Special_21
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 109
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0ec3695923f249cb9740992ad5c7d44
+      internalID: 1043420408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Figther Idle Special_22
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 109
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b31f1431c47954e44bc978c5ff8fac9e
+      internalID: -1429812680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Figther Idle Special_23
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 109
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76c9fdfdc050c4971b39efe2b485ea38
+      internalID: -716714119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Figther Idle Special_24
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 109
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2f9255a90a464e5fb1679192c15c651
+      internalID: 1796209682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Figther Idle Special_25
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 109
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fc03816ae2f34bd891566c2e2f59335
+      internalID: 312043000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Figther Idle Special_26
+      rect:
+        serializedVersion: 2
+        x: 839
+        y: 109
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbe213444a9c242b498827be1fb17018
+      internalID: -1659943907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Figther Idle Special_27
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 109
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45df6be7bba0d429a805d702ad9b2552
+      internalID: 264610815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Figther Idle Special_28
+      rect:
+        serializedVersion: 2
+        x: 903
+        y: 109
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c51c2564ec84c47dcb27ac46f0b530c6
+      internalID: -1358077055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Figther Idle Special_29
+      rect:
+        serializedVersion: 2
+        x: 935
+        y: 109
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf1b4064f8cea41dfa99e22073fa037d
+      internalID: -124008033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Figther Idle Special_30
+      rect:
+        serializedVersion: 2
+        x: 969
+        y: 109
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52506ff69cb0d43e89b94bcffa58ad72
+      internalID: -1669910657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Figther Idle Special_31
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 77
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e10807a31806f4e8385015215852d316
+      internalID: -192746243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Figther Idle Special_32
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 77
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04060070b383448ef9b3ce8feb0c960e
+      internalID: -239763682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Figther Idle Special_33
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 77
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d18bf7e51135042d6a7403d21fdc0e0b
+      internalID: -241338777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Figther Idle Special_34
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 77
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15326d87c61bf4323932a5cc658069d6
+      internalID: -1620918272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Figther Idle Special_35
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 77
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a7b78d69e29e4da9818981b86e6215a
+      internalID: 1953482446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Figther Idle Special_36
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 77
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b9c1cde288f64e05960f2ba7ee57ab3
+      internalID: -1491619407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Figther Idle Special_37
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 77
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a8a29ae80bc34205a7f69567d8de47c
+      internalID: 1793255070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Figther Idle Special_38
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 77
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3b22f74e5a9549328351843a199bcae
+      internalID: 299501177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Figther Idle Special_39
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 77
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01dcc59da8e6d4f60b6134babd2e7e8e
+      internalID: -547983775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Figther Idle Special_40
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 77
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dd82ac9dc6144d2dad9256cffc893d1
+      internalID: 1981569261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Figther Idle Special_41
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 77
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ed5dbdc1438d45b388781e14980a365
+      internalID: 684206781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Figther Idle Special_42
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 77
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f9f653ac6c454aad9790824f93d7766
+      internalID: 1505525605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Figther Idle Special_43
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 77
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae9f3133b51494f5295b0430fea5a36e
+      internalID: 1332002660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Figther Idle Special_44
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 77
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 572051ef9f9a2407d8c00dce421c8e6f
+      internalID: -1934296699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Figther Idle Special_45
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 77
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cbb6c300dcd146ae8452d132f062339
+      internalID: -938184001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Figther Idle Special_46
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 77
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 249a5f190deef4cd397dca1ad88be113
+      internalID: -77797296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Figther Idle Special_47
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 77
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d97f45b0c4354a7dbf0163186e1e209
+      internalID: 872060445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Figther Idle Special_48
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 77
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed80eaaa634644550a381d0bc29967aa
+      internalID: -1374802948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Figther Idle Special_49
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 77
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4eef7eccaf4bc428cb6f7d408d19ad55
+      internalID: 2125356538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Figther Idle Special_50
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 77
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d41cba5755ad4ec5892b434d64866f9
+      internalID: 2017085388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Figther Idle Special_51
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 77
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57459654eccfe4baab73c693c81fbb63
+      internalID: 1035856889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Figther Idle Special_52
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 77
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41ad535fc46b94a92bcb4fcc4b476f06
+      internalID: 570708710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Figther Idle Special_53
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 77
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cd9aebbda86c414ca0e9cfea3aec750
+      internalID: -1758187670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Figther Idle Special_54
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 77
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 007cb2c3f86874dd1973440e9e1b42ef
+      internalID: -453321277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Figther Idle Special_55
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 77
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6538d6bdd59a2431ebe68add4f414783
+      internalID: 524697905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Figther Idle Special_56
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 77
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 966d6951c8f7f4629a1113e23fa27732
+      internalID: -1679872945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Figther Idle Special_57
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 77
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37c46202e0d6a4dd4886f9f3f6d843dc
+      internalID: -1692180382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Figther Idle Special_58
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 77
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 147a489ba3e134ff180869fea30f00a8
+      internalID: -1578515912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Figther Idle Special_59
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 77
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ef31fbd1a2164423914f18b67cd3732
+      internalID: -1302964433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Figther Idle Special_60
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 77
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84b256e4b4dac4419a998b248e7d1681
+      internalID: 16282686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Figther Idle Special_61
+      rect:
+        serializedVersion: 2
+        x: 968
+        y: 77
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6e546096207746998b89183d5372703
+      internalID: -124417276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Figther Idle Special_62
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 45
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 582e9ce9ec26c4c759cec1952148492d
+      internalID: 1869248588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Figther Idle Special_63
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 45
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be5c6f283dc8a4d9f971bf6abfc78e8e
+      internalID: 1932723340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Figther Idle Special_64
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 45
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e469da799e4b041d5893c7025e15c798
+      internalID: -2078617989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Figther Idle Special_65
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 45
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32c90b1715cd641ed95fb4853061b644
+      internalID: -1628360156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Figther Idle Special_66
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 45
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd2db60bff6db483eb349f5070ee8c85
+      internalID: -990719625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Figther Idle Special_67
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 45
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8fb370530af742fb8516383c167db44
+      internalID: 220431442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Figther Idle Special_68
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 45
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 456938c7405b7455c96627a268f92cde
+      internalID: -402677590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Figther Idle Special_69
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 45
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92e112dba0fb74a69a3ae0b36d5b2694
+      internalID: 751394084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Figther Idle Special_70
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 45
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0a1ae9699cf343bca2cb12eec3daac1
+      internalID: -1821783987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Figther Idle Special_71
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 45
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8187af3376d0f4749945eb850c16edad
+      internalID: -333822590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Figther Idle Special_72
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 45
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50eb3fc3fb51e44cf8144312bc4522ac
+      internalID: 1757130654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Figther Idle Special_73
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 45
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab9aa6ac703e64eac87fac74b9e058b2
+      internalID: 272143042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Figther Idle Special_74
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 45
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6bc598f0b1684bb1a776fb419b3dc42
+      internalID: -1582956526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Figther Idle Special_75
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 45
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54abe60d1118244a4a7353986832beaa
+      internalID: 1090496866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Figther Idle Special_76
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 45
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 857b767cdc85e4f63b29db99f7422ec3
+      internalID: -820473755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Figther Idle Special_77
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 45
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7bee066c92054890ac72d989831c0cf
+      internalID: -1409233565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Figther Idle Special_78
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 45
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55f6cbcb2f20d41a4a2ce62a25b8f9eb
+      internalID: -1067351211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Figther Idle Special_79
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 45
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8ded4731ee974e0cbba5a5700a119b0
+      internalID: -364653973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Figther Idle Special_80
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 45
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d23e9a7f80041444bb0512d262d6f2b2
+      internalID: 1000785240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Figther Idle Special_81
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 45
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d5b7c2e8292c4492905d7ea5f3523f4
+      internalID: -1756848029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Figther Idle Special_82
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 45
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6af4ed7d830b54e2b92bf9aa5684d614
+      internalID: -89204508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Figther Idle Special_83
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 45
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44e83504cd2834dbe833f6ca91c49b93
+      internalID: 961557335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Figther Idle Special_84
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 45
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9da097475b9f145fa81c40d2aa4e0905
+      internalID: -402473192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Figther Idle Special_85
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 45
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1646f3b658d4640cd8e4e76c881e44df
+      internalID: -1297119607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Figther Idle Special_86
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 45
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0eb0ee000b8f34e4db79148fdae7fb45
+      internalID: -974275996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Figther Idle Special_87
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 45
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f925afc56fad54b66812967870544088
+      internalID: -320988548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Figther Idle Special_88
+      rect:
+        serializedVersion: 2
+        x: 839
+        y: 45
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81a1e4681df924b868127e2b1b2ebf92
+      internalID: 346027398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Figther Idle Special_89
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 45
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce4d447e972214a54ba7cd2cd9a9759f
+      internalID: 2057024620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Figther Idle Special_90
+      rect:
+        serializedVersion: 2
+        x: 903
+        y: 45
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2a41aa3e6fc44a6fae6f922f73dd8c4
+      internalID: -1269110479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Figther Idle Special_91
+      rect:
+        serializedVersion: 2
+        x: 935
+        y: 45
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b029e846e26be4f3abfc8310915f3661
+      internalID: 1325388850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Figther Idle Special_92
+      rect:
+        serializedVersion: 2
+        x: 969
+        y: 45
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3a712537c1cf4e4a804eb24f603af74
+      internalID: 227482309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Figther Idle Special_93
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 13
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fb50fd21c28e40aba1dccf9358fe949
+      internalID: 264319309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Figther Idle Special_94
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 13
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02228b52c615344238b65d8c8e8633d0
+      internalID: -270749125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Figther Idle Special_95
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 13
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d73ec4b4ee464ddabaf60e36a1cb286
+      internalID: 195869609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Figther Idle Special_96
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 13
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5aac19a88dcc544d68447c3d36b0ed18
+      internalID: -174560668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Figther Idle Special_97
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 13
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 867a72c5b09314e82adeab1118dac60a
+      internalID: 177856896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Figther Idle Special_98
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 13
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bc8f805ff8914ded8437b60f4af334e
+      internalID: -989990991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Figther Idle Special_99
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 13
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 683479a70d25b4ad3a46dfb1b0c0358b
+      internalID: -1207522454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Figther Idle Special_100
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 13
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e2ec65799646405fac387cbabc7f3eb
+      internalID: -1893191564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Figther Idle Special_101
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 13
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7126f37ccf6044eed89c3f643ddf28b0
+      internalID: 361998333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Figther Idle Special_102
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 13
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db00322f552944566b7409e620afeb61
+      internalID: -961706656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Figther Idle Special_103
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 13
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45c3a5dc564864b508887bba62e54e58
+      internalID: -1145898129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Figther Idle Special_104
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 13
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9dfbdf9c77c343868132a296658e61b
+      internalID: -965088131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Figther Idle Special_105
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 13
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7c2997ce563642bf88ee40c456135df
+      internalID: -1900362621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Figther Idle Special_106
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 13
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8100ea835af24b12af4509c906ea9bf
+      internalID: 579601983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Figther Idle Special_107
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 13
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ba2f751c218f48cb87fa8338af986bb
+      internalID: -283236210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Figther Idle Special_108
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 13
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84eebd3d50c5f42d6b7ebb42e54ff0d1
+      internalID: -1950057171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Figther Idle Special_109
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 13
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 524b1f9338bbe4501955c67e26befb8f
+      internalID: 1735432717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Figther Idle Special_110
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 13
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52390ffdc8f2a4abfb62c5715281c54d
+      internalID: -1301168229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Figther Idle Special_111
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 13
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef4f5d3fd046b4f9f9982f434b56250c
+      internalID: -1070671484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Figther Idle Special_112
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 13
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d538a2b93438549a89343c584eaf5a0d
+      internalID: -1541260474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Figther Idle Special_113
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 13
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbb070975bfa04dadae7725eb0940e0e
+      internalID: -1701174744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Figther Idle Special_114
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 13
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 788fd7423e3ac455caa3bc4f8e1933db
+      internalID: 1688636044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Figther Idle Special_115
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 13
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84d279410f79b4848adcf2f424cba64c
+      internalID: -772240174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Figther Idle Special_116
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 13
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8178efed70f774e9bba67a673fbd2919
+      internalID: -1275041381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Figther Idle Special_117
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 13
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8bb8498e008744febf333950c9b771e
+      internalID: 2132793722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Figther Idle Special_118
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 13
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 471e084b42991422083d556e06de732a
+      internalID: 1146581280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Figther Idle Special_119
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 13
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4acd3ab544244cdda33e051138277c0
+      internalID: -1143069998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Figther Idle Special_120
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 13
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7ba7fb769ca54fa7b71cf3a592f82cf
+      internalID: -1158395765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Figther Idle Special_121
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 13
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bb35eef01ae749a7a86fbce194792c2
+      internalID: 1455564896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Figther Idle Special_122
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 13
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 901bc455b1286403e8f0cdbef00db73d
+      internalID: 1442453943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Figther Idle Special_123
+      rect:
+        serializedVersion: 2
+        x: 968
+        y: 13
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 245d904512f894e0dafbee242ac9bd3a
+      internalID: -1880806328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 348ec6fc9fe094076bae4cc2b9d171d2
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      Figther Idle Special_0: -794014021
+      Figther Idle Special_1: 691775349
+      Figther Idle Special_10: -1147673596
+      Figther Idle Special_100: -1893191564
+      Figther Idle Special_101: 361998333
+      Figther Idle Special_102: -961706656
+      Figther Idle Special_103: -1145898129
+      Figther Idle Special_104: -965088131
+      Figther Idle Special_105: -1900362621
+      Figther Idle Special_106: 579601983
+      Figther Idle Special_107: -283236210
+      Figther Idle Special_108: -1950057171
+      Figther Idle Special_109: 1735432717
+      Figther Idle Special_11: 1424092449
+      Figther Idle Special_110: -1301168229
+      Figther Idle Special_111: -1070671484
+      Figther Idle Special_112: -1541260474
+      Figther Idle Special_113: -1701174744
+      Figther Idle Special_114: 1688636044
+      Figther Idle Special_115: -772240174
+      Figther Idle Special_116: -1275041381
+      Figther Idle Special_117: 2132793722
+      Figther Idle Special_118: 1146581280
+      Figther Idle Special_119: -1143069998
+      Figther Idle Special_12: -223306692
+      Figther Idle Special_120: -1158395765
+      Figther Idle Special_121: 1455564896
+      Figther Idle Special_122: 1442453943
+      Figther Idle Special_123: -1880806328
+      Figther Idle Special_13: -1962750653
+      Figther Idle Special_14: 284646674
+      Figther Idle Special_15: -1022797249
+      Figther Idle Special_16: -2010018433
+      Figther Idle Special_17: 1811695348
+      Figther Idle Special_18: -105513220
+      Figther Idle Special_19: 1249005904
+      Figther Idle Special_2: 1737336064
+      Figther Idle Special_20: 1568098870
+      Figther Idle Special_21: 1043420408
+      Figther Idle Special_22: -1429812680
+      Figther Idle Special_23: -716714119
+      Figther Idle Special_24: 1796209682
+      Figther Idle Special_25: 312043000
+      Figther Idle Special_26: -1659943907
+      Figther Idle Special_27: 264610815
+      Figther Idle Special_28: -1358077055
+      Figther Idle Special_29: -124008033
+      Figther Idle Special_3: 661965914
+      Figther Idle Special_30: -1669910657
+      Figther Idle Special_31: -192746243
+      Figther Idle Special_32: -239763682
+      Figther Idle Special_33: -241338777
+      Figther Idle Special_34: -1620918272
+      Figther Idle Special_35: 1953482446
+      Figther Idle Special_36: -1491619407
+      Figther Idle Special_37: 1793255070
+      Figther Idle Special_38: 299501177
+      Figther Idle Special_39: -547983775
+      Figther Idle Special_4: -1358913367
+      Figther Idle Special_40: 1981569261
+      Figther Idle Special_41: 684206781
+      Figther Idle Special_42: 1505525605
+      Figther Idle Special_43: 1332002660
+      Figther Idle Special_44: -1934296699
+      Figther Idle Special_45: -938184001
+      Figther Idle Special_46: -77797296
+      Figther Idle Special_47: 872060445
+      Figther Idle Special_48: -1374802948
+      Figther Idle Special_49: 2125356538
+      Figther Idle Special_5: 1622130782
+      Figther Idle Special_50: 2017085388
+      Figther Idle Special_51: 1035856889
+      Figther Idle Special_52: 570708710
+      Figther Idle Special_53: -1758187670
+      Figther Idle Special_54: -453321277
+      Figther Idle Special_55: 524697905
+      Figther Idle Special_56: -1679872945
+      Figther Idle Special_57: -1692180382
+      Figther Idle Special_58: -1578515912
+      Figther Idle Special_59: -1302964433
+      Figther Idle Special_6: 321228075
+      Figther Idle Special_60: 16282686
+      Figther Idle Special_61: -124417276
+      Figther Idle Special_62: 1869248588
+      Figther Idle Special_63: 1932723340
+      Figther Idle Special_64: -2078617989
+      Figther Idle Special_65: -1628360156
+      Figther Idle Special_66: -990719625
+      Figther Idle Special_67: 220431442
+      Figther Idle Special_68: -402677590
+      Figther Idle Special_69: 751394084
+      Figther Idle Special_7: 712219911
+      Figther Idle Special_70: -1821783987
+      Figther Idle Special_71: -333822590
+      Figther Idle Special_72: 1757130654
+      Figther Idle Special_73: 272143042
+      Figther Idle Special_74: -1582956526
+      Figther Idle Special_75: 1090496866
+      Figther Idle Special_76: -820473755
+      Figther Idle Special_77: -1409233565
+      Figther Idle Special_78: -1067351211
+      Figther Idle Special_79: -364653973
+      Figther Idle Special_8: -628286148
+      Figther Idle Special_80: 1000785240
+      Figther Idle Special_81: -1756848029
+      Figther Idle Special_82: -89204508
+      Figther Idle Special_83: 961557335
+      Figther Idle Special_84: -402473192
+      Figther Idle Special_85: -1297119607
+      Figther Idle Special_86: -974275996
+      Figther Idle Special_87: -320988548
+      Figther Idle Special_88: 346027398
+      Figther Idle Special_89: 2057024620
+      Figther Idle Special_9: 517238360
+      Figther Idle Special_90: -1269110479
+      Figther Idle Special_91: 1325388850
+      Figther Idle Special_92: 227482309
+      Figther Idle Special_93: 264319309
+      Figther Idle Special_94: -270749125
+      Figther Idle Special_95: 195869609
+      Figther Idle Special_96: -174560668
+      Figther Idle Special_97: 177856896
+      Figther Idle Special_98: -989990991
+      Figther Idle Special_99: -1207522454
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

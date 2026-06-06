@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3e72fac6619f44a919edc4522980fa15, type: 3}
   m_Name: Elf Ranger
   m_EditorClassIdentifier: Assembly-CSharp::ArcherData
-  sprite: {fileID: 2730903356912373620, guid: b60c7bea51c98c649a19a81613b05285, type: 3}
+  sprite: {fileID: 1329270633, guid: 9b7f13543248c4b3eb5ad8067f9792db, type: 3}
   name: Elf Ranger
   health: 90
   stamina: 100

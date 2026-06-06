@@ -1,0 +1,1156 @@
+fileFormatVersion: 2
+guid: f6955af3337a74fd7b656fc6c6e15f0e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6445922435370651146
+    second: Ranger_SingleShot_Orthogonal_0
+  - first:
+      213: 2719694121606199978
+    second: Ranger_SingleShot_Orthogonal_1
+  - first:
+      213: 1802091504767650719
+    second: Ranger_SingleShot_Orthogonal_2
+  - first:
+      213: -2710065904065040382
+    second: Ranger_SingleShot_Orthogonal_3
+  - first:
+      213: -1001852431246086725
+    second: Ranger_SingleShot_Orthogonal_4
+  - first:
+      213: 6584784071882036999
+    second: Ranger_SingleShot_Orthogonal_5
+  - first:
+      213: -4288696641768002803
+    second: Ranger_SingleShot_Orthogonal_6
+  - first:
+      213: 7965755223639164785
+    second: Ranger_SingleShot_Orthogonal_7
+  - first:
+      213: 4240302680339662088
+    second: Ranger_SingleShot_Orthogonal_8
+  - first:
+      213: 1908041393740395660
+    second: Ranger_SingleShot_Orthogonal_9
+  - first:
+      213: 526664759696619625
+    second: Ranger_SingleShot_Orthogonal_10
+  - first:
+      213: 6268888022689841806
+    second: Ranger_SingleShot_Orthogonal_11
+  - first:
+      213: -3149236983584352208
+    second: Ranger_SingleShot_Orthogonal_12
+  - first:
+      213: 8901147658970331745
+    second: Ranger_SingleShot_Orthogonal_13
+  - first:
+      213: -6700844572642283821
+    second: Ranger_SingleShot_Orthogonal_14
+  - first:
+      213: 2857267696234583378
+    second: Ranger_SingleShot_Orthogonal_15
+  - first:
+      213: 4600452073113561622
+    second: Ranger_SingleShot_Orthogonal_16
+  - first:
+      213: -2114265077697344579
+    second: Ranger_SingleShot_Orthogonal_17
+  - first:
+      213: -6986612051596783623
+    second: Ranger_SingleShot_Orthogonal_18
+  - first:
+      213: -2147745284249818630
+    second: Ranger_SingleShot_Orthogonal_19
+  - first:
+      213: -930834828991022150
+    second: Ranger_SingleShot_Orthogonal_20
+  - first:
+      213: 1126960648158118818
+    second: Ranger_SingleShot_Orthogonal_21
+  - first:
+      213: -2439534609716616997
+    second: Ranger_SingleShot_Orthogonal_22
+  - first:
+      213: -545766909740697610
+    second: Ranger_SingleShot_Orthogonal_23
+  - first:
+      213: -5080628921912866868
+    second: Ranger_SingleShot_Orthogonal_24
+  - first:
+      213: -5699344048405786755
+    second: Ranger_SingleShot_Orthogonal_25
+  - first:
+      213: -3012502143655172966
+    second: Ranger_SingleShot_Orthogonal_26
+  - first:
+      213: -8936606865404948224
+    second: Ranger_SingleShot_Orthogonal_27
+  - first:
+      213: 9102434234295816440
+    second: Ranger_SingleShot_Orthogonal_28
+  - first:
+      213: -7542453239458507260
+    second: Ranger_SingleShot_Orthogonal_29
+  - first:
+      213: 6225669050724111573
+    second: Ranger_SingleShot_Orthogonal_30
+  - first:
+      213: 5328307808473133387
+    second: Ranger_SingleShot_Orthogonal_31
+  - first:
+      213: -791351889392845514
+    second: Ranger_SingleShot_Orthogonal_32
+  - first:
+      213: 621491573312163855
+    second: Ranger_SingleShot_Orthogonal_33
+  - first:
+      213: 2602011833184114898
+    second: Ranger_SingleShot_Orthogonal_34
+  - first:
+      213: 3117959723941771296
+    second: Ranger_SingleShot_Orthogonal_35
+  - first:
+      213: -1832222417718723125
+    second: Ranger_SingleShot_Orthogonal_36
+  - first:
+      213: -8044016067778567796
+    second: Ranger_SingleShot_Orthogonal_37
+  - first:
+      213: -448243566811884230
+    second: Ranger_SingleShot_Orthogonal_38
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Single Shot Orthogonal_0
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 109
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d5eaf3f2c47b4256bf28dfe1acdf2f9
+      internalID: -1654009624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Single Shot Orthogonal_1
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 109
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90e9fedce456a4bb6a6681f4149be107
+      internalID: 1139840580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Single Shot Orthogonal_2
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 109
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28b6001c8e0e84ce9a7b672bf49984f7
+      internalID: 1493480904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Single Shot Orthogonal_3
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 109
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9d8a4d94bf3241f8be0a553accfdc24
+      internalID: 1537272768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Single Shot Orthogonal_4
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 109
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db07f5fdc3c72474ea02dfac829621f2
+      internalID: -597049813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Single Shot Orthogonal_5
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 109
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57f8a4584ebc242a09c4f85cd9b5d405
+      internalID: -668202608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Single Shot Orthogonal_6
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 109
+        width: 21
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d703886358cbb4f07817c3bc02a166d0
+      internalID: 1560922767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Single Shot Orthogonal_7
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 109
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e929754afa81e4f828da1992737df9ce
+      internalID: -404762340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Single Shot Orthogonal_8
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 109
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70bdc2f68968641ba94c93bfbf8ac669
+      internalID: -971284702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Single Shot Orthogonal_9
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 109
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9302c517298db4e9e9837ed243a5d39f
+      internalID: 784742437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Single Shot Orthogonal_10
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 77
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1e32eafc36894deba3e6d3aaed47d0d
+      internalID: 897099887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Single Shot Orthogonal_11
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 77
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa562f3f12b044ddc835d768e6a8dda6
+      internalID: -2134057919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Single Shot Orthogonal_12
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 77
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e453ea7ba7864345995d3f044c1fa4c
+      internalID: -1834552635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Single Shot Orthogonal_13
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 77
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 713dbbe7ff3b7465ea0cb7386b7b4eae
+      internalID: -768957868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Single Shot Orthogonal_14
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 77
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b041cc589f994a25927197fe76ce1e0
+      internalID: 1585710767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Single Shot Orthogonal_15
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 77
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc84b9544f1b643afbe7c27395969523
+      internalID: 988564439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Single Shot Orthogonal_16
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 77
+        width: 21
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f90546f0bc22a40be920ea4aa2e8a1e0
+      internalID: 723690628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Single Shot Orthogonal_17
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 77
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 371a295b1dacc4d18ae3159a807e31a2
+      internalID: 1408041766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Single Shot Orthogonal_18
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 77
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dca4d41d783624a5a819c7fffb99ffb7
+      internalID: 725655507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Single Shot Orthogonal_19
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 77
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42ad8e100bcd44207a9aa98c61085ffe
+      internalID: -1801038207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Single Shot Orthogonal_20
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 45
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f355437d92dd44308d378ea88d8b58c
+      internalID: -1410566642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Single Shot Orthogonal_21
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 45
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f2b45537a4784840984d47f1bfd0935
+      internalID: -945962901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Single Shot Orthogonal_22
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 45
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07fdc765ccfba4f658f98998b0677c37
+      internalID: 750405054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Single Shot Orthogonal_23
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 45
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54cf02d69d99645d8aa1c1e14ae75b3a
+      internalID: 2096487604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Single Shot Orthogonal_24
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 45
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6db7dfd8b15234231b63a5151dc979ee
+      internalID: 211064993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Single Shot Orthogonal_25
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 45
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecac7b23019a441b9a2e5df6463ff6d7
+      internalID: 702527039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Single Shot Orthogonal_26
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 32
+        width: 8
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1e03211d2de64f1bb4c2467da564623
+      internalID: -170930349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Single Shot Orthogonal_27
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 45
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d34aecb3a4b214265a23905fefd7b5d8
+      internalID: -987826796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Single Shot Orthogonal_28
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 45
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 156ef9e6f63fc43d1ac1e43dd2ca18f4
+      internalID: -870027454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Single Shot Orthogonal_29
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 45
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9c70d87d2850422fa46080873a77feb
+      internalID: 42861506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Single Shot Orthogonal_30
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 13
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2f92c451ce8b458ba7bc919b61066ba
+      internalID: -2078947854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Single Shot Orthogonal_31
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 13
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 008a94ce8b0d94a5d89a2e188ba77bcf
+      internalID: 1984572649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Single Shot Orthogonal_32
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 13
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d227c8653250477180fe09b637a998d
+      internalID: 226816894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Single Shot Orthogonal_33
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 13
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 698055c3640c8495784b4f210b6fc2db
+      internalID: -1703997373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Single Shot Orthogonal_34
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 13
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bea66763c04dc4edea4a7d2ad0acf7cb
+      internalID: 1855522968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Single Shot Orthogonal_35
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 13
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b308bf195a434462985f508a2ea4e9e6
+      internalID: 10468029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Single Shot Orthogonal_36
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 13
+        width: 8
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8303c36b7e8014ae397afcefd7ba277f
+      internalID: 981224157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Single Shot Orthogonal_37
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 13
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 847b33f3625544cd8aed96e95f5c2f67
+      internalID: 218687475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Single Shot Orthogonal_38
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 13
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3740aaec776c84da6957c24b541705e7
+      internalID: 122148603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Single Shot Orthogonal_39
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 13
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04868eb3bbb8143d3b6361b1a07d0c52
+      internalID: 1327990550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 3be6b4a5848ec4eb2ba4328167caf9e8
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":32.0,"y":32.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      Single Shot Orthogonal_0: -1654009624
+      Single Shot Orthogonal_1: 1139840580
+      Single Shot Orthogonal_10: 897099887
+      Single Shot Orthogonal_11: -2134057919
+      Single Shot Orthogonal_12: -1834552635
+      Single Shot Orthogonal_13: -768957868
+      Single Shot Orthogonal_14: 1585710767
+      Single Shot Orthogonal_15: 988564439
+      Single Shot Orthogonal_16: 723690628
+      Single Shot Orthogonal_17: 1408041766
+      Single Shot Orthogonal_18: 725655507
+      Single Shot Orthogonal_19: -1801038207
+      Single Shot Orthogonal_2: 1493480904
+      Single Shot Orthogonal_20: -1410566642
+      Single Shot Orthogonal_21: -945962901
+      Single Shot Orthogonal_22: 750405054
+      Single Shot Orthogonal_23: 2096487604
+      Single Shot Orthogonal_24: 211064993
+      Single Shot Orthogonal_25: 702527039
+      Single Shot Orthogonal_26: -170930349
+      Single Shot Orthogonal_27: -987826796
+      Single Shot Orthogonal_28: -870027454
+      Single Shot Orthogonal_29: 42861506
+      Single Shot Orthogonal_3: 1537272768
+      Single Shot Orthogonal_30: -2078947854
+      Single Shot Orthogonal_31: 1984572649
+      Single Shot Orthogonal_32: 226816894
+      Single Shot Orthogonal_33: -1703997373
+      Single Shot Orthogonal_34: 1855522968
+      Single Shot Orthogonal_35: 10468029
+      Single Shot Orthogonal_36: 981224157
+      Single Shot Orthogonal_37: 218687475
+      Single Shot Orthogonal_38: 122148603
+      Single Shot Orthogonal_39: 1327990550
+      Single Shot Orthogonal_4: -597049813
+      Single Shot Orthogonal_5: -668202608
+      Single Shot Orthogonal_6: 1560922767
+      Single Shot Orthogonal_7: -404762340
+      Single Shot Orthogonal_8: -971284702
+      Single Shot Orthogonal_9: 784742437
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

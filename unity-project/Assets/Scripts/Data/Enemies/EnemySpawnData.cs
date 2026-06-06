@@ -11,7 +11,7 @@ public class EnemySpawn
     public Vector2 spawnAreaSize;
 }
 
-[CreateAssetMenu(fileName = "EnemyWaveData", menuName = "Scriptable Objects/Waves/EnemyWaveData")]
+[CreateAssetMenu(fileName = "EnemyWaveData", menuName = "Scriptable Objects/Waves/Enemy Wave Data")]
 public class EnemyWaveData : ScriptableObject
 {
     [SerializeField] public EnemySpawn[] enemies;

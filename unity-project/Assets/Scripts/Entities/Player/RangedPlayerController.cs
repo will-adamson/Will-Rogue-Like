@@ -6,13 +6,14 @@ public class RangedPlayerController : PlayerController
 {
     private RangedPlayerData rangedPlayerData;
     private InputAction attackAction;
+    protected bool IsAttacking { get; set; }
 
     protected override void Awake()
     {
         base.Awake();
 
         rangedPlayerData = playerData as RangedPlayerData;
-        if (rangedPlayerData == null) return;
+        if (rangedPlayerData == null) { Debug.LogError("PlayerData is not RangedPlayerData!"); return; }
 
         ProjectileAttackComponent projectileAttackComp = GetComponent<ProjectileAttackComponent>();
         projectileAttackComp.Init(rangedPlayerData.arrowData, bonusDamage: rangedPlayerData.damage);
@@ -41,6 +42,19 @@ public class RangedPlayerController : PlayerController
     {
         if (IsDead) return;
         PendingDirection = AimDirection;
+        IsAttacking = true;
         Anim.SetTrigger(HashAttack);
+    }
+
+    protected override Vector2 GetBlendDirection()
+    {
+        if (IsAttacking && AimDirection.y < 0 && AimDirection.x == 0)
+            return AimDirection; // Force downward attack animation when aiming down to avoid blend tree choosing horizontal attack
+        return base.GetBlendDirection();
+    }
+
+    public override void OnAttackComplete()
+    {
+        IsAttacking = false;
     }
 }

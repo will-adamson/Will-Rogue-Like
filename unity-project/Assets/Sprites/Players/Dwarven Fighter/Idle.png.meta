@@ -1,0 +1,1783 @@
+fileFormatVersion: 2
+guid: af40bd469d32b470ea9d2f8e1d56ae46
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 9006104351298167142
+    second: Figther_Idle_0
+  - first:
+      213: 3699607042528548994
+    second: Figther_Idle_1
+  - first:
+      213: 9007457743495165829
+    second: Figther_Idle_2
+  - first:
+      213: 816480989573855988
+    second: Figther_Idle_3
+  - first:
+      213: -1590028016837852369
+    second: Figther_Idle_4
+  - first:
+      213: -3450930295500076804
+    second: Figther_Idle_5
+  - first:
+      213: -4287667097969228743
+    second: Figther_Idle_6
+  - first:
+      213: 7835828428755613280
+    second: Figther_Idle_7
+  - first:
+      213: 2292545889172073744
+    second: Figther_Idle_8
+  - first:
+      213: -7613558340239561139
+    second: Figther_Idle_9
+  - first:
+      213: -8870378568340007405
+    second: Figther_Idle_10
+  - first:
+      213: -6770536823944112055
+    second: Figther_Idle_11
+  - first:
+      213: 3068870177617484821
+    second: Figther_Idle_12
+  - first:
+      213: 455307524128777684
+    second: Figther_Idle_13
+  - first:
+      213: 6286797216412838357
+    second: Figther_Idle_14
+  - first:
+      213: 5984232674696893078
+    second: Figther_Idle_15
+  - first:
+      213: -1790048859114932476
+    second: Figther_Idle_16
+  - first:
+      213: 3529460625050263518
+    second: Figther_Idle_17
+  - first:
+      213: 4761053086111939935
+    second: Figther_Idle_18
+  - first:
+      213: 2689775962446201187
+    second: Figther_Idle_19
+  - first:
+      213: 5959127802248783955
+    second: Figther_Idle_20
+  - first:
+      213: -47207355040277402
+    second: Figther_Idle_21
+  - first:
+      213: 3315417965719243913
+    second: Figther_Idle_22
+  - first:
+      213: 5303427554012231813
+    second: Figther_Idle_23
+  - first:
+      213: 3101385763364050057
+    second: Figther_Idle_24
+  - first:
+      213: -6514857059254658567
+    second: Figther_Idle_25
+  - first:
+      213: 4537716406828912953
+    second: Figther_Idle_26
+  - first:
+      213: 177649373692351641
+    second: Figther_Idle_27
+  - first:
+      213: -6155452758003674444
+    second: Figther_Idle_28
+  - first:
+      213: 8827093905246104989
+    second: Figther_Idle_29
+  - first:
+      213: -8146750099084512166
+    second: Figther_Idle_30
+  - first:
+      213: 6254124609518562518
+    second: Figther_Idle_31
+  - first:
+      213: 2884876964296300087
+    second: Figther_Idle_32
+  - first:
+      213: -8022465263511724266
+    second: Figther_Idle_33
+  - first:
+      213: 7284498215968858349
+    second: Figther_Idle_34
+  - first:
+      213: -5865422283187704004
+    second: Figther_Idle_35
+  - first:
+      213: -7923422137026419614
+    second: Figther_Idle_36
+  - first:
+      213: -9119825999136586731
+    second: Figther_Idle_37
+  - first:
+      213: 2611627096124999704
+    second: Figther_Idle_38
+  - first:
+      213: -1733528170110899517
+    second: Figther_Idle_39
+  - first:
+      213: 8717911049315714999
+    second: Figther_Idle_40
+  - first:
+      213: 4639855390955275216
+    second: Figther_Idle_41
+  - first:
+      213: 6304129473443694699
+    second: Figther_Idle_42
+  - first:
+      213: -4292362028212475327
+    second: Figther_Idle_43
+  - first:
+      213: 5988876252912608932
+    second: Figther_Idle_44
+  - first:
+      213: -2946037365218508902
+    second: Figther_Idle_45
+  - first:
+      213: 8876242673118835031
+    second: Figther_Idle_46
+  - first:
+      213: -5100322292235565944
+    second: Figther_Idle_47
+  - first:
+      213: -6050346816221568052
+    second: Figther_Idle_48
+  - first:
+      213: 5763157632782666768
+    second: Figther_Idle_49
+  - first:
+      213: -6613880509413256956
+    second: Figther_Idle_50
+  - first:
+      213: -5866810779141112932
+    second: Figther_Idle_51
+  - first:
+      213: -6561675900648861076
+    second: Figther_Idle_52
+  - first:
+      213: 5571700477477482847
+    second: Figther_Idle_53
+  - first:
+      213: -7076840093235193051
+    second: Figther_Idle_54
+  - first:
+      213: 8666685670153914543
+    second: Figther_Idle_55
+  - first:
+      213: -8437126910708042728
+    second: Figther_Idle_56
+  - first:
+      213: 5626777567770644229
+    second: Figther_Idle_57
+  - first:
+      213: -883401278002082097
+    second: Figther_Idle_58
+  - first:
+      213: 7796255378730876663
+    second: Figther_Idle_59
+  - first:
+      213: -2090983635875172439
+    second: Figther_Idle_60
+  - first:
+      213: 756365347684545773
+    second: Figther_Idle_61
+  - first:
+      213: -4793036631288048578
+    second: Figther_Idle_62
+  - first:
+      213: -1231903170792582650
+    second: Figther_Idle_63
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Fighter Idle_0
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 109
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37125a50461ab4e4bacaac546ed91c75
+      internalID: 1754428778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fighter Idle_1
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 109
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d568a5744e0c471f994d904f85eb165
+      internalID: 1929467173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fighter Idle_2
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 109
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b78e614323c2146cc979120bd2fffc67
+      internalID: -473350628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fighter Idle_3
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 109
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 497e7209f5114411b9fbb794971cc80b
+      internalID: -809605043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fighter Idle_4
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 109
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27199561c4da2447e82708ef97c52d13
+      internalID: -56033223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fighter Idle_5
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 109
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a2555d4a79a54ab59d135eb1c205f44
+      internalID: 1683756287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fighter Idle_6
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 109
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 306b51b95bb8940ae832084520bd31a5
+      internalID: 644196630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fighter Idle_7
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 109
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 271e051f137cd474cb8b8d6ce2cbed3e
+      internalID: -2048945655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fighter Idle_8
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 109
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dee89ae53b2ad45df9b0fe72693ec035
+      internalID: -713834593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fighter Idle_9
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 109
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c1c7b316180848fd87c82b31a0354a1
+      internalID: -1932571114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fighter Idle_10
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 109
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d89b5a34ea22f430fb566ebb8bde1d03
+      internalID: 1298441388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fighter Idle_11
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 109
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 353d1acb2848e453c9637bdf76107c16
+      internalID: 408247854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fighter Idle_12
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 109
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e6559cb695904697a9b362cbb5b0b85
+      internalID: -1567764855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fighter Idle_13
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 109
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e3cd5c3a3b494897b1875898b3fd2e1
+      internalID: 1719377904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fighter Idle_14
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 109
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5622cfc10798c4accba365690f0b06cd
+      internalID: -305106339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fighter Idle_15
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 109
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3612eed8693a9493db150f15d3acf56a
+      internalID: 1622669149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fighter Idle_16
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 77
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec8c1dfb9875f4062b101ca690b521d0
+      internalID: -656308668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fighter Idle_17
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 77
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d160f524d7ef4fd9babd13b41e9ce60
+      internalID: 1533620679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fighter Idle_18
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 77
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f827e9a4766784f9aa5c380fc039d9bf
+      internalID: -1958388502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fighter Idle_19
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 77
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07cd1a4d7889e402cac5f94b6bcfc390
+      internalID: 2067148941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fighter Idle_20
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 77
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 908a01c51d5cd44dc92924ae392a8928
+      internalID: 1860788795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fighter Idle_21
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 77
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f4788ea17b1d473f952f989c8b51851
+      internalID: 961550495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fighter Idle_22
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 77
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2408e8450bad14ce98b059ab3884ebbe
+      internalID: 897726060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fighter Idle_23
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 77
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29ff3457a8c8a4d38b3bc58338117887
+      internalID: 1608717435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fighter Idle_24
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 77
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06fc23a69d26d4be982b4e8c501b9780
+      internalID: -282780167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fighter Idle_25
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 77
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ac4fc95ba27d45689323146ac13e314
+      internalID: -1366786014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fighter Idle_26
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 77
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e8db7ebafe4b45c7abc62f31e7042bb
+      internalID: -446276378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fighter Idle_27
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 77
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d2f6370850a24a3d9db0a3210858bf7
+      internalID: 65585590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fighter Idle_28
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 77
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b21537ea28c954c7da0842d593e42f9f
+      internalID: 915020077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fighter Idle_29
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 77
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e394ef61287994f5b9274c1d03531b3f
+      internalID: -1305831885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fighter Idle_30
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 77
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dee05a99114684593b586071af75c333
+      internalID: -718668299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fighter Idle_31
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 77
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9347909ae4b6449aeabcba1545b67d83
+      internalID: 1387578585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fighter Idle_32
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 45
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41dded3da2acd4444bcb6d3fdd1c3988
+      internalID: 988595879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fighter Idle_33
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 45
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3db94abef600446e9cad88a01385dc8
+      internalID: -367236495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fighter Idle_34
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 45
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e15d5238b84f7482c968975a93296dd6
+      internalID: 940239752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fighter Idle_35
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 45
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7a14a609efc6424eae3301358920d6c
+      internalID: 1262415756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fighter Idle_36
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 45
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 163ad65087088453f9b63c665fb6d2d4
+      internalID: -2114292669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fighter Idle_37
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 45
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c30d328b91aa40138b1ae627143e57c
+      internalID: -201320950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fighter Idle_38
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 45
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 885914ca904c1441c97ebefcbd28097b
+      internalID: -1671651866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fighter Idle_39
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 45
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2054b42cbf169474999cf7f4bf639f1f
+      internalID: -812031713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fighter Idle_40
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 45
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bc43a30215384a5bb382b614eb88211
+      internalID: 250993494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fighter Idle_41
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 45
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cca6a23cc43424e129d2c4bc154ad36e
+      internalID: -2061789685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fighter Idle_42
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 45
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77e877c00a0c34d16abacf769bef40db
+      internalID: 2089736780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fighter Idle_43
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 45
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 397995515a4764f54b1630daf5a6552c
+      internalID: 177139545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fighter Idle_44
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 45
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a20678a624afa43498c46ca829ac9ca0
+      internalID: 353132359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fighter Idle_45
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 45
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dbf396e2f2144bd79395e6d9a1d676d
+      internalID: -1528652996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fighter Idle_46
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 45
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e7bfd62ef5fe444a93759e25f4e507e
+      internalID: -755047232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fighter Idle_47
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 45
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9ebf8084632649f99c88d687c5001c0
+      internalID: -1908988608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fighter Idle_48
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 13
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddba9681fdcf8428c909c179adb89414
+      internalID: -540098352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fighter Idle_49
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 13
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93cadfc0b59d34e7a841f178e8ab9d50
+      internalID: -1524172494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fighter Idle_50
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 13
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9b3ae36de8044a36a5dabfcb0cf25b7
+      internalID: -1544783974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fighter Idle_51
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 13
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e511f11fe003419685dd6893c20edf7
+      internalID: -1540278475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fighter Idle_52
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 13
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3da5c629340f498ea253184ef9581bb
+      internalID: 226452845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fighter Idle_53
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 13
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 774fdd1aab6a54f7da09263186f7c203
+      internalID: 785726072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fighter Idle_54
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 13
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfbc39c7dc8b14a8db776c9cdb618fc2
+      internalID: -2013022771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fighter Idle_55
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 13
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3dee0f043f0847e687491095f3e6f77
+      internalID: 444458060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fighter Idle_56
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 13
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 932bc78215ecd489c95b93198c8633d3
+      internalID: 127619856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fighter Idle_57
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 13
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fe26e9fefd1a4ae2992bef5de7cfee9
+      internalID: 39753683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fighter Idle_58
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 13
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9b4db021f5554372bd8963b998ecfa3
+      internalID: 1355004520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fighter Idle_59
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 13
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 441641e4ae6f844f88b6628589705b91
+      internalID: -24525394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fighter Idle_60
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 13
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d68df19e3cc5b43f9a951da87e5b77e7
+      internalID: 1682476680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fighter Idle_61
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 13
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf54e829a1a4c49958cf68c13a56e895
+      internalID: 400970551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fighter Idle_62
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 13
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fa5a1513f7434014b870c7298970375
+      internalID: -499397707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fighter Idle_63
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 13
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a3b843e461a74233a8aa2571f54420c
+      internalID: 714522010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: ad1ecfaa601fe4578a2de237ecbcea72
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      Fighter Idle_0: 1754428778
+      Fighter Idle_1: 1929467173
+      Fighter Idle_10: 1298441388
+      Fighter Idle_11: 408247854
+      Fighter Idle_12: -1567764855
+      Fighter Idle_13: 1719377904
+      Fighter Idle_14: -305106339
+      Fighter Idle_15: 1622669149
+      Fighter Idle_16: -656308668
+      Fighter Idle_17: 1533620679
+      Fighter Idle_18: -1958388502
+      Fighter Idle_19: 2067148941
+      Fighter Idle_2: -473350628
+      Fighter Idle_20: 1860788795
+      Fighter Idle_21: 961550495
+      Fighter Idle_22: 897726060
+      Fighter Idle_23: 1608717435
+      Fighter Idle_24: -282780167
+      Fighter Idle_25: -1366786014
+      Fighter Idle_26: -446276378
+      Fighter Idle_27: 65585590
+      Fighter Idle_28: 915020077
+      Fighter Idle_29: -1305831885
+      Fighter Idle_3: -809605043
+      Fighter Idle_30: -718668299
+      Fighter Idle_31: 1387578585
+      Fighter Idle_32: 988595879
+      Fighter Idle_33: -367236495
+      Fighter Idle_34: 940239752
+      Fighter Idle_35: 1262415756
+      Fighter Idle_36: -2114292669
+      Fighter Idle_37: -201320950
+      Fighter Idle_38: -1671651866
+      Fighter Idle_39: -812031713
+      Fighter Idle_4: -56033223
+      Fighter Idle_40: 250993494
+      Fighter Idle_41: -2061789685
+      Fighter Idle_42: 2089736780
+      Fighter Idle_43: 177139545
+      Fighter Idle_44: 353132359
+      Fighter Idle_45: -1528652996
+      Fighter Idle_46: -755047232
+      Fighter Idle_47: -1908988608
+      Fighter Idle_48: -540098352
+      Fighter Idle_49: -1524172494
+      Fighter Idle_5: 1683756287
+      Fighter Idle_50: -1544783974
+      Fighter Idle_51: -1540278475
+      Fighter Idle_52: 226452845
+      Fighter Idle_53: 785726072
+      Fighter Idle_54: -2013022771
+      Fighter Idle_55: 444458060
+      Fighter Idle_56: 127619856
+      Fighter Idle_57: 39753683
+      Fighter Idle_58: 1355004520
+      Fighter Idle_59: -24525394
+      Fighter Idle_6: 644196630
+      Fighter Idle_60: 1682476680
+      Fighter Idle_61: 400970551
+      Fighter Idle_62: -499397707
+      Fighter Idle_63: 714522010
+      Fighter Idle_7: -2048945655
+      Fighter Idle_8: -713834593
+      Fighter Idle_9: -1932571114
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

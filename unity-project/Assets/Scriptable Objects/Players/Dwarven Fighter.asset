@@ -12,9 +12,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 8ec009144a04e4ed3bd1707152701671, type: 3}
   m_Name: Dwarven Fighter
   m_EditorClassIdentifier: Assembly-CSharp::KnightData
-  sprite: {fileID: 9006104351298167142, guid: af40bd469d32b470ea9d2f8e1d56ae46, type: 3}
+  sprite: {fileID: 1754428778, guid: af40bd469d32b470ea9d2f8e1d56ae46, type: 3}
   name: Dwarven Fighter
-  health: 150
+  health: 1
   stamina: 100
   damage: 15
   speed: 4
