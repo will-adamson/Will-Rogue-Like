@@ -19,6 +19,19 @@ MonoBehaviour:
   damage: 14
   speed: 6
   defence: 0
+  abilities:
+  - abilityName: Double Shot
+    icon: {fileID: 5275626049520228390, guid: f16eb4ad9e1bf4ded8e3db5ad6c2e4bc, type: 3}
+  - abilityName: Triple Shot
+    icon: {fileID: 8467681436178502743, guid: f16eb4ad9e1bf4ded8e3db5ad6c2e4bc, type: 3}
+  - abilityName: Melee Attack
+    icon: {fileID: -8535598681327215050, guid: f16eb4ad9e1bf4ded8e3db5ad6c2e4bc, type: 3}
+  - abilityName: Double Melee Attack
+    icon: {fileID: 6655864223929385061, guid: f16eb4ad9e1bf4ded8e3db5ad6c2e4bc, type: 3}
+  - abilityName: Throwing Knife
+    icon: {fileID: 2306093993848300546, guid: f16eb4ad9e1bf4ded8e3db5ad6c2e4bc, type: 3}
+  - abilityName: Conceal
+    icon: {fileID: 5051569285750862801, guid: f16eb4ad9e1bf4ded8e3db5ad6c2e4bc, type: 3}
   critChance: 0
   critMultiplier: 1.5
   experienceToNextLevel: 100

@@ -1,235 +1,199 @@
 fileFormatVersion: 2
-guid: 145939e139fc24cc19d3fb3c970c64b6
+guid: 54893c6c374d04c1a9136fcb2a810703
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -6802936167326294342
-    second: Wizard_Idle_Special_0
+      213: 8048668061461203166
+    second: Ranger_Idle_0
   - first:
-      213: -5936299140040444537
-    second: Wizard_Idle_Special_1
+      213: 5239356233248346211
+    second: Ranger_Idle_1
   - first:
-      213: 6363423369091623765
-    second: Wizard_Idle_Special_2
+      213: 4921113402237285444
+    second: Ranger_Idle_2
   - first:
-      213: 7774247488403888903
-    second: Wizard_Idle_Special_3
+      213: 3195705228328336375
+    second: Ranger_Idle_3
   - first:
-      213: -9205265219401481555
-    second: Wizard_Idle_Special_4
+      213: -2770242059257064645
+    second: Ranger_Idle_4
   - first:
-      213: -4451904145700850698
-    second: Wizard_Idle_Special_5
+      213: 5264393812773158499
+    second: Ranger_Idle_5
   - first:
-      213: 3717138015599642317
-    second: Wizard_Idle_Special_6
+      213: 9169975975566402292
+    second: Ranger_Idle_6
   - first:
-      213: 8393146659747097959
-    second: Wizard_Idle_Special_7
+      213: 5490545226703722265
+    second: Ranger_Idle_7
   - first:
-      213: 4822188644801218740
-    second: Wizard_Idle_Special_8
+      213: -1256766985542525869
+    second: Ranger_Idle_8
   - first:
-      213: 8423494164248729494
-    second: Wizard_Idle_Special_9
+      213: -6541639296113822349
+    second: Ranger_Idle_9
   - first:
-      213: 5650203627939987679
-    second: Wizard_Idle_Special_10
+      213: -4907157940244031183
+    second: Ranger_Idle_10
   - first:
-      213: -3530120800020821939
-    second: Wizard_Idle_Special_11
+      213: -2765866892621205833
+    second: Ranger_Idle_11
   - first:
-      213: 821941832131112192
-    second: Wizard_Idle_Special_12
+      213: -6119537276219133012
+    second: Ranger_Idle_12
   - first:
-      213: 1350898713017777191
-    second: Wizard_Idle_Special_13
+      213: 1035200674564471187
+    second: Ranger_Idle_13
   - first:
-      213: -7750856881962950829
-    second: Wizard_Idle_Special_14
+      213: 1465628998217952326
+    second: Ranger_Idle_14
   - first:
-      213: -6232195540882673931
-    second: Wizard_Idle_Special_15
+      213: 206859205506041150
+    second: Ranger_Idle_15
   - first:
-      213: 5014019389921229640
-    second: Wizard_Idle_Special_16
+      213: 506717754241514776
+    second: Ranger_Idle_16
   - first:
-      213: -3250600939172067087
-    second: Wizard_Idle_Special_17
+      213: 5780358433675087090
+    second: Ranger_Idle_17
   - first:
-      213: -7311641821867510841
-    second: Wizard_Idle_Special_18
+      213: -4814291399657830396
+    second: Ranger_Idle_18
   - first:
-      213: 162016009406109866
-    second: Wizard_Idle_Special_19
+      213: -746785822107380381
+    second: Ranger_Idle_19
   - first:
-      213: -645106333343103098
-    second: Wizard_Idle_Special_20
+      213: 2997400662402629043
+    second: Ranger_Idle_20
   - first:
-      213: -8114896276769652303
-    second: Wizard_Idle_Special_21
+      213: 8954761351451586708
+    second: Ranger_Idle_21
   - first:
-      213: 7189919139615725426
-    second: Wizard_Idle_Special_22
+      213: 4684347914016575351
+    second: Ranger_Idle_22
   - first:
-      213: 2197152947522113246
-    second: Wizard_Idle_Special_23
+      213: -2530798977179939790
+    second: Ranger_Idle_23
   - first:
-      213: 3718128512386660767
-    second: Wizard_Idle_Special_24
+      213: -8197266431499792311
+    second: Ranger_Idle_24
   - first:
-      213: -3149227243071890780
-    second: Wizard_Idle_Special_25
+      213: -6049029794289022007
+    second: Ranger_Idle_25
   - first:
-      213: -6328366989257356725
-    second: Wizard_Idle_Special_26
+      213: 7390752808078351395
+    second: Ranger_Idle_26
   - first:
-      213: -4351134774269872024
-    second: Wizard_Idle_Special_27
+      213: 7459283267352409443
+    second: Ranger_Idle_27
   - first:
-      213: 6398072005122800458
-    second: Wizard_Idle_Special_28
+      213: 4035177522272653348
+    second: Ranger_Idle_28
   - first:
-      213: 8044536427836883095
-    second: Wizard_Idle_Special_29
+      213: -4583617649692844395
+    second: Ranger_Idle_29
   - first:
-      213: -6059413772014538244
-    second: Wizard_Idle_Special_30
+      213: 8262373166730467864
+    second: Ranger_Idle_30
   - first:
-      213: -8118074266303580375
-    second: Wizard_Idle_Special_31
+      213: -4207488760161029764
+    second: Ranger_Idle_31
   - first:
-      213: -7017100070728660373
-    second: Wizard_Idle_Special_32
+      213: 834833920333430611
+    second: Ranger_Idle_32
   - first:
-      213: 6117722085364018632
-    second: Wizard_Idle_Special_33
+      213: 5163864821533770000
+    second: Ranger_Idle_33
   - first:
-      213: 368107506619679230
-    second: Wizard_Idle_Special_34
+      213: 5309567716164227698
+    second: Ranger_Idle_34
   - first:
-      213: 2195771732343107829
-    second: Wizard_Idle_Special_35
+      213: 7462018143767853327
+    second: Ranger_Idle_35
   - first:
-      213: 9063464311047348654
-    second: Wizard_Idle_Special_36
+      213: -1001063675726789526
+    second: Ranger_Idle_36
   - first:
-      213: 4966948562281338706
-    second: Wizard_Idle_Special_37
+      213: -4791579794553690528
+    second: Ranger_Idle_37
   - first:
-      213: 3571700788728382577
-    second: Wizard_Idle_Special_38
+      213: -4084432975788810803
+    second: Ranger_Idle_38
   - first:
-      213: -2647464534323849770
-    second: Wizard_Idle_Special_39
+      213: -9129670003673806666
+    second: Ranger_Idle_39
   - first:
-      213: -1374731456704683640
-    second: Wizard_Idle_Special_40
+      213: -9071397418626868862
+    second: Ranger_Idle_40
   - first:
-      213: 7162319014671145592
-    second: Wizard_Idle_Special_41
+      213: 5070156574019285110
+    second: Ranger_Idle_41
   - first:
-      213: 1940449896101993865
-    second: Wizard_Idle_Special_42
+      213: -425707504516364929
+    second: Ranger_Idle_42
   - first:
-      213: -6898119859998330716
-    second: Wizard_Idle_Special_43
+      213: -849563129011295820
+    second: Ranger_Idle_43
   - first:
-      213: -5944011598515047791
-    second: Wizard_Idle_Special_44
+      213: 1549461444271899626
+    second: Ranger_Idle_44
   - first:
-      213: -6231453124467250404
-    second: Wizard_Idle_Special_45
+      213: -728249886041597853
+    second: Ranger_Idle_45
   - first:
-      213: -3009473507838573696
-    second: Wizard_Idle_Special_46
+      213: -8375750130781242638
+    second: Ranger_Idle_46
   - first:
-      213: -1024904470311707409
-    second: Wizard_Idle_Special_47
+      213: -4847337146593809089
+    second: Ranger_Idle_47
   - first:
-      213: 6268311584336085345
-    second: Wizard_Idle_Special_48
+      213: 1728315969728591533
+    second: Ranger_Idle_48
   - first:
-      213: -628110953092752527
-    second: Wizard_Idle_Special_49
+      213: 6584259069242918352
+    second: Ranger_Idle_49
   - first:
-      213: -2675137073219505464
-    second: Wizard_Idle_Special_50
+      213: 8775782641084725592
+    second: Ranger_Idle_50
   - first:
-      213: -2599865094951395513
-    second: Wizard_Idle_Special_51
+      213: 6599927527552956549
+    second: Ranger_Idle_51
   - first:
-      213: 3318147449626653003
-    second: Wizard_Idle_Special_52
+      213: -5301945336967015519
+    second: Ranger_Idle_52
   - first:
-      213: 3862451763545799018
-    second: Wizard_Idle_Special_53
+      213: -197216913075381111
+    second: Ranger_Idle_53
   - first:
-      213: -3535745581060852419
-    second: Wizard_Idle_Special_54
+      213: 6047272977992501164
+    second: Ranger_Idle_54
   - first:
-      213: 4291408257494472559
-    second: Wizard_Idle_Special_55
+      213: -8059389658062735423
+    second: Ranger_Idle_55
   - first:
-      213: -2962798563685855120
-    second: Wizard_Idle_Special_56
+      213: 8110708941086651120
+    second: Ranger_Idle_56
   - first:
-      213: -5887606039796903921
-    second: Wizard_Idle_Special_57
+      213: 6024567463991661956
+    second: Ranger_Idle_57
   - first:
-      213: -4220779608096399775
-    second: Wizard_Idle_Special_58
+      213: -1419222241754600169
+    second: Ranger_Idle_58
   - first:
-      213: 3082222425655569245
-    second: Wizard_Idle_Special_59
+      213: -6551032895965497037
+    second: Ranger_Idle_59
   - first:
-      213: -3467396651965421403
-    second: Wizard_Idle_Special_60
+      213: -3140769959095260693
+    second: Ranger_Idle_60
   - first:
-      213: -2890793899426270947
-    second: Wizard_Idle_Special_61
+      213: 4309176117207152669
+    second: Ranger_Idle_61
   - first:
-      213: 42707136540735651
-    second: Wizard_Idle_Special_62
+      213: -1471519524956837647
+    second: Ranger_Idle_62
   - first:
-      213: -1777603217694019519
-    second: Wizard_Idle_Special_63
-  - first:
-      213: -5664830033287721532
-    second: Wizard_Idle_Special_64
-  - first:
-      213: -3878893327843466508
-    second: Wizard_Idle_Special_65
-  - first:
-      213: -3611172324040495440
-    second: Wizard_Idle_Special_66
-  - first:
-      213: -6990913745082529658
-    second: Wizard_Idle_Special_67
-  - first:
-      213: 6859914383363386354
-    second: Wizard_Idle_Special_68
-  - first:
-      213: 3460769110191606598
-    second: Wizard_Idle_Special_69
-  - first:
-      213: -5524580280062320019
-    second: Wizard_Idle_Special_70
-  - first:
-      213: -1430288917112279211
-    second: Wizard_Idle_Special_71
-  - first:
-      213: 5528683683144457770
-    second: Wizard_Idle_Special_72
-  - first:
-      213: 5158291686979189527
-    second: Wizard_Idle_Special_73
-  - first:
-      213: 5786270219940017
-    second: Wizard_Idle_Special_74
-  - first:
-      213: -8930865097174499685
-    second: Wizard_Idle_Special_75
+      213: 249133116986326110
+    second: Ranger_Idle_63
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -325,13 +289,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Wizard_Idle_Special_0
+      name: Ranger_Idle_0
       rect:
         serializedVersion: 2
         x: 10
         y: 108
-        width: 13
-        height: 9
+        width: 10
+        height: 10
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -340,19 +304,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: abedbdc699d1791a0800000000000000
-      internalID: -6802936167326294342
+      spriteID: ed84d6e45fc92bf60800000000000000
+      internalID: 8048668061461203166
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Wizard_Idle_Special_1
+      name: Ranger_Idle_1
       rect:
         serializedVersion: 2
         x: 42
         y: 108
-        width: 13
+        width: 10
         height: 10
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -362,19 +326,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 785be6d42670e9da0800000000000000
-      internalID: -5936299140040444537
+      spriteID: 3601f7e1cbee5b840800000000000000
+      internalID: 5239356233248346211
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Wizard_Idle_Special_2
+      name: Ranger_Idle_2
       rect:
         serializedVersion: 2
         x: 74
         y: 108
-        width: 13
+        width: 10
         height: 10
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -384,20 +348,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 55b202ed6db6f4850800000000000000
-      internalID: 6363423369091623765
+      spriteID: 44474cfe09e4b4440800000000000000
+      internalID: 4921113402237285444
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Wizard_Idle_Special_3
+      name: Ranger_Idle_3
       rect:
         serializedVersion: 2
         x: 106
         y: 108
-        width: 13
-        height: 9
+        width: 10
+        height: 10
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -406,20 +370,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 70b5946a6eca3eb60800000000000000
-      internalID: 7774247488403888903
+      spriteID: 7fb7e5d39fc695c20800000000000000
+      internalID: 3195705228328336375
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Wizard_Idle_Special_4
+      name: Ranger_Idle_4
       rect:
         serializedVersion: 2
         x: 138
         y: 108
-        width: 13
-        height: 9
+        width: 10
+        height: 10
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -428,20 +392,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: da20156fd04504080800000000000000
-      internalID: -9205265219401481555
+      spriteID: b33d224468f1e89d0800000000000000
+      internalID: -2770242059257064645
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Wizard_Idle_Special_5
+      name: Ranger_Idle_5
       rect:
         serializedVersion: 2
         x: 170
         y: 108
-        width: 13
-        height: 11
+        width: 10
+        height: 10
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -450,20 +414,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 6f3796544c8a732c0800000000000000
-      internalID: -4451904145700850698
+      spriteID: 36ebb10e742ee0940800000000000000
+      internalID: 5264393812773158499
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Wizard_Idle_Special_6
+      name: Ranger_Idle_6
       rect:
         serializedVersion: 2
         x: 202
         y: 108
-        width: 13
-        height: 14
+        width: 10
+        height: 10
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -472,20 +436,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: dc6cae8b45de59330800000000000000
-      internalID: 3717138015599642317
+      spriteID: 4f2608ea09c424f70800000000000000
+      internalID: 9169975975566402292
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Wizard_Idle_Special_7
+      name: Ranger_Idle_7
       rect:
         serializedVersion: 2
         x: 234
         y: 108
-        width: 13
-        height: 9
+        width: 10
+        height: 10
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -494,42 +458,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 76d6bf11b627a7470800000000000000
-      internalID: 8393146659747097959
+      spriteID: 91754e42bc5523c40800000000000000
+      internalID: 5490545226703722265
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Wizard_Idle_Special_8
-      rect:
-        serializedVersion: 2
-        x: 242
-        y: 117
-        width: 6
-        height: 7
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 4b88c4df50bdbe240800000000000000
-      internalID: 4822188644801218740
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Wizard_Idle_Special_9
+      name: Ranger_Idle_8
       rect:
         serializedVersion: 2
         x: 266
         y: 108
-        width: 13
-        height: 17
+        width: 11
+        height: 10
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -538,20 +480,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 6971f93105346e470800000000000000
-      internalID: 8423494164248729494
+      spriteID: 35c9c45d5111f8ee0800000000000000
+      internalID: -1256766985542525869
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Wizard_Idle_Special_10
+      name: Ranger_Idle_9
       rect:
         serializedVersion: 2
         x: 298
         y: 108
-        width: 13
-        height: 19
+        width: 11
+        height: 10
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -560,20 +502,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: fd08cf7734e896e40800000000000000
-      internalID: 5650203627939987679
+      spriteID: 375366228bd6735a0800000000000000
+      internalID: -6541639296113822349
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Wizard_Idle_Special_11
+      name: Ranger_Idle_10
       rect:
         serializedVersion: 2
         x: 330
         y: 108
-        width: 13
-        height: 20
+        width: 11
+        height: 10
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -582,20 +524,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: d488a84f5dd720fc0800000000000000
-      internalID: -3530120800020821939
+      spriteID: 13954034ad546ebb0800000000000000
+      internalID: -4907157940244031183
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Wizard_Idle_Special_12
+      name: Ranger_Idle_11
       rect:
         serializedVersion: 2
         x: 362
         y: 108
-        width: 13
-        height: 9
+        width: 10
+        height: 10
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -604,20 +546,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 00d6532ddbf186b00800000000000000
-      internalID: 821941832131112192
+      spriteID: 7beac4127baad99d0800000000000000
+      internalID: -2765866892621205833
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Wizard_Idle_Special_13
+      name: Ranger_Idle_12
       rect:
         serializedVersion: 2
         x: 394
         y: 108
-        width: 13
-        height: 9
+        width: 10
+        height: 10
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -626,20 +568,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 72cf4fcd83b5fb210800000000000000
-      internalID: 1350898713017777191
+      spriteID: ca3723d1549031ba0800000000000000
+      internalID: -6119537276219133012
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Wizard_Idle_Special_14
+      name: Ranger_Idle_13
       rect:
         serializedVersion: 2
         x: 426
         y: 108
-        width: 13
-        height: 9
+        width: 10
+        height: 10
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -648,20 +590,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 35fd4bd4bbc6f6490800000000000000
-      internalID: -7750856881962950829
+      spriteID: 399f8ae5785cd5e00800000000000000
+      internalID: 1035200674564471187
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Wizard_Idle_Special_15
+      name: Ranger_Idle_14
       rect:
         serializedVersion: 2
         x: 458
         y: 108
-        width: 13
-        height: 9
+        width: 10
+        height: 10
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -670,107 +612,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 5fe2ae6dc2bc289a0800000000000000
-      internalID: -6232195540882673931
+      spriteID: 64cea430fc5f65410800000000000000
+      internalID: 1465628998217952326
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Wizard_Idle_Special_16
+      name: Ranger_Idle_15
       rect:
         serializedVersion: 2
         x: 490
         y: 108
-        width: 13
-        height: 9
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 84bfc29d110659540800000000000000
-      internalID: 5014019389921229640
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Wizard_Idle_Special_17
-      rect:
-        serializedVersion: 2
-        x: 522
-        y: 108
-        width: 13
-        height: 9
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 1f809121bab83e2d0800000000000000
-      internalID: -3250600939172067087
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Wizard_Idle_Special_18
-      rect:
-        serializedVersion: 2
-        x: 554
-        y: 108
-        width: 13
-        height: 9
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 7c372b27084d78a90800000000000000
-      internalID: -7311641821867510841
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Wizard_Idle_Special_19
-      rect:
-        serializedVersion: 2
-        x: 9
-        y: 76
-        width: 13
-        height: 9
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: aa8d390c3b89f3200800000000000000
-      internalID: 162016009406109866
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Wizard_Idle_Special_20
-      rect:
-        serializedVersion: 2
-        x: 41
-        y: 76
-        width: 13
+        width: 10
         height: 10
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -780,19 +634,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 687cabe253f1c07f0800000000000000
-      internalID: -645106333343103098
+      spriteID: e3505b6f959eed200800000000000000
+      internalID: 206859205506041150
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Wizard_Idle_Special_21
+      name: Ranger_Idle_16
       rect:
         serializedVersion: 2
-        x: 73
+        x: 12
         y: 76
-        width: 13
+        width: 10
         height: 10
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -802,195 +656,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 1b14102b4d8126f80800000000000000
-      internalID: -8114896276769652303
+      spriteID: 81df2fedc19380700800000000000000
+      internalID: 506717754241514776
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Wizard_Idle_Special_22
+      name: Ranger_Idle_17
       rect:
         serializedVersion: 2
-        x: 105
+        x: 44
         y: 76
-        width: 13
-        height: 9
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 277d3981d59b7c360800000000000000
-      internalID: 7189919139615725426
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Wizard_Idle_Special_23
-      rect:
-        serializedVersion: 2
-        x: 137
-        y: 76
-        width: 13
-        height: 9
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: ede024af6fadd7e10800000000000000
-      internalID: 2197152947522113246
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Wizard_Idle_Special_24
-      rect:
-        serializedVersion: 2
-        x: 169
-        y: 76
-        width: 13
-        height: 11
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: f99fe0abe22799330800000000000000
-      internalID: 3718128512386660767
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Wizard_Idle_Special_25
-      rect:
-        serializedVersion: 2
-        x: 201
-        y: 76
-        width: 13
-        height: 14
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 4aa97bbf182bb44d0800000000000000
-      internalID: -3149227243071890780
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Wizard_Idle_Special_26
-      rect:
-        serializedVersion: 2
-        x: 232
-        y: 85
-        width: 6
-        height: 7
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: b4ac10d90cf1d28a0800000000000000
-      internalID: -6328366989257356725
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Wizard_Idle_Special_27
-      rect:
-        serializedVersion: 2
-        x: 233
-        y: 76
-        width: 13
-        height: 9
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 8687bc1e9f9ad93c0800000000000000
-      internalID: -4351134774269872024
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Wizard_Idle_Special_28
-      rect:
-        serializedVersion: 2
-        x: 265
-        y: 76
-        width: 13
-        height: 17
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: a4b37b817948ac850800000000000000
-      internalID: 6398072005122800458
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Wizard_Idle_Special_29
-      rect:
-        serializedVersion: 2
-        x: 297
-        y: 76
-        width: 13
-        height: 19
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 79048e3624fe3af60800000000000000
-      internalID: 8044536427836883095
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Wizard_Idle_Special_30
-      rect:
-        serializedVersion: 2
-        x: 329
-        y: 76
-        width: 13
+        width: 10
         height: 10
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -1000,20 +678,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: cf1b6fb4743a8eba0800000000000000
-      internalID: -6059413772014538244
+      spriteID: 2fc03a9ae55f73050800000000000000
+      internalID: 5780358433675087090
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Wizard_Idle_Special_31
+      name: Ranger_Idle_18
       rect:
         serializedVersion: 2
-        x: 361
+        x: 76
         y: 76
-        width: 13
-        height: 9
+        width: 10
+        height: 10
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1022,20 +700,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 9273cb8577ec65f80800000000000000
-      internalID: -8118074266303580375
+      spriteID: 4084d2eaa73303db0800000000000000
+      internalID: -4814291399657830396
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Wizard_Idle_Special_32
+      name: Ranger_Idle_19
       rect:
         serializedVersion: 2
-        x: 393
+        x: 108
         y: 76
-        width: 13
-        height: 9
+        width: 10
+        height: 10
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1044,20 +722,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: b6a89d2f9a04e9e90800000000000000
-      internalID: -7017100070728660373
+      spriteID: 365ddfd5042e2a5f0800000000000000
+      internalID: -746785822107380381
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Wizard_Idle_Special_33
+      name: Ranger_Idle_20
       rect:
         serializedVersion: 2
-        x: 425
+        x: 140
         y: 76
-        width: 13
-        height: 9
+        width: 10
+        height: 10
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1066,20 +744,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 8cd2fa4d2d386e450800000000000000
-      internalID: 6117722085364018632
+      spriteID: 3bd77048508e89920800000000000000
+      internalID: 2997400662402629043
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Wizard_Idle_Special_34
+      name: Ranger_Idle_21
       rect:
         serializedVersion: 2
-        x: 457
+        x: 172
         y: 76
-        width: 13
-        height: 9
+        width: 10
+        height: 10
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1088,20 +766,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: ef18833b3d7cb1500800000000000000
-      internalID: 368107506619679230
+      spriteID: 4903ba93104b54c70800000000000000
+      internalID: 8954761351451586708
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Wizard_Idle_Special_35
+      name: Ranger_Idle_22
       rect:
         serializedVersion: 2
-        x: 489
+        x: 204
         y: 76
-        width: 13
-        height: 9
+        width: 10
+        height: 10
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1110,20 +788,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 5f0b722c1c2f87e10800000000000000
-      internalID: 2195771732343107829
+      spriteID: 77fcc4beb95220140800000000000000
+      internalID: 4684347914016575351
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Wizard_Idle_Special_36
+      name: Ranger_Idle_23
       rect:
         serializedVersion: 2
-        x: 521
+        x: 236
         y: 76
-        width: 13
-        height: 9
+        width: 10
+        height: 10
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1132,20 +810,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: ea1686645c4e7cd70800000000000000
-      internalID: 9063464311047348654
+      spriteID: 23c844f2dbbc0ecd0800000000000000
+      internalID: -2530798977179939790
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Wizard_Idle_Special_37
+      name: Ranger_Idle_24
       rect:
         serializedVersion: 2
-        x: 553
+        x: 267
         y: 76
-        width: 13
-        height: 9
+        width: 11
+        height: 10
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1154,20 +832,174 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 2579a60c6652ee440800000000000000
-      internalID: 4966948562281338706
+      spriteID: 940983d8c957d3e80800000000000000
+      internalID: -8197266431499792311
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Wizard_Idle_Special_38
+      name: Ranger_Idle_25
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 76
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cb06a383778d0ca0800000000000000
+      internalID: -6049029794289022007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ranger_Idle_26
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 76
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32c1b34658a319660800000000000000
+      internalID: 7390752808078351395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ranger_Idle_27
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 76
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3653e855c92b48760800000000000000
+      internalID: 7459283267352409443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ranger_Idle_28
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 76
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 420d3b4c394dff730800000000000000
+      internalID: 4035177522272653348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ranger_Idle_29
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 76
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59ed8db5808b360c0800000000000000
+      internalID: -4583617649692844395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ranger_Idle_30
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 76
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81a50b48e98d9a270800000000000000
+      internalID: 8262373166730467864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ranger_Idle_31
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 76
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c71372ec34ffb95c0800000000000000
+      internalID: -4207488760161029764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ranger_Idle_32
       rect:
         serializedVersion: 2
         x: 10
         y: 44
-        width: 13
-        height: 9
+        width: 10
+        height: 10
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1176,19 +1008,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 174432491fa319130800000000000000
-      internalID: 3571700788728382577
+      spriteID: 35fbbe3070de59b00800000000000000
+      internalID: 834833920333430611
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Wizard_Idle_Special_39
+      name: Ranger_Idle_33
       rect:
         serializedVersion: 2
         x: 42
         y: 44
-        width: 13
+        width: 10
         height: 10
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -1198,19 +1030,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 6d59e2c6801524bd0800000000000000
-      internalID: -2647464534323849770
+      spriteID: 01108a322bbb9a740800000000000000
+      internalID: 5163864821533770000
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Wizard_Idle_Special_40
+      name: Ranger_Idle_34
       rect:
         serializedVersion: 2
         x: 74
         y: 44
-        width: 13
+        width: 10
         height: 10
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -1220,20 +1052,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 881ef851609fbece0800000000000000
-      internalID: -1374731456704683640
+      spriteID: 272d9d0e4bf5fa940800000000000000
+      internalID: 5309567716164227698
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Wizard_Idle_Special_41
+      name: Ranger_Idle_35
       rect:
         serializedVersion: 2
         x: 106
         y: 44
-        width: 13
-        height: 9
+        width: 10
+        height: 10
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1242,20 +1074,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 87adf7d323ba56360800000000000000
-      internalID: 7162319014671145592
+      spriteID: f097dce57f96e8760800000000000000
+      internalID: 7462018143767853327
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Wizard_Idle_Special_42
+      name: Ranger_Idle_36
       rect:
         serializedVersion: 2
         x: 138
         y: 44
-        width: 13
-        height: 9
+        width: 10
+        height: 10
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1264,20 +1096,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 98d5a9946ecddea10800000000000000
-      internalID: 1940449896101993865
+      spriteID: a6402ca04e18b12f0800000000000000
+      internalID: -1001063675726789526
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Wizard_Idle_Special_43
+      name: Ranger_Idle_37
       rect:
         serializedVersion: 2
         x: 170
         y: 44
-        width: 13
-        height: 11
+        width: 10
+        height: 10
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1286,20 +1118,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 4a07bbef884f440a0800000000000000
-      internalID: -6898119859998330716
+      spriteID: 06620b05093e08db0800000000000000
+      internalID: -4791579794553690528
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Wizard_Idle_Special_44
+      name: Ranger_Idle_38
       rect:
         serializedVersion: 2
         x: 202
         y: 44
-        width: 13
-        height: 14
+        width: 10
+        height: 10
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1308,20 +1140,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 19275b1a1f0a28da0800000000000000
-      internalID: -5944011598515047791
+      spriteID: dcd573949dd2157c0800000000000000
+      internalID: -4084432975788810803
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Wizard_Idle_Special_45
+      name: Ranger_Idle_39
       rect:
         serializedVersion: 2
         x: 234
         y: 44
-        width: 13
-        height: 9
+        width: 10
+        height: 10
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1330,42 +1162,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: c1ba1a1266e6589a0800000000000000
-      internalID: -6231453124467250404
+      spriteID: 6b8cb72b085ec4180800000000000000
+      internalID: -9129670003673806666
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Wizard_Idle_Special_46
-      rect:
-        serializedVersion: 2
-        x: 242
-        y: 53
-        width: 6
-        height: 7
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 083455c1ac33c36d0800000000000000
-      internalID: -3009473507838573696
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Wizard_Idle_Special_47
+      name: Ranger_Idle_40
       rect:
         serializedVersion: 2
         x: 266
         y: 44
-        width: 13
-        height: 17
+        width: 11
+        height: 10
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1374,20 +1184,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: fec5c5e70dec6c1f0800000000000000
-      internalID: -1024904470311707409
+      spriteID: 289995e2c1ceb1280800000000000000
+      internalID: -9071397418626868862
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Wizard_Idle_Special_48
+      name: Ranger_Idle_41
       rect:
         serializedVersion: 2
         x: 298
         y: 44
-        width: 13
-        height: 19
+        width: 11
+        height: 10
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1396,19 +1206,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 16181ddcc248df650800000000000000
-      internalID: 6268311584336085345
+      spriteID: 670f70e8a80dc5640800000000000000
+      internalID: 5070156574019285110
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Wizard_Idle_Special_49
+      name: Ranger_Idle_42
       rect:
         serializedVersion: 2
         x: 330
         y: 44
-        width: 13
+        width: 11
         height: 10
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -1418,20 +1228,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 17bdf518a608847f0800000000000000
-      internalID: -628110953092752527
+      spriteID: f758517b745971af0800000000000000
+      internalID: -425707504516364929
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Wizard_Idle_Special_50
+      name: Ranger_Idle_43
       rect:
         serializedVersion: 2
         x: 362
         y: 44
-        width: 13
-        height: 9
+        width: 10
+        height: 10
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1440,20 +1250,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 8c2f541610100ead0800000000000000
-      internalID: -2675137073219505464
+      spriteID: 4b92309d5deb534f0800000000000000
+      internalID: -849563129011295820
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Wizard_Idle_Special_51
+      name: Ranger_Idle_44
       rect:
         serializedVersion: 2
         x: 394
         y: 44
-        width: 13
-        height: 9
+        width: 10
+        height: 10
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1462,20 +1272,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 74f1c77887c6bebd0800000000000000
-      internalID: -2599865094951395513
+      spriteID: ae38df269fac08510800000000000000
+      internalID: 1549461444271899626
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Wizard_Idle_Special_52
+      name: Ranger_Idle_45
       rect:
         serializedVersion: 2
         x: 426
         y: 44
-        width: 13
-        height: 9
+        width: 10
+        height: 10
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1484,20 +1294,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: b417d5f668d6c0e20800000000000000
-      internalID: 3318147449626653003
+      spriteID: 36895ca469cb4e5f0800000000000000
+      internalID: -728249886041597853
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Wizard_Idle_Special_53
+      name: Ranger_Idle_46
       rect:
         serializedVersion: 2
         x: 458
         y: 44
-        width: 13
-        height: 9
+        width: 10
+        height: 10
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1506,107 +1316,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: a697a303a6f2a9530800000000000000
-      internalID: 3862451763545799018
+      spriteID: 2fa3a57f1ab53cb80800000000000000
+      internalID: -8375750130781242638
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Wizard_Idle_Special_54
+      name: Ranger_Idle_47
       rect:
         serializedVersion: 2
         x: 490
         y: 44
-        width: 13
-        height: 9
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: d35f5b090228eeec0800000000000000
-      internalID: -3535745581060852419
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Wizard_Idle_Special_55
-      rect:
-        serializedVersion: 2
-        x: 522
-        y: 44
-        width: 13
-        height: 9
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: f67d226c2152e8b30800000000000000
-      internalID: 4291408257494472559
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Wizard_Idle_Special_56
-      rect:
-        serializedVersion: 2
-        x: 554
-        y: 44
-        width: 13
-        height: 9
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 0709776676602e6d0800000000000000
-      internalID: -2962798563685855120
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Wizard_Idle_Special_57
-      rect:
-        serializedVersion: 2
-        x: 9
-        y: 12
-        width: 13
-        height: 9
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: f00167c20850b4ea0800000000000000
-      internalID: -5887606039796903921
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Wizard_Idle_Special_58
-      rect:
-        serializedVersion: 2
-        x: 41
-        y: 12
-        width: 13
+        width: 10
         height: 10
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -1616,19 +1338,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 16e93302f47cc65c0800000000000000
-      internalID: -4220779608096399775
+      spriteID: f3d68b62c8ccabcb0800000000000000
+      internalID: -4847337146593809089
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Wizard_Idle_Special_59
+      name: Ranger_Idle_48
       rect:
         serializedVersion: 2
-        x: 73
+        x: 12
         y: 12
-        width: 13
+        width: 10
         height: 10
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -1638,195 +1360,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: d5b61ff37f046ca20800000000000000
-      internalID: 3082222425655569245
+      spriteID: da6be4ba7363cf710800000000000000
+      internalID: 1728315969728591533
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Wizard_Idle_Special_60
+      name: Ranger_Idle_49
       rect:
         serializedVersion: 2
-        x: 105
+        x: 44
         y: 12
-        width: 13
-        height: 9
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 5a8e838bd1551efc0800000000000000
-      internalID: -3467396651965421403
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Wizard_Idle_Special_61
-      rect:
-        serializedVersion: 2
-        x: 137
-        y: 12
-        width: 13
-        height: 9
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: d11b4d9b346d1e7d0800000000000000
-      internalID: -2890793899426270947
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Wizard_Idle_Special_62
-      rect:
-        serializedVersion: 2
-        x: 169
-        y: 12
-        width: 13
-        height: 11
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 3a872e61ae9b79000800000000000000
-      internalID: 42707136540735651
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Wizard_Idle_Special_63
-      rect:
-        serializedVersion: 2
-        x: 201
-        y: 12
-        width: 13
-        height: 14
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 140b1c9aa4fa457e0800000000000000
-      internalID: -1777603217694019519
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Wizard_Idle_Special_64
-      rect:
-        serializedVersion: 2
-        x: 232
-        y: 21
-        width: 6
-        height: 7
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 4cdcbe8291b7261b0800000000000000
-      internalID: -5664830033287721532
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Wizard_Idle_Special_65
-      rect:
-        serializedVersion: 2
-        x: 233
-        y: 12
-        width: 13
-        height: 9
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 4f2e140d1176b2ac0800000000000000
-      internalID: -3878893327843466508
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Wizard_Idle_Special_66
-      rect:
-        serializedVersion: 2
-        x: 265
-        y: 12
-        width: 13
-        height: 17
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 0be28d277e982edc0800000000000000
-      internalID: -3611172324040495440
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Wizard_Idle_Special_67
-      rect:
-        serializedVersion: 2
-        x: 297
-        y: 12
-        width: 13
-        height: 19
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 688c5f00df84bfe90800000000000000
-      internalID: -6990913745082529658
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Wizard_Idle_Special_68
-      rect:
-        serializedVersion: 2
-        x: 329
-        y: 12
-        width: 13
+        width: 10
         height: 10
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -1836,20 +1382,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 2fba7f949cf433f50800000000000000
-      internalID: 6859914383363386354
+      spriteID: 0d54e531dbcff5b50800000000000000
+      internalID: 6584259069242918352
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Wizard_Idle_Special_69
+      name: Ranger_Idle_50
       rect:
         serializedVersion: 2
-        x: 361
+        x: 76
         y: 12
-        width: 13
-        height: 9
+        width: 10
+        height: 10
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1858,20 +1404,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 64b8d967b2f170030800000000000000
-      internalID: 3460769110191606598
+      spriteID: 859f4e3e0d7d9c970800000000000000
+      internalID: 8775782641084725592
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Wizard_Idle_Special_70
+      name: Ranger_Idle_51
       rect:
         serializedVersion: 2
-        x: 393
+        x: 108
         y: 12
-        width: 13
-        height: 9
+        width: 10
+        height: 10
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1880,20 +1426,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: d62e1c9718fb453b0800000000000000
-      internalID: -5524580280062320019
+      spriteID: 588bd1f4e17a79b50800000000000000
+      internalID: 6599927527552956549
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Wizard_Idle_Special_71
+      name: Ranger_Idle_52
       rect:
         serializedVersion: 2
-        x: 425
+        x: 140
         y: 12
-        width: 13
-        height: 9
+        width: 10
+        height: 10
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1902,20 +1448,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 55f2851dec7962ce0800000000000000
-      internalID: -1430288917112279211
+      spriteID: 1a3da839ec4bb66b0800000000000000
+      internalID: -5301945336967015519
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Wizard_Idle_Special_72
+      name: Ranger_Idle_53
       rect:
         serializedVersion: 2
-        x: 457
+        x: 172
         y: 12
-        width: 13
-        height: 9
+        width: 10
+        height: 10
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1924,20 +1470,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: a2ed2518484d9bc40800000000000000
-      internalID: 5528683683144457770
+      spriteID: 98c51703348534df0800000000000000
+      internalID: -197216913075381111
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Wizard_Idle_Special_73
+      name: Ranger_Idle_54
       rect:
         serializedVersion: 2
-        x: 489
+        x: 204
         y: 12
-        width: 13
-        height: 9
+        width: 10
+        height: 10
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1946,20 +1492,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 71bbe32a5fee59740800000000000000
-      internalID: 5158291686979189527
+      spriteID: ca7cf01dbba3ce350800000000000000
+      internalID: 6047272977992501164
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Wizard_Idle_Special_74
+      name: Ranger_Idle_55
       rect:
         serializedVersion: 2
-        x: 521
+        x: 236
         y: 12
-        width: 13
-        height: 9
+        width: 10
+        height: 10
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1968,20 +1514,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 1b0b805059e841000800000000000000
-      internalID: 5786270219940017
+      spriteID: 1c7b6b47ecb472090800000000000000
+      internalID: -8059389658062735423
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Wizard_Idle_Special_75
+      name: Ranger_Idle_56
       rect:
         serializedVersion: 2
-        x: 553
+        x: 267
         y: 12
-        width: 13
-        height: 9
+        width: 11
+        height: 10
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1990,8 +1536,162 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: b9ebaf903813f0480800000000000000
-      internalID: -8930865097174499685
+      spriteID: 0f2fd0e3fc60f8070800000000000000
+      internalID: 8110708941086651120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ranger_Idle_57
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 12
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 485599060309b9350800000000000000
+      internalID: 6024567463991661956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ranger_Idle_58
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 12
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71d22e6f3e8ed4ce0800000000000000
+      internalID: -1419222241754600169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ranger_Idle_59
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 12
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 339f31c3a4e0615a0800000000000000
+      internalID: -6551032895965497037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ranger_Idle_60
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 12
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be9a8eadc5eb964d0800000000000000
+      internalID: -3140769959095260693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ranger_Idle_61
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 12
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d18babcf8d44dcb30800000000000000
+      internalID: 4309176117207152669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ranger_Idle_62
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 12
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f865ead9cc149be0800000000000000
+      internalID: -1471519524956837647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ranger_Idle_63
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 12
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5c71cbff39157300800000000000000
+      internalID: 249133116986326110
       vertices: []
       indices: 
       edges: []
@@ -2010,82 +1710,70 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      Wizard_Idle_Special_0: -6802936167326294342
-      Wizard_Idle_Special_1: -5936299140040444537
-      Wizard_Idle_Special_10: 5650203627939987679
-      Wizard_Idle_Special_11: -3530120800020821939
-      Wizard_Idle_Special_12: 821941832131112192
-      Wizard_Idle_Special_13: 1350898713017777191
-      Wizard_Idle_Special_14: -7750856881962950829
-      Wizard_Idle_Special_15: -6232195540882673931
-      Wizard_Idle_Special_16: 5014019389921229640
-      Wizard_Idle_Special_17: -3250600939172067087
-      Wizard_Idle_Special_18: -7311641821867510841
-      Wizard_Idle_Special_19: 162016009406109866
-      Wizard_Idle_Special_2: 6363423369091623765
-      Wizard_Idle_Special_20: -645106333343103098
-      Wizard_Idle_Special_21: -8114896276769652303
-      Wizard_Idle_Special_22: 7189919139615725426
-      Wizard_Idle_Special_23: 2197152947522113246
-      Wizard_Idle_Special_24: 3718128512386660767
-      Wizard_Idle_Special_25: -3149227243071890780
-      Wizard_Idle_Special_26: -6328366989257356725
-      Wizard_Idle_Special_27: -4351134774269872024
-      Wizard_Idle_Special_28: 6398072005122800458
-      Wizard_Idle_Special_29: 8044536427836883095
-      Wizard_Idle_Special_3: 7774247488403888903
-      Wizard_Idle_Special_30: -6059413772014538244
-      Wizard_Idle_Special_31: -8118074266303580375
-      Wizard_Idle_Special_32: -7017100070728660373
-      Wizard_Idle_Special_33: 6117722085364018632
-      Wizard_Idle_Special_34: 368107506619679230
-      Wizard_Idle_Special_35: 2195771732343107829
-      Wizard_Idle_Special_36: 9063464311047348654
-      Wizard_Idle_Special_37: 4966948562281338706
-      Wizard_Idle_Special_38: 3571700788728382577
-      Wizard_Idle_Special_39: -2647464534323849770
-      Wizard_Idle_Special_4: -9205265219401481555
-      Wizard_Idle_Special_40: -1374731456704683640
-      Wizard_Idle_Special_41: 7162319014671145592
-      Wizard_Idle_Special_42: 1940449896101993865
-      Wizard_Idle_Special_43: -6898119859998330716
-      Wizard_Idle_Special_44: -5944011598515047791
-      Wizard_Idle_Special_45: -6231453124467250404
-      Wizard_Idle_Special_46: -3009473507838573696
-      Wizard_Idle_Special_47: -1024904470311707409
-      Wizard_Idle_Special_48: 6268311584336085345
-      Wizard_Idle_Special_49: -628110953092752527
-      Wizard_Idle_Special_5: -4451904145700850698
-      Wizard_Idle_Special_50: -2675137073219505464
-      Wizard_Idle_Special_51: -2599865094951395513
-      Wizard_Idle_Special_52: 3318147449626653003
-      Wizard_Idle_Special_53: 3862451763545799018
-      Wizard_Idle_Special_54: -3535745581060852419
-      Wizard_Idle_Special_55: 4291408257494472559
-      Wizard_Idle_Special_56: -2962798563685855120
-      Wizard_Idle_Special_57: -5887606039796903921
-      Wizard_Idle_Special_58: -4220779608096399775
-      Wizard_Idle_Special_59: 3082222425655569245
-      Wizard_Idle_Special_6: 3717138015599642317
-      Wizard_Idle_Special_60: -3467396651965421403
-      Wizard_Idle_Special_61: -2890793899426270947
-      Wizard_Idle_Special_62: 42707136540735651
-      Wizard_Idle_Special_63: -1777603217694019519
-      Wizard_Idle_Special_64: -5664830033287721532
-      Wizard_Idle_Special_65: -3878893327843466508
-      Wizard_Idle_Special_66: -3611172324040495440
-      Wizard_Idle_Special_67: -6990913745082529658
-      Wizard_Idle_Special_68: 6859914383363386354
-      Wizard_Idle_Special_69: 3460769110191606598
-      Wizard_Idle_Special_7: 8393146659747097959
-      Wizard_Idle_Special_70: -5524580280062320019
-      Wizard_Idle_Special_71: -1430288917112279211
-      Wizard_Idle_Special_72: 5528683683144457770
-      Wizard_Idle_Special_73: 5158291686979189527
-      Wizard_Idle_Special_74: 5786270219940017
-      Wizard_Idle_Special_75: -8930865097174499685
-      Wizard_Idle_Special_8: 4822188644801218740
-      Wizard_Idle_Special_9: 8423494164248729494
+      Ranger_Idle_0: 8048668061461203166
+      Ranger_Idle_1: 5239356233248346211
+      Ranger_Idle_10: -4907157940244031183
+      Ranger_Idle_11: -2765866892621205833
+      Ranger_Idle_12: -6119537276219133012
+      Ranger_Idle_13: 1035200674564471187
+      Ranger_Idle_14: 1465628998217952326
+      Ranger_Idle_15: 206859205506041150
+      Ranger_Idle_16: 506717754241514776
+      Ranger_Idle_17: 5780358433675087090
+      Ranger_Idle_18: -4814291399657830396
+      Ranger_Idle_19: -746785822107380381
+      Ranger_Idle_2: 4921113402237285444
+      Ranger_Idle_20: 2997400662402629043
+      Ranger_Idle_21: 8954761351451586708
+      Ranger_Idle_22: 4684347914016575351
+      Ranger_Idle_23: -2530798977179939790
+      Ranger_Idle_24: -8197266431499792311
+      Ranger_Idle_25: -6049029794289022007
+      Ranger_Idle_26: 7390752808078351395
+      Ranger_Idle_27: 7459283267352409443
+      Ranger_Idle_28: 4035177522272653348
+      Ranger_Idle_29: -4583617649692844395
+      Ranger_Idle_3: 3195705228328336375
+      Ranger_Idle_30: 8262373166730467864
+      Ranger_Idle_31: -4207488760161029764
+      Ranger_Idle_32: 834833920333430611
+      Ranger_Idle_33: 5163864821533770000
+      Ranger_Idle_34: 5309567716164227698
+      Ranger_Idle_35: 7462018143767853327
+      Ranger_Idle_36: -1001063675726789526
+      Ranger_Idle_37: -4791579794553690528
+      Ranger_Idle_38: -4084432975788810803
+      Ranger_Idle_39: -9129670003673806666
+      Ranger_Idle_4: -2770242059257064645
+      Ranger_Idle_40: -9071397418626868862
+      Ranger_Idle_41: 5070156574019285110
+      Ranger_Idle_42: -425707504516364929
+      Ranger_Idle_43: -849563129011295820
+      Ranger_Idle_44: 1549461444271899626
+      Ranger_Idle_45: -728249886041597853
+      Ranger_Idle_46: -8375750130781242638
+      Ranger_Idle_47: -4847337146593809089
+      Ranger_Idle_48: 1728315969728591533
+      Ranger_Idle_49: 6584259069242918352
+      Ranger_Idle_5: 5264393812773158499
+      Ranger_Idle_50: 8775782641084725592
+      Ranger_Idle_51: 6599927527552956549
+      Ranger_Idle_52: -5301945336967015519
+      Ranger_Idle_53: -197216913075381111
+      Ranger_Idle_54: 6047272977992501164
+      Ranger_Idle_55: -8059389658062735423
+      Ranger_Idle_56: 8110708941086651120
+      Ranger_Idle_57: 6024567463991661956
+      Ranger_Idle_58: -1419222241754600169
+      Ranger_Idle_59: -6551032895965497037
+      Ranger_Idle_6: 9169975975566402292
+      Ranger_Idle_60: -3140769959095260693
+      Ranger_Idle_61: 4309176117207152669
+      Ranger_Idle_62: -1471519524956837647
+      Ranger_Idle_63: 249133116986326110
+      Ranger_Idle_7: 5490545226703722265
+      Ranger_Idle_8: -1256766985542525869
+      Ranger_Idle_9: -6541639296113822349
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

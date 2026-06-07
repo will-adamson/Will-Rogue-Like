@@ -1,48 +1,29 @@
 <ui:UXML xmlns:ui="UnityEngine.UIElements">
     <Style src="CharacterSelect.uss" />
     <ui:VisualElement name="root" class="root">
-        <ui:Label class="title" text="CHOOSE YOUR CLASS" />
+        <ui:Label class="title" text="CHOOSE YOUR CHARACTER" />
+        
         <ui:VisualElement class="divider" />
-        <ui:VisualElement name="card-row" class="card-row">
 
+        <ui:VisualElement name="card-row" class="card-row">
             <ui:VisualElement name="card-dwarven-fighter" class="card card-selected">
                 <ui:VisualElement name="card-sprite" class="card-sprite" />
                 <ui:Label name="card-name" class="card-name" text="DWARVEN FIGHTER" />
                 <ui:Label name="card-desc" class="card-desc" text="" />
-                <ui:VisualElement class="card-stats">
-                    <ui:Label class="stat-label" text="HP" />
-                    <ui:VisualElement class="stat-track">
-                        <ui:VisualElement name="stat-hp-fill" class="stat-fill stat-fill-hp" />
-                    </ui:VisualElement>
-                    <ui:Label class="stat-label" text="ATK" />
-                    <ui:VisualElement class="stat-track">
-                        <ui:VisualElement name="stat-atk-fill" class="stat-fill stat-fill-atk" />
-                    </ui:VisualElement>
-                    <ui:Label class="stat-label" text="SPD" />
-                    <ui:VisualElement class="stat-track">
-                        <ui:VisualElement name="stat-spd-fill" class="stat-fill stat-fill-spd" />
-                    </ui:VisualElement>
+                <ui:VisualElement class="card-abilities">
+                    <ui:Label class="card-abilities-title" text="ABILITIES" />
+                    <ui:VisualElement name="card-ability-slots" class="card-ability-slots" />
                 </ui:VisualElement>
                 <ui:Label name="card-passive" class="card-passive" text="" />
             </ui:VisualElement>
 
             <ui:VisualElement name="card-human-wizard" class="card">
                 <ui:VisualElement name="card-sprite" class="card-sprite" />
-                <ui:Label name="card-name" class="card-name" text="MAGE" />
+                <ui:Label name="card-name" class="card-name" text="HUMAN WIZARD" />
                 <ui:Label name="card-desc" class="card-desc" text="" />
-                <ui:VisualElement class="card-stats">
-                    <ui:Label class="stat-label" text="HP" />
-                    <ui:VisualElement class="stat-track">
-                        <ui:VisualElement name="stat-hp-fill" class="stat-fill stat-fill-hp" />
-                    </ui:VisualElement>
-                    <ui:Label class="stat-label" text="ATK" />
-                    <ui:VisualElement class="stat-track">
-                        <ui:VisualElement name="stat-atk-fill" class="stat-fill stat-fill-atk" />
-                    </ui:VisualElement>
-                    <ui:Label class="stat-label" text="SPD" />
-                    <ui:VisualElement class="stat-track">
-                        <ui:VisualElement name="stat-spd-fill" class="stat-fill stat-fill-spd" />
-                    </ui:VisualElement>
+                <ui:VisualElement class="card-abilities">
+                    <ui:Label class="card-abilities-title" text="ABILITIES" />
+                    <ui:VisualElement name="card-ability-slots" class="card-ability-slots" />
                 </ui:VisualElement>
                 <ui:Label name="card-passive" class="card-passive" text="" />
             </ui:VisualElement>
@@ -51,31 +32,27 @@
                 <ui:VisualElement name="card-sprite" class="card-sprite" />
                 <ui:Label name="card-name" class="card-name" text="ELF RANGER" />
                 <ui:Label name="card-desc" class="card-desc" text="" />
-                <ui:VisualElement class="card-stats">
-                    <ui:Label class="stat-label" text="HP" />
-                    <ui:VisualElement class="stat-track">
-                        <ui:VisualElement name="stat-hp-fill" class="stat-fill stat-fill-hp" />
-                    </ui:VisualElement>
-                    <ui:Label class="stat-label" text="ATK" />
-                    <ui:VisualElement class="stat-track">
-                        <ui:VisualElement name="stat-atk-fill" class="stat-fill stat-fill-atk" />
-                    </ui:VisualElement>
-                    <ui:Label class="stat-label" text="SPD" />
-                    <ui:VisualElement class="stat-track">
-                        <ui:VisualElement name="stat-spd-fill" class="stat-fill stat-fill-spd" />
-                    </ui:VisualElement>
+                <ui:VisualElement class="card-abilities">
+                    <ui:Label class="card-abilities-title" text="ABILITIES" />
+                    <ui:VisualElement name="card-ability-slots" class="card-ability-slots" />
                 </ui:VisualElement>
                 <ui:Label name="card-passive" class="card-passive" text="" />
             </ui:VisualElement>
-
         </ui:VisualElement>
+
         <ui:VisualElement name="info-bar" class="info-bar">
             <ui:Label name="info-passive" class="info-text" text="" />
         </ui:VisualElement>
+
         <ui:VisualElement class="divider" />
+
         <ui:VisualElement class="button-row">
             <ui:Button name="btn-back" class="btn" text="BACK" />
             <ui:Button name="btn-start" class="btn btn-primary" text="DESCEND" />
+        </ui:VisualElement>
+
+        <ui:VisualElement name="ability-tooltip" class="ability-tooltip">
+            <ui:Label name="ability-tooltip-text" class="ability-tooltip-text" text="" />
         </ui:VisualElement>
     </ui:VisualElement>
 </ui:UXML>

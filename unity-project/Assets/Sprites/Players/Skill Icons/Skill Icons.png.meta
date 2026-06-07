@@ -1,0 +1,1209 @@
+fileFormatVersion: 2
+guid: f16eb4ad9e1bf4ded8e3db5ad6c2e4bc
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3688252221114364274
+    second: 16x16px_Skill_Icons_Without_Background_0
+  - first:
+      213: 4719864617941483564
+    second: 16x16px_Skill_Icons_Without_Background_1
+  - first:
+      213: -8254817559311485511
+    second: 16x16px_Skill_Icons_Without_Background_2
+  - first:
+      213: 7522728218873411262
+    second: 16x16px_Skill_Icons_Without_Background_3
+  - first:
+      213: 8682904825849834442
+    second: 16x16px_Skill_Icons_Without_Background_4
+  - first:
+      213: -1381344287288775011
+    second: 16x16px_Skill_Icons_Without_Background_5
+  - first:
+      213: 2432705907552939604
+    second: 16x16px_Skill_Icons_Without_Background_6
+  - first:
+      213: -8535598681327215050
+    second: 16x16px_Skill_Icons_Without_Background_7
+  - first:
+      213: 2306093993848300546
+    second: 16x16px_Skill_Icons_Without_Background_8
+  - first:
+      213: 5051569285750862801
+    second: 16x16px_Skill_Icons_Without_Background_9
+  - first:
+      213: 5275626049520228390
+    second: 16x16px_Skill_Icons_Without_Background_10
+  - first:
+      213: 6655864223929385061
+    second: 16x16px_Skill_Icons_Without_Background_11
+  - first:
+      213: 8467681436178502743
+    second: 16x16px_Skill_Icons_Without_Background_12
+  - first:
+      213: 7385769459413515923
+    second: 16x16px_Skill_Icons_Without_Background_13
+  - first:
+      213: -4816456629964798035
+    second: 16x16px_Skill_Icons_Without_Background_14
+  - first:
+      213: 6304241100005080845
+    second: 16x16px_Skill_Icons_Without_Background_15
+  - first:
+      213: 2692819580449729989
+    second: 16x16px_Skill_Icons_Without_Background_16
+  - first:
+      213: -3791927394646547282
+    second: 16x16px_Skill_Icons_Without_Background_17
+  - first:
+      213: -1653038747743992699
+    second: 16x16px_Skill_Icons_Without_Background_18
+  - first:
+      213: -2428228679295653772
+    second: 16x16px_Skill_Icons_Without_Background_19
+  - first:
+      213: -6094732907278502080
+    second: 16x16px_Skill_Icons_Without_Background_20
+  - first:
+      213: 955327373616367312
+    second: 16x16px_Skill_Icons_Without_Background_21
+  - first:
+      213: -5036649271821720519
+    second: 16x16px_Skill_Icons_Without_Background_22
+  - first:
+      213: -691965176294646945
+    second: 16x16px_Skill_Icons_Without_Background_23
+  - first:
+      213: -895341605907943824
+    second: 16x16px_Skill_Icons_Without_Background_24
+  - first:
+      213: 2553959078695589017
+    second: 16x16px_Skill_Icons_Without_Background_25
+  - first:
+      213: 8409577274995476016
+    second: 16x16px_Skill_Icons_Without_Background_26
+  - first:
+      213: -7729835508424446094
+    second: 16x16px_Skill_Icons_Without_Background_27
+  - first:
+      213: -2810179871235722037
+    second: 16x16px_Skill_Icons_Without_Background_28
+  - first:
+      213: 5814595350097044603
+    second: 16x16px_Skill_Icons_Without_Background_29
+  - first:
+      213: -5780359341740068734
+    second: 16x16px_Skill_Icons_Without_Background_30
+  - first:
+      213: 7554394678386270800
+    second: 16x16px_Skill_Icons_Without_Background_31
+  - first:
+      213: -6912177728785059080
+    second: 16x16px_Skill_Icons_Without_Background_32
+  - first:
+      213: -6842276379039921008
+    second: 16x16px_Skill_Icons_Without_Background_33
+  - first:
+      213: -4527286575502298189
+    second: 16x16px_Skill_Icons_Without_Background_34
+  - first:
+      213: 6353851234862208864
+    second: 16x16px_Skill_Icons_Without_Background_35
+  - first:
+      213: -5002138959116622648
+    second: 16x16px_Skill_Icons_Without_Background_36
+  - first:
+      213: -9150895858229302970
+    second: 16x16px_Skill_Icons_Without_Background_37
+  - first:
+      213: -7191779151660040491
+    second: 16x16px_Skill_Icons_Without_Background_38
+  - first:
+      213: 1568327752888490054
+    second: 16x16px_Skill_Icons_Without_Background_39
+  - first:
+      213: 8982576446394611536
+    second: 16x16px_Skill_Icons_Without_Background_40
+  - first:
+      213: -8749966295978921666
+    second: 16x16px_Skill_Icons_Without_Background_41
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 16x16px_Skill_Icons_Without_Background_0
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 335
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27131999add4f2330800000000000000
+      internalID: 3688252221114364274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x16px_Skill_Icons_Without_Background_1
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 335
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c204654fcd3508140800000000000000
+      internalID: 4719864617941483564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x16px_Skill_Icons_Without_Background_2
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 335
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b5f49b6a2ff07d80800000000000000
+      internalID: -8254817559311485511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x16px_Skill_Icons_Without_Background_3
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 335
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb6b1cb3579166860800000000000000
+      internalID: 7522728218873411262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x16px_Skill_Icons_Without_Background_4
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 335
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acbed436fefdf7870800000000000000
+      internalID: 8682904825849834442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x16px_Skill_Icons_Without_Background_5
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 335
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9e23ab70ba74dce0800000000000000
+      internalID: -1381344287288775011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x16px_Skill_Icons_Without_Background_6
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 303
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45eefa64225b2c120800000000000000
+      internalID: 2432705907552939604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x16px_Skill_Icons_Without_Background_7
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 307
+        width: 18
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63ed23e09367b8980800000000000000
+      internalID: -8535598681327215050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x16px_Skill_Icons_Without_Background_8
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 303
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2046df9e444e00020800000000000000
+      internalID: 2306093993848300546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x16px_Skill_Icons_Without_Background_9
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 303
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d334734087ca1640800000000000000
+      internalID: 5051569285750862801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x16px_Skill_Icons_Without_Background_10
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 272
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6285379c0f9c63940800000000000000
+      internalID: 5275626049520228390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x16px_Skill_Icons_Without_Background_11
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 271
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 560ca845f316e5c50800000000000000
+      internalID: 6655864223929385061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x16px_Skill_Icons_Without_Background_12
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 239
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 754d69a076f338570800000000000000
+      internalID: 8467681436178502743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x16px_Skill_Icons_Without_Background_13
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 207
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39e754d11368f7660800000000000000
+      internalID: 7385769459413515923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x16px_Skill_Icons_Without_Background_14
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 207
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da78fd6b632882db0800000000000000
+      internalID: -4816456629964798035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x16px_Skill_Icons_Without_Background_15
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 208
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0f783011e92d7750800000000000000
+      internalID: 6304241100005080845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x16px_Skill_Icons_Without_Background_16
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 207
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cd2ce82421de5520800000000000000
+      internalID: 2692819580449729989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x16px_Skill_Icons_Without_Background_17
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 207
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea42504002e506bc0800000000000000
+      internalID: -3791927394646547282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x16px_Skill_Icons_Without_Background_18
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 176
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58443c0640a3f09e0800000000000000
+      internalID: -1653038747743992699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x16px_Skill_Icons_Without_Background_19
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 175
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 478aa29a1e23d4ed0800000000000000
+      internalID: -2428228679295653772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x16px_Skill_Icons_Without_Background_20
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 176
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 047f7cc46b82b6ba0800000000000000
+      internalID: -6094732907278502080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x16px_Skill_Icons_Without_Background_21
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 176
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d64c9c4f21024d00800000000000000
+      internalID: 955327373616367312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x16px_Skill_Icons_Without_Background_22
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 180
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93426de2c2a3a1ab0800000000000000
+      internalID: -5036649271821720519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x16px_Skill_Icons_Without_Background_23
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 175
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5b540e9655a566f0800000000000000
+      internalID: -691965176294646945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x16px_Skill_Icons_Without_Background_24
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 175
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07eaa3b9d8b1393f0800000000000000
+      internalID: -895341605907943824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x16px_Skill_Icons_Without_Background_25
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 175
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 994d888204c717320800000000000000
+      internalID: 2553959078695589017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x16px_Skill_Icons_Without_Background_26
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 144
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0368d4bc9f1d4b470800000000000000
+      internalID: 8409577274995476016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x16px_Skill_Icons_Without_Background_27
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 152
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27fe82c3f8b1ab490800000000000000
+      internalID: -7729835508424446094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x16px_Skill_Icons_Without_Background_28
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 144
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc4ba0ccb4c3009d0800000000000000
+      internalID: -2810179871235722037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x16px_Skill_Icons_Without_Background_29
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 144
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b742c23f9a791b050800000000000000
+      internalID: 5814595350097044603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x16px_Skill_Icons_Without_Background_30
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 144
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 280f879edc908cfa0800000000000000
+      internalID: -5780359341740068734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x16px_Skill_Icons_Without_Background_31
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 052a0526fe996d860800000000000000
+      internalID: 7554394678386270800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x16px_Skill_Icons_Without_Background_32
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 145
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f2766b5af20310a0800000000000000
+      internalID: -6912177728785059080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x16px_Skill_Icons_Without_Background_33
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 112
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09c874c92e95b01a0800000000000000
+      internalID: -6842276379039921008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x16px_Skill_Icons_Without_Background_34
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 80
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b37ace98d8db21c0800000000000000
+      internalID: -4527286575502298189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x16px_Skill_Icons_Without_Background_35
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 48
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06793a1b80a6d2850800000000000000
+      internalID: 6353851234862208864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x16px_Skill_Icons_Without_Background_36
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 17
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c426b08e15d49ab0800000000000000
+      internalID: -5002138959116622648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x16px_Skill_Icons_Without_Background_37
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 15
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64926a153bc710180800000000000000
+      internalID: -9150895858229302970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x16px_Skill_Icons_Without_Background_38
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 15
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5de3e3a17faa13c90800000000000000
+      internalID: -7191779151660040491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x16px_Skill_Icons_Without_Background_39
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 15
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6481e4a28c1d3c510800000000000000
+      internalID: 1568327752888490054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x16px_Skill_Icons_Without_Background_40
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 15
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 057342fafa588ac70800000000000000
+      internalID: 8982576446394611536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x16px_Skill_Icons_Without_Background_41
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 16
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e31398b5300e19680800000000000000
+      internalID: -8749966295978921666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      16x16px_Skill_Icons_Without_Background_0: 3688252221114364274
+      16x16px_Skill_Icons_Without_Background_1: 4719864617941483564
+      16x16px_Skill_Icons_Without_Background_10: 5275626049520228390
+      16x16px_Skill_Icons_Without_Background_11: 6655864223929385061
+      16x16px_Skill_Icons_Without_Background_12: 8467681436178502743
+      16x16px_Skill_Icons_Without_Background_13: 7385769459413515923
+      16x16px_Skill_Icons_Without_Background_14: -4816456629964798035
+      16x16px_Skill_Icons_Without_Background_15: 6304241100005080845
+      16x16px_Skill_Icons_Without_Background_16: 2692819580449729989
+      16x16px_Skill_Icons_Without_Background_17: -3791927394646547282
+      16x16px_Skill_Icons_Without_Background_18: -1653038747743992699
+      16x16px_Skill_Icons_Without_Background_19: -2428228679295653772
+      16x16px_Skill_Icons_Without_Background_2: -8254817559311485511
+      16x16px_Skill_Icons_Without_Background_20: -6094732907278502080
+      16x16px_Skill_Icons_Without_Background_21: 955327373616367312
+      16x16px_Skill_Icons_Without_Background_22: -5036649271821720519
+      16x16px_Skill_Icons_Without_Background_23: -691965176294646945
+      16x16px_Skill_Icons_Without_Background_24: -895341605907943824
+      16x16px_Skill_Icons_Without_Background_25: 2553959078695589017
+      16x16px_Skill_Icons_Without_Background_26: 8409577274995476016
+      16x16px_Skill_Icons_Without_Background_27: -7729835508424446094
+      16x16px_Skill_Icons_Without_Background_28: -2810179871235722037
+      16x16px_Skill_Icons_Without_Background_29: 5814595350097044603
+      16x16px_Skill_Icons_Without_Background_3: 7522728218873411262
+      16x16px_Skill_Icons_Without_Background_30: -5780359341740068734
+      16x16px_Skill_Icons_Without_Background_31: 7554394678386270800
+      16x16px_Skill_Icons_Without_Background_32: -6912177728785059080
+      16x16px_Skill_Icons_Without_Background_33: -6842276379039921008
+      16x16px_Skill_Icons_Without_Background_34: -4527286575502298189
+      16x16px_Skill_Icons_Without_Background_35: 6353851234862208864
+      16x16px_Skill_Icons_Without_Background_36: -5002138959116622648
+      16x16px_Skill_Icons_Without_Background_37: -9150895858229302970
+      16x16px_Skill_Icons_Without_Background_38: -7191779151660040491
+      16x16px_Skill_Icons_Without_Background_39: 1568327752888490054
+      16x16px_Skill_Icons_Without_Background_4: 8682904825849834442
+      16x16px_Skill_Icons_Without_Background_40: 8982576446394611536
+      16x16px_Skill_Icons_Without_Background_41: -8749966295978921666
+      16x16px_Skill_Icons_Without_Background_5: -1381344287288775011
+      16x16px_Skill_Icons_Without_Background_6: 2432705907552939604
+      16x16px_Skill_Icons_Without_Background_7: -8535598681327215050
+      16x16px_Skill_Icons_Without_Background_8: 2306093993848300546
+      16x16px_Skill_Icons_Without_Background_9: 5051569285750862801
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

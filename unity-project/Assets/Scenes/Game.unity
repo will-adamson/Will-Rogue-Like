@@ -455,8 +455,6 @@ MonoBehaviour:
     m_Bits: 64
   roomWaves:
   - {fileID: 11400000, guid: 5ca26ead035cc4d5d8c0d670958ec8c0, type: 2}
-  - {fileID: 11400000, guid: 226b20c608b7a4624935cf8d794d4d74, type: 2}
-  - {fileID: 11400000, guid: 5a8120daa942e4a23bedc15e0dcf905e, type: 2}
   distanceToEnd: 10
   xOffset: 18
   yOffset: 10

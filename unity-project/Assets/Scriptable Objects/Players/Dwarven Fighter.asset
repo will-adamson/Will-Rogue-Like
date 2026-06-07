@@ -12,13 +12,24 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 8ec009144a04e4ed3bd1707152701671, type: 3}
   m_Name: Dwarven Fighter
   m_EditorClassIdentifier: Assembly-CSharp::KnightData
-  sprite: {fileID: 1754428778, guid: af40bd469d32b470ea9d2f8e1d56ae46, type: 3}
+  sprite: {fileID: 9006104351298167142, guid: 05e22ad66e6a54e77b200d3238ac0f80, type: 3}
   name: Dwarven Fighter
   health: 1
   stamina: 100
   damage: 15
   speed: 4
   defence: 3
+  abilities:
+  - abilityName: Uppercut
+    icon: {fileID: 8682904825849834442, guid: f16eb4ad9e1bf4ded8e3db5ad6c2e4bc, type: 3}
+  - abilityName: Swirl
+    icon: {fileID: -8254817559311485511, guid: f16eb4ad9e1bf4ded8e3db5ad6c2e4bc, type: 3}
+  - abilityName: Tempest
+    icon: {fileID: 7522728218873411262, guid: f16eb4ad9e1bf4ded8e3db5ad6c2e4bc, type: 3}
+  - abilityName: Cataclysm
+    icon: {fileID: 4719864617941483564, guid: f16eb4ad9e1bf4ded8e3db5ad6c2e4bc, type: 3}
+  - abilityName: Taunt
+    icon: {fileID: -1381344287288775011, guid: f16eb4ad9e1bf4ded8e3db5ad6c2e4bc, type: 3}
   critChance: 0
   critMultiplier: 1.5
   experienceToNextLevel: 100

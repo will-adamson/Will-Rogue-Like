@@ -13,7 +13,7 @@ public class RangedPlayerController : PlayerController
         base.Awake();
 
         rangedPlayerData = playerData as RangedPlayerData;
-        if (rangedPlayerData == null) { Debug.LogError("PlayerData is not RangedPlayerData!"); return; }
+        if (rangedPlayerData == null) return;
 
         ProjectileAttackComponent projectileAttackComp = GetComponent<ProjectileAttackComponent>();
         projectileAttackComp.Init(rangedPlayerData.arrowData, bonusDamage: rangedPlayerData.damage);

@@ -39,6 +39,8 @@ public class MainMenuController : MonoBehaviour
     private Toggle toggleColorblind;
     private Toggle toggleScreenshake;
 
+    private TooltipController tooltip;
+
     private PlayerData[] classData;
 
     private readonly string[] cardNames =
@@ -127,6 +129,8 @@ public class MainMenuController : MonoBehaviour
     {
         VisualElement root = characterSelectDocument.rootVisualElement;
 
+        tooltip = new TooltipController(root);
+
         btnCharBack = root.Q<Button>("btn-back");
         btnCharStart = root.Q<Button>("btn-start");
 
@@ -198,55 +202,61 @@ public class MainMenuController : MonoBehaviour
         SceneManager.LoadScene(gameSceneName);
     }
 
-    private void PopulateCard(
-        VisualElement root,
-        string cardName,
-        PlayerData data,
-        string displayName)
+    private void PopulateCard(VisualElement root, string cardName, PlayerData data, string displayName)
     {
         VisualElement card = root.Q<VisualElement>(cardName);
-
-        if (card == null)
-            return;
+        if (card == null) return;
 
         VisualElement spriteEl = card.Q<VisualElement>("card-sprite");
-
         if (spriteEl != null && data.sprite != null)
             spriteEl.style.backgroundImage = new StyleBackground(data.sprite);
 
         Label nameLabel = card.Q<Label>("card-name");
-
         if (nameLabel != null)
             nameLabel.text = displayName.ToUpper();
 
         Label descLabel = card.Q<Label>("card-desc");
-
         if (descLabel != null)
             descLabel.text = $"HP: {data.health}  ATK: {data.damage}  SPD: {data.speed}";
 
         Label passiveLabel = card.Q<Label>("card-passive");
-
         if (passiveLabel != null)
             passiveLabel.text = GetPassiveText(data);
 
-        SetStatBar(card, "stat-hp-fill", data.health, 200f);
-        SetStatBar(card, "stat-atk-fill", data.damage, 50f);
-        SetStatBar(card, "stat-spd-fill", data.speed, 10f);
+        PopulateAbilitySlots(card, data);
     }
 
-    private void SetStatBar(
-        VisualElement card,
-        string fillName,
-        float value,
-        float max)
+    private void PopulateAbilitySlots(VisualElement card, PlayerData data)
     {
-        VisualElement fill = card.Q<VisualElement>(fillName);
+        VisualElement slotsContainer = card.Q<VisualElement>("card-ability-slots");
+        if (slotsContainer == null) return;
 
-        if (fill == null)
-            return;
+        slotsContainer.Clear();
 
-        fill.style.width =
-            Length.Percent(Mathf.Clamp01(value / max) * 100f);
+        int slotCount = Mathf.Max(4, data.abilities?.Length ?? 0);
+
+        for (int i = 0; i < slotCount; i++)
+        {
+            bool hasAbility = data.abilities != null && i < data.abilities.Length;
+            AbilityData ability = hasAbility ? data.abilities[i] : null;
+
+            VisualElement slot = new VisualElement();
+            slot.AddToClassList("card-ability-slot");
+
+            if (ability != null)
+            {
+                if (ability.icon != null)
+                    slot.style.backgroundImage = new StyleBackground(ability.icon);
+
+                tooltip.RegisterSlot(slot, ability.abilityName);
+            }
+            else
+            {
+                slot.AddToClassList("card-ability-slot-empty");
+            }
+
+            slotsContainer.Add(slot);
+        }
     }
 
     private string GetPassiveText(PlayerData data) => data switch

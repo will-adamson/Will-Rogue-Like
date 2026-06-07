@@ -1,5 +1,12 @@
 using UnityEngine;
 
+[System.Serializable]
+public class AbilityData
+{
+    public string abilityName;
+    public Sprite icon;
+}
+
 public abstract class PlayerData : ScriptableObject
 {
     public Sprite sprite;
@@ -9,6 +16,8 @@ public abstract class PlayerData : ScriptableObject
     public float damage = 10f;
     public float speed = 5f;
     public float defence = 0f;
+
+    public AbilityData[] abilities;
 
     /// <summary>Range: 0–1 (not 0–100).</summary>
     [Range(0f, 1f)]

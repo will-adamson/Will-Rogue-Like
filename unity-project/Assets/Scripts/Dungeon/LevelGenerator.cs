@@ -24,8 +24,8 @@ public class LevelGenerator : MonoBehaviour
 
     [Header("Generation Settings")]
     [SerializeField] private int distanceToEnd;
-    [SerializeField] private float xOffset = 40f;
-    [SerializeField] private float yOffset = 40f;
+    [SerializeField] private float xOffset = 18f;
+    [SerializeField] private float yOffset = 10f;
 
     private PlayerSpawner playerSpawner;
     private EnemySpawner enemySpawner;

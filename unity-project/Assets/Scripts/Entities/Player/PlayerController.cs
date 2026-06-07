@@ -31,7 +31,7 @@ public class PlayerController : EntityController, IAimProvider
     protected override float GetDefence() => playerData.defence;
     public float Defence => playerData.defence;
 
-    protected override string DeathStateName => "Fighter Die";
+    protected override string DeathStateName => "Die";
 
     protected InputActionMap PlayerActionMap { get; private set; }
 
@@ -187,19 +187,18 @@ public class PlayerController : EntityController, IAimProvider
 
     protected override void OnDeathAnimationComplete()
     {
-        StartCoroutine(TombstoneRoutine());
-    }
-
-    private IEnumerator TombstoneRoutine()
-    {
-        yield return new WaitForSeconds(1f);
-
         if (tombstonePrefabs != null && tombstonePrefabs.Length > 0)
         {
             GameObject tombstone = tombstonePrefabs[Random.Range(0, tombstonePrefabs.Length)];
             Instantiate(tombstone, transform.position, Quaternion.identity);
         }
 
+        StartCoroutine(DelayedDestroy());
+    }
+
+    private IEnumerator DelayedDestroy()
+    {
+        yield return new WaitForSeconds(1f);
         Destroy(gameObject);
     }
 

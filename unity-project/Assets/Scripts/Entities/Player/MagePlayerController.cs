@@ -46,6 +46,13 @@ public class MagePlayerController : PlayerController
         Anim.SetTrigger(HashAttack);
     }
 
+    protected override Vector2 GetBlendDirection()
+    {
+        if (IsAttacking && AimDirection.y < 0 && AimDirection.x == 0)
+            return AimDirection; // Force downward attack animation when aiming down to avoid blend tree choosing horizontal attack
+        return base.GetBlendDirection();
+    }
+
     public override void OnAttackComplete()
     {
         IsAttacking = false;

@@ -315,8 +315,8 @@ TextureImporter:
         serializedVersion: 2
         x: 200
         y: 13
-        width: 12
-        height: 10
+        width: 18
+        height: 12
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -335,10 +335,10 @@ TextureImporter:
       name: Die_7
       rect:
         serializedVersion: 2
-        x: 213
-        y: 20
-        width: 5
-        height: 5
+        x: 231
+        y: 13
+        width: 18
+        height: 12
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -357,10 +357,10 @@ TextureImporter:
       name: Die_8
       rect:
         serializedVersion: 2
-        x: 231
+        x: 259
         y: 13
-        width: 10
-        height: 11
+        width: 25
+        height: 12
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -379,10 +379,10 @@ TextureImporter:
       name: Die_9
       rect:
         serializedVersion: 2
-        x: 244
-        y: 20
-        width: 5
-        height: 5
+        x: 292
+        y: 13
+        width: 23
+        height: 10
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -401,10 +401,10 @@ TextureImporter:
       name: Die_10
       rect:
         serializedVersion: 2
-        x: 259
-        y: 21
-        width: 7
-        height: 4
+        x: 321
+        y: 13
+        width: 26
+        height: 12
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -423,10 +423,10 @@ TextureImporter:
       name: Die_11
       rect:
         serializedVersion: 2
-        x: 262
+        x: 353
         y: 13
-        width: 13
-        height: 8
+        width: 26
+        height: 12
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -445,10 +445,10 @@ TextureImporter:
       name: Die_12
       rect:
         serializedVersion: 2
-        x: 292
+        x: 385
         y: 13
-        width: 23
-        height: 10
+        width: 26
+        height: 7
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -467,9 +467,9 @@ TextureImporter:
       name: Die_13
       rect:
         serializedVersion: 2
-        x: 329
-        y: 20
-        width: 5
+        x: 417
+        y: 13
+        width: 26
         height: 5
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -489,9 +489,9 @@ TextureImporter:
       name: Die_14
       rect:
         serializedVersion: 2
-        x: 362
-        y: 20
-        width: 5
+        x: 449
+        y: 13
+        width: 26
         height: 5
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -511,9 +511,9 @@ TextureImporter:
       name: Die_15
       rect:
         serializedVersion: 2
-        x: 279
-        y: 15
-        width: 5
+        x: 481
+        y: 13
+        width: 26
         height: 5
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -533,10 +533,10 @@ TextureImporter:
       name: Die_16
       rect:
         serializedVersion: 2
-        x: 321
+        x: 513
         y: 13
         width: 26
-        height: 6
+        height: 5
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -555,7 +555,7 @@ TextureImporter:
       name: Die_17
       rect:
         serializedVersion: 2
-        x: 353
+        x: 545
         y: 13
         width: 26
         height: 5
@@ -577,10 +577,10 @@ TextureImporter:
       name: Die_18
       rect:
         serializedVersion: 2
-        x: 385
-        y: 13
+        x: 577
+        y: 12
         width: 26
-        height: 7
+        height: 6
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -599,8 +599,8 @@ TextureImporter:
       name: Die_19
       rect:
         serializedVersion: 2
-        x: 417
-        y: 13
+        x: 609
+        y: 12
         width: 26
         height: 5
       alignment: 0
@@ -621,10 +621,10 @@ TextureImporter:
       name: Die_20
       rect:
         serializedVersion: 2
-        x: 449
-        y: 13
-        width: 26
-        height: 5
+        x: 642
+        y: 12
+        width: 25
+        height: 4
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -643,10 +643,10 @@ TextureImporter:
       name: Die_21
       rect:
         serializedVersion: 2
-        x: 481
-        y: 13
-        width: 26
-        height: 5
+        x: 681
+        y: 12
+        width: 17
+        height: 3
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -665,10 +665,10 @@ TextureImporter:
       name: Die_22
       rect:
         serializedVersion: 2
-        x: 513
-        y: 13
-        width: 26
-        height: 5
+        x: 721
+        y: 12
+        width: 4
+        height: 2
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -687,10 +687,10 @@ TextureImporter:
       name: Die_23
       rect:
         serializedVersion: 2
-        x: 545
-        y: 13
-        width: 26
-        height: 5
+        x: 754
+        y: 12
+        width: 2
+        height: 2
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -701,72 +701,6 @@ TextureImporter:
       bones: []
       spriteID: d417927d8ebf34cb2bbfb5adbd9c0c09
       internalID: 33280488
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Die_24
-      rect:
-        serializedVersion: 2
-        x: 577
-        y: 12
-        width: 26
-        height: 6
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 252f30e9aa0bb4beb832eec7243e3ee8
-      internalID: -1911203251
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Die_25
-      rect:
-        serializedVersion: 2
-        x: 609
-        y: 12
-        width: 26
-        height: 5
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: b5194b4d31df84e20bb69cf84a8ae61f
-      internalID: -1455879528
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Die_26
-      rect:
-        serializedVersion: 2
-        x: 642
-        y: 12
-        width: 114
-        height: 4
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: d9911644addea4d3cb368e35227f5deb
-      internalID: -618830947
       vertices: []
       indices: 
       edges: []
@@ -785,7 +719,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries:
       - key: SpriteEditor.SliceSettings
-        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":32.0,"y":32.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
     nameFileIdTable:
       Die_0: -1658374328
       Die_1: -981288307
@@ -804,9 +738,6 @@ TextureImporter:
       Die_21: 514074978
       Die_22: -654000836
       Die_23: 33280488
-      Die_24: -1911203251
-      Die_25: -1455879528
-      Die_26: -618830947
       Die_3: -1555832091
       Die_4: -1360819541
       Die_5: -254740925
