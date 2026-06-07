@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: Elf Ranger Projectile
   m_EditorClassIdentifier: Assembly-CSharp::ProjectileData
   name: Archer Projectle
-  projectilePrefab: {fileID: 2217087995820154819, guid: 0b13ddde13c3a4848b165e0c2d723f7f, type: 3}
+  projectilePrefab: {fileID: 8458501154321653851, guid: 87d32c64784a8ba4289890c4f4f2f36f, type: 3}
   damage: 10
   speed: 10
   range: 5

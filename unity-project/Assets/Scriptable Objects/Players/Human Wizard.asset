@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: adc3c33aa7aad423fa35c417e7bbcc31, type: 3}
   m_Name: Human Wizard
   m_EditorClassIdentifier: Assembly-CSharp::MageData
-  sprite: {fileID: 8159891127022863514, guid: 8d677eb590b82494298a07e352ec12da, type: 3}
+  sprite: {fileID: -2053265325, guid: 8d677eb590b82494298a07e352ec12da, type: 3}
   name: Human Wizard
   health: 70
   stamina: 100

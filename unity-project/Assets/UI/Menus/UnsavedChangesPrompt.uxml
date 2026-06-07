@@ -7,9 +7,9 @@
             <ui:Label class="prompt-text"
                 text="You have unsaved changes. Apply them before leaving?" />
             <ui:VisualElement class="divider-thin" />
-            <ui:Button name="btn-apply-leave" class="btn" text="APPLY AND LEAVE" />
-            <ui:Button name="btn-discard" class="btn" text="DISCARD CHANGES" />
-            <ui:Button name="btn-cancel" class="btn btn-danger" text="CANCEL" />
+            <ui:Button name="btn-apply-leave" class="btn"            text="APPLY AND LEAVE" />
+            <ui:Button name="btn-discard"     class="btn"            text="DISCARD CHANGES" />
+            <ui:Button name="btn-cancel"      class="btn btn-danger" text="CANCEL" />
         </ui:VisualElement>
     </ui:VisualElement>
 </ui:UXML>

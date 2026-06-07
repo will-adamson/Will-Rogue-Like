@@ -2,10 +2,10 @@
     <Style src="CharacterSelect.uss" />
     <ui:VisualElement name="root" class="root">
         <ui:Label class="title" text="CHOOSE YOUR CHARACTER" />
-        
         <ui:VisualElement class="divider" />
 
         <ui:VisualElement name="card-row" class="card-row">
+
             <ui:VisualElement name="card-dwarven-fighter" class="card card-selected">
                 <ui:VisualElement name="card-sprite" class="card-sprite" />
                 <ui:Label name="card-name" class="card-name" text="DWARVEN FIGHTER" />
@@ -38,6 +38,7 @@
                 </ui:VisualElement>
                 <ui:Label name="card-passive" class="card-passive" text="" />
             </ui:VisualElement>
+
         </ui:VisualElement>
 
         <ui:VisualElement name="info-bar" class="info-bar">
@@ -47,7 +48,7 @@
         <ui:VisualElement class="divider" />
 
         <ui:VisualElement class="button-row">
-            <ui:Button name="btn-back" class="btn" text="BACK" />
+            <ui:Button name="btn-back"  class="btn"             text="BACK" />
             <ui:Button name="btn-start" class="btn btn-primary" text="DESCEND" />
         </ui:VisualElement>
 

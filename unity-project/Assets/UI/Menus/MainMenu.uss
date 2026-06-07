@@ -1,27 +1,46 @@
+/*
+    Colour system
+    --bg-deep:      #0d0d0f   (page background)
+    --bg-panel:     #16181f   (panel background)
+    --bg-raised:    #1e2130   (raised element)
+    --border:       #2e3550   (default border)
+    --border-hi:    #4a5a8a   (hover / active border)
+    --text-primary: #e8eaf0   (headings, primary labels)
+    --text-body:    #a8b0c8   (body text, values)
+    --text-muted:   #5a6480   (hints, labels)
+    --accent:       #7a9fff   (interactive highlight)
+    --accent-hi:    #a8c4ff   (hover accent)
+    --danger:       #c05050   (destructive action)
+    --danger-hi:    #e06060   (destructive hover)
+    --success:      #50a070   (positive)
+    --gold:         #c8a030   (gold / XP)
+*/
+
 .root {
     width: 100%;
     height: 100%;
-    background-color: #12131e;
+    background-color: #0d0d0f;
     align-items: center;
     justify-content: center;
 }
 
 .main-container {
-    width: 360px;
+    width: 380px;
     align-items: stretch;
 }
 
 .title {
-    font-size: 56px;
-    color: #c8d8f0;
+    font-size: 52px;
+    color: #e8eaf0;
     -unity-font-style: bold;
     -unity-text-align: upper-center;
     letter-spacing: 8px;
+    margin-bottom: 4px;
 }
 
 .subtitle {
-    font-size: 14px;
-    color: #6a7aaa;
+    font-size: 13px;
+    color: #5a6480;
     -unity-text-align: upper-center;
     letter-spacing: 5px;
     margin-bottom: 4px;
@@ -29,62 +48,69 @@
 
 .divider {
     height: 1px;
-    background-color: #3a4a6b;
+    background-color: #2e3550;
     margin-top: 12px;
-    margin-bottom: 20px;
+    margin-bottom: 24px;
 }
 
 .btn {
-    height: 48px;
+    height: 52px;
     margin-bottom: 10px;
-    background-color: #1a1d2e;
-    border-color: #3a4a6b;
+    background-color: #16181f;
+    border-color: #2e3550;
     border-width: 1px;
-    border-radius: 2px;
-    color: #8a9ab8;
+    border-radius: 4px;
+    color: #a8b0c8;
     font-size: 14px;
     letter-spacing: 3px;
-    transition-duration: 0.15s;
+    transition-duration: 0.12s;
 }
 
 .btn:hover {
-    background-color: #2a3a5a;
-    border-color: #8a9ab8;
-    color: #c8d8f0;
+    background-color: #1e2130;
+    border-color: #7a9fff;
+    color: #e8eaf0;
 }
 
 .btn:active {
     scale: 0.98;
-    background-color: #3a4a6b;
+    background-color: #252840;
 }
 
 .btn-primary {
-    border-color: #6a7aaa;
-    color: #8a9ab8;
+    background-color: #1e2a50;
+    border-color: #4a5a8a;
+    color: #a8c4ff;
+}
+
+.btn-primary:hover {
+    background-color: #263260;
+    border-color: #7a9fff;
+    color: #e8eaf0;
 }
 
 .btn-danger {
-    border-color: #6b3a2a;
-    color: #8b4a2a;
+    border-color: #7a3030;
+    color: #c08080;
 }
 
 .btn-danger:hover {
-    background-color: rgba(107, 58, 42, 0.3);
-    border-color: #8b4a2a;
-    color: #b06040;
+    background-color: #2a1818;
+    border-color: #c05050;
+    color: #e8a0a0;
 }
 
 .version {
     font-size: 11px;
-    color: #2e3650;
+    color: #2e3550;
     -unity-text-align: upper-center;
-    margin-top: 16px;
+    margin-top: 20px;
 }
 
 .credit {
     font-size: 10px;
-    color: #2e3650;
+    color: #2e3550;
     -unity-text-align: upper-center;
-    margin-top: 6px;
+    margin-top: 4px;
     letter-spacing: 1px;
 }

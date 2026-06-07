@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: Human Wizard Projectile
   m_EditorClassIdentifier: Assembly-CSharp::ProjectileData
   name: Mage Projectile
-  projectilePrefab: {fileID: 2217087995820154819, guid: 5068ef83e3b064b708c52ab2be8e53f9, type: 3}
+  projectilePrefab: {fileID: 4407992449651082535, guid: 9b8c87c766469234e8f4358d73cc4948, type: 3}
   damage: 10
   speed: 10
   range: 5

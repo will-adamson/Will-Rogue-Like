@@ -4,11 +4,11 @@
         <ui:VisualElement name="pause-container" class="pause-container">
             <ui:Label class="title" text="PAUSED" />
             <ui:VisualElement class="divider" />
-            <ui:Button name="btn-resume" class="btn" text="RESUME" />
-            <ui:Button name="btn-inventory" class="btn" text="INVENTORY" />
-            <ui:Button name="btn-settings" class="btn" text="SETTINGS" />
+            <ui:Button name="btn-resume"    class="btn"            text="RESUME" />
+            <ui:Button name="btn-inventory" class="btn"            text="INVENTORY" />
+            <ui:Button name="btn-settings"  class="btn"            text="SETTINGS" />
             <ui:VisualElement class="divider-thin" />
-            <ui:Button name="btn-menu" class="btn btn-danger" text="ABANDON RUN" />
+            <ui:Button name="btn-menu"      class="btn btn-danger" text="ABANDON RUN" />
         </ui:VisualElement>
     </ui:VisualElement>
 </ui:UXML>

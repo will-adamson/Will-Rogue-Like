@@ -1,15 +1,15 @@
 .root {
     width: 100%;
     height: 100%;
-    background-color: #080608;
+    background-color: #0d0d0f;
     align-items: center;
     justify-content: center;
     padding: 32px;
 }
 
 .title {
-    font-size: 28px;
-    color: #d4c4b0;
+    font-size: 26px;
+    color: #e8eaf0;
     -unity-font-style: bold;
     -unity-text-align: upper-center;
     letter-spacing: 6px;
@@ -19,62 +19,66 @@
 .divider {
     width: 100%;
     height: 1px;
-    background-color: #3a2a2a;
+    background-color: #2e3550;
     margin-top: 8px;
-    margin-bottom: 20px;
+    margin-bottom: 24px;
 }
 
 .card-row {
     flex-direction: row;
     justify-content: center;
-    margin-bottom: 16px;
+    margin-bottom: 20px;
 }
 
 .card {
-    width: 220px;
+    width: 230px;
     margin-left: 10px;
     margin-right: 10px;
-    padding: 20px;
-    background-color: #13100f;
-    border-color: #3a2a2a;
+    padding: 24px;
+    background-color: #16181f;
+    border-color: #2e3550;
     border-width: 1px;
-    border-radius: 12px;
+    border-radius: 10px;
     align-items: center;
-    transition-duration: 0.15s;
+    transition-duration: 0.12s;
 }
 
 .card:hover {
-    background-color: #1a1412;
-    border-color: #6a4040;
+    background-color: #1e2130;
+    border-color: #4a5a8a;
 }
 
 .card-selected {
-    background-color: #1a1412;
-    border-color: #904040;
+    background-color: #1a2040;
+    border-color: #7a9fff;
     border-width: 2px;
 }
 
 .card-sprite {
-    width: 80px;
-    height: 80px;
-    margin-bottom: 10px;
+    width: 96px;
+    height: 96px;
+    min-width: 96px;
+    min-height: 96px;
+    max-width: 96px;
+    max-height: 96px;
+    margin-bottom: 12px;
     -unity-background-scale-mode: scale-to-fit;
     background-color: rgba(0, 0, 0, 0);
-    border-radius: 8px;
+    flex-shrink: 0;
 }
 
 .card-name {
-    font-size: 16px;
-    color: #d4c4b0;
+    font-size: 15px;
+    color: #e8eaf0;
     -unity-font-style: bold;
     letter-spacing: 3px;
     -unity-text-align: upper-center;
-    margin-bottom: 10px;
+    margin-bottom: 8px;
 }
 
 .card-desc {
-    font-size: 11px;
-    color: #8a7a6a;
+    font-size: 12px;
+    color: #a8b0c8;
     -unity-text-align: upper-center;
     white-space: normal;
     margin-bottom: 14px;
@@ -82,7 +86,7 @@
 
 .card-passive {
     font-size: 10px;
-    color: #6a5a4a;
+    color: #5a6480;
     -unity-text-align: upper-center;
     white-space: normal;
     margin-top: 8px;
@@ -90,18 +94,18 @@
 
 .info-bar {
     width: 100%;
-    padding: 12px 20px;
-    background-color: #13100f;
-    border-color: #3a2a2a;
+    padding: 14px 24px;
+    background-color: #16181f;
+    border-color: #2e3550;
     border-width: 1px;
-    border-radius: 10px;
-    margin-bottom: 16px;
+    border-radius: 6px;
+    margin-bottom: 20px;
     align-items: center;
 }
 
 .info-text {
-    font-size: 12px;
-    color: #8a7a6a;
+    font-size: 13px;
+    color: #a8b0c8;
     letter-spacing: 1px;
     -unity-text-align: upper-center;
 }
@@ -113,51 +117,54 @@
 }
 
 .btn {
-    width: 180px;
-    height: 48px;
+    width: 190px;
+    height: 52px;
     margin-left: 8px;
     margin-right: 8px;
-    background-color: #13100f;
-    border-color: #3a2a2a;
+    background-color: #16181f;
+    border-color: #2e3550;
     border-width: 1px;
-    border-radius: 8px;
-    color: #8a7a6a;
+    border-radius: 4px;
+    color: #a8b0c8;
     font-size: 13px;
     letter-spacing: 3px;
-    transition-duration: 0.15s;
+    transition-duration: 0.12s;
 }
 
 .btn:hover {
-    background-color: #1a1412;
-    border-color: #904040;
-    color: #d4c4b0;
+    background-color: #1e2130;
+    border-color: #7a9fff;
+    color: #e8eaf0;
 }
 
 .btn:active { scale: 0.98; }
 
 .btn-primary {
-    border-color: #6a4040;
-    color: #d4c4b0;
-    background-color: #2a1a1a;
+    background-color: #1e2a50;
+    border-color: #4a5a8a;
+    color: #a8c4ff;
 }
 
 .btn-primary:hover {
-    background-color: #341e1e;
-    border-color: #b05050;
+    background-color: #263260;
+    border-color: #7a9fff;
+    color: #e8eaf0;
 }
 
 .card-abilities {
     flex-direction: column;
-    margin-top: 8px;
+    margin-top: 10px;
     margin-bottom: 8px;
     align-items: center;
+    width: 100%;
 }
 
 .card-abilities-title {
-    font-size: 8px;
-    color: #6a4a4a;
+    font-size: 9px;
+    color: #4a5a8a;
     letter-spacing: 3px;
-    margin-bottom: 6px;
+    margin-bottom: 8px;
+    -unity-font-style: bold;
 }
 
 .card-ability-slots {
@@ -167,46 +174,50 @@
 }
 
 .card-ability-slot {
-    width: 36px;
-    height: 36px;
-    background-color: #0e0b0a;
-    border-color: #3a2a2a;
+    width: 40px;
+    height: 40px;
+    background-color: #0d0d0f;
+    border-color: #2e3550;
     border-width: 1px;
     border-radius: 6px;
-    margin-right: 4px;
-    margin-bottom: 4px;
+    margin-right: 5px;
+    margin-bottom: 5px;
     align-items: center;
     justify-content: center;
     -unity-background-scale-mode: scale-to-fit;
 }
 
+.card-ability-slot:hover {
+    border-color: #7a9fff;
+}
+
 .card-ability-slot-empty {
-    border-color: #221818;
-    background-color: rgba(14, 11, 10, 0.5);
+    border-color: #1a1d28;
+    background-color: rgba(13, 13, 15, 0.5);
 }
 
 .card-ability-name {
     font-size: 7px;
-    color: #6a5a4a;
+    color: #5a6480;
     -unity-text-align: middle-center;
     white-space: normal;
     margin-top: 2px;
-    max-width: 36px;
+    max-width: 40px;
 }
 
 .ability-tooltip {
     position: absolute;
-    background-color: #13100f;
-    border-color: #6a4040;
+    background-color: #16181f;
+    border-color: #7a9fff;
     border-width: 1px;
     border-radius: 4px;
-    padding: 4px 8px;
+    padding: 6px 10px;
     display: none;
 }
 
 .ability-tooltip-text {
-    font-size: 10px;
-    color: #d4c4b0;
+    font-size: 11px;
+    color: #e8eaf0;
     letter-spacing: 1px;
     -unity-text-align: middle-center;
     white-space: normal;
