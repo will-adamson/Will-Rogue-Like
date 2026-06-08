@@ -1,0 +1,741 @@
+fileFormatVersion: 2
+guid: 9dde07428fe734e05b06c2b0f3e2f61e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2937883136863090287
+    second: FireElementalIdleLight_0
+  - first:
+      213: -7806533577130173354
+    second: FireElementalIdleLight_1
+  - first:
+      213: 8332103827417142056
+    second: FireElementalIdleLight_2
+  - first:
+      213: 1709045429081230587
+    second: FireElementalIdleLight_3
+  - first:
+      213: -9031733891819118934
+    second: FireElementalIdleLight_4
+  - first:
+      213: -4116062343867923600
+    second: FireElementalIdleLight_5
+  - first:
+      213: -5099853132832724579
+    second: FireElementalIdleLight_6
+  - first:
+      213: -268502669752006668
+    second: FireElementalIdleLight_7
+  - first:
+      213: -5098322341587836098
+    second: FireElementalIdleLight_8
+  - first:
+      213: -8045740712391805786
+    second: FireElementalIdleLight_9
+  - first:
+      213: -3325172967986678363
+    second: FireElementalIdleLight_10
+  - first:
+      213: 4694499412918579154
+    second: FireElementalIdleLight_11
+  - first:
+      213: 6316808824133179451
+    second: FireElementalIdleLight_12
+  - first:
+      213: 9018188550837178970
+    second: FireElementalIdleLight_13
+  - first:
+      213: 2827094269253726379
+    second: FireElementalIdleLight_14
+  - first:
+      213: 7087257109987409334
+    second: FireElementalIdleLight_15
+  - first:
+      213: 211258269104035221
+    second: FireElementalIdleLight_16
+  - first:
+      213: -4829898483120614472
+    second: FireElementalIdleLight_17
+  - first:
+      213: 1752690950220302398
+    second: FireElementalIdleLight_18
+  - first:
+      213: 7885178245296726349
+    second: FireElementalIdleLight_19
+  - first:
+      213: -3393412029589808133
+    second: FireElementalIdleLight_20
+  - first:
+      213: -825479988393792970
+    second: FireElementalIdleLight_21
+  - first:
+      213: -1689645320811763156
+    second: FireElementalIdleLight_22
+  - first:
+      213: -4748441465707492464
+    second: FireElementalIdleLight_23
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: FireElementalIdleLight_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 106
+        width: 19
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1994aa34ada8a37d0800000000000000
+      internalID: -2937883136863090287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireElementalIdleLight_1
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 106
+        width: 19
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65c1ff7821f99a390800000000000000
+      internalID: -7806533577130173354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireElementalIdleLight_2
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 106
+        width: 19
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8231fd0294491a370800000000000000
+      internalID: 8332103827417142056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireElementalIdleLight_3
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 106
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfc446943cfb7b710800000000000000
+      internalID: 1709045429081230587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireElementalIdleLight_4
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 106
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aaed348a0e5d8a280800000000000000
+      internalID: -9031733891819118934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireElementalIdleLight_5
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 106
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07304682b1fc0e6c0800000000000000
+      internalID: -4116062343867923600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireElementalIdleLight_6
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 74
+        width: 19
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d99a7da889ea939b0800000000000000
+      internalID: -5099853132832724579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireElementalIdleLight_7
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 74
+        width: 19
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f700349e36164cf0800000000000000
+      internalID: -268502669752006668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireElementalIdleLight_8
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 74
+        width: 19
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e332837a7de1f39b0800000000000000
+      internalID: -5098322341587836098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireElementalIdleLight_9
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 74
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a4fcf24379c75090800000000000000
+      internalID: -8045740712391805786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireElementalIdleLight_10
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 74
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a53c6a9dcc9ad1d0800000000000000
+      internalID: -3325172967986678363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireElementalIdleLight_11
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 74
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dfaa41f756362140800000000000000
+      internalID: 4694499412918579154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireElementalIdleLight_12
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 42
+        width: 19
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b38d28c5820d9a750800000000000000
+      internalID: 6316808824133179451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireElementalIdleLight_13
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 42
+        width: 19
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a521522e4ba072d70800000000000000
+      internalID: 9018188550837178970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireElementalIdleLight_14
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 42
+        width: 19
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba03961624bdb3720800000000000000
+      internalID: 2827094269253726379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireElementalIdleLight_15
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 42
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bd39a8aacefa5260800000000000000
+      internalID: 7087257109987409334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireElementalIdleLight_16
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 42
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5955fc5c64a8ee200800000000000000
+      internalID: 211258269104035221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireElementalIdleLight_17
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 42
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b3d5646be0c8fcb0800000000000000
+      internalID: -4829898483120614472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireElementalIdleLight_18
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 10
+        width: 19
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e384ce0122fc25810800000000000000
+      internalID: 1752690950220302398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireElementalIdleLight_19
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 10
+        width: 19
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d41ac8d26d7cd6d60800000000000000
+      internalID: 7885178245296726349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireElementalIdleLight_20
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 10
+        width: 19
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfb13c7fcbd28e0d0800000000000000
+      internalID: -3393412029589808133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireElementalIdleLight_21
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 10
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63a289af25e4b84f0800000000000000
+      internalID: -825479988393792970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireElementalIdleLight_22
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 10
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2a2d98688c2d88e0800000000000000
+      internalID: -1689645320811763156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireElementalIdleLight_23
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 10
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09b05cf25a52a1eb0800000000000000
+      internalID: -4748441465707492464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      FireElementalIdleLight_0: -2937883136863090287
+      FireElementalIdleLight_1: -7806533577130173354
+      FireElementalIdleLight_10: -3325172967986678363
+      FireElementalIdleLight_11: 4694499412918579154
+      FireElementalIdleLight_12: 6316808824133179451
+      FireElementalIdleLight_13: 9018188550837178970
+      FireElementalIdleLight_14: 2827094269253726379
+      FireElementalIdleLight_15: 7087257109987409334
+      FireElementalIdleLight_16: 211258269104035221
+      FireElementalIdleLight_17: -4829898483120614472
+      FireElementalIdleLight_18: 1752690950220302398
+      FireElementalIdleLight_19: 7885178245296726349
+      FireElementalIdleLight_2: 8332103827417142056
+      FireElementalIdleLight_20: -3393412029589808133
+      FireElementalIdleLight_21: -825479988393792970
+      FireElementalIdleLight_22: -1689645320811763156
+      FireElementalIdleLight_23: -4748441465707492464
+      FireElementalIdleLight_3: 1709045429081230587
+      FireElementalIdleLight_4: -9031733891819118934
+      FireElementalIdleLight_5: -4116062343867923600
+      FireElementalIdleLight_6: -5099853132832724579
+      FireElementalIdleLight_7: -268502669752006668
+      FireElementalIdleLight_8: -5098322341587836098
+      FireElementalIdleLight_9: -8045740712391805786
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

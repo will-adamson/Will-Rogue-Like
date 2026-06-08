@@ -1,0 +1,1963 @@
+fileFormatVersion: 2
+guid: dec718d32d20a44858df748ec00132df
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8808858606163055782
+    second: Shot_Orthogonal_Only_Effect_0
+  - first:
+      213: -6738860872830093424
+    second: Shot_Orthogonal_Only_Effect_1
+  - first:
+      213: -2250466928861317243
+    second: Shot_Orthogonal_Only_Effect_2
+  - first:
+      213: 6724022891500133332
+    second: Shot_Orthogonal_Only_Effect_3
+  - first:
+      213: -5031852143544483177
+    second: Shot_Orthogonal_Only_Effect_4
+  - first:
+      213: -5813355608891946432
+    second: Shot_Orthogonal_Only_Effect_5
+  - first:
+      213: -3496060608661293389
+    second: Shot_Orthogonal_Only_Effect_6
+  - first:
+      213: 4811095529622167194
+    second: Shot_Orthogonal_Only_Effect_7
+  - first:
+      213: 4242929785140075897
+    second: Shot_Orthogonal_Only_Effect_8
+  - first:
+      213: 7154199323051647270
+    second: Shot_Orthogonal_Only_Effect_9
+  - first:
+      213: -1472354813208212017
+    second: Shot_Orthogonal_Only_Effect_10
+  - first:
+      213: -5901603623975823537
+    second: Shot_Orthogonal_Only_Effect_11
+  - first:
+      213: 2503135220157727032
+    second: Shot_Orthogonal_Only_Effect_12
+  - first:
+      213: 1744237638095361711
+    second: Shot_Orthogonal_Only_Effect_13
+  - first:
+      213: 6069341066139862615
+    second: Shot_Orthogonal_Only_Effect_14
+  - first:
+      213: 4987837971047949959
+    second: Shot_Orthogonal_Only_Effect_15
+  - first:
+      213: 3732922654471737347
+    second: Shot_Orthogonal_Only_Effect_16
+  - first:
+      213: 5042464347571512388
+    second: Shot_Orthogonal_Only_Effect_17
+  - first:
+      213: -6873018718880856472
+    second: Shot_Orthogonal_Only_Effect_18
+  - first:
+      213: -6633875298094252650
+    second: Shot_Orthogonal_Only_Effect_19
+  - first:
+      213: 5407256745831000736
+    second: Shot_Orthogonal_Only_Effect_20
+  - first:
+      213: -3393768368263643516
+    second: Shot_Orthogonal_Only_Effect_21
+  - first:
+      213: 2902155965004918725
+    second: Shot_Orthogonal_Only_Effect_22
+  - first:
+      213: -2405783294847353478
+    second: Shot_Orthogonal_Only_Effect_23
+  - first:
+      213: -5774618950182464282
+    second: Shot_Orthogonal_Only_Effect_24
+  - first:
+      213: 8722173224828202910
+    second: Shot_Orthogonal_Only_Effect_25
+  - first:
+      213: -570365859579636556
+    second: Shot_Orthogonal_Only_Effect_26
+  - first:
+      213: -835043774740730288
+    second: Shot_Orthogonal_Only_Effect_27
+  - first:
+      213: 5634136082081899655
+    second: Shot_Orthogonal_Only_Effect_28
+  - first:
+      213: -5517574117748647839
+    second: Shot_Orthogonal_Only_Effect_29
+  - first:
+      213: 2517101842199859618
+    second: Shot_Orthogonal_Only_Effect_30
+  - first:
+      213: -3244655775827782398
+    second: Shot_Orthogonal_Only_Effect_31
+  - first:
+      213: 1229635730028998207
+    second: Shot_Orthogonal_Only_Effect_32
+  - first:
+      213: -6731024312546875590
+    second: Shot_Orthogonal_Only_Effect_33
+  - first:
+      213: 494780658279169118
+    second: Shot_Orthogonal_Only_Effect_34
+  - first:
+      213: -2287060125690568339
+    second: Shot_Orthogonal_Only_Effect_35
+  - first:
+      213: -2583250392503020600
+    second: Shot_Orthogonal_Only_Effect_36
+  - first:
+      213: 322167388629127130
+    second: Shot_Orthogonal_Only_Effect_37
+  - first:
+      213: 6030465620610612540
+    second: Shot_Orthogonal_Only_Effect_38
+  - first:
+      213: -8637301174004258191
+    second: Shot_Orthogonal_Only_Effect_39
+  - first:
+      213: -3074961848972965493
+    second: Shot_Orthogonal_Only_Effect_40
+  - first:
+      213: 3280676393195763839
+    second: Shot_Orthogonal_Only_Effect_41
+  - first:
+      213: -984769373321976016
+    second: Shot_Orthogonal_Only_Effect_42
+  - first:
+      213: -2236671984167639785
+    second: Shot_Orthogonal_Only_Effect_43
+  - first:
+      213: -8954650756309667869
+    second: Shot_Orthogonal_Only_Effect_44
+  - first:
+      213: 2889566757221939911
+    second: Shot_Orthogonal_Only_Effect_45
+  - first:
+      213: -6544604457450102942
+    second: Shot_Orthogonal_Only_Effect_46
+  - first:
+      213: 3724485825470048527
+    second: Shot_Orthogonal_Only_Effect_47
+  - first:
+      213: 6752117394075851449
+    second: Shot_Orthogonal_Only_Effect_48
+  - first:
+      213: 8984488748811249981
+    second: Shot_Orthogonal_Only_Effect_49
+  - first:
+      213: -2552583220608563718
+    second: Shot_Orthogonal_Only_Effect_50
+  - first:
+      213: 438283491020424247
+    second: Shot_Orthogonal_Only_Effect_51
+  - first:
+      213: 8575861698841345101
+    second: Shot_Orthogonal_Only_Effect_52
+  - first:
+      213: 6995715764506927048
+    second: Shot_Orthogonal_Only_Effect_53
+  - first:
+      213: -2795502351117559208
+    second: Shot_Orthogonal_Only_Effect_54
+  - first:
+      213: 6949340802245471434
+    second: Shot_Orthogonal_Only_Effect_55
+  - first:
+      213: 5631047830691893606
+    second: Shot_Orthogonal_Only_Effect_56
+  - first:
+      213: -28009824969833242
+    second: Shot_Orthogonal_Only_Effect_57
+  - first:
+      213: 2796000770182534058
+    second: Shot_Orthogonal_Only_Effect_58
+  - first:
+      213: -3463806813050109899
+    second: Shot_Orthogonal_Only_Effect_59
+  - first:
+      213: -3145199811875924277
+    second: Shot_Orthogonal_Only_Effect_60
+  - first:
+      213: -431706921194429531
+    second: Shot_Orthogonal_Only_Effect_61
+  - first:
+      213: 5271000445526031989
+    second: Shot_Orthogonal_Only_Effect_62
+  - first:
+      213: -5327600885356047951
+    second: Shot_Orthogonal_Only_Effect_63
+  - first:
+      213: -8032993702513174956
+    second: Shot_Orthogonal_Only_Effect_64
+  - first:
+      213: -2353751643279953039
+    second: Shot_Orthogonal_Only_Effect_65
+  - first:
+      213: 3448336458323648812
+    second: Shot_Orthogonal_Only_Effect_66
+  - first:
+      213: 8689792823907803309
+    second: Shot_Orthogonal_Only_Effect_67
+  - first:
+      213: 4593972021862263674
+    second: Shot_Orthogonal_Only_Effect_68
+  - first:
+      213: 6228259726272309157
+    second: Shot_Orthogonal_Only_Effect_69
+  - first:
+      213: -6353406550495930841
+    second: Shot_Orthogonal_Only_Effect_70
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Shot_Orthogonal_Only_Effect_0
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 238
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a4ddf02b3a5f3a70800000000000000
+      internalID: 8808858606163055782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shot_Orthogonal_Only_Effect_1
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 234
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 097fe2c7db1ca72a0800000000000000
+      internalID: -6738860872830093424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shot_Orthogonal_Only_Effect_2
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 212
+        width: 28
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 587f47e604cb4c0e0800000000000000
+      internalID: -2250466928861317243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shot_Orthogonal_Only_Effect_3
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 212
+        width: 28
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4dbd575c137805d50800000000000000
+      internalID: 6724022891500133332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shot_Orthogonal_Only_Effect_4
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 214
+        width: 28
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7924eb5a2254b2ab0800000000000000
+      internalID: -5031852143544483177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shot_Orthogonal_Only_Effect_5
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 214
+        width: 28
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04a88facfdfc25fa0800000000000000
+      internalID: -5813355608891946432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shot_Orthogonal_Only_Effect_6
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 212
+        width: 38
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b6f18b366f7b7fc0800000000000000
+      internalID: -3496060608661293389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shot_Orthogonal_Only_Effect_7
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 230
+        width: 12
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9e5997d4e174c240800000000000000
+      internalID: 4811095529622167194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shot_Orthogonal_Only_Effect_8
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 237
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97dd23ad82ae1ea30800000000000000
+      internalID: 4242929785140075897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shot_Orthogonal_Only_Effect_9
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 232
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62165d63162d84360800000000000000
+      internalID: 7154199323051647270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shot_Orthogonal_Only_Effect_10
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 143
+        width: 73
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcd43672915219be0800000000000000
+      internalID: -1472354813208212017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shot_Orthogonal_Only_Effect_11
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 212
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4753c3a5ca491ea0800000000000000
+      internalID: -5901603623975823537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shot_Orthogonal_Only_Effect_12
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 223
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8314546783cecb220800000000000000
+      internalID: 2503135220157727032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shot_Orthogonal_Only_Effect_13
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 212
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa65a86f3e6c43810800000000000000
+      internalID: 1744237638095361711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shot_Orthogonal_Only_Effect_14
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 210
+        width: 12
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75605fbfa81aa3450800000000000000
+      internalID: 6069341066139862615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shot_Orthogonal_Only_Effect_15
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 210
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 786a48d353c583540800000000000000
+      internalID: 4987837971047949959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shot_Orthogonal_Only_Effect_16
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 222
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 300dbc950610ec330800000000000000
+      internalID: 3732922654471737347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shot_Orthogonal_Only_Effect_17
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 209
+        width: 8
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4446295ab9e6af540800000000000000
+      internalID: 5042464347571512388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shot_Orthogonal_Only_Effect_18
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 174
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8660f76d3e12e90a0800000000000000
+      internalID: -6873018718880856472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shot_Orthogonal_Only_Effect_19
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 170
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69d7adc609dbfe3a0800000000000000
+      internalID: -6633875298094252650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shot_Orthogonal_Only_Effect_20
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 148
+        width: 28
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0aa67988c5f6a0b40800000000000000
+      internalID: 5407256745831000736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shot_Orthogonal_Only_Effect_21
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 148
+        width: 28
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48e30b766a9e6e0d0800000000000000
+      internalID: -3393768368263643516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shot_Orthogonal_Only_Effect_22
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 150
+        width: 28
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cf26e05977864820800000000000000
+      internalID: 2902155965004918725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shot_Orthogonal_Only_Effect_23
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 150
+        width: 28
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7dfd08f6d0fc9ed0800000000000000
+      internalID: -2405783294847353478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shot_Orthogonal_Only_Effect_24
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 148
+        width: 38
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e49229f8ae6cdfa0800000000000000
+      internalID: -5774618950182464282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shot_Orthogonal_Only_Effect_25
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 166
+        width: 12
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9fee4ff5526b0970800000000000000
+      internalID: 8722173224828202910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shot_Orthogonal_Only_Effect_26
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 168
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b4debbc547a518f0800000000000000
+      internalID: -570365859579636556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shot_Orthogonal_Only_Effect_27
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 173
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05e6da27c145964f0800000000000000
+      internalID: -835043774740730288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shot_Orthogonal_Only_Effect_28
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 173
+        width: 8
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 784e3bc6ae8703e40800000000000000
+      internalID: 5634136082081899655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shot_Orthogonal_Only_Effect_29
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 148
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 168d3b1c293ad63b0800000000000000
+      internalID: -5517574117748647839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shot_Orthogonal_Only_Effect_30
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 148
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a1ddcf0aca8ee220800000000000000
+      internalID: 2517101842199859618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shot_Orthogonal_Only_Effect_31
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 159
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2059d5743caa8f2d0800000000000000
+      internalID: -3244655775827782398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shot_Orthogonal_Only_Effect_32
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 146
+        width: 12
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3ea18b7e2b801110800000000000000
+      internalID: 1229635730028998207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shot_Orthogonal_Only_Effect_33
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 158
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a37202cdc099692a0800000000000000
+      internalID: -6731024312546875590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shot_Orthogonal_Only_Effect_34
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 146
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5cb6722360ddd600800000000000000
+      internalID: 494780658279169118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shot_Orthogonal_Only_Effect_35
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 145
+        width: 8
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d61e04cdeeab240e0800000000000000
+      internalID: -2287060125690568339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shot_Orthogonal_Only_Effect_36
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 99
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c318f46473762cd0800000000000000
+      internalID: -2583250392503020600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shot_Orthogonal_Only_Effect_37
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 78
+        width: 33
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adf44757881987400800000000000000
+      internalID: 322167388629127130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shot_Orthogonal_Only_Effect_38
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 78
+        width: 33
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3d73baf78480b350800000000000000
+      internalID: 6030465620610612540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shot_Orthogonal_Only_Effect_39
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 27
+        width: 38
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17a69693854222880800000000000000
+      internalID: -8637301174004258191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shot_Orthogonal_Only_Effect_40
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 84
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b89861e7d7a8355d0800000000000000
+      internalID: -3074961848972965493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shot_Orthogonal_Only_Effect_41
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 84
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f78717f3ccd478d20800000000000000
+      internalID: 3280676393195763839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shot_Orthogonal_Only_Effect_42
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 80
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 037a575f8756552f0800000000000000
+      internalID: -984769373321976016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shot_Orthogonal_Only_Effect_43
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 80
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 715ae984eaeb5f0e0800000000000000
+      internalID: -2236671984167639785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shot_Orthogonal_Only_Effect_44
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 68
+        width: 37
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3efaa76b490bab380800000000000000
+      internalID: -8954650756309667869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shot_Orthogonal_Only_Effect_45
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 68
+        width: 37
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cabdf6f7adc91820800000000000000
+      internalID: 2889566757221939911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shot_Orthogonal_Only_Effect_46
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 75
+        width: 21
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26f9f36bbe4ec25a0800000000000000
+      internalID: -6544604457450102942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shot_Orthogonal_Only_Effect_47
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 75
+        width: 21
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f09ae16002800b330800000000000000
+      internalID: 3724485825470048527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shot_Orthogonal_Only_Effect_48
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 75
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ba90a3eef654bd50800000000000000
+      internalID: 6752117394075851449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shot_Orthogonal_Only_Effect_49
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 75
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3963694ae05fac70800000000000000
+      internalID: 8984488748811249981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shot_Orthogonal_Only_Effect_50
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 73
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af50104c517639cd0800000000000000
+      internalID: -2552583220608563718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shot_Orthogonal_Only_Effect_51
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 73
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 734c0315388151600800000000000000
+      internalID: 438283491020424247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shot_Orthogonal_Only_Effect_52
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 69
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4cf05a37c4930770800000000000000
+      internalID: 8575861698841345101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shot_Orthogonal_Only_Effect_53
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 54
+        width: 81
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cf19054c66c51160800000000000000
+      internalID: 6995715764506927048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shot_Orthogonal_Only_Effect_54
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 32
+        width: 37
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85a5ed04c616439d0800000000000000
+      internalID: -2795502351117559208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shot_Orthogonal_Only_Effect_55
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 32
+        width: 37
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acc28f4f3a4017060800000000000000
+      internalID: 6949340802245471434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shot_Orthogonal_Only_Effect_56
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 41
+        width: 21
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 661df9dda20852e40800000000000000
+      internalID: 5631047830691893606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shot_Orthogonal_Only_Effect_57
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 41
+        width: 21
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e4c37c663d7c9ff0800000000000000
+      internalID: -28009824969833242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shot_Orthogonal_Only_Effect_58
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 44
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa3d27af2e36dc620800000000000000
+      internalID: 2796000770182534058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shot_Orthogonal_Only_Effect_59
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 48
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53002993e061eefc0800000000000000
+      internalID: -3463806813050109899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shot_Orthogonal_Only_Effect_60
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 48
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc692816f610a54d0800000000000000
+      internalID: -3145199811875924277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shot_Orthogonal_Only_Effect_61
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 44
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a3e02ba7d4420af0800000000000000
+      internalID: -431706921194429531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shot_Orthogonal_Only_Effect_62
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 51
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57e318e6afa562940800000000000000
+      internalID: 5271000445526031989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shot_Orthogonal_Only_Effect_63
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 51
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b1db4bb83f8016b0800000000000000
+      internalID: -5327600885356047951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shot_Orthogonal_Only_Effect_64
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 36
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45690c6c9c2158090800000000000000
+      internalID: -8032993702513174956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shot_Orthogonal_Only_Effect_65
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 36
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1737ec4e95bc55fd0800000000000000
+      internalID: -2353751643279953039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shot_Orthogonal_Only_Effect_66
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 36
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c21e8602db3fadf20800000000000000
+      internalID: 3448336458323648812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shot_Orthogonal_Only_Effect_67
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 36
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da063c86888589870800000000000000
+      internalID: 8689792823907803309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shot_Orthogonal_Only_Effect_68
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 22
+        width: 33
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7bee27c63111cf30800000000000000
+      internalID: 4593972021862263674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shot_Orthogonal_Only_Effect_69
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 22
+        width: 33
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a72559e8393f6650800000000000000
+      internalID: 6228259726272309157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shot_Orthogonal_Only_Effect_70
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 14
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 726dc04776a24d7a0800000000000000
+      internalID: -6353406550495930841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Shot_Orthogonal_Only_Effect_0: 8808858606163055782
+      Shot_Orthogonal_Only_Effect_1: -6738860872830093424
+      Shot_Orthogonal_Only_Effect_10: -1472354813208212017
+      Shot_Orthogonal_Only_Effect_11: -5901603623975823537
+      Shot_Orthogonal_Only_Effect_12: 2503135220157727032
+      Shot_Orthogonal_Only_Effect_13: 1744237638095361711
+      Shot_Orthogonal_Only_Effect_14: 6069341066139862615
+      Shot_Orthogonal_Only_Effect_15: 4987837971047949959
+      Shot_Orthogonal_Only_Effect_16: 3732922654471737347
+      Shot_Orthogonal_Only_Effect_17: 5042464347571512388
+      Shot_Orthogonal_Only_Effect_18: -6873018718880856472
+      Shot_Orthogonal_Only_Effect_19: -6633875298094252650
+      Shot_Orthogonal_Only_Effect_2: -2250466928861317243
+      Shot_Orthogonal_Only_Effect_20: 5407256745831000736
+      Shot_Orthogonal_Only_Effect_21: -3393768368263643516
+      Shot_Orthogonal_Only_Effect_22: 2902155965004918725
+      Shot_Orthogonal_Only_Effect_23: -2405783294847353478
+      Shot_Orthogonal_Only_Effect_24: -5774618950182464282
+      Shot_Orthogonal_Only_Effect_25: 8722173224828202910
+      Shot_Orthogonal_Only_Effect_26: -570365859579636556
+      Shot_Orthogonal_Only_Effect_27: -835043774740730288
+      Shot_Orthogonal_Only_Effect_28: 5634136082081899655
+      Shot_Orthogonal_Only_Effect_29: -5517574117748647839
+      Shot_Orthogonal_Only_Effect_3: 6724022891500133332
+      Shot_Orthogonal_Only_Effect_30: 2517101842199859618
+      Shot_Orthogonal_Only_Effect_31: -3244655775827782398
+      Shot_Orthogonal_Only_Effect_32: 1229635730028998207
+      Shot_Orthogonal_Only_Effect_33: -6731024312546875590
+      Shot_Orthogonal_Only_Effect_34: 494780658279169118
+      Shot_Orthogonal_Only_Effect_35: -2287060125690568339
+      Shot_Orthogonal_Only_Effect_36: -2583250392503020600
+      Shot_Orthogonal_Only_Effect_37: 322167388629127130
+      Shot_Orthogonal_Only_Effect_38: 6030465620610612540
+      Shot_Orthogonal_Only_Effect_39: -8637301174004258191
+      Shot_Orthogonal_Only_Effect_4: -5031852143544483177
+      Shot_Orthogonal_Only_Effect_40: -3074961848972965493
+      Shot_Orthogonal_Only_Effect_41: 3280676393195763839
+      Shot_Orthogonal_Only_Effect_42: -984769373321976016
+      Shot_Orthogonal_Only_Effect_43: -2236671984167639785
+      Shot_Orthogonal_Only_Effect_44: -8954650756309667869
+      Shot_Orthogonal_Only_Effect_45: 2889566757221939911
+      Shot_Orthogonal_Only_Effect_46: -6544604457450102942
+      Shot_Orthogonal_Only_Effect_47: 3724485825470048527
+      Shot_Orthogonal_Only_Effect_48: 6752117394075851449
+      Shot_Orthogonal_Only_Effect_49: 8984488748811249981
+      Shot_Orthogonal_Only_Effect_5: -5813355608891946432
+      Shot_Orthogonal_Only_Effect_50: -2552583220608563718
+      Shot_Orthogonal_Only_Effect_51: 438283491020424247
+      Shot_Orthogonal_Only_Effect_52: 8575861698841345101
+      Shot_Orthogonal_Only_Effect_53: 6995715764506927048
+      Shot_Orthogonal_Only_Effect_54: -2795502351117559208
+      Shot_Orthogonal_Only_Effect_55: 6949340802245471434
+      Shot_Orthogonal_Only_Effect_56: 5631047830691893606
+      Shot_Orthogonal_Only_Effect_57: -28009824969833242
+      Shot_Orthogonal_Only_Effect_58: 2796000770182534058
+      Shot_Orthogonal_Only_Effect_59: -3463806813050109899
+      Shot_Orthogonal_Only_Effect_6: -3496060608661293389
+      Shot_Orthogonal_Only_Effect_60: -3145199811875924277
+      Shot_Orthogonal_Only_Effect_61: -431706921194429531
+      Shot_Orthogonal_Only_Effect_62: 5271000445526031989
+      Shot_Orthogonal_Only_Effect_63: -5327600885356047951
+      Shot_Orthogonal_Only_Effect_64: -8032993702513174956
+      Shot_Orthogonal_Only_Effect_65: -2353751643279953039
+      Shot_Orthogonal_Only_Effect_66: 3448336458323648812
+      Shot_Orthogonal_Only_Effect_67: 8689792823907803309
+      Shot_Orthogonal_Only_Effect_68: 4593972021862263674
+      Shot_Orthogonal_Only_Effect_69: 6228259726272309157
+      Shot_Orthogonal_Only_Effect_7: 4811095529622167194
+      Shot_Orthogonal_Only_Effect_70: -6353406550495930841
+      Shot_Orthogonal_Only_Effect_8: 4242929785140075897
+      Shot_Orthogonal_Only_Effect_9: 7154199323051647270
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

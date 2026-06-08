@@ -1,0 +1,1157 @@
+fileFormatVersion: 2
+guid: e4c26d6181a1246a2a81ae79913a09c1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2747964353470456431
+    second: SupremeElementalSummonAir_0
+  - first:
+      213: -3223282514936727078
+    second: SupremeElementalSummonAir_1
+  - first:
+      213: -7694258559690689115
+    second: SupremeElementalSummonAir_2
+  - first:
+      213: -2260927103584535305
+    second: SupremeElementalSummonAir_3
+  - first:
+      213: 7420639719510816471
+    second: SupremeElementalSummonAir_4
+  - first:
+      213: 7294933006428285718
+    second: SupremeElementalSummonAir_5
+  - first:
+      213: -5202098601636338304
+    second: SupremeElementalSummonAir_6
+  - first:
+      213: -143303505316602573
+    second: SupremeElementalSummonAir_7
+  - first:
+      213: 7314368037733401448
+    second: SupremeElementalSummonAir_8
+  - first:
+      213: -5127027846744187984
+    second: SupremeElementalSummonAir_9
+  - first:
+      213: -1483582056281968687
+    second: SupremeElementalSummonAir_10
+  - first:
+      213: -5093020516680828253
+    second: SupremeElementalSummonAir_11
+  - first:
+      213: -8599868314988028021
+    second: SupremeElementalSummonAir_12
+  - first:
+      213: 6758529859110854239
+    second: SupremeElementalSummonAir_13
+  - first:
+      213: 4283804466414226441
+    second: SupremeElementalSummonAir_14
+  - first:
+      213: 2541850935464294563
+    second: SupremeElementalSummonAir_15
+  - first:
+      213: 8169206482244824983
+    second: SupremeElementalSummonAir_16
+  - first:
+      213: -8611413992117614001
+    second: SupremeElementalSummonAir_17
+  - first:
+      213: -7097221982998705433
+    second: SupremeElementalSummonAir_18
+  - first:
+      213: -2657032460833976396
+    second: SupremeElementalSummonAir_19
+  - first:
+      213: 6753516411883425065
+    second: SupremeElementalSummonAir_20
+  - first:
+      213: -2367944829354351668
+    second: SupremeElementalSummonAir_21
+  - first:
+      213: 442585717235106782
+    second: SupremeElementalSummonAir_22
+  - first:
+      213: -637330329353461012
+    second: SupremeElementalSummonAir_23
+  - first:
+      213: 5139689685833534784
+    second: SupremeElementalSummonAir_24
+  - first:
+      213: 376673591008317456
+    second: SupremeElementalSummonAir_25
+  - first:
+      213: 5887560424168400612
+    second: SupremeElementalSummonAir_26
+  - first:
+      213: 534093226600880793
+    second: SupremeElementalSummonAir_27
+  - first:
+      213: -543731881413464140
+    second: SupremeElementalSummonAir_28
+  - first:
+      213: 1218591988115625064
+    second: SupremeElementalSummonAir_29
+  - first:
+      213: 4217965663129635698
+    second: SupremeElementalSummonAir_30
+  - first:
+      213: 1212801057341715774
+    second: SupremeElementalSummonAir_31
+  - first:
+      213: -2455603436616800953
+    second: SupremeElementalSummonAir_32
+  - first:
+      213: 575461550232041517
+    second: SupremeElementalSummonAir_33
+  - first:
+      213: 5437966248448962160
+    second: SupremeElementalSummonAir_34
+  - first:
+      213: -2206557334073698193
+    second: SupremeElementalSummonAir_35
+  - first:
+      213: 5322418193956871950
+    second: SupremeElementalSummonAir_36
+  - first:
+      213: 7997696140409657559
+    second: SupremeElementalSummonAir_37
+  - first:
+      213: -6483811819650875454
+    second: SupremeElementalSummonAir_38
+  - first:
+      213: -6170582948941546392
+    second: SupremeElementalSummonAir_39
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SupremeElementalSummonAir_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 148
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f62ea08250bb22620800000000000000
+      internalID: 2747964353470456431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SupremeElementalSummonAir_1
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 159
+        width: 9
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad9f77e51a99443d0800000000000000
+      internalID: -3223282514936727078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SupremeElementalSummonAir_2
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 146
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a5b0ab1b90883590800000000000000
+      internalID: -7694258559690689115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SupremeElementalSummonAir_3
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 154
+        width: 35
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fc7ac737c29f90e0800000000000000
+      internalID: -2260927103584535305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SupremeElementalSummonAir_4
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 154
+        width: 36
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d6b89732886bf660800000000000000
+      internalID: 7420639719510816471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SupremeElementalSummonAir_5
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 154
+        width: 33
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61b2e6c4beecc3560800000000000000
+      internalID: 7294933006428285718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SupremeElementalSummonAir_6
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 152
+        width: 36
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 085e8ea32ee6ec7b0800000000000000
+      internalID: -5202098601636338304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SupremeElementalSummonAir_7
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 176
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33d198e9832e20ef0800000000000000
+      internalID: -143303505316602573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SupremeElementalSummonAir_8
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 106
+        width: 35
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86302952afad18560800000000000000
+      internalID: 7314368037733401448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SupremeElementalSummonAir_9
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 146
+        width: 23
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bbd649665329d8b0800000000000000
+      internalID: -5127027846744187984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SupremeElementalSummonAir_10
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 106
+        width: 36
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1df6b2ceaf1496be0800000000000000
+      internalID: -1483582056281968687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SupremeElementalSummonAir_11
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 146
+        width: 21
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3aa7675f2d4f159b0800000000000000
+      internalID: -5093020516680828253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SupremeElementalSummonAir_12
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 106
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8f5002e45127a880800000000000000
+      internalID: -8599868314988028021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SupremeElementalSummonAir_13
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 146
+        width: 25
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5e5c20491f1bcd50800000000000000
+      internalID: 6758529859110854239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SupremeElementalSummonAir_14
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 128
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90c0ad33771237b30800000000000000
+      internalID: 4283804466414226441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SupremeElementalSummonAir_15
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 133
+        width: 27
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a8f75065f7764320800000000000000
+      internalID: 2541850935464294563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SupremeElementalSummonAir_16
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 111
+        width: 9
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79f6507630ade5170800000000000000
+      internalID: 8169206482244824983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SupremeElementalSummonAir_17
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 100
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4a4002799c1e7880800000000000000
+      internalID: -8611413992117614001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SupremeElementalSummonAir_18
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 98
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7eac44b853a918d90800000000000000
+      internalID: -7097221982998705433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SupremeElementalSummonAir_19
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 98
+        width: 23
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bf0f4fed03502bd0800000000000000
+      internalID: -2657032460833976396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SupremeElementalSummonAir_20
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 104
+        width: 38
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92d051b156f49bd50800000000000000
+      internalID: 6753516411883425065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SupremeElementalSummonAir_21
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 98
+        width: 23
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc36c9e39be532fd0800000000000000
+      internalID: -2367944829354351668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SupremeElementalSummonAir_22
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 58
+        width: 42
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed3c57a6d51642600800000000000000
+      internalID: 442585717235106782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SupremeElementalSummonAir_23
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 98
+        width: 21
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce2ed42317fb727f0800000000000000
+      internalID: -637330329353461012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SupremeElementalSummonAir_24
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 58
+        width: 43
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04dc8dbb988d35740800000000000000
+      internalID: 5139689685833534784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SupremeElementalSummonAir_25
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 58
+        width: 37
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0105254a2a63a3500800000000000000
+      internalID: 376673591008317456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SupremeElementalSummonAir_26
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 87
+        width: 31
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e6a43c1301d4b150800000000000000
+      internalID: 5887560424168400612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SupremeElementalSummonAir_27
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 80
+        width: 25
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99adc78b5fa796700800000000000000
+      internalID: 534093226600880793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SupremeElementalSummonAir_28
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 56
+        width: 33
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bfab431cb64478f0800000000000000
+      internalID: -543731881413464140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SupremeElementalSummonAir_29
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 63
+        width: 9
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 864d4c1f4fe49e010800000000000000
+      internalID: 1218591988115625064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SupremeElementalSummonAir_30
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 58
+        width: 33
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27b03a14c69398a30800000000000000
+      internalID: 4217965663129635698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SupremeElementalSummonAir_31
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 56
+        width: 38
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e35321ec22cb4d010800000000000000
+      internalID: 1212801057341715774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SupremeElementalSummonAir_32
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 15
+        width: 9
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7452a3b4fa1fbedd0800000000000000
+      internalID: -2455603436616800953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SupremeElementalSummonAir_33
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 8
+        width: 33
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d28f9732b337cf700800000000000000
+      internalID: 575461550232041517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SupremeElementalSummonAir_34
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 10
+        width: 33
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07e2d5bcd79877b40800000000000000
+      internalID: 5437966248448962160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SupremeElementalSummonAir_35
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 10
+        width: 42
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f681106abcbb061e0800000000000000
+      internalID: -2206557334073698193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SupremeElementalSummonAir_36
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 10
+        width: 43
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0f10e4e5270dd940800000000000000
+      internalID: 5322418193956871950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SupremeElementalSummonAir_37
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 10
+        width: 39
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d851ae14468dfe60800000000000000
+      internalID: 7997696140409657559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SupremeElementalSummonAir_38
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 32
+        width: 20
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cffa33b08fd406a0800000000000000
+      internalID: -6483811819650875454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SupremeElementalSummonAir_39
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 8
+        width: 38
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86cb147408fad5aa0800000000000000
+      internalID: -6170582948941546392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      SupremeElementalSummonAir_0: 2747964353470456431
+      SupremeElementalSummonAir_1: -3223282514936727078
+      SupremeElementalSummonAir_10: -1483582056281968687
+      SupremeElementalSummonAir_11: -5093020516680828253
+      SupremeElementalSummonAir_12: -8599868314988028021
+      SupremeElementalSummonAir_13: 6758529859110854239
+      SupremeElementalSummonAir_14: 4283804466414226441
+      SupremeElementalSummonAir_15: 2541850935464294563
+      SupremeElementalSummonAir_16: 8169206482244824983
+      SupremeElementalSummonAir_17: -8611413992117614001
+      SupremeElementalSummonAir_18: -7097221982998705433
+      SupremeElementalSummonAir_19: -2657032460833976396
+      SupremeElementalSummonAir_2: -7694258559690689115
+      SupremeElementalSummonAir_20: 6753516411883425065
+      SupremeElementalSummonAir_21: -2367944829354351668
+      SupremeElementalSummonAir_22: 442585717235106782
+      SupremeElementalSummonAir_23: -637330329353461012
+      SupremeElementalSummonAir_24: 5139689685833534784
+      SupremeElementalSummonAir_25: 376673591008317456
+      SupremeElementalSummonAir_26: 5887560424168400612
+      SupremeElementalSummonAir_27: 534093226600880793
+      SupremeElementalSummonAir_28: -543731881413464140
+      SupremeElementalSummonAir_29: 1218591988115625064
+      SupremeElementalSummonAir_3: -2260927103584535305
+      SupremeElementalSummonAir_30: 4217965663129635698
+      SupremeElementalSummonAir_31: 1212801057341715774
+      SupremeElementalSummonAir_32: -2455603436616800953
+      SupremeElementalSummonAir_33: 575461550232041517
+      SupremeElementalSummonAir_34: 5437966248448962160
+      SupremeElementalSummonAir_35: -2206557334073698193
+      SupremeElementalSummonAir_36: 5322418193956871950
+      SupremeElementalSummonAir_37: 7997696140409657559
+      SupremeElementalSummonAir_38: -6483811819650875454
+      SupremeElementalSummonAir_39: -6170582948941546392
+      SupremeElementalSummonAir_4: 7420639719510816471
+      SupremeElementalSummonAir_5: 7294933006428285718
+      SupremeElementalSummonAir_6: -5202098601636338304
+      SupremeElementalSummonAir_7: -143303505316602573
+      SupremeElementalSummonAir_8: 7314368037733401448
+      SupremeElementalSummonAir_9: -5127027846744187984
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

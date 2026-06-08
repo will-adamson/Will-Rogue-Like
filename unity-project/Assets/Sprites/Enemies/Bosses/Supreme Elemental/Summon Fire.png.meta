@@ -1,0 +1,1365 @@
+fileFormatVersion: 2
+guid: ca87b28d07c8746afb7d72ad69ea5e50
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6650959473749263897
+    second: SupremeElementalSummonFire_0
+  - first:
+      213: 2177334349786791326
+    second: SupremeElementalSummonFire_1
+  - first:
+      213: -2512418535511955658
+    second: SupremeElementalSummonFire_2
+  - first:
+      213: -2615019758892043131
+    second: SupremeElementalSummonFire_3
+  - first:
+      213: -7442997127403434639
+    second: SupremeElementalSummonFire_4
+  - first:
+      213: -1590558655050303494
+    second: SupremeElementalSummonFire_5
+  - first:
+      213: 6695101192014460973
+    second: SupremeElementalSummonFire_6
+  - first:
+      213: 2493824486353807605
+    second: SupremeElementalSummonFire_7
+  - first:
+      213: 1464556570515691988
+    second: SupremeElementalSummonFire_8
+  - first:
+      213: -3064586595235696925
+    second: SupremeElementalSummonFire_9
+  - first:
+      213: 8502724108000068612
+    second: SupremeElementalSummonFire_10
+  - first:
+      213: -5912895171466978053
+    second: SupremeElementalSummonFire_11
+  - first:
+      213: 3186414098966412021
+    second: SupremeElementalSummonFire_12
+  - first:
+      213: 3129884458378311363
+    second: SupremeElementalSummonFire_13
+  - first:
+      213: -1248908574106654794
+    second: SupremeElementalSummonFire_14
+  - first:
+      213: -878248446509889614
+    second: SupremeElementalSummonFire_15
+  - first:
+      213: -2957103979376131062
+    second: SupremeElementalSummonFire_16
+  - first:
+      213: 8440681554587604823
+    second: SupremeElementalSummonFire_17
+  - first:
+      213: -5265013443749068141
+    second: SupremeElementalSummonFire_18
+  - first:
+      213: 1936172053460579621
+    second: SupremeElementalSummonFire_19
+  - first:
+      213: -6912768139024119997
+    second: SupremeElementalSummonFire_20
+  - first:
+      213: -3545884899349043033
+    second: SupremeElementalSummonFire_21
+  - first:
+      213: -1964619757537966167
+    second: SupremeElementalSummonFire_22
+  - first:
+      213: -1722764217975390691
+    second: SupremeElementalSummonFire_23
+  - first:
+      213: -3904794195221114664
+    second: SupremeElementalSummonFire_24
+  - first:
+      213: 6944634422763676446
+    second: SupremeElementalSummonFire_25
+  - first:
+      213: 6427649305317414689
+    second: SupremeElementalSummonFire_26
+  - first:
+      213: -6559903481462915005
+    second: SupremeElementalSummonFire_27
+  - first:
+      213: -5454369708696606417
+    second: SupremeElementalSummonFire_28
+  - first:
+      213: -6111489864266195537
+    second: SupremeElementalSummonFire_29
+  - first:
+      213: -4121345539681169664
+    second: SupremeElementalSummonFire_30
+  - first:
+      213: 3611605433367473158
+    second: SupremeElementalSummonFire_31
+  - first:
+      213: 3640028244471545984
+    second: SupremeElementalSummonFire_32
+  - first:
+      213: 5646037008673457574
+    second: SupremeElementalSummonFire_33
+  - first:
+      213: 2227711181665534285
+    second: SupremeElementalSummonFire_34
+  - first:
+      213: -1654335422570014121
+    second: SupremeElementalSummonFire_35
+  - first:
+      213: -8394084426212426694
+    second: SupremeElementalSummonFire_36
+  - first:
+      213: 3571859946158506735
+    second: SupremeElementalSummonFire_37
+  - first:
+      213: -4221613800402372141
+    second: SupremeElementalSummonFire_38
+  - first:
+      213: 3093646235381419186
+    second: SupremeElementalSummonFire_39
+  - first:
+      213: -4279807977111890913
+    second: SupremeElementalSummonFire_40
+  - first:
+      213: 6707189345891850525
+    second: SupremeElementalSummonFire_41
+  - first:
+      213: 7962828226784435514
+    second: SupremeElementalSummonFire_42
+  - first:
+      213: -6277440534760044976
+    second: SupremeElementalSummonFire_43
+  - first:
+      213: 2241367033787189570
+    second: SupremeElementalSummonFire_44
+  - first:
+      213: -8412310359610146161
+    second: SupremeElementalSummonFire_45
+  - first:
+      213: -2335096259322279785
+    second: SupremeElementalSummonFire_46
+  - first:
+      213: 3827900060580525474
+    second: SupremeElementalSummonFire_47
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SupremeElementalSummonFire_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 152
+        width: 31
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e9f7afc89b03b3a0800000000000000
+      internalID: -6650959473749263897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SupremeElementalSummonFire_1
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 159
+        width: 9
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9d3c4c1e02773e10800000000000000
+      internalID: 2177334349786791326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SupremeElementalSummonFire_2
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 154
+        width: 30
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 637e3bf37a8122dd0800000000000000
+      internalID: -2512418535511955658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SupremeElementalSummonFire_3
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 151
+        width: 35
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 584bc9e526595bbd0800000000000000
+      internalID: -2615019758892043131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SupremeElementalSummonFire_4
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 154
+        width: 36
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17d8ddc1c8925b890800000000000000
+      internalID: -7442997127403434639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SupremeElementalSummonFire_5
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 171
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af7bd4394533de9e0800000000000000
+      internalID: -1590558655050303494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SupremeElementalSummonFire_6
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 154
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d28f05ddf07c9ec50800000000000000
+      internalID: 6695101192014460973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SupremeElementalSummonFire_7
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 152
+        width: 38
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f82a415828db9220800000000000000
+      internalID: 2493824486353807605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SupremeElementalSummonFire_8
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 176
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d95d0bf076235410800000000000000
+      internalID: 1464556570515691988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SupremeElementalSummonFire_9
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 162
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ee6d8f7ab66875d0800000000000000
+      internalID: -3064586595235696925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SupremeElementalSummonFire_10
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 146
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4048e70e68ebff570800000000000000
+      internalID: 8502724108000068612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SupremeElementalSummonFire_11
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 146
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfc969e5b2d21fda0800000000000000
+      internalID: -5912895171466978053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SupremeElementalSummonFire_12
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 146
+        width: 16
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fa703c9dba683c20800000000000000
+      internalID: 3186414098966412021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SupremeElementalSummonFire_13
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 111
+        width: 9
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c6b7a105559f6b20800000000000000
+      internalID: 3129884458378311363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SupremeElementalSummonFire_14
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 104
+        width: 31
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b7ee63d44cfaaee0800000000000000
+      internalID: -1248908574106654794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SupremeElementalSummonFire_15
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 106
+        width: 27
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b74d39e0b5dfc3f0800000000000000
+      internalID: -878248446509889614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SupremeElementalSummonFire_16
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 103
+        width: 35
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a044461299146f6d0800000000000000
+      internalID: -2957103979376131062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SupremeElementalSummonFire_17
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 106
+        width: 36
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 757d26b3723532570800000000000000
+      internalID: 8440681554587604823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SupremeElementalSummonFire_18
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 106
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3924eab0b2aeee6b0800000000000000
+      internalID: -5265013443749068141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SupremeElementalSummonFire_19
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 123
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5257e8e693aaeda10800000000000000
+      internalID: 1936172053460579621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SupremeElementalSummonFire_20
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 104
+        width: 38
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34744d2c00ae010a0800000000000000
+      internalID: -6912768139024119997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SupremeElementalSummonFire_21
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 128
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a8e0ef887c7acec0800000000000000
+      internalID: -3545884899349043033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SupremeElementalSummonFire_22
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 114
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a74c315db44cb4e0800000000000000
+      internalID: -1964619757537966167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SupremeElementalSummonFire_23
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 98
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1eb2d342138718e0800000000000000
+      internalID: -1722764217975390691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SupremeElementalSummonFire_24
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 98
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d096d03e526fc9c0800000000000000
+      internalID: -3904794195221114664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SupremeElementalSummonFire_25
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 98
+        width: 16
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1367c7963c406060800000000000000
+      internalID: 6944634422763676446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SupremeElementalSummonFire_26
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 56
+        width: 31
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1271b30fcf8933950800000000000000
+      internalID: 6427649305317414689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SupremeElementalSummonFire_27
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 58
+        width: 27
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3400e8a1a8a86f4a0800000000000000
+      internalID: -6559903481462915005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SupremeElementalSummonFire_28
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 58
+        width: 35
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f29ec7ff5af2e44b0800000000000000
+      internalID: -5454369708696606417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SupremeElementalSummonFire_29
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 58
+        width: 36
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fad53083950af2ba0800000000000000
+      internalID: -6111489864266195537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SupremeElementalSummonFire_30
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 82
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00fc9a6411a0ec6c0800000000000000
+      internalID: -4121345539681169664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SupremeElementalSummonFire_31
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 75
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60c2dbca1000f1230800000000000000
+      internalID: 3611605433367473158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SupremeElementalSummonFire_32
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 58
+        width: 33
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0808d14176af38230800000000000000
+      internalID: 3640028244471545984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SupremeElementalSummonFire_33
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 56
+        width: 38
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a5c0b2deb0ca5e40800000000000000
+      internalID: 5646037008673457574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SupremeElementalSummonFire_34
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 80
+        width: 20
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d41075d448b6aee10800000000000000
+      internalID: 2227711181665534285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SupremeElementalSummonFire_35
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 63
+        width: 9
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75a5e5eb2be9a09e0800000000000000
+      internalID: -1654335422570014121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SupremeElementalSummonFire_36
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 66
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3c38f820b8328b80800000000000000
+      internalID: -8394084426212426694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SupremeElementalSummonFire_37
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 8
+        width: 31
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe2493e42bbc19130800000000000000
+      internalID: 3571859946158506735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SupremeElementalSummonFire_38
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 10
+        width: 27
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d931289d90d965c0800000000000000
+      internalID: -4221613800402372141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SupremeElementalSummonFire_39
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 10
+        width: 35
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bc42a83cd6deea20800000000000000
+      internalID: 3093646235381419186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SupremeElementalSummonFire_40
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 34
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f14dc59f1511b94c0800000000000000
+      internalID: -4279807977111890913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SupremeElementalSummonFire_41
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 10
+        width: 36
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d191b238c29b41d50800000000000000
+      internalID: 6707189345891850525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SupremeElementalSummonFire_42
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 10
+        width: 33
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3d90f85516a18e60800000000000000
+      internalID: 7962828226784435514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SupremeElementalSummonFire_43
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 27
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0564dfac71d02e8a0800000000000000
+      internalID: -6277440534760044976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SupremeElementalSummonFire_44
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 32
+        width: 20
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2490824217fea1f10800000000000000
+      internalID: 2241367033787189570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SupremeElementalSummonFire_45
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 8
+        width: 38
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f82491b5c48714b80800000000000000
+      internalID: -8412310359610146161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SupremeElementalSummonFire_46
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 15
+        width: 9
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79880c2f252189fd0800000000000000
+      internalID: -2335096259322279785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SupremeElementalSummonFire_47
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 18
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a53992f2de6f1530800000000000000
+      internalID: 3827900060580525474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      SupremeElementalSummonFire_0: -6650959473749263897
+      SupremeElementalSummonFire_1: 2177334349786791326
+      SupremeElementalSummonFire_10: 8502724108000068612
+      SupremeElementalSummonFire_11: -5912895171466978053
+      SupremeElementalSummonFire_12: 3186414098966412021
+      SupremeElementalSummonFire_13: 3129884458378311363
+      SupremeElementalSummonFire_14: -1248908574106654794
+      SupremeElementalSummonFire_15: -878248446509889614
+      SupremeElementalSummonFire_16: -2957103979376131062
+      SupremeElementalSummonFire_17: 8440681554587604823
+      SupremeElementalSummonFire_18: -5265013443749068141
+      SupremeElementalSummonFire_19: 1936172053460579621
+      SupremeElementalSummonFire_2: -2512418535511955658
+      SupremeElementalSummonFire_20: -6912768139024119997
+      SupremeElementalSummonFire_21: -3545884899349043033
+      SupremeElementalSummonFire_22: -1964619757537966167
+      SupremeElementalSummonFire_23: -1722764217975390691
+      SupremeElementalSummonFire_24: -3904794195221114664
+      SupremeElementalSummonFire_25: 6944634422763676446
+      SupremeElementalSummonFire_26: 6427649305317414689
+      SupremeElementalSummonFire_27: -6559903481462915005
+      SupremeElementalSummonFire_28: -5454369708696606417
+      SupremeElementalSummonFire_29: -6111489864266195537
+      SupremeElementalSummonFire_3: -2615019758892043131
+      SupremeElementalSummonFire_30: -4121345539681169664
+      SupremeElementalSummonFire_31: 3611605433367473158
+      SupremeElementalSummonFire_32: 3640028244471545984
+      SupremeElementalSummonFire_33: 5646037008673457574
+      SupremeElementalSummonFire_34: 2227711181665534285
+      SupremeElementalSummonFire_35: -1654335422570014121
+      SupremeElementalSummonFire_36: -8394084426212426694
+      SupremeElementalSummonFire_37: 3571859946158506735
+      SupremeElementalSummonFire_38: -4221613800402372141
+      SupremeElementalSummonFire_39: 3093646235381419186
+      SupremeElementalSummonFire_4: -7442997127403434639
+      SupremeElementalSummonFire_40: -4279807977111890913
+      SupremeElementalSummonFire_41: 6707189345891850525
+      SupremeElementalSummonFire_42: 7962828226784435514
+      SupremeElementalSummonFire_43: -6277440534760044976
+      SupremeElementalSummonFire_44: 2241367033787189570
+      SupremeElementalSummonFire_45: -8412310359610146161
+      SupremeElementalSummonFire_46: -2335096259322279785
+      SupremeElementalSummonFire_47: 3827900060580525474
+      SupremeElementalSummonFire_5: -1590558655050303494
+      SupremeElementalSummonFire_6: 6695101192014460973
+      SupremeElementalSummonFire_7: 2493824486353807605
+      SupremeElementalSummonFire_8: 1464556570515691988
+      SupremeElementalSummonFire_9: -3064586595235696925
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

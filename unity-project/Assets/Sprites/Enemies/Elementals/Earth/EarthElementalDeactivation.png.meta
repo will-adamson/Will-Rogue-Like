@@ -1,0 +1,741 @@
+fileFormatVersion: 2
+guid: 629e9f9870f1d4302bc45300dbc4bfdb
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3509969307929979077
+    second: EarthElementalDeactivation_0
+  - first:
+      213: 8952617349958469059
+    second: EarthElementalDeactivation_1
+  - first:
+      213: -1876413325655258522
+    second: EarthElementalDeactivation_2
+  - first:
+      213: -8475780423687983704
+    second: EarthElementalDeactivation_3
+  - first:
+      213: 3606277336122050737
+    second: EarthElementalDeactivation_4
+  - first:
+      213: 293050376241666546
+    second: EarthElementalDeactivation_5
+  - first:
+      213: -4558314019194294376
+    second: EarthElementalDeactivation_6
+  - first:
+      213: -588335617366074366
+    second: EarthElementalDeactivation_7
+  - first:
+      213: -1585094611476259326
+    second: EarthElementalDeactivation_8
+  - first:
+      213: -1409710990637071637
+    second: EarthElementalDeactivation_9
+  - first:
+      213: 289869393314316023
+    second: EarthElementalDeactivation_10
+  - first:
+      213: 2496174786111759493
+    second: EarthElementalDeactivation_11
+  - first:
+      213: 6106276873080113136
+    second: EarthElementalDeactivation_12
+  - first:
+      213: -8361283596638146953
+    second: EarthElementalDeactivation_13
+  - first:
+      213: 5814264459214062636
+    second: EarthElementalDeactivation_14
+  - first:
+      213: -9035955250556099062
+    second: EarthElementalDeactivation_15
+  - first:
+      213: -5093994796901464336
+    second: EarthElementalDeactivation_16
+  - first:
+      213: 688955964945625695
+    second: EarthElementalDeactivation_17
+  - first:
+      213: 3888141541518750230
+    second: EarthElementalDeactivation_18
+  - first:
+      213: 3698446781399125639
+    second: EarthElementalDeactivation_19
+  - first:
+      213: 3636779749311376387
+    second: EarthElementalDeactivation_20
+  - first:
+      213: -6097375329336960025
+    second: EarthElementalDeactivation_21
+  - first:
+      213: -3014370103340345634
+    second: EarthElementalDeactivation_22
+  - first:
+      213: -2979944521925847411
+    second: EarthElementalDeactivation_23
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: EarthElementalDeactivation_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 108
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b375f44d2851a4fc0800000000000000
+      internalID: -3509969307929979077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthElementalDeactivation_1
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 107
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c5064afb061e3c70800000000000000
+      internalID: 8952617349958469059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthElementalDeactivation_2
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 107
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66a4280a504a5f5e0800000000000000
+      internalID: -1876413325655258522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthElementalDeactivation_3
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 107
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ad2edb7c9aff5a80800000000000000
+      internalID: -8475780423687983704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthElementalDeactivation_4
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 107
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b8c81d51221c0230800000000000000
+      internalID: 3606277336122050737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthElementalDeactivation_5
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 107
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f9dd29b3cf111400800000000000000
+      internalID: 293050376241666546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthElementalDeactivation_6
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 76
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89fad3fec8d9db0c0800000000000000
+      internalID: -4558314019194294376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthElementalDeactivation_7
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 75
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20c5f268fdfc5d7f0800000000000000
+      internalID: -588335617366074366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthElementalDeactivation_8
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 75
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20e529b59dc900ae0800000000000000
+      internalID: -1585094611476259326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthElementalDeactivation_9
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 75
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be20d1fa253bf6ce0800000000000000
+      internalID: -1409710990637071637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthElementalDeactivation_10
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 75
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fef1cb6da2d50400800000000000000
+      internalID: 289869393314316023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthElementalDeactivation_11
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 75
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5846a7f1eb134a220800000000000000
+      internalID: 2496174786111759493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthElementalDeactivation_12
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 44
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f78f10b67addb450800000000000000
+      internalID: 6106276873080113136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthElementalDeactivation_13
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 43
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77e251c6ed0c6fb80800000000000000
+      internalID: -8361283596638146953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthElementalDeactivation_14
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 43
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2402a968ba60b050800000000000000
+      internalID: 5814264459214062636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthElementalDeactivation_15
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 43
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a06274cf296d99280800000000000000
+      internalID: -9035955250556099062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthElementalDeactivation_16
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 43
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f6000ba8be7e49b0800000000000000
+      internalID: -5093994796901464336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthElementalDeactivation_17
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 43
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f527874ccc9af8900800000000000000
+      internalID: 688955964945625695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthElementalDeactivation_18
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 12
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6123aaab12475f530800000000000000
+      internalID: 3888141541518750230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthElementalDeactivation_19
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 11
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78e4bf1a0c5835330800000000000000
+      internalID: 3698446781399125639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthElementalDeactivation_20
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 11
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30ce90cd9ef687230800000000000000
+      internalID: 3636779749311376387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthElementalDeactivation_21
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 11
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ebd3a87175c16ba0800000000000000
+      internalID: -6097375329336960025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthElementalDeactivation_22
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 11
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed657d0ac5eca26d0800000000000000
+      internalID: -3014370103340345634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthElementalDeactivation_23
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 11
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d861d38ee3c15a6d0800000000000000
+      internalID: -2979944521925847411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      EarthElementalDeactivation_0: -3509969307929979077
+      EarthElementalDeactivation_1: 8952617349958469059
+      EarthElementalDeactivation_10: 289869393314316023
+      EarthElementalDeactivation_11: 2496174786111759493
+      EarthElementalDeactivation_12: 6106276873080113136
+      EarthElementalDeactivation_13: -8361283596638146953
+      EarthElementalDeactivation_14: 5814264459214062636
+      EarthElementalDeactivation_15: -9035955250556099062
+      EarthElementalDeactivation_16: -5093994796901464336
+      EarthElementalDeactivation_17: 688955964945625695
+      EarthElementalDeactivation_18: 3888141541518750230
+      EarthElementalDeactivation_19: 3698446781399125639
+      EarthElementalDeactivation_2: -1876413325655258522
+      EarthElementalDeactivation_20: 3636779749311376387
+      EarthElementalDeactivation_21: -6097375329336960025
+      EarthElementalDeactivation_22: -3014370103340345634
+      EarthElementalDeactivation_23: -2979944521925847411
+      EarthElementalDeactivation_3: -8475780423687983704
+      EarthElementalDeactivation_4: 3606277336122050737
+      EarthElementalDeactivation_5: 293050376241666546
+      EarthElementalDeactivation_6: -4558314019194294376
+      EarthElementalDeactivation_7: -588335617366074366
+      EarthElementalDeactivation_8: -1585094611476259326
+      EarthElementalDeactivation_9: -1409710990637071637
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

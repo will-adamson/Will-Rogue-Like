@@ -1,0 +1,1287 @@
+fileFormatVersion: 2
+guid: b312ad5aa65bb4656a2882e378be6bdc
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7692088895051612728
+    second: SlimeCubeDivide_0
+  - first:
+      213: -1920575252971219796
+    second: SlimeCubeDivide_1
+  - first:
+      213: -7374825646967717934
+    second: SlimeCubeDivide_2
+  - first:
+      213: 973030842942594451
+    second: SlimeCubeDivide_3
+  - first:
+      213: -2723141490057061177
+    second: SlimeCubeDivide_4
+  - first:
+      213: 993760767431242561
+    second: SlimeCubeDivide_5
+  - first:
+      213: 4483524003041709284
+    second: SlimeCubeDivide_6
+  - first:
+      213: -7108140582733898843
+    second: SlimeCubeDivide_7
+  - first:
+      213: -5119958004285872649
+    second: SlimeCubeDivide_8
+  - first:
+      213: -3152608816739223497
+    second: SlimeCubeDivide_9
+  - first:
+      213: -8608523646468777069
+    second: SlimeCubeDivide_10
+  - first:
+      213: -5375949751861190945
+    second: SlimeCubeDivide_11
+  - first:
+      213: 5931415946206706032
+    second: SlimeCubeDivide_12
+  - first:
+      213: 7973983376072552537
+    second: SlimeCubeDivide_13
+  - first:
+      213: -3782174116291124694
+    second: SlimeCubeDivide_14
+  - first:
+      213: 1307782059696105561
+    second: SlimeCubeDivide_15
+  - first:
+      213: -5925794182825369142
+    second: SlimeCubeDivide_16
+  - first:
+      213: 7915275868437492218
+    second: SlimeCubeDivide_17
+  - first:
+      213: 7539419963431003676
+    second: SlimeCubeDivide_18
+  - first:
+      213: -551943139543047363
+    second: SlimeCubeDivide_19
+  - first:
+      213: 2437271643013990355
+    second: SlimeCubeDivide_20
+  - first:
+      213: 976598451447416188
+    second: SlimeCubeDivide_21
+  - first:
+      213: -4942629136590912236
+    second: SlimeCubeDivide_22
+  - first:
+      213: -3399761747097309919
+    second: SlimeCubeDivide_23
+  - first:
+      213: -9119432449797418573
+    second: SlimeCubeDivide_24
+  - first:
+      213: -842644948485663406
+    second: SlimeCubeDivide_25
+  - first:
+      213: 1206277347203759422
+    second: SlimeCubeDivide_26
+  - first:
+      213: -1706920706308572125
+    second: SlimeCubeDivide_27
+  - first:
+      213: -3965985097993325803
+    second: SlimeCubeDivide_28
+  - first:
+      213: -5619166516450042560
+    second: SlimeCubeDivide_29
+  - first:
+      213: -4918679876834818340
+    second: SlimeCubeDivide_30
+  - first:
+      213: -3207589826354294958
+    second: SlimeCubeDivide_31
+  - first:
+      213: 4539124243640874785
+    second: SlimeCubeDivide_32
+  - first:
+      213: 6752850935852644075
+    second: SlimeCubeDivide_33
+  - first:
+      213: -5487597972980844543
+    second: SlimeCubeDivide_34
+  - first:
+      213: -8862559162996820796
+    second: SlimeCubeDivide_35
+  - first:
+      213: 1628471449076294487
+    second: SlimeCubeDivide_36
+  - first:
+      213: -3079107804938733745
+    second: SlimeCubeDivide_37
+  - first:
+      213: -8270556493999745194
+    second: SlimeCubeDivide_38
+  - first:
+      213: 6857282369503222015
+    second: SlimeCubeDivide_39
+  - first:
+      213: -8116280647577066415
+    second: SlimeCubeDivide_40
+  - first:
+      213: 6181082468860360399
+    second: SlimeCubeDivide_41
+  - first:
+      213: -5547567644747829824
+    second: SlimeCubeDivide_42
+  - first:
+      213: -2764524229535340793
+    second: SlimeCubeDivide_43
+  - first:
+      213: -8029443858135193031
+    second: SlimeCubeDivide_44
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SlimeCubeDivide_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 12
+        width: 22
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 832474a781acfba60800000000000000
+      internalID: 7692088895051612728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlimeCubeDivide_1
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 12
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca49e3aabfeb855e0800000000000000
+      internalID: -1920575252971219796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlimeCubeDivide_2
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 12
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2df7c08c52b57a990800000000000000
+      internalID: -7374825646967717934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlimeCubeDivide_3
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 12
+        width: 25
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39d97157566e08d00800000000000000
+      internalID: 973030842942594451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlimeCubeDivide_4
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 14
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cc550c1e35753ad0800000000000000
+      internalID: -2723141490057061177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlimeCubeDivide_5
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 13
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 143757e172c8acd00800000000000000
+      internalID: 993760767431242561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlimeCubeDivide_6
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 17
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ec0d37735da83e30800000000000000
+      internalID: 4483524003041709284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlimeCubeDivide_7
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 18
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ab9b90fccfca5d90800000000000000
+      internalID: -7108140582733898843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlimeCubeDivide_8
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 14
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f56f91625142f8b0800000000000000
+      internalID: -5119958004285872649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlimeCubeDivide_9
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 14
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7387e720cfeaf34d0800000000000000
+      internalID: -3152608816739223497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlimeCubeDivide_10
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 21
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39b9dab7a51688880800000000000000
+      internalID: -8608523646468777069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlimeCubeDivide_11
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 17
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fded6f50f2ac465b0800000000000000
+      internalID: -5375949751861190945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlimeCubeDivide_12
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 14
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 079fcb8806f905250800000000000000
+      internalID: 5931415946206706032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlimeCubeDivide_13
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 15
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 950bcafe1a749ae60800000000000000
+      internalID: 7973983376072552537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlimeCubeDivide_14
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 14
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a226ac71ea4038bc0800000000000000
+      internalID: -3782174116291124694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlimeCubeDivide_15
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 14
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 958a0d7badc262210800000000000000
+      internalID: 1307782059696105561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlimeCubeDivide_16
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 12
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac12e90469953cda0800000000000000
+      internalID: -5925794182825369142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlimeCubeDivide_17
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 14
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af130752775b8dd60800000000000000
+      internalID: 7915275868437492218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlimeCubeDivide_18
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 14
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c162bccd28661a860800000000000000
+      internalID: 7539419963431003676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlimeCubeDivide_19
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 14
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d33a25f83aa1758f0800000000000000
+      internalID: -551943139543047363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlimeCubeDivide_20
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 14
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d74bf665ade2d120800000000000000
+      internalID: 2437271643013990355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlimeCubeDivide_21
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 14
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7548ba0e139d8d00800000000000000
+      internalID: 976598451447416188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlimeCubeDivide_22
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 14
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 415c009ccf0486bb0800000000000000
+      internalID: -4942629136590912236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlimeCubeDivide_23
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 14
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12dad4724be91d0d0800000000000000
+      internalID: -3399761747097309919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlimeCubeDivide_24
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 14
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b197a4f084417180800000000000000
+      internalID: -9119432449797418573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlimeCubeDivide_25
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 14
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2551cb542e25e44f0800000000000000
+      internalID: -842644948485663406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlimeCubeDivide_26
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 7
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3d3eac2bde8db010800000000000000
+      internalID: 1206277347203759422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlimeCubeDivide_27
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 4
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32cf7b849accf48e0800000000000000
+      internalID: -1706920706308572125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlimeCubeDivide_28
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 7
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5137d99e09df5f8c0800000000000000
+      internalID: -3965985097993325803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlimeCubeDivide_29
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 4
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04dd93d23d5b402b0800000000000000
+      internalID: -5619166516450042560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlimeCubeDivide_30
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 4
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd6066956b65dbbb0800000000000000
+      internalID: -4918679876834818340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlimeCubeDivide_31
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 4
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25fcef62c0a5c73d0800000000000000
+      internalID: -3207589826354294958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlimeCubeDivide_32
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 4
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 127f39543753efe30800000000000000
+      internalID: 4539124243640874785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlimeCubeDivide_33
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 4
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be639a4e522f6bd50800000000000000
+      internalID: 6752850935852644075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlimeCubeDivide_34
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 10
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 108b256d7b228d3b0800000000000000
+      internalID: -5487597972980844543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlimeCubeDivide_35
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 4
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c4f0b8a56dd10580800000000000000
+      internalID: -8862559162996820796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlimeCubeDivide_36
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 4
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 753ee09a72e799610800000000000000
+      internalID: 1628471449076294487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlimeCubeDivide_37
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 10
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f477e75e3cfc445d0800000000000000
+      internalID: -3079107804938733745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlimeCubeDivide_38
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 4
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 657585020b4193d80800000000000000
+      internalID: -8270556493999745194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlimeCubeDivide_39
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 4
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff8d9cecbf5f92f50800000000000000
+      internalID: 6857282369503222015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlimeCubeDivide_40
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 10
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 154aacfb0cd2d5f80800000000000000
+      internalID: -8116280647577066415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlimeCubeDivide_41
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 4
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc6f0d3b1cd97c550800000000000000
+      internalID: 6181082468860360399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlimeCubeDivide_42
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 4
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cdea5f8e941303b0800000000000000
+      internalID: -5547567644747829824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlimeCubeDivide_43
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 10
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 707e59d3cdf62a9d0800000000000000
+      internalID: -2764524229535340793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlimeCubeDivide_44
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 4
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93ae8e35a5fa19090800000000000000
+      internalID: -8029443858135193031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      SlimeCubeDivide_0: 7692088895051612728
+      SlimeCubeDivide_1: -1920575252971219796
+      SlimeCubeDivide_10: -8608523646468777069
+      SlimeCubeDivide_11: -5375949751861190945
+      SlimeCubeDivide_12: 5931415946206706032
+      SlimeCubeDivide_13: 7973983376072552537
+      SlimeCubeDivide_14: -3782174116291124694
+      SlimeCubeDivide_15: 1307782059696105561
+      SlimeCubeDivide_16: -5925794182825369142
+      SlimeCubeDivide_17: 7915275868437492218
+      SlimeCubeDivide_18: 7539419963431003676
+      SlimeCubeDivide_19: -551943139543047363
+      SlimeCubeDivide_2: -7374825646967717934
+      SlimeCubeDivide_20: 2437271643013990355
+      SlimeCubeDivide_21: 976598451447416188
+      SlimeCubeDivide_22: -4942629136590912236
+      SlimeCubeDivide_23: -3399761747097309919
+      SlimeCubeDivide_24: -9119432449797418573
+      SlimeCubeDivide_25: -842644948485663406
+      SlimeCubeDivide_26: 1206277347203759422
+      SlimeCubeDivide_27: -1706920706308572125
+      SlimeCubeDivide_28: -3965985097993325803
+      SlimeCubeDivide_29: -5619166516450042560
+      SlimeCubeDivide_3: 973030842942594451
+      SlimeCubeDivide_30: -4918679876834818340
+      SlimeCubeDivide_31: -3207589826354294958
+      SlimeCubeDivide_32: 4539124243640874785
+      SlimeCubeDivide_33: 6752850935852644075
+      SlimeCubeDivide_34: -5487597972980844543
+      SlimeCubeDivide_35: -8862559162996820796
+      SlimeCubeDivide_36: 1628471449076294487
+      SlimeCubeDivide_37: -3079107804938733745
+      SlimeCubeDivide_38: -8270556493999745194
+      SlimeCubeDivide_39: 6857282369503222015
+      SlimeCubeDivide_4: -2723141490057061177
+      SlimeCubeDivide_40: -8116280647577066415
+      SlimeCubeDivide_41: 6181082468860360399
+      SlimeCubeDivide_42: -5547567644747829824
+      SlimeCubeDivide_43: -2764524229535340793
+      SlimeCubeDivide_44: -8029443858135193031
+      SlimeCubeDivide_5: 993760767431242561
+      SlimeCubeDivide_6: 4483524003041709284
+      SlimeCubeDivide_7: -7108140582733898843
+      SlimeCubeDivide_8: -5119958004285872649
+      SlimeCubeDivide_9: -3152608816739223497
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

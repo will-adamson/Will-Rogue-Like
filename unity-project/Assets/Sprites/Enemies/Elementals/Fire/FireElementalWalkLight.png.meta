@@ -1,0 +1,741 @@
+fileFormatVersion: 2
+guid: 352f17aa854dd4c6e80b5a5e44e89bcf
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1421077219503588971
+    second: FireElementalWalkLight_0
+  - first:
+      213: -5489856073006303089
+    second: FireElementalWalkLight_1
+  - first:
+      213: 4916770873074989323
+    second: FireElementalWalkLight_2
+  - first:
+      213: -2177944840999030555
+    second: FireElementalWalkLight_3
+  - first:
+      213: -8858463634301484960
+    second: FireElementalWalkLight_4
+  - first:
+      213: -60325741473797254
+    second: FireElementalWalkLight_5
+  - first:
+      213: -7483841856307853891
+    second: FireElementalWalkLight_6
+  - first:
+      213: -4874285832187763429
+    second: FireElementalWalkLight_7
+  - first:
+      213: -8767090147220413426
+    second: FireElementalWalkLight_8
+  - first:
+      213: -5686283998664294243
+    second: FireElementalWalkLight_9
+  - first:
+      213: -3496039816381931274
+    second: FireElementalWalkLight_10
+  - first:
+      213: 1430367671354555598
+    second: FireElementalWalkLight_11
+  - first:
+      213: -171177833550888225
+    second: FireElementalWalkLight_12
+  - first:
+      213: -6929162189794717125
+    second: FireElementalWalkLight_13
+  - first:
+      213: -4155639952381880951
+    second: FireElementalWalkLight_14
+  - first:
+      213: 1285642105670622223
+    second: FireElementalWalkLight_15
+  - first:
+      213: -6628785358445953874
+    second: FireElementalWalkLight_16
+  - first:
+      213: 839701329740526345
+    second: FireElementalWalkLight_17
+  - first:
+      213: -101051528601522927
+    second: FireElementalWalkLight_18
+  - first:
+      213: -3942506789326072550
+    second: FireElementalWalkLight_19
+  - first:
+      213: 1238948442083607715
+    second: FireElementalWalkLight_20
+  - first:
+      213: 5121791178368046074
+    second: FireElementalWalkLight_21
+  - first:
+      213: 6626310135366291646
+    second: FireElementalWalkLight_22
+  - first:
+      213: -8522971138229504653
+    second: FireElementalWalkLight_23
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: FireElementalWalkLight_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 106
+        width: 19
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6649e2b33ea8b310800000000000000
+      internalID: 1421077219503588971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireElementalWalkLight_1
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 106
+        width: 19
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f883074fcfc10d3b0800000000000000
+      internalID: -5489856073006303089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireElementalWalkLight_2
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 106
+        width: 19
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b093f931f01eb3440800000000000000
+      internalID: 4916770873074989323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireElementalWalkLight_3
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 106
+        width: 19
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e0bbd3d4b266c1e0800000000000000
+      internalID: -2177944840999030555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireElementalWalkLight_4
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 106
+        width: 19
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0608ebd324a601580800000000000000
+      internalID: -8858463634301484960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireElementalWalkLight_5
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 106
+        width: 19
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7b64a8ce0ea92ff0800000000000000
+      internalID: -60325741473797254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireElementalWalkLight_6
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 74
+        width: 19
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db502979b7d042890800000000000000
+      internalID: -7483841856307853891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireElementalWalkLight_7
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 74
+        width: 19
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b15aab65cde0b5cb0800000000000000
+      internalID: -4874285832187763429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireElementalWalkLight_8
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 74
+        width: 19
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e04a91d06f9055680800000000000000
+      internalID: -8767090147220413426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireElementalWalkLight_9
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 74
+        width: 19
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9080a794d24611b0800000000000000
+      internalID: -5686283998664294243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireElementalWalkLight_10
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 74
+        width: 19
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f0eeef4f429b7fc0800000000000000
+      internalID: -3496039816381931274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireElementalWalkLight_11
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 74
+        width: 19
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecc7a4591dfa9d310800000000000000
+      internalID: 1430367671354555598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireElementalWalkLight_12
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 42
+        width: 19
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd247c5daaadf9df0800000000000000
+      internalID: -171177833550888225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireElementalWalkLight_13
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 42
+        width: 19
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b32d73e53bba6df90800000000000000
+      internalID: -6929162189794717125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireElementalWalkLight_14
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 42
+        width: 19
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9855bd71b733456c0800000000000000
+      internalID: -4155639952381880951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireElementalWalkLight_15
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 42
+        width: 19
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0c58c8fea487d110800000000000000
+      internalID: 1285642105670622223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireElementalWalkLight_16
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 42
+        width: 19
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eacb48956d2d104a0800000000000000
+      internalID: -6628785358445953874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireElementalWalkLight_17
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 42
+        width: 19
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9037b9419e737ab00800000000000000
+      internalID: 839701329740526345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireElementalWalkLight_18
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 10
+        width: 19
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11d22bd8b2ef89ef0800000000000000
+      internalID: -101051528601522927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireElementalWalkLight_19
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 10
+        width: 19
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1557a1a6f66949c0800000000000000
+      internalID: -3942506789326072550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireElementalWalkLight_20
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 10
+        width: 19
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a4ca693b01a13110800000000000000
+      internalID: 1238948442083607715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireElementalWalkLight_21
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 10
+        width: 19
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af35b58b0f1441740800000000000000
+      internalID: 5121791178368046074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireElementalWalkLight_22
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 10
+        width: 19
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb0141ed5f165fb50800000000000000
+      internalID: 6626310135366291646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireElementalWalkLight_23
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 10
+        width: 19
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3757cea08e258b980800000000000000
+      internalID: -8522971138229504653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      FireElementalWalkLight_0: 1421077219503588971
+      FireElementalWalkLight_1: -5489856073006303089
+      FireElementalWalkLight_10: -3496039816381931274
+      FireElementalWalkLight_11: 1430367671354555598
+      FireElementalWalkLight_12: -171177833550888225
+      FireElementalWalkLight_13: -6929162189794717125
+      FireElementalWalkLight_14: -4155639952381880951
+      FireElementalWalkLight_15: 1285642105670622223
+      FireElementalWalkLight_16: -6628785358445953874
+      FireElementalWalkLight_17: 839701329740526345
+      FireElementalWalkLight_18: -101051528601522927
+      FireElementalWalkLight_19: -3942506789326072550
+      FireElementalWalkLight_2: 4916770873074989323
+      FireElementalWalkLight_20: 1238948442083607715
+      FireElementalWalkLight_21: 5121791178368046074
+      FireElementalWalkLight_22: 6626310135366291646
+      FireElementalWalkLight_23: -8522971138229504653
+      FireElementalWalkLight_3: -2177944840999030555
+      FireElementalWalkLight_4: -8858463634301484960
+      FireElementalWalkLight_5: -60325741473797254
+      FireElementalWalkLight_6: -7483841856307853891
+      FireElementalWalkLight_7: -4874285832187763429
+      FireElementalWalkLight_8: -8767090147220413426
+      FireElementalWalkLight_9: -5686283998664294243
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

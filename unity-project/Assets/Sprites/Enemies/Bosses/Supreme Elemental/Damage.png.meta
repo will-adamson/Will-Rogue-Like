@@ -1,0 +1,1365 @@
+fileFormatVersion: 2
+guid: f2fe603fab77e4f30967a5cfc00bf6da
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1571762967971725929
+    second: SupremeElementalDmg_0
+  - first:
+      213: 3688408017545021673
+    second: SupremeElementalDmg_1
+  - first:
+      213: -6662856299544913896
+    second: SupremeElementalDmg_2
+  - first:
+      213: -5454727860571484186
+    second: SupremeElementalDmg_3
+  - first:
+      213: 7504024514438385437
+    second: SupremeElementalDmg_4
+  - first:
+      213: 6041641750069914696
+    second: SupremeElementalDmg_5
+  - first:
+      213: -5560324767062940314
+    second: SupremeElementalDmg_6
+  - first:
+      213: 8858051346446193893
+    second: SupremeElementalDmg_7
+  - first:
+      213: 8259754651973980237
+    second: SupremeElementalDmg_8
+  - first:
+      213: 3004874923332246230
+    second: SupremeElementalDmg_9
+  - first:
+      213: -3461684259879168416
+    second: SupremeElementalDmg_10
+  - first:
+      213: 9087099273783198507
+    second: SupremeElementalDmg_11
+  - first:
+      213: -4609853020626333152
+    second: SupremeElementalDmg_12
+  - first:
+      213: -9057474728473671575
+    second: SupremeElementalDmg_13
+  - first:
+      213: -7795347724319844084
+    second: SupremeElementalDmg_14
+  - first:
+      213: -313194704054620113
+    second: SupremeElementalDmg_15
+  - first:
+      213: -2557661202078588896
+    second: SupremeElementalDmg_16
+  - first:
+      213: 3928017211952382949
+    second: SupremeElementalDmg_17
+  - first:
+      213: 3137665287582728405
+    second: SupremeElementalDmg_18
+  - first:
+      213: 7847630385991729046
+    second: SupremeElementalDmg_19
+  - first:
+      213: -886778855276455283
+    second: SupremeElementalDmg_20
+  - first:
+      213: -7938476467396117459
+    second: SupremeElementalDmg_21
+  - first:
+      213: 5603096425062501449
+    second: SupremeElementalDmg_22
+  - first:
+      213: 2635142317449204490
+    second: SupremeElementalDmg_23
+  - first:
+      213: -1663727211699640508
+    second: SupremeElementalDmg_24
+  - first:
+      213: 6973461521957959333
+    second: SupremeElementalDmg_25
+  - first:
+      213: -7734285037307173154
+    second: SupremeElementalDmg_26
+  - first:
+      213: -884863178636924699
+    second: SupremeElementalDmg_27
+  - first:
+      213: -7887567362357519301
+    second: SupremeElementalDmg_28
+  - first:
+      213: -8639717618967372351
+    second: SupremeElementalDmg_29
+  - first:
+      213: -3301072584292764902
+    second: SupremeElementalDmg_30
+  - first:
+      213: 8763255070215439113
+    second: SupremeElementalDmg_31
+  - first:
+      213: -5028210599700885609
+    second: SupremeElementalDmg_32
+  - first:
+      213: 6715984969967792564
+    second: SupremeElementalDmg_33
+  - first:
+      213: -2232325415857592520
+    second: SupremeElementalDmg_34
+  - first:
+      213: -6895015765441752945
+    second: SupremeElementalDmg_35
+  - first:
+      213: 1406088884614162879
+    second: SupremeElementalDmg_36
+  - first:
+      213: -441694627942507518
+    second: SupremeElementalDmg_37
+  - first:
+      213: -123169063262297232
+    second: SupremeElementalDmg_38
+  - first:
+      213: 7061223602958069695
+    second: SupremeElementalDmg_39
+  - first:
+      213: 5508854101126525351
+    second: SupremeElementalDmg_40
+  - first:
+      213: 2673277922745703932
+    second: SupremeElementalDmg_41
+  - first:
+      213: -7801309652349873514
+    second: SupremeElementalDmg_42
+  - first:
+      213: -4355996452701097295
+    second: SupremeElementalDmg_43
+  - first:
+      213: 6366075147548087060
+    second: SupremeElementalDmg_44
+  - first:
+      213: 5430007513866745221
+    second: SupremeElementalDmg_45
+  - first:
+      213: -106375629871138218
+    second: SupremeElementalDmg_46
+  - first:
+      213: -8741495719804487353
+    second: SupremeElementalDmg_47
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SupremeElementalDmg_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 164
+        width: 9
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79d7eee78e9ff2ae0800000000000000
+      internalID: -1571762967971725929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SupremeElementalDmg_1
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 172
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e84978cc8bdf2330800000000000000
+      internalID: 3688408017545021673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SupremeElementalDmg_2
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 154
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 818d6243f77c883a0800000000000000
+      internalID: -6662856299544913896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SupremeElementalDmg_3
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 164
+        width: 8
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6efc53449e9ec44b0800000000000000
+      internalID: -5454727860571484186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SupremeElementalDmg_4
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 164
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1f4ce0b986a32860800000000000000
+      internalID: 7504024514438385437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SupremeElementalDmg_5
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 172
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84c2615692938d350800000000000000
+      internalID: 6041641750069914696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SupremeElementalDmg_6
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 154
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 665286f8512c5d2b0800000000000000
+      internalID: -5560324767062940314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SupremeElementalDmg_7
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 164
+        width: 9
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e4981384ce1eea70800000000000000
+      internalID: 8858051346446193893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SupremeElementalDmg_8
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 154
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d401aca081b80a270800000000000000
+      internalID: 8259754651973980237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SupremeElementalDmg_9
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 154
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6da92bf72d573b920800000000000000
+      internalID: 3004874923332246230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SupremeElementalDmg_10
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 156
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0665755a180a5ffc0800000000000000
+      internalID: -3461684259879168416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SupremeElementalDmg_11
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 156
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b23ce8cd4acdb1e70800000000000000
+      internalID: 9087099273783198507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SupremeElementalDmg_12
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 116
+        width: 8
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0225ece0a138600c0800000000000000
+      internalID: -4609853020626333152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SupremeElementalDmg_13
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 106
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 968cf3719b26d4280800000000000000
+      internalID: -9057474728473671575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SupremeElementalDmg_14
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 124
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c091447db8c51d390800000000000000
+      internalID: -7795347724319844084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SupremeElementalDmg_15
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 116
+        width: 9
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f207a47731f47abf0800000000000000
+      internalID: -313194704054620113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SupremeElementalDmg_16
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 116
+        width: 9
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 020ae4210bc518cd0800000000000000
+      internalID: -2557661202078588896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SupremeElementalDmg_17
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 106
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e3ca0eb7de138630800000000000000
+      internalID: 3928017211952382949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SupremeElementalDmg_18
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 124
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d0417a74f93b8b20800000000000000
+      internalID: 3137665287582728405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SupremeElementalDmg_19
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 116
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69f399de14268ec60800000000000000
+      internalID: 7847630385991729046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SupremeElementalDmg_20
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 106
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8a5be8545781b3f0800000000000000
+      internalID: -886778855276455283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SupremeElementalDmg_21
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 106
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2c7e0776bdd4d190800000000000000
+      internalID: -7938476467396117459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SupremeElementalDmg_22
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 108
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94c8c1a138232cd40800000000000000
+      internalID: 5603096425062501449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SupremeElementalDmg_23
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 108
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a03d824e9f7e19420800000000000000
+      internalID: 2635142317449204490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SupremeElementalDmg_24
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 68
+        width: 9
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 447ed7f6ae049e8e0800000000000000
+      internalID: -1663727211699640508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SupremeElementalDmg_25
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 76
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a6b827ae46b6c060800000000000000
+      internalID: 6973461521957959333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SupremeElementalDmg_26
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 58
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed6efaf8cbc4aa490800000000000000
+      internalID: -7734285037307173154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SupremeElementalDmg_27
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 68
+        width: 8
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e8e58290a558b3f0800000000000000
+      internalID: -884863178636924699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SupremeElementalDmg_28
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 68
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3c17b8264bb98290800000000000000
+      internalID: -7887567362357519301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SupremeElementalDmg_29
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 76
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cd14c9c99e891880800000000000000
+      internalID: -8639717618967372351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SupremeElementalDmg_30
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 58
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a13f27379fb3032d0800000000000000
+      internalID: -3301072584292764902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SupremeElementalDmg_31
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 68
+        width: 9
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90305508e065d9970800000000000000
+      internalID: 8763255070215439113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SupremeElementalDmg_32
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 58
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79f89f4a915383ab0800000000000000
+      internalID: -5028210599700885609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SupremeElementalDmg_33
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 58
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b1fac35fb8f33d50800000000000000
+      internalID: 6715984969967792564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SupremeElementalDmg_34
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 60
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8376bb49cdf2501e0800000000000000
+      internalID: -2232325415857592520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SupremeElementalDmg_35
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 60
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f80502451bbff40a0800000000000000
+      internalID: -6895015765441752945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SupremeElementalDmg_36
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 20
+        width: 8
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb96d0a046e638310800000000000000
+      internalID: 1406088884614162879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SupremeElementalDmg_37
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 10
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20cd94a7319ced9f0800000000000000
+      internalID: -441694627942507518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SupremeElementalDmg_38
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 28
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 073eee8b36a6a4ef0800000000000000
+      internalID: -123169063262297232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SupremeElementalDmg_39
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 20
+        width: 9
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbf6be574718ef160800000000000000
+      internalID: 7061223602958069695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SupremeElementalDmg_40
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 20
+        width: 9
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a1b9192e91637c40800000000000000
+      internalID: 5508854101126525351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SupremeElementalDmg_41
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 10
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfdd62b6b14691520800000000000000
+      internalID: 2673277922745703932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SupremeElementalDmg_42
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 28
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6921cdc443e2cb390800000000000000
+      internalID: -7801309652349873514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SupremeElementalDmg_43
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 20
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b2b3e92e446c83c0800000000000000
+      internalID: -4355996452701097295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SupremeElementalDmg_44
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 10
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 413db072e97d85850800000000000000
+      internalID: 6366075147548087060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SupremeElementalDmg_45
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 10
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 585babf70134b5b40800000000000000
+      internalID: 5430007513866745221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SupremeElementalDmg_46
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 12
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65ab5c0ade3168ef0800000000000000
+      internalID: -106375629871138218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SupremeElementalDmg_47
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 12
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 749b47f05f7ffa680800000000000000
+      internalID: -8741495719804487353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      SupremeElementalDmg_0: -1571762967971725929
+      SupremeElementalDmg_1: 3688408017545021673
+      SupremeElementalDmg_10: -3461684259879168416
+      SupremeElementalDmg_11: 9087099273783198507
+      SupremeElementalDmg_12: -4609853020626333152
+      SupremeElementalDmg_13: -9057474728473671575
+      SupremeElementalDmg_14: -7795347724319844084
+      SupremeElementalDmg_15: -313194704054620113
+      SupremeElementalDmg_16: -2557661202078588896
+      SupremeElementalDmg_17: 3928017211952382949
+      SupremeElementalDmg_18: 3137665287582728405
+      SupremeElementalDmg_19: 7847630385991729046
+      SupremeElementalDmg_2: -6662856299544913896
+      SupremeElementalDmg_20: -886778855276455283
+      SupremeElementalDmg_21: -7938476467396117459
+      SupremeElementalDmg_22: 5603096425062501449
+      SupremeElementalDmg_23: 2635142317449204490
+      SupremeElementalDmg_24: -1663727211699640508
+      SupremeElementalDmg_25: 6973461521957959333
+      SupremeElementalDmg_26: -7734285037307173154
+      SupremeElementalDmg_27: -884863178636924699
+      SupremeElementalDmg_28: -7887567362357519301
+      SupremeElementalDmg_29: -8639717618967372351
+      SupremeElementalDmg_3: -5454727860571484186
+      SupremeElementalDmg_30: -3301072584292764902
+      SupremeElementalDmg_31: 8763255070215439113
+      SupremeElementalDmg_32: -5028210599700885609
+      SupremeElementalDmg_33: 6715984969967792564
+      SupremeElementalDmg_34: -2232325415857592520
+      SupremeElementalDmg_35: -6895015765441752945
+      SupremeElementalDmg_36: 1406088884614162879
+      SupremeElementalDmg_37: -441694627942507518
+      SupremeElementalDmg_38: -123169063262297232
+      SupremeElementalDmg_39: 7061223602958069695
+      SupremeElementalDmg_4: 7504024514438385437
+      SupremeElementalDmg_40: 5508854101126525351
+      SupremeElementalDmg_41: 2673277922745703932
+      SupremeElementalDmg_42: -7801309652349873514
+      SupremeElementalDmg_43: -4355996452701097295
+      SupremeElementalDmg_44: 6366075147548087060
+      SupremeElementalDmg_45: 5430007513866745221
+      SupremeElementalDmg_46: -106375629871138218
+      SupremeElementalDmg_47: -8741495719804487353
+      SupremeElementalDmg_5: 6041641750069914696
+      SupremeElementalDmg_6: -5560324767062940314
+      SupremeElementalDmg_7: 8858051346446193893
+      SupremeElementalDmg_8: 8259754651973980237
+      SupremeElementalDmg_9: 3004874923332246230
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

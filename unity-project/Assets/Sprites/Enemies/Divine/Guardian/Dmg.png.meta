@@ -1,0 +1,1469 @@
+fileFormatVersion: 2
+guid: 4d06bec961c2147f7bebeaa68afeed65
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8715083502711245780
+    second: Dmg_0
+  - first:
+      213: 6983038044538951761
+    second: Dmg_1
+  - first:
+      213: 8460677757513319468
+    second: Dmg_2
+  - first:
+      213: 8939994805267563645
+    second: Dmg_3
+  - first:
+      213: 4135715945018276396
+    second: Dmg_4
+  - first:
+      213: 1728710457996777757
+    second: Dmg_5
+  - first:
+      213: -8378223661584353612
+    second: Dmg_6
+  - first:
+      213: 7141793096451478947
+    second: Dmg_7
+  - first:
+      213: 5781619277977669947
+    second: Dmg_8
+  - first:
+      213: 6999477368760325883
+    second: Dmg_9
+  - first:
+      213: -6549780542099676699
+    second: Dmg_10
+  - first:
+      213: 580713180529800988
+    second: Dmg_11
+  - first:
+      213: 4697177126368311698
+    second: Dmg_12
+  - first:
+      213: -6090393123492917104
+    second: Dmg_13
+  - first:
+      213: -3522525753678546947
+    second: Dmg_14
+  - first:
+      213: 5866811183706171711
+    second: Dmg_15
+  - first:
+      213: 6782687922567240468
+    second: Dmg_16
+  - first:
+      213: -4054760290755857021
+    second: Dmg_17
+  - first:
+      213: -3750088760177979302
+    second: Dmg_18
+  - first:
+      213: 2482243401292958014
+    second: Dmg_19
+  - first:
+      213: 8841886074424331168
+    second: Dmg_20
+  - first:
+      213: -5628226210161588108
+    second: Dmg_21
+  - first:
+      213: 7775129413860241388
+    second: Dmg_22
+  - first:
+      213: -8815893935546048678
+    second: Dmg_23
+  - first:
+      213: -5669508451617317327
+    second: Dmg_24
+  - first:
+      213: -6176907239832248383
+    second: Dmg_25
+  - first:
+      213: 4437244453523533371
+    second: Dmg_26
+  - first:
+      213: -1595406596026750766
+    second: Dmg_27
+  - first:
+      213: -6799321705624383753
+    second: Dmg_28
+  - first:
+      213: -4427865898027560262
+    second: Dmg_29
+  - first:
+      213: -1895175869001517038
+    second: Dmg_30
+  - first:
+      213: -4335266603009135314
+    second: Dmg_31
+  - first:
+      213: -2735048886975708827
+    second: Dmg_32
+  - first:
+      213: 8116477764693424444
+    second: Dmg_33
+  - first:
+      213: 5656774489108697137
+    second: Dmg_34
+  - first:
+      213: 1531385838168315598
+    second: Dmg_35
+  - first:
+      213: -7637020364962818304
+    second: Dmg_36
+  - first:
+      213: 4119308939960428965
+    second: Dmg_37
+  - first:
+      213: 4398118065752204530
+    second: Dmg_38
+  - first:
+      213: -6529396898070663272
+    second: Dmg_39
+  - first:
+      213: -8451783055317222623
+    second: Dmg_40
+  - first:
+      213: -8922676976109247578
+    second: Dmg_41
+  - first:
+      213: -2330533184682218735
+    second: Dmg_42
+  - first:
+      213: -6810971738869283885
+    second: Dmg_43
+  - first:
+      213: -2409537180203395024
+    second: Dmg_44
+  - first:
+      213: -4962862648490648047
+    second: Dmg_45
+  - first:
+      213: 2391835046161154501
+    second: Dmg_46
+  - first:
+      213: -1410315165252548345
+    second: Dmg_47
+  - first:
+      213: 1464151703256367934
+    second: Dmg_48
+  - first:
+      213: -7804924478383808872
+    second: Dmg_49
+  - first:
+      213: 6742509801239080756
+    second: Dmg_50
+  - first:
+      213: -91253040225301717
+    second: Dmg_51
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Dmg_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 206
+        width: 60
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2477019abdcd0780800000000000000
+      internalID: -8715083502711245780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dmg_1
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 217
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15858c19a1cb8e060800000000000000
+      internalID: 6983038044538951761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dmg_2
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 228
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2441a7089d5a6570800000000000000
+      internalID: 8460677757513319468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dmg_3
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 230
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d748fc5c8ed311c70800000000000000
+      internalID: 8939994805267563645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dmg_4
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 217
+        width: 31
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2abbb27db3056930800000000000000
+      internalID: 4135715945018276396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dmg_5
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 227
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d199660a00d9df710800000000000000
+      internalID: 1728710457996777757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dmg_6
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 204
+        width: 47
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b6fd7238f19abb80800000000000000
+      internalID: -8378223661584353612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dmg_7
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 192
+        width: 51
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a5d35d7bfebc1360800000000000000
+      internalID: 7141793096451478947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dmg_8
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 213
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b31d86ad9107c3050800000000000000
+      internalID: 5781619277977669947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dmg_9
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 214
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf658520593232160800000000000000
+      internalID: 6999477368760325883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dmg_10
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 208
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e122679c418a15a0800000000000000
+      internalID: -6549780542099676699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dmg_11
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 207
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c17bdd99f8b1f0800800000000000000
+      internalID: 580713180529800988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dmg_12
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 193
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 299f540b5b9bf2140800000000000000
+      internalID: 4697177126368311698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dmg_13
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 142
+        width: 60
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09019b3f8b39a7ba0800000000000000
+      internalID: -6090393123492917104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dmg_14
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 163
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df733db7d797d1fc0800000000000000
+      internalID: -3522525753678546947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dmg_15
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 153
+        width: 31
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f39681910b91b6150800000000000000
+      internalID: 5866811183706171711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dmg_16
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 166
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41bd3f6bab2f02e50800000000000000
+      internalID: 6782687922567240468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dmg_17
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 153
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3853324aff89ab7c0800000000000000
+      internalID: -4054760290755857021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dmg_18
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 164
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a501865342205fbc0800000000000000
+      internalID: -3750088760177979302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dmg_19
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 140
+        width: 47
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e39cf14d833b27220800000000000000
+      internalID: 2482243401292958014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dmg_20
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 128
+        width: 51
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ab0982d980b4ba70800000000000000
+      internalID: 8841886074424331168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dmg_21
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 144
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47886cbd41684e1b0800000000000000
+      internalID: -5628226210161588108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dmg_22
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 150
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cefa4dbe10fc6eb60800000000000000
+      internalID: 7775129413860241388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dmg_23
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 149
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5fd14a9c27a7a580800000000000000
+      internalID: -8815893935546048678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dmg_24
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 143
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13e56420a1cd151b0800000000000000
+      internalID: -5669508451617317327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dmg_25
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 129
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cf924f8797374aa0800000000000000
+      internalID: -6176907239832248383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dmg_26
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 78
+        width: 60
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3ea7d92252449d30800000000000000
+      internalID: 4437244453523533371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dmg_27
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 89
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d8a28b572afbd9e0800000000000000
+      internalID: -1595406596026750766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dmg_28
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 100
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fec7aedee4f3a1a0800000000000000
+      internalID: -6799321705624383753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dmg_29
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 102
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab25003fc6f0d82c0800000000000000
+      internalID: -4427865898027560262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dmg_30
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 89
+        width: 31
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 218b545969bf2b5e0800000000000000
+      internalID: -1895175869001517038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dmg_31
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 99
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2da6096ef906d3c0800000000000000
+      internalID: -4335266603009135314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dmg_32
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 76
+        width: 47
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5614c7837872b0ad0800000000000000
+      internalID: -2735048886975708827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dmg_33
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 64
+        width: 51
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3978e7268583a070800000000000000
+      internalID: 8116477764693424444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dmg_34
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 85
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 130d0dd4d66e08e40800000000000000
+      internalID: 5656774489108697137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dmg_35
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 86
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec616126e43904510800000000000000
+      internalID: 1531385838168315598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dmg_36
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 80
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00797f3d07ad30690800000000000000
+      internalID: -7637020364962818304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dmg_37
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 79
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a9ae66e7a9ba2930800000000000000
+      internalID: 4119308939960428965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dmg_38
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 65
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f4636d1411490d30800000000000000
+      internalID: 4398118065752204530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dmg_39
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 14
+        width: 60
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89fe5fc8d1ce265a0800000000000000
+      internalID: -6529396898070663272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dmg_40
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 35
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12bb625371c35ba80800000000000000
+      internalID: -8451783055317222623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dmg_41
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 25
+        width: 31
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a3a37980984c2480800000000000000
+      internalID: -8922676976109247578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dmg_42
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 38
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11ba1cd8a6848afd0800000000000000
+      internalID: -2330533184682218735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dmg_43
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 25
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d3c8712a419a71a0800000000000000
+      internalID: -6810971738869283885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dmg_44
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 36
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03851ec63ba9f8ed0800000000000000
+      internalID: -2409537180203395024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dmg_45
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 12
+        width: 47
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11e19af27be502bb0800000000000000
+      internalID: -4962862648490648047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dmg_46
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 0
+        width: 51
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c104cf4d41813120800000000000000
+      internalID: 2391835046161154501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dmg_47
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 16
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70986c154dd8d6ce0800000000000000
+      internalID: -1410315165252548345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dmg_48
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 22
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3301e97736b15410800000000000000
+      internalID: 1464151703256367934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dmg_49
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 21
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89e9e270a865fa390800000000000000
+      internalID: -7804924478383808872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dmg_50
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 15
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43fe17dd0f4329d50800000000000000
+      internalID: 6742509801239080756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dmg_51
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 1
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2b42b8e7ddcbbef0800000000000000
+      internalID: -91253040225301717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Dmg_0: -8715083502711245780
+      Dmg_1: 6983038044538951761
+      Dmg_10: -6549780542099676699
+      Dmg_11: 580713180529800988
+      Dmg_12: 4697177126368311698
+      Dmg_13: -6090393123492917104
+      Dmg_14: -3522525753678546947
+      Dmg_15: 5866811183706171711
+      Dmg_16: 6782687922567240468
+      Dmg_17: -4054760290755857021
+      Dmg_18: -3750088760177979302
+      Dmg_19: 2482243401292958014
+      Dmg_2: 8460677757513319468
+      Dmg_20: 8841886074424331168
+      Dmg_21: -5628226210161588108
+      Dmg_22: 7775129413860241388
+      Dmg_23: -8815893935546048678
+      Dmg_24: -5669508451617317327
+      Dmg_25: -6176907239832248383
+      Dmg_26: 4437244453523533371
+      Dmg_27: -1595406596026750766
+      Dmg_28: -6799321705624383753
+      Dmg_29: -4427865898027560262
+      Dmg_3: 8939994805267563645
+      Dmg_30: -1895175869001517038
+      Dmg_31: -4335266603009135314
+      Dmg_32: -2735048886975708827
+      Dmg_33: 8116477764693424444
+      Dmg_34: 5656774489108697137
+      Dmg_35: 1531385838168315598
+      Dmg_36: -7637020364962818304
+      Dmg_37: 4119308939960428965
+      Dmg_38: 4398118065752204530
+      Dmg_39: -6529396898070663272
+      Dmg_4: 4135715945018276396
+      Dmg_40: -8451783055317222623
+      Dmg_41: -8922676976109247578
+      Dmg_42: -2330533184682218735
+      Dmg_43: -6810971738869283885
+      Dmg_44: -2409537180203395024
+      Dmg_45: -4962862648490648047
+      Dmg_46: 2391835046161154501
+      Dmg_47: -1410315165252548345
+      Dmg_48: 1464151703256367934
+      Dmg_49: -7804924478383808872
+      Dmg_5: 1728710457996777757
+      Dmg_50: 6742509801239080756
+      Dmg_51: -91253040225301717
+      Dmg_6: -8378223661584353612
+      Dmg_7: 7141793096451478947
+      Dmg_8: 5781619277977669947
+      Dmg_9: 6999477368760325883
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

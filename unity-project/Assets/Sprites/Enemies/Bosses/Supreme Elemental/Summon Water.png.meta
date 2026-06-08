@@ -1,0 +1,1157 @@
+fileFormatVersion: 2
+guid: e90a86062d058487698f63d7da5dc58e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7393651695271118615
+    second: SupremeElementalSummonWater_0
+  - first:
+      213: 3403042565477758646
+    second: SupremeElementalSummonWater_1
+  - first:
+      213: 1171445200121596764
+    second: SupremeElementalSummonWater_2
+  - first:
+      213: 3648085599862654350
+    second: SupremeElementalSummonWater_3
+  - first:
+      213: 8586163660608805231
+    second: SupremeElementalSummonWater_4
+  - first:
+      213: -1033176203162193591
+    second: SupremeElementalSummonWater_5
+  - first:
+      213: -5991393144170579443
+    second: SupremeElementalSummonWater_6
+  - first:
+      213: -6648404464916192101
+    second: SupremeElementalSummonWater_7
+  - first:
+      213: -6290525559147328116
+    second: SupremeElementalSummonWater_8
+  - first:
+      213: -8957765530716925282
+    second: SupremeElementalSummonWater_9
+  - first:
+      213: -6090024421252520012
+    second: SupremeElementalSummonWater_10
+  - first:
+      213: 1058380832092156227
+    second: SupremeElementalSummonWater_11
+  - first:
+      213: -5608734617087164291
+    second: SupremeElementalSummonWater_12
+  - first:
+      213: -1340347929347919934
+    second: SupremeElementalSummonWater_13
+  - first:
+      213: -820110159709996606
+    second: SupremeElementalSummonWater_14
+  - first:
+      213: 4603369667280040403
+    second: SupremeElementalSummonWater_15
+  - first:
+      213: 5930078516144973927
+    second: SupremeElementalSummonWater_16
+  - first:
+      213: 4216575752971382114
+    second: SupremeElementalSummonWater_17
+  - first:
+      213: -8666540581179177237
+    second: SupremeElementalSummonWater_18
+  - first:
+      213: -4097432870414248631
+    second: SupremeElementalSummonWater_19
+  - first:
+      213: -1791872706865229067
+    second: SupremeElementalSummonWater_20
+  - first:
+      213: -4501059310792029436
+    second: SupremeElementalSummonWater_21
+  - first:
+      213: -6202718333004418987
+    second: SupremeElementalSummonWater_22
+  - first:
+      213: 6085118629982383226
+    second: SupremeElementalSummonWater_23
+  - first:
+      213: 9221319863602516735
+    second: SupremeElementalSummonWater_24
+  - first:
+      213: 5006240836357816818
+    second: SupremeElementalSummonWater_25
+  - first:
+      213: 9087735977669592200
+    second: SupremeElementalSummonWater_26
+  - first:
+      213: 495424298948405765
+    second: SupremeElementalSummonWater_27
+  - first:
+      213: 4267246660444908441
+    second: SupremeElementalSummonWater_28
+  - first:
+      213: -7293006383611523166
+    second: SupremeElementalSummonWater_29
+  - first:
+      213: -6764346318499862529
+    second: SupremeElementalSummonWater_30
+  - first:
+      213: -1372807989364712836
+    second: SupremeElementalSummonWater_31
+  - first:
+      213: -6785806604571147634
+    second: SupremeElementalSummonWater_32
+  - first:
+      213: 5022281680603061856
+    second: SupremeElementalSummonWater_33
+  - first:
+      213: -2002821927569987649
+    second: SupremeElementalSummonWater_34
+  - first:
+      213: -8504471264923979553
+    second: SupremeElementalSummonWater_35
+  - first:
+      213: 7946138188006971930
+    second: SupremeElementalSummonWater_36
+  - first:
+      213: -2532203032966045905
+    second: SupremeElementalSummonWater_37
+  - first:
+      213: 7475173806287620772
+    second: SupremeElementalSummonWater_38
+  - first:
+      213: 5462558219801702692
+    second: SupremeElementalSummonWater_39
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SupremeElementalSummonWater_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 152
+        width: 36
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e87666d4f8746990800000000000000
+      internalID: -7393651695271118615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SupremeElementalSummonWater_1
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 154
+        width: 31
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b6f5d6ee290a3f20800000000000000
+      internalID: 3403042565477758646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SupremeElementalSummonWater_2
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 154
+        width: 35
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5b8513f33fc14010800000000000000
+      internalID: 1171445200121596764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SupremeElementalSummonWater_3
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 154
+        width: 36
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e850802568a90a230800000000000000
+      internalID: 3648085599862654350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SupremeElementalSummonWater_4
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 152
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6994fd9b5e282770800000000000000
+      internalID: 8586163660608805231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SupremeElementalSummonWater_5
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 133
+        width: 48
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 941712c97bb69a1f0800000000000000
+      internalID: -1033176203162193591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SupremeElementalSummonWater_6
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 176
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0a700cddab4adca0800000000000000
+      internalID: -5991393144170579443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SupremeElementalSummonWater_7
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 160
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b94ac892d5f1cb3a0800000000000000
+      internalID: -6648404464916192101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SupremeElementalSummonWater_8
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 146
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8d0284255093b8a0800000000000000
+      internalID: -6290525559147328116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SupremeElementalSummonWater_9
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 146
+        width: 16
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e921168c5bf9fa380800000000000000
+      internalID: -8957765530716925282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SupremeElementalSummonWater_10
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 104
+        width: 36
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b72ac12e03eb7ba0800000000000000
+      internalID: -6090024421252520012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SupremeElementalSummonWater_11
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 106
+        width: 31
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3417fed52cf10be00800000000000000
+      internalID: 1058380832092156227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SupremeElementalSummonWater_12
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 106
+        width: 35
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7045150595c922b0800000000000000
+      internalID: -5608734617087164291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SupremeElementalSummonWater_13
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 106
+        width: 36
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cf69c3e8a0266de0800000000000000
+      internalID: -1340347929347919934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SupremeElementalSummonWater_14
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 87
+        width: 67
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c9fbc5a7226e94f0800000000000000
+      internalID: -820110159709996606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SupremeElementalSummonWater_15
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 128
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d1f80c925472ef30800000000000000
+      internalID: 4603369667280040403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SupremeElementalSummonWater_16
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 104
+        width: 34
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7682ff4ddfedb4250800000000000000
+      internalID: 5930078516144973927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SupremeElementalSummonWater_17
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 112
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26d62649e49448a30800000000000000
+      internalID: 4216575752971382114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SupremeElementalSummonWater_18
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 98
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be6ce4b32434ab780800000000000000
+      internalID: -8666540581179177237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SupremeElementalSummonWater_19
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 98
+        width: 16
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94513f3738ef227c0800000000000000
+      internalID: -4097432870414248631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SupremeElementalSummonWater_20
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 56
+        width: 36
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f29490544df127e0800000000000000
+      internalID: -1791872706865229067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SupremeElementalSummonWater_21
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 58
+        width: 31
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40bc64b87660981c0800000000000000
+      internalID: -4501059310792029436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SupremeElementalSummonWater_22
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 58
+        width: 32
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 550f77f1a848be9a0800000000000000
+      internalID: -6202718333004418987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SupremeElementalSummonWater_23
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 58
+        width: 36
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7c2634572fa27450800000000000000
+      internalID: 6085118629982383226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SupremeElementalSummonWater_24
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 82
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff2184e2f85b8ff70800000000000000
+      internalID: 9221319863602516735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SupremeElementalSummonWater_25
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 58
+        width: 38
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f18927348db97540800000000000000
+      internalID: 5006240836357816818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SupremeElementalSummonWater_26
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 56
+        width: 34
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 884888909bf1e1e70800000000000000
+      internalID: 9087735977669592200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SupremeElementalSummonWater_27
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 80
+        width: 25
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50aaae766c910e600800000000000000
+      internalID: 495424298948405765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SupremeElementalSummonWater_28
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 60
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99b6ac49a3e483b30800000000000000
+      internalID: 4267246660444908441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SupremeElementalSummonWater_29
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 64
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2afcd2885590aca90800000000000000
+      internalID: -7293006383611523166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SupremeElementalSummonWater_30
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 8
+        width: 36
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff72814ccd63022a0800000000000000
+      internalID: -6764346318499862529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SupremeElementalSummonWater_31
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 10
+        width: 31
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7a1919386ec2fce0800000000000000
+      internalID: -1372807989364712836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SupremeElementalSummonWater_32
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 10
+        width: 32
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e82890c88d8f3d1a0800000000000000
+      internalID: -6785806604571147634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SupremeElementalSummonWater_33
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 34
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06e1c4e449ab2b540800000000000000
+      internalID: 5022281680603061856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SupremeElementalSummonWater_34
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 10
+        width: 36
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb7e3da711c8434e0800000000000000
+      internalID: -2002821927569987649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SupremeElementalSummonWater_35
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 10
+        width: 38
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd070b3717c0af980800000000000000
+      internalID: -8504471264923979553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SupremeElementalSummonWater_36
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 32
+        width: 21
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1a5250e49a564e60800000000000000
+      internalID: 7946138188006971930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SupremeElementalSummonWater_37
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 8
+        width: 34
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2f54e8f1cecbdcd0800000000000000
+      internalID: -2532203032966045905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SupremeElementalSummonWater_38
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 12
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4aa041eb8f62db760800000000000000
+      internalID: 7475173806287620772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SupremeElementalSummonWater_39
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 16
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 421bb2052c7eecb40800000000000000
+      internalID: 5462558219801702692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      SupremeElementalSummonWater_0: -7393651695271118615
+      SupremeElementalSummonWater_1: 3403042565477758646
+      SupremeElementalSummonWater_10: -6090024421252520012
+      SupremeElementalSummonWater_11: 1058380832092156227
+      SupremeElementalSummonWater_12: -5608734617087164291
+      SupremeElementalSummonWater_13: -1340347929347919934
+      SupremeElementalSummonWater_14: -820110159709996606
+      SupremeElementalSummonWater_15: 4603369667280040403
+      SupremeElementalSummonWater_16: 5930078516144973927
+      SupremeElementalSummonWater_17: 4216575752971382114
+      SupremeElementalSummonWater_18: -8666540581179177237
+      SupremeElementalSummonWater_19: -4097432870414248631
+      SupremeElementalSummonWater_2: 1171445200121596764
+      SupremeElementalSummonWater_20: -1791872706865229067
+      SupremeElementalSummonWater_21: -4501059310792029436
+      SupremeElementalSummonWater_22: -6202718333004418987
+      SupremeElementalSummonWater_23: 6085118629982383226
+      SupremeElementalSummonWater_24: 9221319863602516735
+      SupremeElementalSummonWater_25: 5006240836357816818
+      SupremeElementalSummonWater_26: 9087735977669592200
+      SupremeElementalSummonWater_27: 495424298948405765
+      SupremeElementalSummonWater_28: 4267246660444908441
+      SupremeElementalSummonWater_29: -7293006383611523166
+      SupremeElementalSummonWater_3: 3648085599862654350
+      SupremeElementalSummonWater_30: -6764346318499862529
+      SupremeElementalSummonWater_31: -1372807989364712836
+      SupremeElementalSummonWater_32: -6785806604571147634
+      SupremeElementalSummonWater_33: 5022281680603061856
+      SupremeElementalSummonWater_34: -2002821927569987649
+      SupremeElementalSummonWater_35: -8504471264923979553
+      SupremeElementalSummonWater_36: 7946138188006971930
+      SupremeElementalSummonWater_37: -2532203032966045905
+      SupremeElementalSummonWater_38: 7475173806287620772
+      SupremeElementalSummonWater_39: 5462558219801702692
+      SupremeElementalSummonWater_4: 8586163660608805231
+      SupremeElementalSummonWater_5: -1033176203162193591
+      SupremeElementalSummonWater_6: -5991393144170579443
+      SupremeElementalSummonWater_7: -6648404464916192101
+      SupremeElementalSummonWater_8: -6290525559147328116
+      SupremeElementalSummonWater_9: -8957765530716925282
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

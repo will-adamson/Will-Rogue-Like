@@ -1,0 +1,1781 @@
+fileFormatVersion: 2
+guid: 67f2d6ccb219c4a34b1433862e02f06b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4067222145059291496
+    second: SkinkIdle_0
+  - first:
+      213: 8492434079473817521
+    second: SkinkIdle_1
+  - first:
+      213: -2257242468065429521
+    second: SkinkIdle_2
+  - first:
+      213: -7357595053126460023
+    second: SkinkIdle_3
+  - first:
+      213: -692636543551734230
+    second: SkinkIdle_4
+  - first:
+      213: -5613688265896651048
+    second: SkinkIdle_5
+  - first:
+      213: 969771783224077216
+    second: SkinkIdle_6
+  - first:
+      213: -284379728159438600
+    second: SkinkIdle_7
+  - first:
+      213: -4749668556594250480
+    second: SkinkIdle_8
+  - first:
+      213: 1356982308782587201
+    second: SkinkIdle_9
+  - first:
+      213: -8947770976344472300
+    second: SkinkIdle_10
+  - first:
+      213: -7083184348765761622
+    second: SkinkIdle_11
+  - first:
+      213: -8725269492589942858
+    second: SkinkIdle_12
+  - first:
+      213: 3066354367138204463
+    second: SkinkIdle_13
+  - first:
+      213: 7521302470122765831
+    second: SkinkIdle_14
+  - first:
+      213: -3947039959570859814
+    second: SkinkIdle_15
+  - first:
+      213: -1735526844947511941
+    second: SkinkIdle_16
+  - first:
+      213: -8787318063068707688
+    second: SkinkIdle_17
+  - first:
+      213: 4811591226089948447
+    second: SkinkIdle_18
+  - first:
+      213: -3871975807903591718
+    second: SkinkIdle_19
+  - first:
+      213: -1269790524655414579
+    second: SkinkIdle_20
+  - first:
+      213: -2833995062262036973
+    second: SkinkIdle_21
+  - first:
+      213: 4586363715547049369
+    second: SkinkIdle_22
+  - first:
+      213: 5072349537563826628
+    second: SkinkIdle_23
+  - first:
+      213: 8083484375772950316
+    second: SkinkIdle_24
+  - first:
+      213: -1870326293771855906
+    second: SkinkIdle_25
+  - first:
+      213: -2384677253601536670
+    second: SkinkIdle_26
+  - first:
+      213: 2890853210960987652
+    second: SkinkIdle_27
+  - first:
+      213: 5460226854833214457
+    second: SkinkIdle_28
+  - first:
+      213: 37404331198824453
+    second: SkinkIdle_29
+  - first:
+      213: 405658652706872787
+    second: SkinkIdle_30
+  - first:
+      213: 426711729418112835
+    second: SkinkIdle_31
+  - first:
+      213: -3162956880425995754
+    second: SkinkIdle_32
+  - first:
+      213: -7202477355115496378
+    second: SkinkIdle_33
+  - first:
+      213: 3048138136534422416
+    second: SkinkIdle_34
+  - first:
+      213: 7334012579068820550
+    second: SkinkIdle_35
+  - first:
+      213: -4166434472393910745
+    second: SkinkIdle_36
+  - first:
+      213: 4662675550070167461
+    second: SkinkIdle_37
+  - first:
+      213: -999595377751866467
+    second: SkinkIdle_38
+  - first:
+      213: 8873168171002763896
+    second: SkinkIdle_39
+  - first:
+      213: 1488748176868062259
+    second: SkinkIdle_40
+  - first:
+      213: 7351854846828770254
+    second: SkinkIdle_41
+  - first:
+      213: 3282393339761787505
+    second: SkinkIdle_42
+  - first:
+      213: 3050500432456275945
+    second: SkinkIdle_43
+  - first:
+      213: -4320291380525019895
+    second: SkinkIdle_44
+  - first:
+      213: 691591085223444072
+    second: SkinkIdle_45
+  - first:
+      213: -757000446331598393
+    second: SkinkIdle_46
+  - first:
+      213: 1139358956647894277
+    second: SkinkIdle_47
+  - first:
+      213: -5059916250735177445
+    second: SkinkIdle_48
+  - first:
+      213: 2384394418150503723
+    second: SkinkIdle_49
+  - first:
+      213: -3518459815665993569
+    second: SkinkIdle_50
+  - first:
+      213: 7220793881317077982
+    second: SkinkIdle_51
+  - first:
+      213: 6934017877148617643
+    second: SkinkIdle_52
+  - first:
+      213: -1451204843249283180
+    second: SkinkIdle_53
+  - first:
+      213: 150170619764240976
+    second: SkinkIdle_54
+  - first:
+      213: 1956668370175676475
+    second: SkinkIdle_55
+  - first:
+      213: -7524669307264294176
+    second: SkinkIdle_56
+  - first:
+      213: -3095758317500829410
+    second: SkinkIdle_57
+  - first:
+      213: -480782844728927603
+    second: SkinkIdle_58
+  - first:
+      213: -5197713228736197944
+    second: SkinkIdle_59
+  - first:
+      213: -7080657125435331796
+    second: SkinkIdle_60
+  - first:
+      213: -3626102477822156828
+    second: SkinkIdle_61
+  - first:
+      213: 8395248110863397476
+    second: SkinkIdle_62
+  - first:
+      213: 6365434616744377725
+    second: SkinkIdle_63
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SkinkIdle_0
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 108
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8618cdaedfca17830800000000000000
+      internalID: 4067222145059291496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkinkIdle_1
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 108
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b75579eccf2bd570800000000000000
+      internalID: 8492434079473817521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkinkIdle_2
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 108
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe7b8074fe9aca0e0800000000000000
+      internalID: -2257242468065429521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkinkIdle_3
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 108
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98dd939084294e990800000000000000
+      internalID: -7357595053126460023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkinkIdle_4
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 108
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2ef42fbbb24366f0800000000000000
+      internalID: -692636543551734230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkinkIdle_5
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 108
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d69377c34c2812b0800000000000000
+      internalID: -5613688265896651048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkinkIdle_6
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 108
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0aba44c7c42557d00800000000000000
+      internalID: 969771783224077216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkinkIdle_7
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 108
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f80cb9d42ead0cf0800000000000000
+      internalID: -284379728159438600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkinkIdle_8
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 108
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01d7b53dc99c51eb0800000000000000
+      internalID: -4749668556594250480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkinkIdle_9
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 108
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14db9716838f4d210800000000000000
+      internalID: 1356982308782587201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkinkIdle_10
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 108
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 415007f44b123d380800000000000000
+      internalID: -8947770976344472300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkinkIdle_11
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 108
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aafc535fc5973bd90800000000000000
+      internalID: -7083184348765761622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkinkIdle_12
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 108
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b7af9cff9d99e680800000000000000
+      internalID: -8725269492589942858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkinkIdle_13
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 108
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2b8db8fc01ed8a20800000000000000
+      internalID: 3066354367138204463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkinkIdle_14
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 108
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70e7feb3fb8016860800000000000000
+      internalID: 7521302470122765831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkinkIdle_15
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 108
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad8b18fa11c4939c0800000000000000
+      internalID: -3947039959570859814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkinkIdle_16
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 76
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b75cfbc978b2ae7e0800000000000000
+      internalID: -1735526844947511941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkinkIdle_17
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 76
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8948a6267cc2d0680800000000000000
+      internalID: -8787318063068707688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkinkIdle_18
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 76
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f154a7b2ab436c240800000000000000
+      internalID: 4811591226089948447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkinkIdle_19
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 76
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad2100f648af34ac0800000000000000
+      internalID: -3871975807903591718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkinkIdle_20
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 76
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc2d1c6de3cc06ee0800000000000000
+      internalID: -1269790524655414579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkinkIdle_21
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 76
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31609aa8180aba8d0800000000000000
+      internalID: -2833995062262036973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkinkIdle_22
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 76
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99d2cebef7906af30800000000000000
+      internalID: 4586363715547049369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkinkIdle_23
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 76
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c9db1ba70b946640800000000000000
+      internalID: 5072349537563826628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkinkIdle_24
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 76
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2fed5d263e4e2070800000000000000
+      internalID: 8083484375772950316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkinkIdle_25
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 76
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed7d7ad25244b06e0800000000000000
+      internalID: -1870326293771855906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkinkIdle_26
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 76
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26550232cace7eed0800000000000000
+      internalID: -2384677253601536670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkinkIdle_27
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 76
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4068021ddaf5e1820800000000000000
+      internalID: 2890853210960987652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkinkIdle_28
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 76
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f3d16b156f96cb40800000000000000
+      internalID: 5460226854833214457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkinkIdle_29
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 76
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 500ca228a03e48000800000000000000
+      internalID: 37404331198824453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkinkIdle_30
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 76
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3dd18a6356031a500800000000000000
+      internalID: 405658652706872787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkinkIdle_31
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 76
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34f857d9e0cfbe500800000000000000
+      internalID: 426711729418112835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkinkIdle_32
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 44
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 612b45ea97bea14d0800000000000000
+      internalID: -3162956880425995754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkinkIdle_33
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 44
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64cbb818109ab0c90800000000000000
+      internalID: -7202477355115496378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkinkIdle_34
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 44
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09394764c792d4a20800000000000000
+      internalID: 3048138136534422416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkinkIdle_35
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 44
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64cb4a95595a7c560800000000000000
+      internalID: 7334012579068820550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkinkIdle_36
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 44
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 726d40d0ce9dd26c0800000000000000
+      internalID: -4166434472393910745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkinkIdle_37
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 44
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a7d4d875b625b040800000000000000
+      internalID: 4662675550070167461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkinkIdle_38
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 44
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d934afdcc49b022f0800000000000000
+      internalID: -999595377751866467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkinkIdle_39
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 44
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87a1ce08073d32b70800000000000000
+      internalID: 8873168171002763896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkinkIdle_40
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 44
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3343b32449819a410800000000000000
+      internalID: 1488748176868062259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkinkIdle_41
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 44
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec376790809070660800000000000000
+      internalID: 7351854846828770254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkinkIdle_42
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 44
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1720c950a576d8d20800000000000000
+      internalID: 3282393339761787505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkinkIdle_43
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 44
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e75bb72bfd855a20800000000000000
+      internalID: 3050500432456275945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkinkIdle_44
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 44
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90dcf9911ed3b04c0800000000000000
+      internalID: -4320291380525019895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkinkIdle_45
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 44
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86ef1948d66099900800000000000000
+      internalID: 691591085223444072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkinkIdle_46
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 44
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c9c795da189e75f0800000000000000
+      internalID: -757000446331598393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkinkIdle_47
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 44
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50d48aa3fe0dfcf00800000000000000
+      internalID: 1139358956647894277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkinkIdle_48
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 12
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1114b18af097c9b0800000000000000
+      internalID: -5059916250735177445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkinkIdle_49
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 12
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b25f84a1712171120800000000000000
+      internalID: 2384394418150503723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkinkIdle_50
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 12
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f98fdb2707beb2fc0800000000000000
+      internalID: -3518459815665993569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkinkIdle_51
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 12
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed3f73417c9653460800000000000000
+      internalID: 7220793881317077982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkinkIdle_52
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 12
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: babc6a175849a3060800000000000000
+      internalID: 6934017877148617643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkinkIdle_53
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 12
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49fccc542e84cdbe0800000000000000
+      internalID: -1451204843249283180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkinkIdle_54
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 12
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0527fbe0263851200800000000000000
+      internalID: 150170619764240976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkinkIdle_55
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 12
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b30509b048b772b10800000000000000
+      internalID: 1956668370175676475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkinkIdle_56
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 12
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e22a38e121039790800000000000000
+      internalID: -7524669307264294176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkinkIdle_57
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 12
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e11f6e65638a905d0800000000000000
+      internalID: -3095758317500829410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkinkIdle_58
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 12
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8a94ddcc8ae359f0800000000000000
+      internalID: -480782844728927603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkinkIdle_59
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 12
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ca84dc6b530ed7b0800000000000000
+      internalID: -5197713228736197944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkinkIdle_60
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 12
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2ba61efbd37cbd90800000000000000
+      internalID: -7080657125435331796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkinkIdle_61
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 12
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ef1f32220f7dadc0800000000000000
+      internalID: -3626102477822156828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkinkIdle_62
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 12
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46238494da9e18470800000000000000
+      internalID: 8395248110863397476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkinkIdle_63
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 12
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7df504fe01965850800000000000000
+      internalID: 6365434616744377725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      SkinkIdle_0: 4067222145059291496
+      SkinkIdle_1: 8492434079473817521
+      SkinkIdle_10: -8947770976344472300
+      SkinkIdle_11: -7083184348765761622
+      SkinkIdle_12: -8725269492589942858
+      SkinkIdle_13: 3066354367138204463
+      SkinkIdle_14: 7521302470122765831
+      SkinkIdle_15: -3947039959570859814
+      SkinkIdle_16: -1735526844947511941
+      SkinkIdle_17: -8787318063068707688
+      SkinkIdle_18: 4811591226089948447
+      SkinkIdle_19: -3871975807903591718
+      SkinkIdle_2: -2257242468065429521
+      SkinkIdle_20: -1269790524655414579
+      SkinkIdle_21: -2833995062262036973
+      SkinkIdle_22: 4586363715547049369
+      SkinkIdle_23: 5072349537563826628
+      SkinkIdle_24: 8083484375772950316
+      SkinkIdle_25: -1870326293771855906
+      SkinkIdle_26: -2384677253601536670
+      SkinkIdle_27: 2890853210960987652
+      SkinkIdle_28: 5460226854833214457
+      SkinkIdle_29: 37404331198824453
+      SkinkIdle_3: -7357595053126460023
+      SkinkIdle_30: 405658652706872787
+      SkinkIdle_31: 426711729418112835
+      SkinkIdle_32: -3162956880425995754
+      SkinkIdle_33: -7202477355115496378
+      SkinkIdle_34: 3048138136534422416
+      SkinkIdle_35: 7334012579068820550
+      SkinkIdle_36: -4166434472393910745
+      SkinkIdle_37: 4662675550070167461
+      SkinkIdle_38: -999595377751866467
+      SkinkIdle_39: 8873168171002763896
+      SkinkIdle_4: -692636543551734230
+      SkinkIdle_40: 1488748176868062259
+      SkinkIdle_41: 7351854846828770254
+      SkinkIdle_42: 3282393339761787505
+      SkinkIdle_43: 3050500432456275945
+      SkinkIdle_44: -4320291380525019895
+      SkinkIdle_45: 691591085223444072
+      SkinkIdle_46: -757000446331598393
+      SkinkIdle_47: 1139358956647894277
+      SkinkIdle_48: -5059916250735177445
+      SkinkIdle_49: 2384394418150503723
+      SkinkIdle_5: -5613688265896651048
+      SkinkIdle_50: -3518459815665993569
+      SkinkIdle_51: 7220793881317077982
+      SkinkIdle_52: 6934017877148617643
+      SkinkIdle_53: -1451204843249283180
+      SkinkIdle_54: 150170619764240976
+      SkinkIdle_55: 1956668370175676475
+      SkinkIdle_56: -7524669307264294176
+      SkinkIdle_57: -3095758317500829410
+      SkinkIdle_58: -480782844728927603
+      SkinkIdle_59: -5197713228736197944
+      SkinkIdle_6: 969771783224077216
+      SkinkIdle_60: -7080657125435331796
+      SkinkIdle_61: -3626102477822156828
+      SkinkIdle_62: 8395248110863397476
+      SkinkIdle_63: 6365434616744377725
+      SkinkIdle_7: -284379728159438600
+      SkinkIdle_8: -4749668556594250480
+      SkinkIdle_9: 1356982308782587201
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

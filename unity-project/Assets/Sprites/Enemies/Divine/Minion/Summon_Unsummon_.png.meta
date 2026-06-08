@@ -1,0 +1,871 @@
+fileFormatVersion: 2
+guid: 475eba156cd084f4e997b858b9489673
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2444915138095907989
+    second: Summon_Unsummon__0
+  - first:
+      213: -2438875736876709471
+    second: Summon_Unsummon__1
+  - first:
+      213: 6299418061408493177
+    second: Summon_Unsummon__2
+  - first:
+      213: 7864651918351450525
+    second: Summon_Unsummon__3
+  - first:
+      213: 2974650952514448281
+    second: Summon_Unsummon__4
+  - first:
+      213: -888524782928939888
+    second: Summon_Unsummon__5
+  - first:
+      213: -5684509577544665888
+    second: Summon_Unsummon__6
+  - first:
+      213: -1467356730256824174
+    second: Summon_Unsummon__7
+  - first:
+      213: 52751771629735749
+    second: Summon_Unsummon__8
+  - first:
+      213: -4463033278380983397
+    second: Summon_Unsummon__9
+  - first:
+      213: 6159922093030500574
+    second: Summon_Unsummon__10
+  - first:
+      213: -4073874819946922658
+    second: Summon_Unsummon__11
+  - first:
+      213: 5464941004960149253
+    second: Summon_Unsummon__12
+  - first:
+      213: 5542898762135197025
+    second: Summon_Unsummon__13
+  - first:
+      213: -7633262000278192348
+    second: Summon_Unsummon__14
+  - first:
+      213: 2684666373866234666
+    second: Summon_Unsummon__15
+  - first:
+      213: -8340294060015246676
+    second: Summon_Unsummon__16
+  - first:
+      213: -8818345689460018376
+    second: Summon_Unsummon__17
+  - first:
+      213: -8049733301823063417
+    second: Summon_Unsummon__18
+  - first:
+      213: 7584237838053185589
+    second: Summon_Unsummon__19
+  - first:
+      213: -4775837091658769530
+    second: Summon_Unsummon__20
+  - first:
+      213: -8933870003478550655
+    second: Summon_Unsummon__21
+  - first:
+      213: 8374073095703655672
+    second: Summon_Unsummon__22
+  - first:
+      213: -3305355165000616477
+    second: Summon_Unsummon__23
+  - first:
+      213: -3346579921847528940
+    second: Summon_Unsummon__24
+  - first:
+      213: 4716362296363912074
+    second: Summon_Unsummon__25
+  - first:
+      213: 4675065222778382500
+    second: Summon_Unsummon__26
+  - first:
+      213: 1972228697224935264
+    second: Summon_Unsummon__27
+  - first:
+      213: 718885532858150982
+    second: Summon_Unsummon__28
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Summon_Unsummon__0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 50
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6b71d7b2aae11ed0800000000000000
+      internalID: -2444915138095907989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Summon_Unsummon__1
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 7
+        width: 69
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a90524607f572ed0800000000000000
+      internalID: -2438875736876709471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Summon_Unsummon__2
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 48
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97edee1e9570c6750800000000000000
+      internalID: 6299418061408493177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Summon_Unsummon__3
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 49
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d91ce63404bd42d60800000000000000
+      internalID: 7864651918351450525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Summon_Unsummon__4
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 47
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99ba66be745184920800000000000000
+      internalID: 2974650952514448281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Summon_Unsummon__5
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 47
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 094b363ea635ba3f0800000000000000
+      internalID: -888524782928939888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Summon_Unsummon__6
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 47
+        width: 29
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e4f42438a09c11b0800000000000000
+      internalID: -5684509577544665888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Summon_Unsummon__7
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 47
+        width: 23
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 298634604d6e2abe0800000000000000
+      internalID: -1467356730256824174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Summon_Unsummon__8
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 47
+        width: 19
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54f4341f4796bb000800000000000000
+      internalID: 52751771629735749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Summon_Unsummon__9
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 47
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9bba5521ee1012c0800000000000000
+      internalID: -4463033278380983397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Summon_Unsummon__10
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 54
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed8e927c1807c7550800000000000000
+      internalID: 6159922093030500574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Summon_Unsummon__11
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 47
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5db7a18f60b677c0800000000000000
+      internalID: -4073874819946922658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Summon_Unsummon__12
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 55
+        width: 9
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50fad17b3ee57db40800000000000000
+      internalID: 5464941004960149253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Summon_Unsummon__13
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 47
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 165550f7e055cec40800000000000000
+      internalID: 5542898762135197025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Summon_Unsummon__14
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 54
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42f3eeb47a4311690800000000000000
+      internalID: -7633262000278192348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Summon_Unsummon__15
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 47
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a23abb2d7d9d14520800000000000000
+      internalID: 2684666373866234666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Summon_Unsummon__16
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 12
+        width: 50
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca2ad7ebdb2514c80800000000000000
+      internalID: -8340294060015246676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Summon_Unsummon__17
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 7
+        width: 42
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83373292151fe9580800000000000000
+      internalID: -8818345689460018376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Summon_Unsummon__18
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 9
+        width: 9
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78a3438163a994090800000000000000
+      internalID: -8049733301823063417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Summon_Unsummon__19
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 7
+        width: 21
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5389c357120a04960800000000000000
+      internalID: 7584237838053185589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Summon_Unsummon__20
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 14
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68b5b86f771d8bdb0800000000000000
+      internalID: -4775837091658769530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Summon_Unsummon__21
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 7
+        width: 25
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 187a425c094840480800000000000000
+      internalID: -8933870003478550655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Summon_Unsummon__22
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 14
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f47290ec1fa63470800000000000000
+      internalID: 8374073095703655672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Summon_Unsummon__23
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 7
+        width: 31
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e5b2ad6df40122d0800000000000000
+      internalID: -3305355165000616477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Summon_Unsummon__24
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 7
+        width: 29
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 412d2d1ca4f8e81d0800000000000000
+      internalID: -3346579921847528940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Summon_Unsummon__25
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 7
+        width: 26
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8b01da2582e37140800000000000000
+      internalID: 4716362296363912074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Summon_Unsummon__26
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 7
+        width: 26
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a8ec71fc0b21e040800000000000000
+      internalID: 4675065222778382500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Summon_Unsummon__27
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 10
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0677ce10d83ce5b10800000000000000
+      internalID: 1972228697224935264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Summon_Unsummon__28
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 11
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6407d24559ef9f900800000000000000
+      internalID: 718885532858150982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Summon_Unsummon__0: -2444915138095907989
+      Summon_Unsummon__1: -2438875736876709471
+      Summon_Unsummon__10: 6159922093030500574
+      Summon_Unsummon__11: -4073874819946922658
+      Summon_Unsummon__12: 5464941004960149253
+      Summon_Unsummon__13: 5542898762135197025
+      Summon_Unsummon__14: -7633262000278192348
+      Summon_Unsummon__15: 2684666373866234666
+      Summon_Unsummon__16: -8340294060015246676
+      Summon_Unsummon__17: -8818345689460018376
+      Summon_Unsummon__18: -8049733301823063417
+      Summon_Unsummon__19: 7584237838053185589
+      Summon_Unsummon__2: 6299418061408493177
+      Summon_Unsummon__20: -4775837091658769530
+      Summon_Unsummon__21: -8933870003478550655
+      Summon_Unsummon__22: 8374073095703655672
+      Summon_Unsummon__23: -3305355165000616477
+      Summon_Unsummon__24: -3346579921847528940
+      Summon_Unsummon__25: 4716362296363912074
+      Summon_Unsummon__26: 4675065222778382500
+      Summon_Unsummon__27: 1972228697224935264
+      Summon_Unsummon__28: 718885532858150982
+      Summon_Unsummon__3: 7864651918351450525
+      Summon_Unsummon__4: 2974650952514448281
+      Summon_Unsummon__5: -888524782928939888
+      Summon_Unsummon__6: -5684509577544665888
+      Summon_Unsummon__7: -1467356730256824174
+      Summon_Unsummon__8: 52751771629735749
+      Summon_Unsummon__9: -4463033278380983397
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

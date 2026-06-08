@@ -1,0 +1,1001 @@
+fileFormatVersion: 2
+guid: 0447324c6fe17480fbf7d4150d4ad6e1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7760826873063941758
+    second: Spell__Diagonal_Only_Effect_0
+  - first:
+      213: -2010514956732396936
+    second: Spell__Diagonal_Only_Effect_1
+  - first:
+      213: 2621768711055103363
+    second: Spell__Diagonal_Only_Effect_2
+  - first:
+      213: 9159972329204056686
+    second: Spell__Diagonal_Only_Effect_3
+  - first:
+      213: -2086371686752422353
+    second: Spell__Diagonal_Only_Effect_4
+  - first:
+      213: -3732537663485840605
+    second: Spell__Diagonal_Only_Effect_5
+  - first:
+      213: 3836091169395390644
+    second: Spell__Diagonal_Only_Effect_6
+  - first:
+      213: 175558100081074686
+    second: Spell__Diagonal_Only_Effect_7
+  - first:
+      213: 6650534833766500761
+    second: Spell__Diagonal_Only_Effect_8
+  - first:
+      213: 6513812414609089691
+    second: Spell__Diagonal_Only_Effect_9
+  - first:
+      213: -4187875823676515538
+    second: Spell__Diagonal_Only_Effect_10
+  - first:
+      213: 1010913945651467949
+    second: Spell__Diagonal_Only_Effect_11
+  - first:
+      213: -1423384999269589798
+    second: Spell__Diagonal_Only_Effect_12
+  - first:
+      213: -5935177100944617051
+    second: Spell__Diagonal_Only_Effect_13
+  - first:
+      213: -7359436107119241306
+    second: Spell__Diagonal_Only_Effect_14
+  - first:
+      213: 301448160433932335
+    second: Spell__Diagonal_Only_Effect_15
+  - first:
+      213: -4076663695027726927
+    second: Spell__Diagonal_Only_Effect_16
+  - first:
+      213: -5681749679341115237
+    second: Spell__Diagonal_Only_Effect_17
+  - first:
+      213: -659997238513056232
+    second: Spell__Diagonal_Only_Effect_18
+  - first:
+      213: 5839828390751893531
+    second: Spell__Diagonal_Only_Effect_19
+  - first:
+      213: -2952669798320266203
+    second: Spell__Diagonal_Only_Effect_20
+  - first:
+      213: 7782642475620666822
+    second: Spell__Diagonal_Only_Effect_21
+  - first:
+      213: 4191842170067369809
+    second: Spell__Diagonal_Only_Effect_22
+  - first:
+      213: -4047631778679427647
+    second: Spell__Diagonal_Only_Effect_23
+  - first:
+      213: -2905357497128059651
+    second: Spell__Diagonal_Only_Effect_24
+  - first:
+      213: 8458536168143918870
+    second: Spell__Diagonal_Only_Effect_25
+  - first:
+      213: 4625357641730663510
+    second: Spell__Diagonal_Only_Effect_26
+  - first:
+      213: 5339359539105695790
+    second: Spell__Diagonal_Only_Effect_27
+  - first:
+      213: -8406915551610250828
+    second: Spell__Diagonal_Only_Effect_28
+  - first:
+      213: -4234676453631847865
+    second: Spell__Diagonal_Only_Effect_29
+  - first:
+      213: 7847822352343370220
+    second: Spell__Diagonal_Only_Effect_30
+  - first:
+      213: 4657223272769063114
+    second: Spell__Diagonal_Only_Effect_31
+  - first:
+      213: -8311843316630466054
+    second: Spell__Diagonal_Only_Effect_32
+  - first:
+      213: 414227639247755358
+    second: Spell__Diagonal_Only_Effect_33
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Spell__Diagonal_Only_Effect_0
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 121
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7628442ceef3bb60800000000000000
+      internalID: 7760826873063941758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spell__Diagonal_Only_Effect_1
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 117
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87a0b5c8c473914e0800000000000000
+      internalID: -2010514956732396936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spell__Diagonal_Only_Effect_2
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 113
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3855ca180c4626420800000000000000
+      internalID: 2621768711055103363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spell__Diagonal_Only_Effect_3
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 108
+        width: 9
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e628d924d42ce1f70800000000000000
+      internalID: 9159972329204056686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spell__Diagonal_Only_Effect_4
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 111
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2670b54108bb03e0800000000000000
+      internalID: -2086371686752422353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spell__Diagonal_Only_Effect_5
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 112
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 323f82955cc533cc0800000000000000
+      internalID: -3732537663485840605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spell__Diagonal_Only_Effect_6
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 103
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b833d518988c3530800000000000000
+      internalID: 3836091169395390644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spell__Diagonal_Only_Effect_7
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 98
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef166c07925bf6200800000000000000
+      internalID: 175558100081074686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spell__Diagonal_Only_Effect_8
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 98
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 999830df1327b4c50800000000000000
+      internalID: 6650534833766500761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spell__Diagonal_Only_Effect_9
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 89
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b94ed4221e5b56a50800000000000000
+      internalID: 6513812414609089691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spell__Diagonal_Only_Effect_10
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 85
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2b905e602da1e5c0800000000000000
+      internalID: -4187875823676515538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spell__Diagonal_Only_Effect_11
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 81
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da65b05a0ec770e00800000000000000
+      internalID: 1010913945651467949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spell__Diagonal_Only_Effect_12
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 76
+        width: 9
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adc9ae372ee1f3ce0800000000000000
+      internalID: -1423384999269589798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spell__Diagonal_Only_Effect_13
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 79
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a1d9236fd302ada0800000000000000
+      internalID: -5935177100944617051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spell__Diagonal_Only_Effect_14
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 71
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a759ff3ad70ed990800000000000000
+      internalID: -7359436107119241306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spell__Diagonal_Only_Effect_15
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 80
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f280cd83185fe2400800000000000000
+      internalID: 301448160433932335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spell__Diagonal_Only_Effect_16
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 66
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b5142de7f7cc67c0800000000000000
+      internalID: -4076663695027726927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spell__Diagonal_Only_Effect_17
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 66
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b98ee2415ce5621b0800000000000000
+      internalID: -5681749679341115237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spell__Diagonal_Only_Effect_18
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 57
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 816c0b5220837d6f0800000000000000
+      internalID: -659997238513056232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spell__Diagonal_Only_Effect_19
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 53
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b18f10c0bfc3b0150800000000000000
+      internalID: 5839828390751893531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spell__Diagonal_Only_Effect_20
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 49
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 524a81c56720607d0800000000000000
+      internalID: -2952669798320266203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spell__Diagonal_Only_Effect_21
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 44
+        width: 9
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cd8c3de810810c60800000000000000
+      internalID: 7782642475620666822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spell__Diagonal_Only_Effect_22
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 47
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15f3e5d8e3a6c2a30800000000000000
+      internalID: 4191842170067369809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spell__Diagonal_Only_Effect_23
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 40
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cdea32b75ce3d7c0800000000000000
+      internalID: -4047631778679427647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spell__Diagonal_Only_Effect_24
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 52
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfcf926efb81ea7d0800000000000000
+      internalID: -2905357497128059651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spell__Diagonal_Only_Effect_25
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 54
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 617130664d1c26570800000000000000
+      internalID: 8458536168143918870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spell__Diagonal_Only_Effect_26
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 25
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 654ae7ad442903040800000000000000
+      internalID: 4625357641730663510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spell__Diagonal_Only_Effect_27
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 21
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e280d703637391a40800000000000000
+      internalID: 5339359539105695790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spell__Diagonal_Only_Effect_28
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 17
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b95099f8d2a45b80800000000000000
+      internalID: -8406915551610250828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spell__Diagonal_Only_Effect_29
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 12
+        width: 9
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7421092a3386b35c0800000000000000
+      internalID: -4234676453631847865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spell__Diagonal_Only_Effect_30
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 15
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce90cc399d019ec60800000000000000
+      internalID: 7847822352343370220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spell__Diagonal_Only_Effect_31
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 8
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac8051d34e7c1a040800000000000000
+      internalID: 4657223272769063114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spell__Diagonal_Only_Effect_32
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 20
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af15983aa8666ac80800000000000000
+      internalID: -8311843316630466054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spell__Diagonal_Only_Effect_33
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 22
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e58d28dd7d1afb500800000000000000
+      internalID: 414227639247755358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Spell__Diagonal_Only_Effect_0: 7760826873063941758
+      Spell__Diagonal_Only_Effect_1: -2010514956732396936
+      Spell__Diagonal_Only_Effect_10: -4187875823676515538
+      Spell__Diagonal_Only_Effect_11: 1010913945651467949
+      Spell__Diagonal_Only_Effect_12: -1423384999269589798
+      Spell__Diagonal_Only_Effect_13: -5935177100944617051
+      Spell__Diagonal_Only_Effect_14: -7359436107119241306
+      Spell__Diagonal_Only_Effect_15: 301448160433932335
+      Spell__Diagonal_Only_Effect_16: -4076663695027726927
+      Spell__Diagonal_Only_Effect_17: -5681749679341115237
+      Spell__Diagonal_Only_Effect_18: -659997238513056232
+      Spell__Diagonal_Only_Effect_19: 5839828390751893531
+      Spell__Diagonal_Only_Effect_2: 2621768711055103363
+      Spell__Diagonal_Only_Effect_20: -2952669798320266203
+      Spell__Diagonal_Only_Effect_21: 7782642475620666822
+      Spell__Diagonal_Only_Effect_22: 4191842170067369809
+      Spell__Diagonal_Only_Effect_23: -4047631778679427647
+      Spell__Diagonal_Only_Effect_24: -2905357497128059651
+      Spell__Diagonal_Only_Effect_25: 8458536168143918870
+      Spell__Diagonal_Only_Effect_26: 4625357641730663510
+      Spell__Diagonal_Only_Effect_27: 5339359539105695790
+      Spell__Diagonal_Only_Effect_28: -8406915551610250828
+      Spell__Diagonal_Only_Effect_29: -4234676453631847865
+      Spell__Diagonal_Only_Effect_3: 9159972329204056686
+      Spell__Diagonal_Only_Effect_30: 7847822352343370220
+      Spell__Diagonal_Only_Effect_31: 4657223272769063114
+      Spell__Diagonal_Only_Effect_32: -8311843316630466054
+      Spell__Diagonal_Only_Effect_33: 414227639247755358
+      Spell__Diagonal_Only_Effect_4: -2086371686752422353
+      Spell__Diagonal_Only_Effect_5: -3732537663485840605
+      Spell__Diagonal_Only_Effect_6: 3836091169395390644
+      Spell__Diagonal_Only_Effect_7: 175558100081074686
+      Spell__Diagonal_Only_Effect_8: 6650534833766500761
+      Spell__Diagonal_Only_Effect_9: 6513812414609089691
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

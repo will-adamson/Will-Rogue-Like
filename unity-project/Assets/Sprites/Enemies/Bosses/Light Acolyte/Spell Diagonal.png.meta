@@ -1,0 +1,1469 @@
+fileFormatVersion: 2
+guid: ed0de6f65817246b0b08846eccbde4cf
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1248481230044798410
+    second: Spell_Diagonal_0
+  - first:
+      213: 6991023966858489240
+    second: Spell_Diagonal_1
+  - first:
+      213: 3754104085587049748
+    second: Spell_Diagonal_2
+  - first:
+      213: -3925433977796617640
+    second: Spell_Diagonal_3
+  - first:
+      213: 1432979317884099139
+    second: Spell_Diagonal_4
+  - first:
+      213: -7962719805795827910
+    second: Spell_Diagonal_5
+  - first:
+      213: -2313993771515885511
+    second: Spell_Diagonal_6
+  - first:
+      213: 6439800812297748273
+    second: Spell_Diagonal_7
+  - first:
+      213: -6146980400789520112
+    second: Spell_Diagonal_8
+  - first:
+      213: -3254972502050296248
+    second: Spell_Diagonal_9
+  - first:
+      213: -7844210679883129407
+    second: Spell_Diagonal_10
+  - first:
+      213: -6655602422661430800
+    second: Spell_Diagonal_11
+  - first:
+      213: 4266568059431574597
+    second: Spell_Diagonal_12
+  - first:
+      213: -6156075960763393681
+    second: Spell_Diagonal_13
+  - first:
+      213: -7692102881694760247
+    second: Spell_Diagonal_14
+  - first:
+      213: 7506900347729697241
+    second: Spell_Diagonal_15
+  - first:
+      213: -926951195236021990
+    second: Spell_Diagonal_16
+  - first:
+      213: 2151707232300819903
+    second: Spell_Diagonal_17
+  - first:
+      213: 221203666667622254
+    second: Spell_Diagonal_18
+  - first:
+      213: -565594699180899744
+    second: Spell_Diagonal_19
+  - first:
+      213: 1971314934127640226
+    second: Spell_Diagonal_20
+  - first:
+      213: 6036722309515893844
+    second: Spell_Diagonal_21
+  - first:
+      213: -8236219777426717104
+    second: Spell_Diagonal_22
+  - first:
+      213: 5765755793136392053
+    second: Spell_Diagonal_23
+  - first:
+      213: -5617656513549680797
+    second: Spell_Diagonal_24
+  - first:
+      213: 6641559419063953079
+    second: Spell_Diagonal_25
+  - first:
+      213: -5930090270685419050
+    second: Spell_Diagonal_26
+  - first:
+      213: -8187805254506279514
+    second: Spell_Diagonal_27
+  - first:
+      213: -3671975505123621906
+    second: Spell_Diagonal_28
+  - first:
+      213: -8387471484065348452
+    second: Spell_Diagonal_29
+  - first:
+      213: -6114924957978980062
+    second: Spell_Diagonal_30
+  - first:
+      213: 4112753800484137702
+    second: Spell_Diagonal_31
+  - first:
+      213: 235926867903584838
+    second: Spell_Diagonal_32
+  - first:
+      213: 2374115227201447066
+    second: Spell_Diagonal_33
+  - first:
+      213: 8527470102233802654
+    second: Spell_Diagonal_34
+  - first:
+      213: 1824390472826469431
+    second: Spell_Diagonal_35
+  - first:
+      213: 4528643880711393119
+    second: Spell_Diagonal_36
+  - first:
+      213: 9060506666315530007
+    second: Spell_Diagonal_37
+  - first:
+      213: 933985383942628567
+    second: Spell_Diagonal_38
+  - first:
+      213: 6127256657479601224
+    second: Spell_Diagonal_39
+  - first:
+      213: 6042172133828347803
+    second: Spell_Diagonal_40
+  - first:
+      213: 8642115215145552662
+    second: Spell_Diagonal_41
+  - first:
+      213: 7646291238109546606
+    second: Spell_Diagonal_42
+  - first:
+      213: -3020549345813691911
+    second: Spell_Diagonal_43
+  - first:
+      213: 7970272807585335731
+    second: Spell_Diagonal_44
+  - first:
+      213: 4265354476157041391
+    second: Spell_Diagonal_45
+  - first:
+      213: -931666500142280230
+    second: Spell_Diagonal_46
+  - first:
+      213: -5418206198291804577
+    second: Spell_Diagonal_47
+  - first:
+      213: 2395590190841572654
+    second: Spell_Diagonal_48
+  - first:
+      213: 8096175479919670495
+    second: Spell_Diagonal_49
+  - first:
+      213: -2327401268121555001
+    second: Spell_Diagonal_50
+  - first:
+      213: 2996569252729587822
+    second: Spell_Diagonal_51
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Spell_Diagonal_0
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 108
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 632ef6e9fe08caee0800000000000000
+      internalID: -1248481230044798410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spell_Diagonal_1
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 108
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89da7d0024b150160800000000000000
+      internalID: 6991023966858489240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spell_Diagonal_2
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 108
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41d324796c1491430800000000000000
+      internalID: 3754104085587049748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spell_Diagonal_3
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 108
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85a1f24589e0689c0800000000000000
+      internalID: -3925433977796617640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spell_Diagonal_4
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 108
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34a96fce817f2e310800000000000000
+      internalID: 1432979317884099139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spell_Diagonal_5
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 108
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3f7291668cbe7190800000000000000
+      internalID: -7962719805795827910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spell_Diagonal_6
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 108
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9384454ccea03efd0800000000000000
+      internalID: -2313993771515885511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spell_Diagonal_7
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 108
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13f774128b4ce5950800000000000000
+      internalID: 6439800812297748273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spell_Diagonal_8
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 103
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01107a1c4e981baa0800000000000000
+      internalID: -6146980400789520112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spell_Diagonal_9
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 98
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84ea0a541c304d2d0800000000000000
+      internalID: -3254972502050296248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spell_Diagonal_10
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 98
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cd9d3272f3c32390800000000000000
+      internalID: -7844210679883129407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spell_Diagonal_11
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 108
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f149070cdc82a3a0800000000000000
+      internalID: -6655602422661430800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spell_Diagonal_12
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 108
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54c52787b05e53b30800000000000000
+      internalID: 4266568059431574597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spell_Diagonal_13
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 76
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f69506ca789319aa0800000000000000
+      internalID: -6156075960763393681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spell_Diagonal_14
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 76
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c243d00f29204590800000000000000
+      internalID: -7692102881694760247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spell_Diagonal_15
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 76
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d95faec71edd2860800000000000000
+      internalID: 7506900347729697241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spell_Diagonal_16
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 76
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1945d39ccec223f0800000000000000
+      internalID: -926951195236021990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spell_Diagonal_17
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 76
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb5ede9d3566cdd10800000000000000
+      internalID: 2151707232300819903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spell_Diagonal_18
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 76
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6fccb6109fd11300800000000000000
+      internalID: 221203666667622254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spell_Diagonal_19
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 76
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0628a742e9a9628f0800000000000000
+      internalID: -565594699180899744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spell_Diagonal_20
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 76
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2aeb915fc748b5b10800000000000000
+      internalID: 1971314934127640226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spell_Diagonal_21
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 71
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45cde52e4feb6c350800000000000000
+      internalID: 6036722309515893844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spell_Diagonal_22
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 66
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0560f62ffb113bd80800000000000000
+      internalID: -8236219777426717104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spell_Diagonal_23
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 66
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5779b877854140050800000000000000
+      internalID: 5765755793136392053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spell_Diagonal_24
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 76
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36f36bf1a231a02b0800000000000000
+      internalID: -5617656513549680797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spell_Diagonal_25
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 76
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b6e4f76a1f8b2c50800000000000000
+      internalID: 6641559419063953079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spell_Diagonal_26
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 44
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d9abc9515614bda0800000000000000
+      internalID: -5930090270685419050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spell_Diagonal_27
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 44
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ad831b70821f5e80800000000000000
+      internalID: -8187805254506279514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spell_Diagonal_28
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 44
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee3cb29abb58a0dc0800000000000000
+      internalID: -3671975505123621906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spell_Diagonal_29
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 44
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c94019cbf17b99b80800000000000000
+      internalID: -8387471484065348452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spell_Diagonal_30
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 44
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2211e73262c632ba0800000000000000
+      internalID: -6114924957978980062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spell_Diagonal_31
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 44
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6eaae7e8acf631930800000000000000
+      internalID: 4112753800484137702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spell_Diagonal_32
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 44
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64a1d528c3e264300800000000000000
+      internalID: 235926867903584838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spell_Diagonal_33
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 44
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a942035783d82f020800000000000000
+      internalID: 2374115227201447066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spell_Diagonal_34
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 40
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e97e864a0e8a75670800000000000000
+      internalID: 8527470102233802654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spell_Diagonal_35
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 44
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73cbd601879815910800000000000000
+      internalID: 1824390472826469431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spell_Diagonal_36
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 44
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5f8c00ad99f8de30800000000000000
+      internalID: 4528643880711393119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spell_Diagonal_37
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 44
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71fbbc2fec26dbd70800000000000000
+      internalID: 9060506666315530007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spell_Diagonal_38
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 44
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d4ae4b12ce26fc00800000000000000
+      internalID: 933985383942628567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spell_Diagonal_39
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 12
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84c08b46773680550800000000000000
+      internalID: 6127256657479601224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spell_Diagonal_40
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 12
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b974a9cfa8b1ad350800000000000000
+      internalID: 6042172133828347803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spell_Diagonal_41
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 12
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61bcfb21006fee770800000000000000
+      internalID: 8642115215145552662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spell_Diagonal_42
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 12
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6883b88e551d1a60800000000000000
+      internalID: 7646291238109546606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spell_Diagonal_43
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 12
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f18c30af5ad416d0800000000000000
+      internalID: -3020549345813691911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spell_Diagonal_44
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 12
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b94413e3e81c9e60800000000000000
+      internalID: 7970272807585335731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spell_Diagonal_45
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 12
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fea76781c45913b30800000000000000
+      internalID: 4265354476157041391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spell_Diagonal_46
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 12
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad153e9114e0213f0800000000000000
+      internalID: -931666500142280230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spell_Diagonal_47
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 8
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5e4ff66b2aaec4b0800000000000000
+      internalID: -5418206198291804577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spell_Diagonal_48
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 12
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2da5801698de3120800000000000000
+      internalID: 2395590190841572654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spell_Diagonal_49
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 12
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd4f6df14b46b5070800000000000000
+      internalID: 8096175479919670495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spell_Diagonal_50
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 12
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cf22d3b0e863bfd0800000000000000
+      internalID: -2327401268121555001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spell_Diagonal_51
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 12
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e680ecddbd3f59920800000000000000
+      internalID: 2996569252729587822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Spell_Diagonal_0: -1248481230044798410
+      Spell_Diagonal_1: 6991023966858489240
+      Spell_Diagonal_10: -7844210679883129407
+      Spell_Diagonal_11: -6655602422661430800
+      Spell_Diagonal_12: 4266568059431574597
+      Spell_Diagonal_13: -6156075960763393681
+      Spell_Diagonal_14: -7692102881694760247
+      Spell_Diagonal_15: 7506900347729697241
+      Spell_Diagonal_16: -926951195236021990
+      Spell_Diagonal_17: 2151707232300819903
+      Spell_Diagonal_18: 221203666667622254
+      Spell_Diagonal_19: -565594699180899744
+      Spell_Diagonal_2: 3754104085587049748
+      Spell_Diagonal_20: 1971314934127640226
+      Spell_Diagonal_21: 6036722309515893844
+      Spell_Diagonal_22: -8236219777426717104
+      Spell_Diagonal_23: 5765755793136392053
+      Spell_Diagonal_24: -5617656513549680797
+      Spell_Diagonal_25: 6641559419063953079
+      Spell_Diagonal_26: -5930090270685419050
+      Spell_Diagonal_27: -8187805254506279514
+      Spell_Diagonal_28: -3671975505123621906
+      Spell_Diagonal_29: -8387471484065348452
+      Spell_Diagonal_3: -3925433977796617640
+      Spell_Diagonal_30: -6114924957978980062
+      Spell_Diagonal_31: 4112753800484137702
+      Spell_Diagonal_32: 235926867903584838
+      Spell_Diagonal_33: 2374115227201447066
+      Spell_Diagonal_34: 8527470102233802654
+      Spell_Diagonal_35: 1824390472826469431
+      Spell_Diagonal_36: 4528643880711393119
+      Spell_Diagonal_37: 9060506666315530007
+      Spell_Diagonal_38: 933985383942628567
+      Spell_Diagonal_39: 6127256657479601224
+      Spell_Diagonal_4: 1432979317884099139
+      Spell_Diagonal_40: 6042172133828347803
+      Spell_Diagonal_41: 8642115215145552662
+      Spell_Diagonal_42: 7646291238109546606
+      Spell_Diagonal_43: -3020549345813691911
+      Spell_Diagonal_44: 7970272807585335731
+      Spell_Diagonal_45: 4265354476157041391
+      Spell_Diagonal_46: -931666500142280230
+      Spell_Diagonal_47: -5418206198291804577
+      Spell_Diagonal_48: 2395590190841572654
+      Spell_Diagonal_49: 8096175479919670495
+      Spell_Diagonal_5: -7962719805795827910
+      Spell_Diagonal_50: -2327401268121555001
+      Spell_Diagonal_51: 2996569252729587822
+      Spell_Diagonal_6: -2313993771515885511
+      Spell_Diagonal_7: 6439800812297748273
+      Spell_Diagonal_8: -6146980400789520112
+      Spell_Diagonal_9: -3254972502050296248
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

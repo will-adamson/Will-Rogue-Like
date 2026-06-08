@@ -1,0 +1,1781 @@
+fileFormatVersion: 2
+guid: d554a28ef3b2a42ad86061dd552f40b7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 46013824756106559
+    second: SaurusIdle_0
+  - first:
+      213: -6562946735434915941
+    second: SaurusIdle_1
+  - first:
+      213: 2715430667580993668
+    second: SaurusIdle_2
+  - first:
+      213: 904534734489487128
+    second: SaurusIdle_3
+  - first:
+      213: 5207651619097597135
+    second: SaurusIdle_4
+  - first:
+      213: 758150297172853229
+    second: SaurusIdle_5
+  - first:
+      213: 6044819908772742158
+    second: SaurusIdle_6
+  - first:
+      213: -6859193754245836763
+    second: SaurusIdle_7
+  - first:
+      213: -1550837428268236177
+    second: SaurusIdle_8
+  - first:
+      213: 2113616356893642568
+    second: SaurusIdle_9
+  - first:
+      213: 3249931396432762571
+    second: SaurusIdle_10
+  - first:
+      213: -905114083226423239
+    second: SaurusIdle_11
+  - first:
+      213: 4201458516015618922
+    second: SaurusIdle_12
+  - first:
+      213: -8994028335250095784
+    second: SaurusIdle_13
+  - first:
+      213: 8620321051198407710
+    second: SaurusIdle_14
+  - first:
+      213: -8162228178485063417
+    second: SaurusIdle_15
+  - first:
+      213: -5943733724224598202
+    second: SaurusIdle_16
+  - first:
+      213: -3068990660694569097
+    second: SaurusIdle_17
+  - first:
+      213: 8474238007790834004
+    second: SaurusIdle_18
+  - first:
+      213: -4159735060005187871
+    second: SaurusIdle_19
+  - first:
+      213: -4673867314786474863
+    second: SaurusIdle_20
+  - first:
+      213: 2927208256766223825
+    second: SaurusIdle_21
+  - first:
+      213: -1732814052098105689
+    second: SaurusIdle_22
+  - first:
+      213: -3601442789486576207
+    second: SaurusIdle_23
+  - first:
+      213: 9014291897746932884
+    second: SaurusIdle_24
+  - first:
+      213: 9064634589860591702
+    second: SaurusIdle_25
+  - first:
+      213: 4950318703450634565
+    second: SaurusIdle_26
+  - first:
+      213: -3500198355912185212
+    second: SaurusIdle_27
+  - first:
+      213: 8830228446629220032
+    second: SaurusIdle_28
+  - first:
+      213: 615065416000442843
+    second: SaurusIdle_29
+  - first:
+      213: 7849628279385103877
+    second: SaurusIdle_30
+  - first:
+      213: 9142402056962557827
+    second: SaurusIdle_31
+  - first:
+      213: 4274621167292071635
+    second: SaurusIdle_32
+  - first:
+      213: -5040955675548373106
+    second: SaurusIdle_33
+  - first:
+      213: 2964856707326850283
+    second: SaurusIdle_34
+  - first:
+      213: 1278294112610196456
+    second: SaurusIdle_35
+  - first:
+      213: 6012068001806267004
+    second: SaurusIdle_36
+  - first:
+      213: 9077008518930216012
+    second: SaurusIdle_37
+  - first:
+      213: -8555604398924579474
+    second: SaurusIdle_38
+  - first:
+      213: 2506295339028856386
+    second: SaurusIdle_39
+  - first:
+      213: 3455356388509414190
+    second: SaurusIdle_40
+  - first:
+      213: -5947479931927726064
+    second: SaurusIdle_41
+  - first:
+      213: 4890951596447318033
+    second: SaurusIdle_42
+  - first:
+      213: -2186858458928540208
+    second: SaurusIdle_43
+  - first:
+      213: -6282257736980268789
+    second: SaurusIdle_44
+  - first:
+      213: 2408145293803113859
+    second: SaurusIdle_45
+  - first:
+      213: -200290935571123681
+    second: SaurusIdle_46
+  - first:
+      213: 9042241639406362595
+    second: SaurusIdle_47
+  - first:
+      213: -8882862010968234662
+    second: SaurusIdle_48
+  - first:
+      213: 8727998953339384788
+    second: SaurusIdle_49
+  - first:
+      213: -4995447247175299997
+    second: SaurusIdle_50
+  - first:
+      213: -7782420326526618386
+    second: SaurusIdle_51
+  - first:
+      213: 6209843103905634664
+    second: SaurusIdle_52
+  - first:
+      213: -4932081502912892120
+    second: SaurusIdle_53
+  - first:
+      213: -8970426858980619940
+    second: SaurusIdle_54
+  - first:
+      213: 1302667822034929036
+    second: SaurusIdle_55
+  - first:
+      213: 2696193975681358640
+    second: SaurusIdle_56
+  - first:
+      213: -6301608746055829487
+    second: SaurusIdle_57
+  - first:
+      213: -1628479962606375002
+    second: SaurusIdle_58
+  - first:
+      213: -2319220227701967782
+    second: SaurusIdle_59
+  - first:
+      213: 9135323507648601903
+    second: SaurusIdle_60
+  - first:
+      213: -4782222173212752470
+    second: SaurusIdle_61
+  - first:
+      213: -8707945330314415127
+    second: SaurusIdle_62
+  - first:
+      213: 7578228272480379226
+    second: SaurusIdle_63
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SaurusIdle_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 108
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f35485f645973a000800000000000000
+      internalID: 46013824756106559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SaurusIdle_1
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 108
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9f979257babbe4a0800000000000000
+      internalID: -6562946735434915941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SaurusIdle_2
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 108
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 480fd512ec52fa520800000000000000
+      internalID: 2715430667580993668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SaurusIdle_3
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 108
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8178f307c8d8d8c00800000000000000
+      internalID: 904534734489487128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SaurusIdle_4
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 108
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc4dc466e8b454840800000000000000
+      internalID: 5207651619097597135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SaurusIdle_5
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 108
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de1485dadad758a00800000000000000
+      internalID: 758150297172853229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SaurusIdle_6
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 108
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e04cb912ea383e350800000000000000
+      internalID: 6044819908772742158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SaurusIdle_7
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 108
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52059904f9f3fc0a0800000000000000
+      internalID: -6859193754245836763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SaurusIdle_8
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 108
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6201bf53915a7ae0800000000000000
+      internalID: -1550837428268236177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SaurusIdle_9
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 108
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84fc910d0e2155d10800000000000000
+      internalID: 2113616356893642568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SaurusIdle_10
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 108
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc693ccd2631a1d20800000000000000
+      internalID: 3249931396432762571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SaurusIdle_11
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 108
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 930f51c69836073f0800000000000000
+      internalID: -905114083226423239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SaurusIdle_12
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 108
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6b96a192449e4a30800000000000000
+      internalID: 4201458516015618922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SaurusIdle_13
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 108
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 851ce99a1eace2380800000000000000
+      internalID: -8994028335250095784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SaurusIdle_14
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 108
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e14c08ad25881a770800000000000000
+      internalID: 8620321051198407710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SaurusIdle_15
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 108
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 701d6bd87b0f9be80800000000000000
+      internalID: -8162228178485063417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SaurusIdle_16
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 76
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64f45184bad938da0800000000000000
+      internalID: -5943733724224598202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SaurusIdle_17
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 76
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77f0f4a1141c865d0800000000000000
+      internalID: -3068990660694569097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SaurusIdle_18
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 76
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4519c74d19a8a9570800000000000000
+      internalID: 8474238007790834004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SaurusIdle_19
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 76
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ee07ac8007a546c0800000000000000
+      internalID: -4159735060005187871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SaurusIdle_20
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 76
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 194e7deb076132fb0800000000000000
+      internalID: -4673867314786474863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SaurusIdle_21
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 76
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d5242886688f9820800000000000000
+      internalID: 2927208256766223825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SaurusIdle_22
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 76
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ae13eaeccec3f7e0800000000000000
+      internalID: -1732814052098105689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SaurusIdle_23
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 76
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bdb2cd3dda150ec0800000000000000
+      internalID: -3601442789486576207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SaurusIdle_24
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 76
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49443e2a8b2391d70800000000000000
+      internalID: 9014291897746932884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SaurusIdle_25
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 76
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 658fb5b022d0ccd70800000000000000
+      internalID: 9064634589860591702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SaurusIdle_26
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 76
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 549b52402a013b440800000000000000
+      internalID: 4950318703450634565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SaurusIdle_27
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 76
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48aa270e32ccc6fc0800000000000000
+      internalID: -3500198355912185212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SaurusIdle_28
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 76
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ce42e6dcf54b8a70800000000000000
+      internalID: 8830228446629220032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SaurusIdle_29
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 76
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd19552bcb6298800800000000000000
+      internalID: 615065416000442843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SaurusIdle_30
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 76
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50e1c9bb45b7fec60800000000000000
+      internalID: 7849628279385103877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SaurusIdle_31
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 76
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 387cd077b3650ee70800000000000000
+      internalID: 9142402056962557827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SaurusIdle_32
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 44
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3de3fc1cd41825b30800000000000000
+      internalID: 4274621167292071635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SaurusIdle_33
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 44
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8f237e658dea0ab0800000000000000
+      internalID: -5040955675548373106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SaurusIdle_34
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 44
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be4b6228779452920800000000000000
+      internalID: 2964856707326850283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SaurusIdle_35
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 44
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8eb9a9409b96db110800000000000000
+      internalID: 1278294112610196456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SaurusIdle_36
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 44
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c72b72d8ef72f6350800000000000000
+      internalID: 6012068001806267004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SaurusIdle_37
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 44
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c44b70ae72308fd70800000000000000
+      internalID: 9077008518930216012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SaurusIdle_38
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 44
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6db453f023644980800000000000000
+      internalID: -8555604398924579474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SaurusIdle_39
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 44
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24e3809f45628c220800000000000000
+      internalID: 2506295339028856386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SaurusIdle_40
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 44
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e23fa7df354e3ff20800000000000000
+      internalID: 3455356388509414190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SaurusIdle_41
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 44
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 018fea4538e467da0800000000000000
+      internalID: -5947479931927726064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SaurusIdle_42
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 44
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1104fd7409620e340800000000000000
+      internalID: 4890951596447318033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SaurusIdle_43
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 44
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d5918d61d7b6a1e0800000000000000
+      internalID: -2186858458928540208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SaurusIdle_44
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 44
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0977df7fdfe0d8a0800000000000000
+      internalID: -6282257736980268789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SaurusIdle_45
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 44
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38dc9a4c2637b6120800000000000000
+      internalID: 2408145293803113859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SaurusIdle_46
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 44
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f127d8d847c683df0800000000000000
+      internalID: -200290935571123681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SaurusIdle_47
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 44
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3efdf0afcde7c7d70800000000000000
+      internalID: 9042241639406362595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SaurusIdle_48
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 12
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a552d6f701cb9b480800000000000000
+      internalID: -8882862010968234662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SaurusIdle_49
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 12
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d376cd1ec4102970800000000000000
+      internalID: 8727998953339384788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SaurusIdle_50
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 12
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36cc9e9123b9caab0800000000000000
+      internalID: -4995447247175299997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SaurusIdle_51
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 12
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee4f99032f94ff390800000000000000
+      internalID: -7782420326526618386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SaurusIdle_52
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 12
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 869543fd66bcd2650800000000000000
+      internalID: 6209843103905634664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SaurusIdle_53
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 12
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8233a9f110abd8bb0800000000000000
+      internalID: -4932081502912892120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SaurusIdle_54
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 12
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5946d29c44a28380800000000000000
+      internalID: -8970426858980619940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SaurusIdle_55
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 12
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8549b87b71041210800000000000000
+      internalID: 1302667822034929036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SaurusIdle_56
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 12
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03b1906c22eca6520800000000000000
+      internalID: 2696193975681358640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SaurusIdle_57
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 12
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 118f8d99b303c88a0800000000000000
+      internalID: -6301608746055829487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SaurusIdle_58
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 12
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6af61012a1a7669e0800000000000000
+      internalID: -1628479962606375002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SaurusIdle_59
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 12
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a547ceb9d7970dfd0800000000000000
+      internalID: -2319220227701967782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SaurusIdle_60
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 12
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2f9ba5445037ce70800000000000000
+      internalID: 9135323507648601903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SaurusIdle_61
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 12
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa548a0554222adb0800000000000000
+      internalID: -4782222173212752470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SaurusIdle_62
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 12
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e37617dbd9272780800000000000000
+      internalID: -8707945330314415127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SaurusIdle_63
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 12
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a51e30076764b2960800000000000000
+      internalID: 7578228272480379226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      SaurusIdle_0: 46013824756106559
+      SaurusIdle_1: -6562946735434915941
+      SaurusIdle_10: 3249931396432762571
+      SaurusIdle_11: -905114083226423239
+      SaurusIdle_12: 4201458516015618922
+      SaurusIdle_13: -8994028335250095784
+      SaurusIdle_14: 8620321051198407710
+      SaurusIdle_15: -8162228178485063417
+      SaurusIdle_16: -5943733724224598202
+      SaurusIdle_17: -3068990660694569097
+      SaurusIdle_18: 8474238007790834004
+      SaurusIdle_19: -4159735060005187871
+      SaurusIdle_2: 2715430667580993668
+      SaurusIdle_20: -4673867314786474863
+      SaurusIdle_21: 2927208256766223825
+      SaurusIdle_22: -1732814052098105689
+      SaurusIdle_23: -3601442789486576207
+      SaurusIdle_24: 9014291897746932884
+      SaurusIdle_25: 9064634589860591702
+      SaurusIdle_26: 4950318703450634565
+      SaurusIdle_27: -3500198355912185212
+      SaurusIdle_28: 8830228446629220032
+      SaurusIdle_29: 615065416000442843
+      SaurusIdle_3: 904534734489487128
+      SaurusIdle_30: 7849628279385103877
+      SaurusIdle_31: 9142402056962557827
+      SaurusIdle_32: 4274621167292071635
+      SaurusIdle_33: -5040955675548373106
+      SaurusIdle_34: 2964856707326850283
+      SaurusIdle_35: 1278294112610196456
+      SaurusIdle_36: 6012068001806267004
+      SaurusIdle_37: 9077008518930216012
+      SaurusIdle_38: -8555604398924579474
+      SaurusIdle_39: 2506295339028856386
+      SaurusIdle_4: 5207651619097597135
+      SaurusIdle_40: 3455356388509414190
+      SaurusIdle_41: -5947479931927726064
+      SaurusIdle_42: 4890951596447318033
+      SaurusIdle_43: -2186858458928540208
+      SaurusIdle_44: -6282257736980268789
+      SaurusIdle_45: 2408145293803113859
+      SaurusIdle_46: -200290935571123681
+      SaurusIdle_47: 9042241639406362595
+      SaurusIdle_48: -8882862010968234662
+      SaurusIdle_49: 8727998953339384788
+      SaurusIdle_5: 758150297172853229
+      SaurusIdle_50: -4995447247175299997
+      SaurusIdle_51: -7782420326526618386
+      SaurusIdle_52: 6209843103905634664
+      SaurusIdle_53: -4932081502912892120
+      SaurusIdle_54: -8970426858980619940
+      SaurusIdle_55: 1302667822034929036
+      SaurusIdle_56: 2696193975681358640
+      SaurusIdle_57: -6301608746055829487
+      SaurusIdle_58: -1628479962606375002
+      SaurusIdle_59: -2319220227701967782
+      SaurusIdle_6: 6044819908772742158
+      SaurusIdle_60: 9135323507648601903
+      SaurusIdle_61: -4782222173212752470
+      SaurusIdle_62: -8707945330314415127
+      SaurusIdle_63: 7578228272480379226
+      SaurusIdle_7: -6859193754245836763
+      SaurusIdle_8: -1550837428268236177
+      SaurusIdle_9: 2113616356893642568
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

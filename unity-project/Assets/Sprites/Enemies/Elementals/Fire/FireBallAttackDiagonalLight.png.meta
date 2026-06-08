@@ -1,0 +1,949 @@
+fileFormatVersion: 2
+guid: 37dff7c8f65f044f6998ba8717b0c823
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 854335825545218229
+    second: FireBallAttackDiagonalLight_0
+  - first:
+      213: 1069822232611967964
+    second: FireBallAttackDiagonalLight_1
+  - first:
+      213: -3669452991538751357
+    second: FireBallAttackDiagonalLight_2
+  - first:
+      213: -8920922212529187611
+    second: FireBallAttackDiagonalLight_3
+  - first:
+      213: 2231526406288127668
+    second: FireBallAttackDiagonalLight_4
+  - first:
+      213: -5446062762519857252
+    second: FireBallAttackDiagonalLight_5
+  - first:
+      213: -9017370814327809190
+    second: FireBallAttackDiagonalLight_6
+  - first:
+      213: -1045724222471679009
+    second: FireBallAttackDiagonalLight_7
+  - first:
+      213: -2445429953073167923
+    second: FireBallAttackDiagonalLight_8
+  - first:
+      213: 6209007312289238432
+    second: FireBallAttackDiagonalLight_9
+  - first:
+      213: -6495879242246591389
+    second: FireBallAttackDiagonalLight_10
+  - first:
+      213: -7240806809146619318
+    second: FireBallAttackDiagonalLight_11
+  - first:
+      213: -6783383323767300252
+    second: FireBallAttackDiagonalLight_12
+  - first:
+      213: 192692403446625749
+    second: FireBallAttackDiagonalLight_13
+  - first:
+      213: 7089754858821487860
+    second: FireBallAttackDiagonalLight_14
+  - first:
+      213: 63942782470690314
+    second: FireBallAttackDiagonalLight_15
+  - first:
+      213: 6815119073959286207
+    second: FireBallAttackDiagonalLight_16
+  - first:
+      213: -4874628007804414179
+    second: FireBallAttackDiagonalLight_17
+  - first:
+      213: -5959200118995764546
+    second: FireBallAttackDiagonalLight_18
+  - first:
+      213: -962330005386970118
+    second: FireBallAttackDiagonalLight_19
+  - first:
+      213: 3879436166625580678
+    second: FireBallAttackDiagonalLight_20
+  - first:
+      213: 6735000344278118455
+    second: FireBallAttackDiagonalLight_21
+  - first:
+      213: -6284369212977250921
+    second: FireBallAttackDiagonalLight_22
+  - first:
+      213: -5340567065382956660
+    second: FireBallAttackDiagonalLight_23
+  - first:
+      213: -8596118213515487473
+    second: FireBallAttackDiagonalLight_24
+  - first:
+      213: -4777885349608227899
+    second: FireBallAttackDiagonalLight_25
+  - first:
+      213: -6763151600522080568
+    second: FireBallAttackDiagonalLight_26
+  - first:
+      213: -1965365467292679193
+    second: FireBallAttackDiagonalLight_27
+  - first:
+      213: 2911120919811821606
+    second: FireBallAttackDiagonalLight_28
+  - first:
+      213: -4046408543688899849
+    second: FireBallAttackDiagonalLight_29
+  - first:
+      213: -9044872367878792328
+    second: FireBallAttackDiagonalLight_30
+  - first:
+      213: 6958821216862497827
+    second: FireBallAttackDiagonalLight_31
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: FireBallAttackDiagonalLight_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 106
+        width: 19
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b8438828e53bdb00800000000000000
+      internalID: 854335825545218229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireBallAttackDiagonalLight_1
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 106
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd3d6a307a5c8de00800000000000000
+      internalID: 1069822232611967964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireBallAttackDiagonalLight_2
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 106
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 388965f12fb731dc0800000000000000
+      internalID: -3669452991538751357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireBallAttackDiagonalLight_3
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 106
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e45e454384823480800000000000000
+      internalID: -8920922212529187611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireBallAttackDiagonalLight_4
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 106
+        width: 19
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b635b18179f7fe10800000000000000
+      internalID: 2231526406288127668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireBallAttackDiagonalLight_5
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 106
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c97758f95c2bb64b0800000000000000
+      internalID: -5446062762519857252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireBallAttackDiagonalLight_6
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 106
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5b140c350ddbd280800000000000000
+      internalID: -9017370814327809190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireBallAttackDiagonalLight_7
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 106
+        width: 19
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd3dd823c57dc71f0800000000000000
+      internalID: -1045724222471679009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireBallAttackDiagonalLight_8
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 74
+        width: 19
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc149f30a66101ed0800000000000000
+      internalID: -2445429953073167923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireBallAttackDiagonalLight_9
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 74
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ad8dc8f043da2650800000000000000
+      internalID: 6209007312289238432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireBallAttackDiagonalLight_10
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 74
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36cee0eee300ad5a0800000000000000
+      internalID: -6495879242246591389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireBallAttackDiagonalLight_11
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 74
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4a069d029c738b90800000000000000
+      internalID: -7240806809146619318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireBallAttackDiagonalLight_12
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 74
+        width: 19
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46f9a839ec49cd1a0800000000000000
+      internalID: -6783383323767300252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireBallAttackDiagonalLight_13
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 74
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d53a5258b49ca200800000000000000
+      internalID: 192692403446625749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireBallAttackDiagonalLight_14
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 74
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fc87a02b7ed36260800000000000000
+      internalID: 7089754858821487860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireBallAttackDiagonalLight_15
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 74
+        width: 19
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a069d133f9b23e000800000000000000
+      internalID: 63942782470690314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireBallAttackDiagonalLight_16
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 42
+        width: 19
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb5155190ba249e50800000000000000
+      internalID: 6815119073959286207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireBallAttackDiagonalLight_17
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 42
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d17d5ae57a7d95cb0800000000000000
+      internalID: -4874628007804414179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireBallAttackDiagonalLight_18
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 42
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebabac1a01bac4da0800000000000000
+      internalID: -5959200118995764546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireBallAttackDiagonalLight_19
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 42
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afbb53075fd15a2f0800000000000000
+      internalID: -962330005386970118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireBallAttackDiagonalLight_20
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 42
+        width: 19
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6865580b3a686d530800000000000000
+      internalID: 3879436166625580678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireBallAttackDiagonalLight_21
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 42
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 730b4da2127877d50800000000000000
+      internalID: 6735000344278118455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireBallAttackDiagonalLight_22
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 42
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79df61f2f7f69c8a0800000000000000
+      internalID: -6284369212977250921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireBallAttackDiagonalLight_23
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 42
+        width: 19
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c81d2b0bc8e72e5b0800000000000000
+      internalID: -5340567065382956660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireBallAttackDiagonalLight_24
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 10
+        width: 19
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f07d42c670474b880800000000000000
+      internalID: -8596118213515487473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireBallAttackDiagonalLight_25
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 10
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cbfe0fb69a81bdb0800000000000000
+      internalID: -4777885349608227899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireBallAttackDiagonalLight_26
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 10
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ce44c8b3757422a0800000000000000
+      internalID: -6763151600522080568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireBallAttackDiagonalLight_27
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 10
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e3433c358e99b4e0800000000000000
+      internalID: -1965365467292679193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireBallAttackDiagonalLight_28
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 10
+        width: 19
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62097938d01666820800000000000000
+      internalID: 2911120919811821606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireBallAttackDiagonalLight_29
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 10
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f241594ed448d7c0800000000000000
+      internalID: -4046408543688899849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireBallAttackDiagonalLight_30
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 10
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87b96d1d0882a7280800000000000000
+      internalID: -9044872367878792328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireBallAttackDiagonalLight_31
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 10
+        width: 19
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32c6a8ef603b29060800000000000000
+      internalID: 6958821216862497827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      FireBallAttackDiagonalLight_0: 854335825545218229
+      FireBallAttackDiagonalLight_1: 1069822232611967964
+      FireBallAttackDiagonalLight_10: -6495879242246591389
+      FireBallAttackDiagonalLight_11: -7240806809146619318
+      FireBallAttackDiagonalLight_12: -6783383323767300252
+      FireBallAttackDiagonalLight_13: 192692403446625749
+      FireBallAttackDiagonalLight_14: 7089754858821487860
+      FireBallAttackDiagonalLight_15: 63942782470690314
+      FireBallAttackDiagonalLight_16: 6815119073959286207
+      FireBallAttackDiagonalLight_17: -4874628007804414179
+      FireBallAttackDiagonalLight_18: -5959200118995764546
+      FireBallAttackDiagonalLight_19: -962330005386970118
+      FireBallAttackDiagonalLight_2: -3669452991538751357
+      FireBallAttackDiagonalLight_20: 3879436166625580678
+      FireBallAttackDiagonalLight_21: 6735000344278118455
+      FireBallAttackDiagonalLight_22: -6284369212977250921
+      FireBallAttackDiagonalLight_23: -5340567065382956660
+      FireBallAttackDiagonalLight_24: -8596118213515487473
+      FireBallAttackDiagonalLight_25: -4777885349608227899
+      FireBallAttackDiagonalLight_26: -6763151600522080568
+      FireBallAttackDiagonalLight_27: -1965365467292679193
+      FireBallAttackDiagonalLight_28: 2911120919811821606
+      FireBallAttackDiagonalLight_29: -4046408543688899849
+      FireBallAttackDiagonalLight_3: -8920922212529187611
+      FireBallAttackDiagonalLight_30: -9044872367878792328
+      FireBallAttackDiagonalLight_31: 6958821216862497827
+      FireBallAttackDiagonalLight_4: 2231526406288127668
+      FireBallAttackDiagonalLight_5: -5446062762519857252
+      FireBallAttackDiagonalLight_6: -9017370814327809190
+      FireBallAttackDiagonalLight_7: -1045724222471679009
+      FireBallAttackDiagonalLight_8: -2445429953073167923
+      FireBallAttackDiagonalLight_9: 6209007312289238432
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

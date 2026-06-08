@@ -1,0 +1,533 @@
+fileFormatVersion: 2
+guid: a8fc164ffdbdd4a37ba3a814cd0a769c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3769794528141032926
+    second: Minifantasy_MidBirdTakeoffLanding2_0
+  - first:
+      213: -8250684563089304315
+    second: Minifantasy_MidBirdTakeoffLanding2_1
+  - first:
+      213: 6448063811694258608
+    second: Minifantasy_MidBirdTakeoffLanding2_2
+  - first:
+      213: -7200646082180722479
+    second: Minifantasy_MidBirdTakeoffLanding2_3
+  - first:
+      213: 4380390504438058304
+    second: Minifantasy_MidBirdTakeoffLanding2_4
+  - first:
+      213: -2332599569351363114
+    second: Minifantasy_MidBirdTakeoffLanding2_5
+  - first:
+      213: 4032749540921277978
+    second: Minifantasy_MidBirdTakeoffLanding2_6
+  - first:
+      213: 6855648767122175017
+    second: Minifantasy_MidBirdTakeoffLanding2_7
+  - first:
+      213: -7992800736981759489
+    second: Minifantasy_MidBirdTakeoffLanding2_8
+  - first:
+      213: -6677579159130674627
+    second: Minifantasy_MidBirdTakeoffLanding2_9
+  - first:
+      213: 1300704052102251040
+    second: Minifantasy_MidBirdTakeoffLanding2_10
+  - first:
+      213: -7572262100067310659
+    second: Minifantasy_MidBirdTakeoffLanding2_11
+  - first:
+      213: 8089381892080217817
+    second: Minifantasy_MidBirdTakeoffLanding2_12
+  - first:
+      213: 8658611425565447645
+    second: Minifantasy_MidBirdTakeoffLanding2_13
+  - first:
+      213: -2706776871210550167
+    second: Minifantasy_MidBirdTakeoffLanding2_14
+  - first:
+      213: -684602685236322287
+    second: Minifantasy_MidBirdTakeoffLanding2_15
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Minifantasy_MidBirdTakeoffLanding2_0
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 110
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22241f199dffeabc0800000000000000
+      internalID: -3769794528141032926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MidBirdTakeoffLanding2_1
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 113
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50553479a1eaf7d80800000000000000
+      internalID: -8250684563089304315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MidBirdTakeoffLanding2_2
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 116
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b966199fdf1c7950800000000000000
+      internalID: 6448063811694258608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MidBirdTakeoffLanding2_3
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 108
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d05f46f98a221c90800000000000000
+      internalID: -7200646082180722479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MidBirdTakeoffLanding2_4
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 78
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04d468a94f54acc30800000000000000
+      internalID: 4380390504438058304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MidBirdTakeoffLanding2_5
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 81
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d53591ec01f0afd0800000000000000
+      internalID: -2332599569351363114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MidBirdTakeoffLanding2_6
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 84
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1e7bbe475437f730800000000000000
+      internalID: 4032749540921277978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MidBirdTakeoffLanding2_7
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 76
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 924792d1b38242f50800000000000000
+      internalID: 6855648767122175017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MidBirdTakeoffLanding2_8
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 52
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff9c8bfc31ed31190800000000000000
+      internalID: -7992800736981759489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MidBirdTakeoffLanding2_9
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 49
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3ae67452297453a0800000000000000
+      internalID: -6677579159130674627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MidBirdTakeoffLanding2_10
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 46
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0224777a1770d0210800000000000000
+      internalID: 1300704052102251040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MidBirdTakeoffLanding2_11
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 44
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db3a5535dbbe9e690800000000000000
+      internalID: -7572262100067310659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MidBirdTakeoffLanding2_12
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 20
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9de2be1b8f1434070800000000000000
+      internalID: 8089381892080217817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MidBirdTakeoffLanding2_13
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 17
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd597fc5731992870800000000000000
+      internalID: 8658611425565447645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MidBirdTakeoffLanding2_14
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 14
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96c7049d6c89f6ad0800000000000000
+      internalID: -2706776871210550167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MidBirdTakeoffLanding2_15
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 12
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 110e5362c7dcf76f0800000000000000
+      internalID: -684602685236322287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Minifantasy_MidBirdTakeoffLanding2_0: -3769794528141032926
+      Minifantasy_MidBirdTakeoffLanding2_1: -8250684563089304315
+      Minifantasy_MidBirdTakeoffLanding2_10: 1300704052102251040
+      Minifantasy_MidBirdTakeoffLanding2_11: -7572262100067310659
+      Minifantasy_MidBirdTakeoffLanding2_12: 8089381892080217817
+      Minifantasy_MidBirdTakeoffLanding2_13: 8658611425565447645
+      Minifantasy_MidBirdTakeoffLanding2_14: -2706776871210550167
+      Minifantasy_MidBirdTakeoffLanding2_15: -684602685236322287
+      Minifantasy_MidBirdTakeoffLanding2_2: 6448063811694258608
+      Minifantasy_MidBirdTakeoffLanding2_3: -7200646082180722479
+      Minifantasy_MidBirdTakeoffLanding2_4: 4380390504438058304
+      Minifantasy_MidBirdTakeoffLanding2_5: -2332599569351363114
+      Minifantasy_MidBirdTakeoffLanding2_6: 4032749540921277978
+      Minifantasy_MidBirdTakeoffLanding2_7: 6855648767122175017
+      Minifantasy_MidBirdTakeoffLanding2_8: -7992800736981759489
+      Minifantasy_MidBirdTakeoffLanding2_9: -6677579159130674627
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

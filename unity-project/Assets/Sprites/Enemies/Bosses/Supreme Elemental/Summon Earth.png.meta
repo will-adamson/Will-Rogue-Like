@@ -1,0 +1,1417 @@
+fileFormatVersion: 2
+guid: c62274cd659af45c9b53d4b336a915b2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1430970328134381414
+    second: SupremeElementalSummonEarth_0
+  - first:
+      213: 97504154143157614
+    second: SupremeElementalSummonEarth_1
+  - first:
+      213: -1571611082537653349
+    second: SupremeElementalSummonEarth_2
+  - first:
+      213: -7646104075947192845
+    second: SupremeElementalSummonEarth_3
+  - first:
+      213: 2709364218431025725
+    second: SupremeElementalSummonEarth_4
+  - first:
+      213: 8705577602277538404
+    second: SupremeElementalSummonEarth_5
+  - first:
+      213: 5942886364869445086
+    second: SupremeElementalSummonEarth_6
+  - first:
+      213: -2566437481899747375
+    second: SupremeElementalSummonEarth_7
+  - first:
+      213: 6028212316058819701
+    second: SupremeElementalSummonEarth_8
+  - first:
+      213: 7138961093598257836
+    second: SupremeElementalSummonEarth_9
+  - first:
+      213: -4928398812680744120
+    second: SupremeElementalSummonEarth_10
+  - first:
+      213: 3801822420601189408
+    second: SupremeElementalSummonEarth_11
+  - first:
+      213: -8441490780216100462
+    second: SupremeElementalSummonEarth_12
+  - first:
+      213: 3334142652753752426
+    second: SupremeElementalSummonEarth_13
+  - first:
+      213: -4768325349101087287
+    second: SupremeElementalSummonEarth_14
+  - first:
+      213: 9134061157666218035
+    second: SupremeElementalSummonEarth_15
+  - first:
+      213: -6941950225518590918
+    second: SupremeElementalSummonEarth_16
+  - first:
+      213: -162586358257836387
+    second: SupremeElementalSummonEarth_17
+  - first:
+      213: -8424989538062695342
+    second: SupremeElementalSummonEarth_18
+  - first:
+      213: 7707045945530683074
+    second: SupremeElementalSummonEarth_19
+  - first:
+      213: 2344708557843153911
+    second: SupremeElementalSummonEarth_20
+  - first:
+      213: -7999844520462514973
+    second: SupremeElementalSummonEarth_21
+  - first:
+      213: 681382043625016964
+    second: SupremeElementalSummonEarth_22
+  - first:
+      213: 3138597233782540754
+    second: SupremeElementalSummonEarth_23
+  - first:
+      213: -2249884161894859995
+    second: SupremeElementalSummonEarth_24
+  - first:
+      213: -9100614868329680048
+    second: SupremeElementalSummonEarth_25
+  - first:
+      213: 11813031641163417
+    second: SupremeElementalSummonEarth_26
+  - first:
+      213: 6487151124586688004
+    second: SupremeElementalSummonEarth_27
+  - first:
+      213: 4824718749944823233
+    second: SupremeElementalSummonEarth_28
+  - first:
+      213: -202200472729577138
+    second: SupremeElementalSummonEarth_29
+  - first:
+      213: -4005257716865678681
+    second: SupremeElementalSummonEarth_30
+  - first:
+      213: -3135043418832139019
+    second: SupremeElementalSummonEarth_31
+  - first:
+      213: 1669035732040370907
+    second: SupremeElementalSummonEarth_32
+  - first:
+      213: 5615614417966764098
+    second: SupremeElementalSummonEarth_33
+  - first:
+      213: 2566767370836111128
+    second: SupremeElementalSummonEarth_34
+  - first:
+      213: -4260076787196069240
+    second: SupremeElementalSummonEarth_35
+  - first:
+      213: -3220098681116203549
+    second: SupremeElementalSummonEarth_36
+  - first:
+      213: -8640729273505996400
+    second: SupremeElementalSummonEarth_37
+  - first:
+      213: 2976902656623272549
+    second: SupremeElementalSummonEarth_38
+  - first:
+      213: 2460531909306697397
+    second: SupremeElementalSummonEarth_39
+  - first:
+      213: -2363413278351884923
+    second: SupremeElementalSummonEarth_40
+  - first:
+      213: -6054914918824081052
+    second: SupremeElementalSummonEarth_41
+  - first:
+      213: 4106898284269826916
+    second: SupremeElementalSummonEarth_42
+  - first:
+      213: -8126476107316247640
+    second: SupremeElementalSummonEarth_43
+  - first:
+      213: 5136697499422580235
+    second: SupremeElementalSummonEarth_44
+  - first:
+      213: -5908689369607707963
+    second: SupremeElementalSummonEarth_45
+  - first:
+      213: -4219208136812519268
+    second: SupremeElementalSummonEarth_46
+  - first:
+      213: 4088351701803998620
+    second: SupremeElementalSummonEarth_47
+  - first:
+      213: -50871949160133972
+    second: SupremeElementalSummonEarth_48
+  - first:
+      213: -4464560039831083889
+    second: SupremeElementalSummonEarth_49
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SupremeElementalSummonEarth_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 152
+        width: 36
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a901d63711c242ce0800000000000000
+      internalID: -1430970328134381414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SupremeElementalSummonEarth_1
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 154
+        width: 30
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6de3d7f2876a5100800000000000000
+      internalID: 97504154143157614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SupremeElementalSummonEarth_2
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 170
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9ba6441c04803ae0800000000000000
+      internalID: -1571611082537653349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SupremeElementalSummonEarth_3
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 154
+        width: 35
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fd408d8ad493e590800000000000000
+      internalID: -7646104075947192845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SupremeElementalSummonEarth_4
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 168
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d323cbed668999520800000000000000
+      internalID: 2709364218431025725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SupremeElementalSummonEarth_5
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 151
+        width: 40
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46a795484bc60d870800000000000000
+      internalID: 8705577602277538404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SupremeElementalSummonEarth_6
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 154
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed54e8e79af597250800000000000000
+      internalID: 5942886364869445086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SupremeElementalSummonEarth_7
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 152
+        width: 38
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d71e1135be226cd0800000000000000
+      internalID: -2566437481899747375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SupremeElementalSummonEarth_8
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 176
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57c1251a92388a350800000000000000
+      internalID: 6028212316058819701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SupremeElementalSummonEarth_9
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 160
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca222417a4fa21360800000000000000
+      internalID: 7138961093598257836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SupremeElementalSummonEarth_10
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 160
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84315b2446fca9bb0800000000000000
+      internalID: -4928398812680744120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SupremeElementalSummonEarth_11
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 159
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 024bc0f3959c2c430800000000000000
+      internalID: 3801822420601189408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SupremeElementalSummonEarth_12
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 104
+        width: 36
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 299fb7e3cdcc9da80800000000000000
+      internalID: -8441490780216100462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SupremeElementalSummonEarth_13
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 122
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a61bddfd311454e20800000000000000
+      internalID: 3334142652753752426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SupremeElementalSummonEarth_14
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 120
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c5d651db5183ddb0800000000000000
+      internalID: -4768325349101087287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SupremeElementalSummonEarth_15
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 103
+        width: 40
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33063638a34b2ce70800000000000000
+      internalID: 9134061157666218035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SupremeElementalSummonEarth_16
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 106
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a348587cc0d39af90800000000000000
+      internalID: -6941950225518590918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SupremeElementalSummonEarth_17
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 145
+        width: 21
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9e97be81906ebdf0800000000000000
+      internalID: -162586358257836387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SupremeElementalSummonEarth_18
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 128
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 254046317ac641b80800000000000000
+      internalID: -8424989538062695342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SupremeElementalSummonEarth_19
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 133
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ce88fa247de4fa60800000000000000
+      internalID: 7707045945530683074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SupremeElementalSummonEarth_20
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 106
+        width: 30
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f34f04b2041a8020800000000000000
+      internalID: 2344708557843153911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SupremeElementalSummonEarth_21
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 112
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e40a7b2bc7daf090800000000000000
+      internalID: -7999844520462514973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SupremeElementalSummonEarth_22
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 106
+        width: 35
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48e499acb51c47900800000000000000
+      internalID: 681382043625016964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SupremeElementalSummonEarth_23
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 112
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d9c1ac1e898e8b20800000000000000
+      internalID: 3138597233782540754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SupremeElementalSummonEarth_24
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 106
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52bba70764ec6c0e0800000000000000
+      internalID: -2249884161894859995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SupremeElementalSummonEarth_25
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 104
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 053329f8efe14b180800000000000000
+      internalID: -9100614868329680048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SupremeElementalSummonEarth_26
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 58
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99621b2c3e7f92000800000000000000
+      internalID: 11813031641163417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SupremeElementalSummonEarth_27
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 58
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40ee341d39df60a50800000000000000
+      internalID: 6487151124586688004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SupremeElementalSummonEarth_28
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 58
+        width: 40
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cdb0aff328d4f240800000000000000
+      internalID: 4824718749944823233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SupremeElementalSummonEarth_29
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 97
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e499989cdb3a13df0800000000000000
+      internalID: -202200472729577138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SupremeElementalSummonEarth_30
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 58
+        width: 33
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a24458c3577a68c0800000000000000
+      internalID: -4005257716865678681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SupremeElementalSummonEarth_31
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 87
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fc8519ee961e74d0800000000000000
+      internalID: -3135043418832139019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SupremeElementalSummonEarth_32
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 80
+        width: 25
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bda43b5c72b992710800000000000000
+      internalID: 1669035732040370907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SupremeElementalSummonEarth_33
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 56
+        width: 36
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24098727f8baeed40800000000000000
+      internalID: 5615614417966764098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SupremeElementalSummonEarth_34
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 64
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81fefbf035dfe9320800000000000000
+      internalID: 2566767370836111128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SupremeElementalSummonEarth_35
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 65
+        width: 24
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88a7a4f9bba21e4c0800000000000000
+      internalID: -4260076787196069240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SupremeElementalSummonEarth_36
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 64
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e56d527f49ef43d0800000000000000
+      internalID: -3220098681116203549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SupremeElementalSummonEarth_37
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 56
+        width: 38
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0912b5c9186f51880800000000000000
+      internalID: -8640729273505996400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SupremeElementalSummonEarth_38
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 63
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56262f2a135105920800000000000000
+      internalID: 2976902656623272549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SupremeElementalSummonEarth_39
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 8
+        width: 36
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b64dbc2cb0952220800000000000000
+      internalID: 2460531909306697397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SupremeElementalSummonEarth_40
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 10
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58df46e2528733fd0800000000000000
+      internalID: -2363413278351884923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SupremeElementalSummonEarth_41
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 10
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 469074e26fe98fba0800000000000000
+      internalID: -6054914918824081052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SupremeElementalSummonEarth_42
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 17
+        width: 24
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4637092fa32aef830800000000000000
+      internalID: 4106898284269826916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SupremeElementalSummonEarth_43
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 10
+        width: 40
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a347bb4905f83f80800000000000000
+      internalID: -8126476107316247640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SupremeElementalSummonEarth_44
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 10
+        width: 33
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0e58bb0927394740800000000000000
+      internalID: 5136697499422580235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SupremeElementalSummonEarth_45
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 32
+        width: 20
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c2e76ce25e100ea0800000000000000
+      internalID: -5908689369607707963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SupremeElementalSummonEarth_46
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 10
+        width: 24
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c902adbcd8c5275c0800000000000000
+      internalID: -4219208136812519268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SupremeElementalSummonEarth_47
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 16
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9d14e6363ebcb830800000000000000
+      internalID: 4088351701803998620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SupremeElementalSummonEarth_48
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 16
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: caa47455b344b4ff0800000000000000
+      internalID: -50871949160133972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SupremeElementalSummonEarth_49
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 8
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f84e67b4c42ba02c0800000000000000
+      internalID: -4464560039831083889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      SupremeElementalSummonEarth_0: -1430970328134381414
+      SupremeElementalSummonEarth_1: 97504154143157614
+      SupremeElementalSummonEarth_10: -4928398812680744120
+      SupremeElementalSummonEarth_11: 3801822420601189408
+      SupremeElementalSummonEarth_12: -8441490780216100462
+      SupremeElementalSummonEarth_13: 3334142652753752426
+      SupremeElementalSummonEarth_14: -4768325349101087287
+      SupremeElementalSummonEarth_15: 9134061157666218035
+      SupremeElementalSummonEarth_16: -6941950225518590918
+      SupremeElementalSummonEarth_17: -162586358257836387
+      SupremeElementalSummonEarth_18: -8424989538062695342
+      SupremeElementalSummonEarth_19: 7707045945530683074
+      SupremeElementalSummonEarth_2: -1571611082537653349
+      SupremeElementalSummonEarth_20: 2344708557843153911
+      SupremeElementalSummonEarth_21: -7999844520462514973
+      SupremeElementalSummonEarth_22: 681382043625016964
+      SupremeElementalSummonEarth_23: 3138597233782540754
+      SupremeElementalSummonEarth_24: -2249884161894859995
+      SupremeElementalSummonEarth_25: -9100614868329680048
+      SupremeElementalSummonEarth_26: 11813031641163417
+      SupremeElementalSummonEarth_27: 6487151124586688004
+      SupremeElementalSummonEarth_28: 4824718749944823233
+      SupremeElementalSummonEarth_29: -202200472729577138
+      SupremeElementalSummonEarth_3: -7646104075947192845
+      SupremeElementalSummonEarth_30: -4005257716865678681
+      SupremeElementalSummonEarth_31: -3135043418832139019
+      SupremeElementalSummonEarth_32: 1669035732040370907
+      SupremeElementalSummonEarth_33: 5615614417966764098
+      SupremeElementalSummonEarth_34: 2566767370836111128
+      SupremeElementalSummonEarth_35: -4260076787196069240
+      SupremeElementalSummonEarth_36: -3220098681116203549
+      SupremeElementalSummonEarth_37: -8640729273505996400
+      SupremeElementalSummonEarth_38: 2976902656623272549
+      SupremeElementalSummonEarth_39: 2460531909306697397
+      SupremeElementalSummonEarth_4: 2709364218431025725
+      SupremeElementalSummonEarth_40: -2363413278351884923
+      SupremeElementalSummonEarth_41: -6054914918824081052
+      SupremeElementalSummonEarth_42: 4106898284269826916
+      SupremeElementalSummonEarth_43: -8126476107316247640
+      SupremeElementalSummonEarth_44: 5136697499422580235
+      SupremeElementalSummonEarth_45: -5908689369607707963
+      SupremeElementalSummonEarth_46: -4219208136812519268
+      SupremeElementalSummonEarth_47: 4088351701803998620
+      SupremeElementalSummonEarth_48: -50871949160133972
+      SupremeElementalSummonEarth_49: -4464560039831083889
+      SupremeElementalSummonEarth_5: 8705577602277538404
+      SupremeElementalSummonEarth_6: 5942886364869445086
+      SupremeElementalSummonEarth_7: -2566437481899747375
+      SupremeElementalSummonEarth_8: 6028212316058819701
+      SupremeElementalSummonEarth_9: 7138961093598257836
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

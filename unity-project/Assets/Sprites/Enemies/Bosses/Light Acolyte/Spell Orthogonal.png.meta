@@ -1,0 +1,1469 @@
+fileFormatVersion: 2
+guid: c33b421016e2f4c6aa0b133a429268ac
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4286831179727225234
+    second: Spell_Orthogonal_0
+  - first:
+      213: -2613970383247144655
+    second: Spell_Orthogonal_1
+  - first:
+      213: -1834184448376056283
+    second: Spell_Orthogonal_2
+  - first:
+      213: -6754822635408565695
+    second: Spell_Orthogonal_3
+  - first:
+      213: 8466759608871379147
+    second: Spell_Orthogonal_4
+  - first:
+      213: -127516925479654445
+    second: Spell_Orthogonal_5
+  - first:
+      213: 2152812487107692337
+    second: Spell_Orthogonal_6
+  - first:
+      213: 7359485340308906390
+    second: Spell_Orthogonal_7
+  - first:
+      213: -3300524301179777269
+    second: Spell_Orthogonal_8
+  - first:
+      213: -6247194072877410266
+    second: Spell_Orthogonal_9
+  - first:
+      213: 4715412723212120186
+    second: Spell_Orthogonal_10
+  - first:
+      213: -7787588738069859766
+    second: Spell_Orthogonal_11
+  - first:
+      213: 1349387587264678221
+    second: Spell_Orthogonal_12
+  - first:
+      213: 392471333307782952
+    second: Spell_Orthogonal_13
+  - first:
+      213: -5965087242708840749
+    second: Spell_Orthogonal_14
+  - first:
+      213: -6967110772534718431
+    second: Spell_Orthogonal_15
+  - first:
+      213: 6173996835145591200
+    second: Spell_Orthogonal_16
+  - first:
+      213: 6476244103485376252
+    second: Spell_Orthogonal_17
+  - first:
+      213: -9139969834916850051
+    second: Spell_Orthogonal_18
+  - first:
+      213: 7504088828887372218
+    second: Spell_Orthogonal_19
+  - first:
+      213: 8411768886495817221
+    second: Spell_Orthogonal_20
+  - first:
+      213: 5681485777419395686
+    second: Spell_Orthogonal_21
+  - first:
+      213: 7839350620789624988
+    second: Spell_Orthogonal_22
+  - first:
+      213: -2590919593874447188
+    second: Spell_Orthogonal_23
+  - first:
+      213: 3565011486710653060
+    second: Spell_Orthogonal_24
+  - first:
+      213: -5225597835806485727
+    second: Spell_Orthogonal_25
+  - first:
+      213: 3987862601753139078
+    second: Spell_Orthogonal_26
+  - first:
+      213: -4228442508549021716
+    second: Spell_Orthogonal_27
+  - first:
+      213: 8679296513144610505
+    second: Spell_Orthogonal_28
+  - first:
+      213: 585103793313933430
+    second: Spell_Orthogonal_29
+  - first:
+      213: 3726114137825349390
+    second: Spell_Orthogonal_30
+  - first:
+      213: 2055914460643839894
+    second: Spell_Orthogonal_31
+  - first:
+      213: -5383694535390052649
+    second: Spell_Orthogonal_32
+  - first:
+      213: -2377936390199949608
+    second: Spell_Orthogonal_33
+  - first:
+      213: -5585150062758506046
+    second: Spell_Orthogonal_34
+  - first:
+      213: -3034908817089733000
+    second: Spell_Orthogonal_35
+  - first:
+      213: 1776046116007749884
+    second: Spell_Orthogonal_36
+  - first:
+      213: -2503946573761542953
+    second: Spell_Orthogonal_37
+  - first:
+      213: 6210362883493942826
+    second: Spell_Orthogonal_38
+  - first:
+      213: -88023820454702211
+    second: Spell_Orthogonal_39
+  - first:
+      213: -5423545421453973868
+    second: Spell_Orthogonal_40
+  - first:
+      213: -629442502791040535
+    second: Spell_Orthogonal_41
+  - first:
+      213: -1093393978525278979
+    second: Spell_Orthogonal_42
+  - first:
+      213: -4501937990046929794
+    second: Spell_Orthogonal_43
+  - first:
+      213: 9221228630817999110
+    second: Spell_Orthogonal_44
+  - first:
+      213: -7530900353185288277
+    second: Spell_Orthogonal_45
+  - first:
+      213: 5906130335243498926
+    second: Spell_Orthogonal_46
+  - first:
+      213: -1316771470105341197
+    second: Spell_Orthogonal_47
+  - first:
+      213: -6080957510703853206
+    second: Spell_Orthogonal_48
+  - first:
+      213: 8871385956172007653
+    second: Spell_Orthogonal_49
+  - first:
+      213: 5760827747174842391
+    second: Spell_Orthogonal_50
+  - first:
+      213: -2172064196644739464
+    second: Spell_Orthogonal_51
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Spell_Orthogonal_0
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 108
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6e3a4031cd1284c0800000000000000
+      internalID: -4286831179727225234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spell_Orthogonal_1
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 108
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 139892d29cf49bbd0800000000000000
+      internalID: -2613970383247144655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spell_Orthogonal_2
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 108
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 526dffd46faab86e0800000000000000
+      internalID: -1834184448376056283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spell_Orthogonal_3
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 108
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14a54b70a9c0242a0800000000000000
+      internalID: -6754822635408565695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spell_Orthogonal_4
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 108
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc067656109ff7570800000000000000
+      internalID: 8466759608871379147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spell_Orthogonal_5
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 108
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3db6fe92808fa3ef0800000000000000
+      internalID: -127516925479654445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spell_Orthogonal_6
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 108
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 137441a0d8350ed10800000000000000
+      internalID: 2152812487107692337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spell_Orthogonal_7
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 108
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 691aecebce4222660800000000000000
+      internalID: 7359485340308906390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spell_Orthogonal_8
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 107
+        width: 21
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0f82af82ae2232d0800000000000000
+      internalID: -3300524301179777269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spell_Orthogonal_9
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 107
+        width: 24
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 628573bf6128d49a0800000000000000
+      internalID: -6247194072877410266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spell_Orthogonal_10
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 107
+        width: 23
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a707a6073e2807140800000000000000
+      internalID: 4715412723212120186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spell_Orthogonal_11
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 108
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a42738a9d4dece390800000000000000
+      internalID: -7787588738069859766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spell_Orthogonal_12
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 108
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d498b3b7cdcf9b210800000000000000
+      internalID: 1349387587264678221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spell_Orthogonal_13
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 76
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82795562996527500800000000000000
+      internalID: 392471333307782952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spell_Orthogonal_14
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 76
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3de0024d1c0c73da0800000000000000
+      internalID: -5965087242708840749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spell_Orthogonal_15
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 76
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 120554c6aa9df4f90800000000000000
+      internalID: -6967110772534718431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spell_Orthogonal_16
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 76
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a92d3b09617ea550800000000000000
+      internalID: 6173996835145591200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spell_Orthogonal_17
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 76
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf6c6f213bd30e950800000000000000
+      internalID: 6476244103485376252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spell_Orthogonal_18
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 76
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d76defb5cdd482180800000000000000
+      internalID: -9139969834916850051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spell_Orthogonal_19
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 76
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab11fc01801e32860800000000000000
+      internalID: 7504088828887372218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spell_Orthogonal_20
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 76
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50e244c1c3b9cb470800000000000000
+      internalID: 8411768886495817221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spell_Orthogonal_21
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 75
+        width: 21
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66264877631b8de40800000000000000
+      internalID: 5681485777419395686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spell_Orthogonal_22
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 75
+        width: 24
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9057eddad7facc60800000000000000
+      internalID: 7839350620789624988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spell_Orthogonal_23
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 75
+        width: 23
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca4a38d4b543b0cd0800000000000000
+      internalID: -2590919593874447188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spell_Orthogonal_24
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 76
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48063951f07797130800000000000000
+      internalID: 3565011486710653060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spell_Orthogonal_25
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 76
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12354b96472fa77b0800000000000000
+      internalID: -5225597835806485727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spell_Orthogonal_26
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 44
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6879f8e58ebb75730800000000000000
+      internalID: 3987862601753139078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spell_Orthogonal_27
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 44
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cef16c411fd8155c0800000000000000
+      internalID: -4228442508549021716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spell_Orthogonal_28
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 44
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ce554e913e037870800000000000000
+      internalID: 8679296513144610505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spell_Orthogonal_29
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 44
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 678e53dccc4be1800800000000000000
+      internalID: 585103793313933430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spell_Orthogonal_30
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 44
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0f04a90111d5b330800000000000000
+      internalID: 3726114137825349390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spell_Orthogonal_31
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 44
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69fc34b2f43188c10800000000000000
+      internalID: 2055914460643839894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spell_Orthogonal_32
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 44
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7de3dd618564945b0800000000000000
+      internalID: -5383694535390052649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spell_Orthogonal_33
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 44
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d648a3b37fdffed0800000000000000
+      internalID: -2377936390199949608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spell_Orthogonal_34
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 36
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c1570cfb9f8d72b0800000000000000
+      internalID: -5585150062758506046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spell_Orthogonal_35
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 31
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87e5aafa286d1e5d0800000000000000
+      internalID: -3034908817089733000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spell_Orthogonal_36
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 31
+        width: 13
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf8aa595888c5a810800000000000000
+      internalID: 1776046116007749884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spell_Orthogonal_37
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 44
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d4036e8bd1304dd0800000000000000
+      internalID: -2503946573761542953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spell_Orthogonal_38
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 44
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a265dec7324af2650800000000000000
+      internalID: 6210362883493942826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spell_Orthogonal_39
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 12
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d73560a3dc647cef0800000000000000
+      internalID: -88023820454702211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spell_Orthogonal_40
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 12
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4962a03ac22bbb4b0800000000000000
+      internalID: -5423545421453973868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spell_Orthogonal_41
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 12
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e17b9ee065c347f0800000000000000
+      internalID: -629442502791040535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spell_Orthogonal_42
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 12
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfc137638fb73d0f0800000000000000
+      internalID: -1093393978525278979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spell_Orthogonal_43
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 12
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7caa661047e581c0800000000000000
+      internalID: -4501937990046929794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spell_Orthogonal_44
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 12
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6098194659268ff70800000000000000
+      internalID: 9221228630817999110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spell_Orthogonal_45
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 12
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bafe689770edc7790800000000000000
+      internalID: -7530900353185288277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spell_Orthogonal_46
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 12
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea5f8557f3ac6f150800000000000000
+      internalID: 5906130335243498926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spell_Orthogonal_47
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 7
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f290021353e9bde0800000000000000
+      internalID: -1316771470105341197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spell_Orthogonal_48
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 12
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a61d040cc591c9ba0800000000000000
+      internalID: -6080957510703853206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spell_Orthogonal_49
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 12
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e88507468e7d1b70800000000000000
+      internalID: 8871385956172007653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spell_Orthogonal_50
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 12
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 710029a505292ff40800000000000000
+      internalID: 5760827747174842391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spell_Orthogonal_51
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 12
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87665a90f174bd1e0800000000000000
+      internalID: -2172064196644739464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Spell_Orthogonal_0: -4286831179727225234
+      Spell_Orthogonal_1: -2613970383247144655
+      Spell_Orthogonal_10: 4715412723212120186
+      Spell_Orthogonal_11: -7787588738069859766
+      Spell_Orthogonal_12: 1349387587264678221
+      Spell_Orthogonal_13: 392471333307782952
+      Spell_Orthogonal_14: -5965087242708840749
+      Spell_Orthogonal_15: -6967110772534718431
+      Spell_Orthogonal_16: 6173996835145591200
+      Spell_Orthogonal_17: 6476244103485376252
+      Spell_Orthogonal_18: -9139969834916850051
+      Spell_Orthogonal_19: 7504088828887372218
+      Spell_Orthogonal_2: -1834184448376056283
+      Spell_Orthogonal_20: 8411768886495817221
+      Spell_Orthogonal_21: 5681485777419395686
+      Spell_Orthogonal_22: 7839350620789624988
+      Spell_Orthogonal_23: -2590919593874447188
+      Spell_Orthogonal_24: 3565011486710653060
+      Spell_Orthogonal_25: -5225597835806485727
+      Spell_Orthogonal_26: 3987862601753139078
+      Spell_Orthogonal_27: -4228442508549021716
+      Spell_Orthogonal_28: 8679296513144610505
+      Spell_Orthogonal_29: 585103793313933430
+      Spell_Orthogonal_3: -6754822635408565695
+      Spell_Orthogonal_30: 3726114137825349390
+      Spell_Orthogonal_31: 2055914460643839894
+      Spell_Orthogonal_32: -5383694535390052649
+      Spell_Orthogonal_33: -2377936390199949608
+      Spell_Orthogonal_34: -5585150062758506046
+      Spell_Orthogonal_35: -3034908817089733000
+      Spell_Orthogonal_36: 1776046116007749884
+      Spell_Orthogonal_37: -2503946573761542953
+      Spell_Orthogonal_38: 6210362883493942826
+      Spell_Orthogonal_39: -88023820454702211
+      Spell_Orthogonal_4: 8466759608871379147
+      Spell_Orthogonal_40: -5423545421453973868
+      Spell_Orthogonal_41: -629442502791040535
+      Spell_Orthogonal_42: -1093393978525278979
+      Spell_Orthogonal_43: -4501937990046929794
+      Spell_Orthogonal_44: 9221228630817999110
+      Spell_Orthogonal_45: -7530900353185288277
+      Spell_Orthogonal_46: 5906130335243498926
+      Spell_Orthogonal_47: -1316771470105341197
+      Spell_Orthogonal_48: -6080957510703853206
+      Spell_Orthogonal_49: 8871385956172007653
+      Spell_Orthogonal_5: -127516925479654445
+      Spell_Orthogonal_50: 5760827747174842391
+      Spell_Orthogonal_51: -2172064196644739464
+      Spell_Orthogonal_6: 2152812487107692337
+      Spell_Orthogonal_7: 7359485340308906390
+      Spell_Orthogonal_8: -3300524301179777269
+      Spell_Orthogonal_9: -6247194072877410266
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

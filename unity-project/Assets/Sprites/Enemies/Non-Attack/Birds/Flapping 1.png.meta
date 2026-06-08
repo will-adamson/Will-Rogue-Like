@@ -1,0 +1,533 @@
+fileFormatVersion: 2
+guid: 2a8d518dddc50400098a36f57c71e8b9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7023789991333279155
+    second: Minifantasy_MidBirdFlapping_0
+  - first:
+      213: 9190902936043157807
+    second: Minifantasy_MidBirdFlapping_1
+  - first:
+      213: -4244077902994206046
+    second: Minifantasy_MidBirdFlapping_2
+  - first:
+      213: -2523056225328709242
+    second: Minifantasy_MidBirdFlapping_3
+  - first:
+      213: -7439228155273239372
+    second: Minifantasy_MidBirdFlapping_4
+  - first:
+      213: -242206626124391110
+    second: Minifantasy_MidBirdFlapping_5
+  - first:
+      213: 7956773594870977592
+    second: Minifantasy_MidBirdFlapping_6
+  - first:
+      213: 4287530520783302588
+    second: Minifantasy_MidBirdFlapping_7
+  - first:
+      213: 2720978288513773897
+    second: Minifantasy_MidBirdFlapping_8
+  - first:
+      213: 1204138497253131052
+    second: Minifantasy_MidBirdFlapping_9
+  - first:
+      213: 4218816167586537185
+    second: Minifantasy_MidBirdFlapping_10
+  - first:
+      213: -612455535464449560
+    second: Minifantasy_MidBirdFlapping_11
+  - first:
+      213: -3436889996909091950
+    second: Minifantasy_MidBirdFlapping_12
+  - first:
+      213: 1633500413676159864
+    second: Minifantasy_MidBirdFlapping_13
+  - first:
+      213: -1104100986544128041
+    second: Minifantasy_MidBirdFlapping_14
+  - first:
+      213: -479353834151598159
+    second: Minifantasy_MidBirdFlapping_15
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Minifantasy_MidBirdFlapping_0
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 116
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b53d5298c3897160800000000000000
+      internalID: 7023789991333279155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MidBirdFlapping_1
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 117
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2972fb5685ac8f70800000000000000
+      internalID: 9190902936043157807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MidBirdFlapping_2
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 116
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a212f022a10a15c0800000000000000
+      internalID: -4244077902994206046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MidBirdFlapping_3
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 117
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 681c1f41bbd4cfcd0800000000000000
+      internalID: -2523056225328709242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MidBirdFlapping_4
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 84
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b4aad1586d82c890800000000000000
+      internalID: -7439228155273239372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MidBirdFlapping_5
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 85
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3d1c975b5283acf0800000000000000
+      internalID: -242206626124391110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MidBirdFlapping_6
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 84
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8341e708d632c6e60800000000000000
+      internalID: 7956773594870977592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MidBirdFlapping_7
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 85
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbf2fe6da4e508b30800000000000000
+      internalID: 4287530520783302588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MidBirdFlapping_8
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 52
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 941f968465bd2c520800000000000000
+      internalID: 2720978288513773897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MidBirdFlapping_9
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 53
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c23452d5595f5b010800000000000000
+      internalID: 1204138497253131052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MidBirdFlapping_10
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 52
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ee9ba1c3fe3c8a30800000000000000
+      internalID: 4218816167586537185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MidBirdFlapping_11
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 53
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e97be77fee1087f0800000000000000
+      internalID: -612455535464449560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MidBirdFlapping_12
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 20
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 293e32ad1c6bd40d0800000000000000
+      internalID: -3436889996909091950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MidBirdFlapping_13
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 21
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8730f99b8fb5ba610800000000000000
+      internalID: 1633500413676159864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MidBirdFlapping_14
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 20
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7dff0e4a0027da0f0800000000000000
+      internalID: -1104100986544128041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MidBirdFlapping_15
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 21
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b72ca14a3ef859f0800000000000000
+      internalID: -479353834151598159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Minifantasy_MidBirdFlapping_0: 7023789991333279155
+      Minifantasy_MidBirdFlapping_1: 9190902936043157807
+      Minifantasy_MidBirdFlapping_10: 4218816167586537185
+      Minifantasy_MidBirdFlapping_11: -612455535464449560
+      Minifantasy_MidBirdFlapping_12: -3436889996909091950
+      Minifantasy_MidBirdFlapping_13: 1633500413676159864
+      Minifantasy_MidBirdFlapping_14: -1104100986544128041
+      Minifantasy_MidBirdFlapping_15: -479353834151598159
+      Minifantasy_MidBirdFlapping_2: -4244077902994206046
+      Minifantasy_MidBirdFlapping_3: -2523056225328709242
+      Minifantasy_MidBirdFlapping_4: -7439228155273239372
+      Minifantasy_MidBirdFlapping_5: -242206626124391110
+      Minifantasy_MidBirdFlapping_6: 7956773594870977592
+      Minifantasy_MidBirdFlapping_7: 4287530520783302588
+      Minifantasy_MidBirdFlapping_8: 2720978288513773897
+      Minifantasy_MidBirdFlapping_9: 1204138497253131052
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

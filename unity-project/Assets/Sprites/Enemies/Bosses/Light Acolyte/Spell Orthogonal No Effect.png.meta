@@ -1,0 +1,1469 @@
+fileFormatVersion: 2
+guid: 18a99ae7fa4714521a28d2da165ee82e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6796771281141769647
+    second: Spell__Orthogonal_No_Effect_0
+  - first:
+      213: -6908858215385735099
+    second: Spell__Orthogonal_No_Effect_1
+  - first:
+      213: 2211352447253820145
+    second: Spell__Orthogonal_No_Effect_2
+  - first:
+      213: 8281559200422277684
+    second: Spell__Orthogonal_No_Effect_3
+  - first:
+      213: 1428140933558537780
+    second: Spell__Orthogonal_No_Effect_4
+  - first:
+      213: -1450817206508757313
+    second: Spell__Orthogonal_No_Effect_5
+  - first:
+      213: 5713986986400026878
+    second: Spell__Orthogonal_No_Effect_6
+  - first:
+      213: -7832922147558285445
+    second: Spell__Orthogonal_No_Effect_7
+  - first:
+      213: 2903611339695893623
+    second: Spell__Orthogonal_No_Effect_8
+  - first:
+      213: 56674323064935230
+    second: Spell__Orthogonal_No_Effect_9
+  - first:
+      213: -6452180254208349780
+    second: Spell__Orthogonal_No_Effect_10
+  - first:
+      213: -8810392844495111767
+    second: Spell__Orthogonal_No_Effect_11
+  - first:
+      213: -8537564738676397639
+    second: Spell__Orthogonal_No_Effect_12
+  - first:
+      213: -3967369239112070026
+    second: Spell__Orthogonal_No_Effect_13
+  - first:
+      213: -6556422600377708164
+    second: Spell__Orthogonal_No_Effect_14
+  - first:
+      213: 8722405051761566030
+    second: Spell__Orthogonal_No_Effect_15
+  - first:
+      213: -8723381183955358832
+    second: Spell__Orthogonal_No_Effect_16
+  - first:
+      213: 4553218715338244484
+    second: Spell__Orthogonal_No_Effect_17
+  - first:
+      213: -3770270069698337712
+    second: Spell__Orthogonal_No_Effect_18
+  - first:
+      213: -8810097640731093895
+    second: Spell__Orthogonal_No_Effect_19
+  - first:
+      213: -4324622721663824155
+    second: Spell__Orthogonal_No_Effect_20
+  - first:
+      213: -3159818048858838654
+    second: Spell__Orthogonal_No_Effect_21
+  - first:
+      213: 6509822098013216034
+    second: Spell__Orthogonal_No_Effect_22
+  - first:
+      213: -6700977314296083732
+    second: Spell__Orthogonal_No_Effect_23
+  - first:
+      213: -3600214134853003922
+    second: Spell__Orthogonal_No_Effect_24
+  - first:
+      213: 7565202575039527946
+    second: Spell__Orthogonal_No_Effect_25
+  - first:
+      213: -8497857578378568819
+    second: Spell__Orthogonal_No_Effect_26
+  - first:
+      213: -8862871941517539420
+    second: Spell__Orthogonal_No_Effect_27
+  - first:
+      213: 1199889003134050989
+    second: Spell__Orthogonal_No_Effect_28
+  - first:
+      213: -7660683502495774783
+    second: Spell__Orthogonal_No_Effect_29
+  - first:
+      213: 3349413995177001597
+    second: Spell__Orthogonal_No_Effect_30
+  - first:
+      213: -346188606570322516
+    second: Spell__Orthogonal_No_Effect_31
+  - first:
+      213: 1891594612483060706
+    second: Spell__Orthogonal_No_Effect_32
+  - first:
+      213: -6224255078032911308
+    second: Spell__Orthogonal_No_Effect_33
+  - first:
+      213: 2816505331683791301
+    second: Spell__Orthogonal_No_Effect_34
+  - first:
+      213: -2543426543250376495
+    second: Spell__Orthogonal_No_Effect_35
+  - first:
+      213: 6629783099557103545
+    second: Spell__Orthogonal_No_Effect_36
+  - first:
+      213: -3804634062026952477
+    second: Spell__Orthogonal_No_Effect_37
+  - first:
+      213: -3066313788828011640
+    second: Spell__Orthogonal_No_Effect_38
+  - first:
+      213: 3654005235653878871
+    second: Spell__Orthogonal_No_Effect_39
+  - first:
+      213: 9043033761502638870
+    second: Spell__Orthogonal_No_Effect_40
+  - first:
+      213: -8397481263921467803
+    second: Spell__Orthogonal_No_Effect_41
+  - first:
+      213: -5476228468924390867
+    second: Spell__Orthogonal_No_Effect_42
+  - first:
+      213: -8939190170634016228
+    second: Spell__Orthogonal_No_Effect_43
+  - first:
+      213: -5441330553607567949
+    second: Spell__Orthogonal_No_Effect_44
+  - first:
+      213: 3202508915457518569
+    second: Spell__Orthogonal_No_Effect_45
+  - first:
+      213: -3749514895977948259
+    second: Spell__Orthogonal_No_Effect_46
+  - first:
+      213: 892379093746787060
+    second: Spell__Orthogonal_No_Effect_47
+  - first:
+      213: 6835236732094820944
+    second: Spell__Orthogonal_No_Effect_48
+  - first:
+      213: -7651761292735744690
+    second: Spell__Orthogonal_No_Effect_49
+  - first:
+      213: -5797592214195101750
+    second: Spell__Orthogonal_No_Effect_50
+  - first:
+      213: -891659055232577000
+    second: Spell__Orthogonal_No_Effect_51
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Spell__Orthogonal_No_Effect_0
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 108
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa52808287bf25e50800000000000000
+      internalID: 6796771281141769647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spell__Orthogonal_No_Effect_1
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 108
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 540e46cce0ece10a0800000000000000
+      internalID: -6908858215385735099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spell__Orthogonal_No_Effect_2
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 108
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f231c3a55d40be10800000000000000
+      internalID: 2211352447253820145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spell__Orthogonal_No_Effect_3
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 108
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 432b98717320ee270800000000000000
+      internalID: 8281559200422277684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spell__Orthogonal_No_Effect_4
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 108
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43e83f9cc96c1d310800000000000000
+      internalID: 1428140933558537780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spell__Orthogonal_No_Effect_5
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 108
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbe550cff69addbe0800000000000000
+      internalID: -1450817206508757313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spell__Orthogonal_No_Effect_6
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 108
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef0149fd3e82c4f40800000000000000
+      internalID: 5713986986400026878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spell__Orthogonal_No_Effect_7
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 108
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7f9f71becedb4390800000000000000
+      internalID: -7832922147558285445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spell__Orthogonal_No_Effect_8
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 108
+        width: 19
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77cae542123bb4820800000000000000
+      internalID: 2903611339695893623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spell__Orthogonal_No_Effect_9
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 108
+        width: 23
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e33db2e1ff859c000800000000000000
+      internalID: 56674323064935230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spell__Orthogonal_No_Effect_10
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 108
+        width: 22
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca92f117e304576a0800000000000000
+      internalID: -6452180254208349780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spell__Orthogonal_No_Effect_11
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 108
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a9b93c23623bb580800000000000000
+      internalID: -8810392844495111767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spell__Orthogonal_No_Effect_12
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 108
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b9ea48aa1a748980800000000000000
+      internalID: -8537564738676397639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spell__Orthogonal_No_Effect_13
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 76
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67cc9e172b211f8c0800000000000000
+      internalID: -3967369239112070026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spell__Orthogonal_No_Effect_14
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 76
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c71d423e168e205a0800000000000000
+      internalID: -6556422600377708164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spell__Orthogonal_No_Effect_15
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 76
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4122596e253c0970800000000000000
+      internalID: 8722405051761566030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spell__Orthogonal_No_Effect_16
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 76
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09ba30a180350f680800000000000000
+      internalID: -8723381183955358832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spell__Orthogonal_No_Effect_17
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 76
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48185603c48403f30800000000000000
+      internalID: 4553218715338244484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spell__Orthogonal_No_Effect_18
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 76
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 054e75ce85f4dabc0800000000000000
+      internalID: -3770270069698337712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spell__Orthogonal_No_Effect_19
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 76
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97457b7afde3cb580800000000000000
+      internalID: -8810097640731093895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spell__Orthogonal_No_Effect_20
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 76
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ee05a72c8adbf3c0800000000000000
+      internalID: -4324622721663824155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spell__Orthogonal_No_Effect_21
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 76
+        width: 19
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 289a6ead9321624d0800000000000000
+      internalID: -3159818048858838654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spell__Orthogonal_No_Effect_22
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 76
+        width: 23
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22dd01725b8875a50800000000000000
+      internalID: 6509822098013216034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spell__Orthogonal_No_Effect_23
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 76
+        width: 22
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cea4e6dc2a85103a0800000000000000
+      internalID: -6700977314296083732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spell__Orthogonal_No_Effect_24
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 76
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e651fb0b158790ec0800000000000000
+      internalID: -3600214134853003922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spell__Orthogonal_No_Effect_25
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 76
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0cf91be8affcf860800000000000000
+      internalID: 7565202575039527946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spell__Orthogonal_No_Effect_26
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 44
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8b52e85e8b811a80800000000000000
+      internalID: -8497857578378568819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spell__Orthogonal_No_Effect_27
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 44
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a7021c3de0c00580800000000000000
+      internalID: -8862871941517539420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spell__Orthogonal_No_Effect_28
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 44
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da2e3b9e0bcd6a010800000000000000
+      internalID: 1199889003134050989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spell__Orthogonal_No_Effect_29
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 44
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c74b0941f8cfa590800000000000000
+      internalID: -7660683502495774783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spell__Orthogonal_No_Effect_30
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 44
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d724f3c58428b7e20800000000000000
+      internalID: 3349413995177001597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spell__Orthogonal_No_Effect_31
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 44
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca5a618eb47123bf0800000000000000
+      internalID: -346188606570322516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spell__Orthogonal_No_Effect_32
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 44
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e37818274b404a10800000000000000
+      internalID: 1891594612483060706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spell__Orthogonal_No_Effect_33
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 44
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4345d6aebf00f99a0800000000000000
+      internalID: -6224255078032911308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spell__Orthogonal_No_Effect_34
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 37
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c1910b3dac361720800000000000000
+      internalID: 2816505331683791301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spell__Orthogonal_No_Effect_35
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 32
+        width: 14
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d8f249d80fe3bcd0800000000000000
+      internalID: -2543426543250376495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spell__Orthogonal_No_Effect_36
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 32
+        width: 13
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b74dfa5a98b10c50800000000000000
+      internalID: 6629783099557103545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spell__Orthogonal_No_Effect_37
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 44
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e038887a79333bc0800000000000000
+      internalID: -3804634062026952477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spell__Orthogonal_No_Effect_38
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 44
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8833607ead34275d0800000000000000
+      internalID: -3066313788828011640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spell__Orthogonal_No_Effect_39
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 12
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 754219ee662a5b230800000000000000
+      internalID: 3654005235653878871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spell__Orthogonal_No_Effect_40
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 12
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 613ba364b4f4f7d70800000000000000
+      internalID: 9043033761502638870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spell__Orthogonal_No_Effect_41
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 12
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56e66ff3847267b80800000000000000
+      internalID: -8397481263921467803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spell__Orthogonal_No_Effect_42
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 12
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2261e8c8378004b0800000000000000
+      internalID: -5476228468924390867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spell__Orthogonal_No_Effect_43
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 12
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1a22b3d6ed91f380800000000000000
+      internalID: -8939190170634016228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spell__Orthogonal_No_Effect_44
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 12
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b5cdbed0b28c74b0800000000000000
+      internalID: -5441330553607567949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spell__Orthogonal_No_Effect_45
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 12
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ebedd714e8917c20800000000000000
+      internalID: 3202508915457518569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spell__Orthogonal_No_Effect_46
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 12
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9bd231611c07fbc0800000000000000
+      internalID: -3749514895977948259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spell__Orthogonal_No_Effect_47
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 8
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f223c7ce0e526c00800000000000000
+      internalID: 892379093746787060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spell__Orthogonal_No_Effect_48
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 12
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 052b63cd793abde50800000000000000
+      internalID: 6835236732094820944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spell__Orthogonal_No_Effect_49
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 12
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e45f66025ab7fc590800000000000000
+      internalID: -7651761292735744690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spell__Orthogonal_No_Effect_50
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 12
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acf94502990da8fa0800000000000000
+      internalID: -5797592214195101750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spell__Orthogonal_No_Effect_51
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 12
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8121a1040d030a3f0800000000000000
+      internalID: -891659055232577000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Spell__Orthogonal_No_Effect_0: 6796771281141769647
+      Spell__Orthogonal_No_Effect_1: -6908858215385735099
+      Spell__Orthogonal_No_Effect_10: -6452180254208349780
+      Spell__Orthogonal_No_Effect_11: -8810392844495111767
+      Spell__Orthogonal_No_Effect_12: -8537564738676397639
+      Spell__Orthogonal_No_Effect_13: -3967369239112070026
+      Spell__Orthogonal_No_Effect_14: -6556422600377708164
+      Spell__Orthogonal_No_Effect_15: 8722405051761566030
+      Spell__Orthogonal_No_Effect_16: -8723381183955358832
+      Spell__Orthogonal_No_Effect_17: 4553218715338244484
+      Spell__Orthogonal_No_Effect_18: -3770270069698337712
+      Spell__Orthogonal_No_Effect_19: -8810097640731093895
+      Spell__Orthogonal_No_Effect_2: 2211352447253820145
+      Spell__Orthogonal_No_Effect_20: -4324622721663824155
+      Spell__Orthogonal_No_Effect_21: -3159818048858838654
+      Spell__Orthogonal_No_Effect_22: 6509822098013216034
+      Spell__Orthogonal_No_Effect_23: -6700977314296083732
+      Spell__Orthogonal_No_Effect_24: -3600214134853003922
+      Spell__Orthogonal_No_Effect_25: 7565202575039527946
+      Spell__Orthogonal_No_Effect_26: -8497857578378568819
+      Spell__Orthogonal_No_Effect_27: -8862871941517539420
+      Spell__Orthogonal_No_Effect_28: 1199889003134050989
+      Spell__Orthogonal_No_Effect_29: -7660683502495774783
+      Spell__Orthogonal_No_Effect_3: 8281559200422277684
+      Spell__Orthogonal_No_Effect_30: 3349413995177001597
+      Spell__Orthogonal_No_Effect_31: -346188606570322516
+      Spell__Orthogonal_No_Effect_32: 1891594612483060706
+      Spell__Orthogonal_No_Effect_33: -6224255078032911308
+      Spell__Orthogonal_No_Effect_34: 2816505331683791301
+      Spell__Orthogonal_No_Effect_35: -2543426543250376495
+      Spell__Orthogonal_No_Effect_36: 6629783099557103545
+      Spell__Orthogonal_No_Effect_37: -3804634062026952477
+      Spell__Orthogonal_No_Effect_38: -3066313788828011640
+      Spell__Orthogonal_No_Effect_39: 3654005235653878871
+      Spell__Orthogonal_No_Effect_4: 1428140933558537780
+      Spell__Orthogonal_No_Effect_40: 9043033761502638870
+      Spell__Orthogonal_No_Effect_41: -8397481263921467803
+      Spell__Orthogonal_No_Effect_42: -5476228468924390867
+      Spell__Orthogonal_No_Effect_43: -8939190170634016228
+      Spell__Orthogonal_No_Effect_44: -5441330553607567949
+      Spell__Orthogonal_No_Effect_45: 3202508915457518569
+      Spell__Orthogonal_No_Effect_46: -3749514895977948259
+      Spell__Orthogonal_No_Effect_47: 892379093746787060
+      Spell__Orthogonal_No_Effect_48: 6835236732094820944
+      Spell__Orthogonal_No_Effect_49: -7651761292735744690
+      Spell__Orthogonal_No_Effect_5: -1450817206508757313
+      Spell__Orthogonal_No_Effect_50: -5797592214195101750
+      Spell__Orthogonal_No_Effect_51: -891659055232577000
+      Spell__Orthogonal_No_Effect_6: 5713986986400026878
+      Spell__Orthogonal_No_Effect_7: -7832922147558285445
+      Spell__Orthogonal_No_Effect_8: 2903611339695893623
+      Spell__Orthogonal_No_Effect_9: 56674323064935230
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

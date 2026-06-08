@@ -1,0 +1,845 @@
+fileFormatVersion: 2
+guid: bd92a50c8919a4a67858c029cd71e1e2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8011491554978639921
+    second: Minifantasy_MidBirdIdle_0
+  - first:
+      213: -2926212861436769047
+    second: Minifantasy_MidBirdIdle_1
+  - first:
+      213: 9139402137258833554
+    second: Minifantasy_MidBirdIdle_2
+  - first:
+      213: 7861961767675023606
+    second: Minifantasy_MidBirdIdle_3
+  - first:
+      213: -5348806879141327830
+    second: Minifantasy_MidBirdIdle_4
+  - first:
+      213: -2853948994574060721
+    second: Minifantasy_MidBirdIdle_5
+  - first:
+      213: -5312095644324718046
+    second: Minifantasy_MidBirdIdle_6
+  - first:
+      213: 5180219678635683441
+    second: Minifantasy_MidBirdIdle_7
+  - first:
+      213: 3226911060298700626
+    second: Minifantasy_MidBirdIdle_8
+  - first:
+      213: -5460713074194979939
+    second: Minifantasy_MidBirdIdle_9
+  - first:
+      213: -3608963992689494210
+    second: Minifantasy_MidBirdIdle_10
+  - first:
+      213: 5286109439401540239
+    second: Minifantasy_MidBirdIdle_11
+  - first:
+      213: -5351345930091960754
+    second: Minifantasy_MidBirdIdle_12
+  - first:
+      213: 4097786713705483682
+    second: Minifantasy_MidBirdIdle_13
+  - first:
+      213: 502318112836048765
+    second: Minifantasy_MidBirdIdle_14
+  - first:
+      213: 2165594840356222180
+    second: Minifantasy_MidBirdIdle_15
+  - first:
+      213: -2900985275498388760
+    second: Minifantasy_MidBirdIdle_16
+  - first:
+      213: 3575687377475346713
+    second: Minifantasy_MidBirdIdle_17
+  - first:
+      213: 6516268081288540514
+    second: Minifantasy_MidBirdIdle_18
+  - first:
+      213: -2333761320000505840
+    second: Minifantasy_MidBirdIdle_19
+  - first:
+      213: 8673241211844729689
+    second: Minifantasy_MidBirdIdle_20
+  - first:
+      213: 8047134237507509786
+    second: Minifantasy_MidBirdIdle_21
+  - first:
+      213: -7089666894266342562
+    second: Minifantasy_MidBirdIdle_22
+  - first:
+      213: -7899645700216568913
+    second: Minifantasy_MidBirdIdle_23
+  - first:
+      213: 6230260461216806768
+    second: Minifantasy_MidBirdIdle_24
+  - first:
+      213: -8872849889221568417
+    second: Minifantasy_MidBirdIdle_25
+  - first:
+      213: -7496049480924993154
+    second: Minifantasy_MidBirdIdle_26
+  - first:
+      213: -7388125212321858197
+    second: Minifantasy_MidBirdIdle_27
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Minifantasy_MidBirdIdle_0
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 44
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1303b8f5f198e2f60800000000000000
+      internalID: 8011491554978639921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MidBirdIdle_1
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 44
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ecc1e008e00467d0800000000000000
+      internalID: -2926212861436769047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MidBirdIdle_2
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 44
+        width: 40
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29632ca32dda5de70800000000000000
+      internalID: 9139402137258833554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MidBirdIdle_3
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 44
+        width: 40
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f0d8ffb29c4b1d60800000000000000
+      internalID: 7861961767675023606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MidBirdIdle_4
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 44
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2c8d9c8b7835c5b0800000000000000
+      internalID: -5348806879141327830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MidBirdIdle_5
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 44
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f437453a28cb468d0800000000000000
+      internalID: -2853948994574060721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MidBirdIdle_6
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 44
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22a102bf725a746b0800000000000000
+      internalID: -5312095644324718046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MidBirdIdle_7
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 44
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17e619b0a56d3e740800000000000000
+      internalID: 5180219678635683441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MidBirdIdle_8
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 44
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25712ee238a48cc20800000000000000
+      internalID: 3226911060298700626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MidBirdIdle_9
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 44
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d93e6402466a734b0800000000000000
+      internalID: -5460713074194979939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MidBirdIdle_10
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 44
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e373198ae526aedc0800000000000000
+      internalID: -3608963992689494210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MidBirdIdle_11
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 44
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8a3e5337880c5940800000000000000
+      internalID: 5286109439401540239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MidBirdIdle_12
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 44
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e46e2aeaa333cb5b0800000000000000
+      internalID: -5351345930091960754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MidBirdIdle_13
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 44
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ad0bbb1e434ed830800000000000000
+      internalID: 4097786713705483682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MidBirdIdle_14
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 12
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7756d789a798f600800000000000000
+      internalID: 502318112836048765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MidBirdIdle_15
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 12
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e4f9d2980dbd0e10800000000000000
+      internalID: 2165594840356222180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MidBirdIdle_16
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 12
+        width: 41
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e2a7431341adb7d0800000000000000
+      internalID: -2900985275498388760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MidBirdIdle_17
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 12
+        width: 40
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 911244a99b46f9130800000000000000
+      internalID: 3575687377475346713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MidBirdIdle_18
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 12
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2617b669b4f6e6a50800000000000000
+      internalID: 6516268081288540514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MidBirdIdle_19
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 12
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 018b2dab170dc9fd0800000000000000
+      internalID: -2333761320000505840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MidBirdIdle_20
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 12
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95b984bedea8d5870800000000000000
+      internalID: 8673241211844729689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MidBirdIdle_21
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 12
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1ed48614f92daf60800000000000000
+      internalID: 8047134237507509786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MidBirdIdle_22
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 12
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e536867b5817c9d90800000000000000
+      internalID: -7089666894266342562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MidBirdIdle_23
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 12
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa3462bf612de5290800000000000000
+      internalID: -7899645700216568913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MidBirdIdle_24
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 12
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0773df051e4567650800000000000000
+      internalID: 6230260461216806768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MidBirdIdle_25
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 12
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f58959f390e4dd480800000000000000
+      internalID: -8872849889221568417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MidBirdIdle_26
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 12
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e79e6be76bea8f790800000000000000
+      internalID: -7496049480924993154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MidBirdIdle_27
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 12
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6db27b634b187990800000000000000
+      internalID: -7388125212321858197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Minifantasy_MidBirdIdle_0: 8011491554978639921
+      Minifantasy_MidBirdIdle_1: -2926212861436769047
+      Minifantasy_MidBirdIdle_10: -3608963992689494210
+      Minifantasy_MidBirdIdle_11: 5286109439401540239
+      Minifantasy_MidBirdIdle_12: -5351345930091960754
+      Minifantasy_MidBirdIdle_13: 4097786713705483682
+      Minifantasy_MidBirdIdle_14: 502318112836048765
+      Minifantasy_MidBirdIdle_15: 2165594840356222180
+      Minifantasy_MidBirdIdle_16: -2900985275498388760
+      Minifantasy_MidBirdIdle_17: 3575687377475346713
+      Minifantasy_MidBirdIdle_18: 6516268081288540514
+      Minifantasy_MidBirdIdle_19: -2333761320000505840
+      Minifantasy_MidBirdIdle_2: 9139402137258833554
+      Minifantasy_MidBirdIdle_20: 8673241211844729689
+      Minifantasy_MidBirdIdle_21: 8047134237507509786
+      Minifantasy_MidBirdIdle_22: -7089666894266342562
+      Minifantasy_MidBirdIdle_23: -7899645700216568913
+      Minifantasy_MidBirdIdle_24: 6230260461216806768
+      Minifantasy_MidBirdIdle_25: -8872849889221568417
+      Minifantasy_MidBirdIdle_26: -7496049480924993154
+      Minifantasy_MidBirdIdle_27: -7388125212321858197
+      Minifantasy_MidBirdIdle_3: 7861961767675023606
+      Minifantasy_MidBirdIdle_4: -5348806879141327830
+      Minifantasy_MidBirdIdle_5: -2853948994574060721
+      Minifantasy_MidBirdIdle_6: -5312095644324718046
+      Minifantasy_MidBirdIdle_7: 5180219678635683441
+      Minifantasy_MidBirdIdle_8: 3226911060298700626
+      Minifantasy_MidBirdIdle_9: -5460713074194979939
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

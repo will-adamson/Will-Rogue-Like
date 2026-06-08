@@ -1,0 +1,1781 @@
+fileFormatVersion: 2
+guid: ab84bd964826340af9cf054e9ea575c5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 695532477673958579
+    second: SupremeElementalAttack_0
+  - first:
+      213: -2161091172558438110
+    second: SupremeElementalAttack_1
+  - first:
+      213: -8191288121703959684
+    second: SupremeElementalAttack_2
+  - first:
+      213: -4065510116672269705
+    second: SupremeElementalAttack_3
+  - first:
+      213: 7910118454606991964
+    second: SupremeElementalAttack_4
+  - first:
+      213: -5785379444590488937
+    second: SupremeElementalAttack_5
+  - first:
+      213: 1739128867191445080
+    second: SupremeElementalAttack_6
+  - first:
+      213: -480126028574380006
+    second: SupremeElementalAttack_7
+  - first:
+      213: 7501749082503349066
+    second: SupremeElementalAttack_8
+  - first:
+      213: 5016202069025575074
+    second: SupremeElementalAttack_9
+  - first:
+      213: 7247487469961149086
+    second: SupremeElementalAttack_10
+  - first:
+      213: 8495281247778895447
+    second: SupremeElementalAttack_11
+  - first:
+      213: -1198144889435396129
+    second: SupremeElementalAttack_12
+  - first:
+      213: 6028128996055105135
+    second: SupremeElementalAttack_13
+  - first:
+      213: 6326475677455863206
+    second: SupremeElementalAttack_14
+  - first:
+      213: 8835641915448793327
+    second: SupremeElementalAttack_15
+  - first:
+      213: 6416966198570628419
+    second: SupremeElementalAttack_16
+  - first:
+      213: -2325988620625966689
+    second: SupremeElementalAttack_17
+  - first:
+      213: -4623383139238011722
+    second: SupremeElementalAttack_18
+  - first:
+      213: 7964477756109337625
+    second: SupremeElementalAttack_19
+  - first:
+      213: -4519331571068163167
+    second: SupremeElementalAttack_20
+  - first:
+      213: -913211910229997041
+    second: SupremeElementalAttack_21
+  - first:
+      213: 8518373410921093029
+    second: SupremeElementalAttack_22
+  - first:
+      213: 4217299392290852938
+    second: SupremeElementalAttack_23
+  - first:
+      213: 8570877739995673965
+    second: SupremeElementalAttack_24
+  - first:
+      213: -5189563607183686094
+    second: SupremeElementalAttack_25
+  - first:
+      213: 5581428244976799541
+    second: SupremeElementalAttack_26
+  - first:
+      213: -3967720891151029331
+    second: SupremeElementalAttack_27
+  - first:
+      213: 8757672720974065761
+    second: SupremeElementalAttack_28
+  - first:
+      213: -7415248605169171614
+    second: SupremeElementalAttack_29
+  - first:
+      213: -6430373553647080635
+    second: SupremeElementalAttack_30
+  - first:
+      213: 5618718803676436804
+    second: SupremeElementalAttack_31
+  - first:
+      213: -574973888006462131
+    second: SupremeElementalAttack_32
+  - first:
+      213: 1651258216297187058
+    second: SupremeElementalAttack_33
+  - first:
+      213: -7020536047734443006
+    second: SupremeElementalAttack_34
+  - first:
+      213: -6946273097388888554
+    second: SupremeElementalAttack_35
+  - first:
+      213: 5575235610884965805
+    second: SupremeElementalAttack_36
+  - first:
+      213: 5641730776600190961
+    second: SupremeElementalAttack_37
+  - first:
+      213: -7442689488006928126
+    second: SupremeElementalAttack_38
+  - first:
+      213: -720078070588215396
+    second: SupremeElementalAttack_39
+  - first:
+      213: 2799222105590438507
+    second: SupremeElementalAttack_40
+  - first:
+      213: 5882398902647095132
+    second: SupremeElementalAttack_41
+  - first:
+      213: -255196358507833470
+    second: SupremeElementalAttack_42
+  - first:
+      213: 5951434456332474212
+    second: SupremeElementalAttack_43
+  - first:
+      213: 2775027093803188575
+    second: SupremeElementalAttack_44
+  - first:
+      213: -5812112457360625675
+    second: SupremeElementalAttack_45
+  - first:
+      213: 5297323266194934200
+    second: SupremeElementalAttack_46
+  - first:
+      213: -1239725346453067985
+    second: SupremeElementalAttack_47
+  - first:
+      213: 3623553567589916999
+    second: SupremeElementalAttack_48
+  - first:
+      213: 4753613905668718467
+    second: SupremeElementalAttack_49
+  - first:
+      213: -3351893057985383945
+    second: SupremeElementalAttack_50
+  - first:
+      213: 6478501860019072637
+    second: SupremeElementalAttack_51
+  - first:
+      213: -1895490464800790834
+    second: SupremeElementalAttack_52
+  - first:
+      213: -217203823378445808
+    second: SupremeElementalAttack_53
+  - first:
+      213: 995113337885322676
+    second: SupremeElementalAttack_54
+  - first:
+      213: 7312742667113140247
+    second: SupremeElementalAttack_55
+  - first:
+      213: -5642128718702141188
+    second: SupremeElementalAttack_56
+  - first:
+      213: -6726805821886056331
+    second: SupremeElementalAttack_57
+  - first:
+      213: 7514458766498850408
+    second: SupremeElementalAttack_58
+  - first:
+      213: 7005732721912699426
+    second: SupremeElementalAttack_59
+  - first:
+      213: 3997459162486631175
+    second: SupremeElementalAttack_60
+  - first:
+      213: 2742314562174221745
+    second: SupremeElementalAttack_61
+  - first:
+      213: -7752918111097598082
+    second: SupremeElementalAttack_62
+  - first:
+      213: -1328072476731776124
+    second: SupremeElementalAttack_63
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SupremeElementalAttack_0
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 157
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bce0857a1707a900800000000000000
+      internalID: 695532477673958579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SupremeElementalAttack_1
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 161
+        width: 9
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2210c6c47034202e0800000000000000
+      internalID: -2161091172558438110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SupremeElementalAttack_2
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 154
+        width: 27
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7375f44ad2b25e80800000000000000
+      internalID: -8191288121703959684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SupremeElementalAttack_3
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 165
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7721ef0c6186497c0800000000000000
+      internalID: -4065510116672269705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SupremeElementalAttack_4
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 151
+        width: 25
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c529c1a23d266cd60800000000000000
+      internalID: 7910118454606991964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SupremeElementalAttack_5
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 162
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79256522c0436bfa0800000000000000
+      internalID: -5785379444590488937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SupremeElementalAttack_6
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 168
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 856d29b8d70a22810800000000000000
+      internalID: 1739128867191445080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SupremeElementalAttack_7
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 151
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a10b76bbbef3659f0800000000000000
+      internalID: -480126028574380006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SupremeElementalAttack_8
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 165
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4389b86b019b1860800000000000000
+      internalID: 7501749082503349066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SupremeElementalAttack_9
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 164
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a059dd64312d9540800000000000000
+      internalID: 5016202069025575074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SupremeElementalAttack_10
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 154
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9af021847f349460800000000000000
+      internalID: 7247487469961149086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SupremeElementalAttack_11
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 164
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 756f5e0f84d45e570800000000000000
+      internalID: 8495281247778895447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SupremeElementalAttack_12
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 152
+        width: 34
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd7e0c332955f5fe0800000000000000
+      internalID: -1198144889435396129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SupremeElementalAttack_13
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 158
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6eb81e226738a350800000000000000
+      internalID: 6028128996055105135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SupremeElementalAttack_14
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 158
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6adc7ea0c182cc750800000000000000
+      internalID: 6326475677455863206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SupremeElementalAttack_15
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 152
+        width: 31
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe890e442818e9a70800000000000000
+      internalID: 8835641915448793327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SupremeElementalAttack_16
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 156
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 345bd7152c4ad0950800000000000000
+      internalID: 6416966198570628419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SupremeElementalAttack_17
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 113
+        width: 9
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f990df35cad68bfd0800000000000000
+      internalID: -2325988620625966689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SupremeElementalAttack_18
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 109
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bc1035d78176dfb0800000000000000
+      internalID: -4623383139238011722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SupremeElementalAttack_19
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 106
+        width: 27
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 914b5625252878e60800000000000000
+      internalID: 7964477756109337625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SupremeElementalAttack_20
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 114
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ab264c61eb1841c0800000000000000
+      internalID: -4519331571068163167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SupremeElementalAttack_21
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 103
+        width: 25
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0ac5162b9e9353f0800000000000000
+      internalID: -913211910229997041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SupremeElementalAttack_22
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 117
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a795162c77573670800000000000000
+      internalID: 8518373410921093029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SupremeElementalAttack_23
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 117
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4097fcf37bd68a30800000000000000
+      internalID: 4217299392290852938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SupremeElementalAttack_24
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 103
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d65beb1e4efd1f670800000000000000
+      internalID: 8570877739995673965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SupremeElementalAttack_25
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 120
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 236858e0567faf7b0800000000000000
+      internalID: -5189563607183686094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SupremeElementalAttack_26
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 116
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53f8c29ca67357d40800000000000000
+      internalID: 5581428244976799541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SupremeElementalAttack_27
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 106
+        width: 19
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dabeb031fd2dfe8c0800000000000000
+      internalID: -3967720891151029331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SupremeElementalAttack_28
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 116
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 160b9c880f0898970800000000000000
+      internalID: 8757672720974065761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SupremeElementalAttack_29
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 112
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2634ea76eaeb71990800000000000000
+      internalID: -7415248605169171614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SupremeElementalAttack_30
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 106
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54bacc19259b2c6a0800000000000000
+      internalID: -6430373553647080635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SupremeElementalAttack_31
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 104
+        width: 17
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44911f19bf2b9fd40800000000000000
+      internalID: 5618718803676436804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SupremeElementalAttack_32
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 104
+        width: 31
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d45ef329b484508f0800000000000000
+      internalID: -574973888006462131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SupremeElementalAttack_33
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 108
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f6c6d659927ae610800000000000000
+      internalID: 1651258216297187058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SupremeElementalAttack_34
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 61
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 204b6f539ab029e90800000000000000
+      internalID: -7020536047734443006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SupremeElementalAttack_35
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 65
+        width: 9
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61e684dbb61e99f90800000000000000
+      internalID: -6946273097388888554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SupremeElementalAttack_36
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 58
+        width: 27
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da508edcf373f5d40800000000000000
+      internalID: 5575235610884965805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SupremeElementalAttack_37
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 69
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ff94a900447b4e40800000000000000
+      internalID: 5641730776600190961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SupremeElementalAttack_38
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 58
+        width: 33
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20920ddf75146b890800000000000000
+      internalID: -7442689488006928126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SupremeElementalAttack_39
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 72
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9f6a085fc4c106f0800000000000000
+      internalID: -720078070588215396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SupremeElementalAttack_40
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 58
+        width: 34
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6a93239ca5d8d620800000000000000
+      internalID: 2799222105590438507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SupremeElementalAttack_41
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 68
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5f7d6bb2aa72a150800000000000000
+      internalID: 5882398902647095132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SupremeElementalAttack_42
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 58
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 287da27934c557cf0800000000000000
+      internalID: -255196358507833470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SupremeElementalAttack_43
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 68
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46797b12b1eb79250800000000000000
+      internalID: 5951434456332474212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SupremeElementalAttack_44
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 56
+        width: 34
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5149386070e28620800000000000000
+      internalID: 2775027093803188575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SupremeElementalAttack_45
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 62
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ffa560938a375fa0800000000000000
+      internalID: -5812112457360625675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SupremeElementalAttack_46
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 62
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b906f5b17fd38940800000000000000
+      internalID: 5297323266194934200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SupremeElementalAttack_47
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 56
+        width: 31
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f27ed91ad5c9bcee0800000000000000
+      internalID: -1239725346453067985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SupremeElementalAttack_48
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 60
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 741ebc475c2794230800000000000000
+      internalID: 3623553567589916999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SupremeElementalAttack_49
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 17
+        width: 9
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38fbdb659aa38f140800000000000000
+      internalID: 4753613905668718467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SupremeElementalAttack_50
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 13
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f1fea9d50fab71d0800000000000000
+      internalID: -3351893057985383945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SupremeElementalAttack_51
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 10
+        width: 27
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7ee42bfd1348e950800000000000000
+      internalID: 6478501860019072637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SupremeElementalAttack_52
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 10
+        width: 33
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec6a86a077dd1b5e0800000000000000
+      internalID: -1895490464800790834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SupremeElementalAttack_53
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 21
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01acbaff5465cfcf0800000000000000
+      internalID: -217203823378445808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SupremeElementalAttack_54
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 10
+        width: 34
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bd68e7fe4a5fcd00800000000000000
+      internalID: 995113337885322676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SupremeElementalAttack_55
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 24
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7101f1f06b41c7560800000000000000
+      internalID: 7312742667113140247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SupremeElementalAttack_56
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 20
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf0aab8d2d123b1b0800000000000000
+      internalID: -5642128718702141188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SupremeElementalAttack_57
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 10
+        width: 19
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 578b371ceb595a2a0800000000000000
+      internalID: -6726805821886056331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SupremeElementalAttack_58
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 20
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 866eb705f68b84860800000000000000
+      internalID: 7514458766498850408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SupremeElementalAttack_59
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 16
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22adfe8eacc593160800000000000000
+      internalID: 7005732721912699426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SupremeElementalAttack_60
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 10
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70b6528cde3d97730800000000000000
+      internalID: 3997459162486631175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SupremeElementalAttack_61
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 8
+        width: 17
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bd76cc9098ae0620800000000000000
+      internalID: 2742314562174221745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SupremeElementalAttack_62
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 8
+        width: 31
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7fc55ffd0a186490800000000000000
+      internalID: -7752918111097598082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SupremeElementalAttack_63
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 12
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 483ed6c6e1db19de0800000000000000
+      internalID: -1328072476731776124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      SupremeElementalAttack_0: 695532477673958579
+      SupremeElementalAttack_1: -2161091172558438110
+      SupremeElementalAttack_10: 7247487469961149086
+      SupremeElementalAttack_11: 8495281247778895447
+      SupremeElementalAttack_12: -1198144889435396129
+      SupremeElementalAttack_13: 6028128996055105135
+      SupremeElementalAttack_14: 6326475677455863206
+      SupremeElementalAttack_15: 8835641915448793327
+      SupremeElementalAttack_16: 6416966198570628419
+      SupremeElementalAttack_17: -2325988620625966689
+      SupremeElementalAttack_18: -4623383139238011722
+      SupremeElementalAttack_19: 7964477756109337625
+      SupremeElementalAttack_2: -8191288121703959684
+      SupremeElementalAttack_20: -4519331571068163167
+      SupremeElementalAttack_21: -913211910229997041
+      SupremeElementalAttack_22: 8518373410921093029
+      SupremeElementalAttack_23: 4217299392290852938
+      SupremeElementalAttack_24: 8570877739995673965
+      SupremeElementalAttack_25: -5189563607183686094
+      SupremeElementalAttack_26: 5581428244976799541
+      SupremeElementalAttack_27: -3967720891151029331
+      SupremeElementalAttack_28: 8757672720974065761
+      SupremeElementalAttack_29: -7415248605169171614
+      SupremeElementalAttack_3: -4065510116672269705
+      SupremeElementalAttack_30: -6430373553647080635
+      SupremeElementalAttack_31: 5618718803676436804
+      SupremeElementalAttack_32: -574973888006462131
+      SupremeElementalAttack_33: 1651258216297187058
+      SupremeElementalAttack_34: -7020536047734443006
+      SupremeElementalAttack_35: -6946273097388888554
+      SupremeElementalAttack_36: 5575235610884965805
+      SupremeElementalAttack_37: 5641730776600190961
+      SupremeElementalAttack_38: -7442689488006928126
+      SupremeElementalAttack_39: -720078070588215396
+      SupremeElementalAttack_4: 7910118454606991964
+      SupremeElementalAttack_40: 2799222105590438507
+      SupremeElementalAttack_41: 5882398902647095132
+      SupremeElementalAttack_42: -255196358507833470
+      SupremeElementalAttack_43: 5951434456332474212
+      SupremeElementalAttack_44: 2775027093803188575
+      SupremeElementalAttack_45: -5812112457360625675
+      SupremeElementalAttack_46: 5297323266194934200
+      SupremeElementalAttack_47: -1239725346453067985
+      SupremeElementalAttack_48: 3623553567589916999
+      SupremeElementalAttack_49: 4753613905668718467
+      SupremeElementalAttack_5: -5785379444590488937
+      SupremeElementalAttack_50: -3351893057985383945
+      SupremeElementalAttack_51: 6478501860019072637
+      SupremeElementalAttack_52: -1895490464800790834
+      SupremeElementalAttack_53: -217203823378445808
+      SupremeElementalAttack_54: 995113337885322676
+      SupremeElementalAttack_55: 7312742667113140247
+      SupremeElementalAttack_56: -5642128718702141188
+      SupremeElementalAttack_57: -6726805821886056331
+      SupremeElementalAttack_58: 7514458766498850408
+      SupremeElementalAttack_59: 7005732721912699426
+      SupremeElementalAttack_6: 1739128867191445080
+      SupremeElementalAttack_60: 3997459162486631175
+      SupremeElementalAttack_61: 2742314562174221745
+      SupremeElementalAttack_62: -7752918111097598082
+      SupremeElementalAttack_63: -1328072476731776124
+      SupremeElementalAttack_7: -480126028574380006
+      SupremeElementalAttack_8: 7501749082503349066
+      SupremeElementalAttack_9: 5016202069025575074
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
