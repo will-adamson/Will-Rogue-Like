@@ -1,25 +1,25 @@
 /*
     Colour system
-    --bg-deep:      #0d0d0f   (page background)
-    --bg-panel:     #16181f   (panel background)
-    --bg-raised:    #1e2130   (raised element)
-    --border:       #2e3550   (default border)
-    --border-hi:    #4a5a8a   (hover / active border)
-    --text-primary: #e8eaf0   (headings, primary labels)
-    --text-body:    #a8b0c8   (body text, values)
-    --text-muted:   #5a6480   (hints, labels)
-    --accent:       #7a9fff   (interactive highlight)
-    --accent-hi:    #a8c4ff   (hover accent)
-    --danger:       #c05050   (destructive action)
-    --danger-hi:    #e06060   (destructive hover)
-    --success:      #50a070   (positive)
-    --gold:         #c8a030   (gold / XP)
+    --bg-deep:      #1c1f2e   page background
+    --bg-panel:     #2a2d3e   panel / card background
+    --bg-raised:    #363a52   raised / hover element
+    --border:       #4a5070   default border
+    --border-hi:    #7a8ab0   hover border
+    --text-primary: #f0f2ff   headings
+    --text-body:    #c8cce0   body text
+    --text-muted:   #8890b0   hints / labels
+    --accent:       #7eb4ff   interactive highlight
+    --accent-hi:    #aed0ff   hover accent
+    --danger:       #e06060   destructive
+    --danger-hi:    #ff8888   destructive hover
+    --success:      #60c888   positive
+    --gold:         #f0c040   gold / XP
 */
 
 .root {
     width: 100%;
     height: 100%;
-    background-color: #0d0d0f;
+    background-color: #1c1f2e;
     align-items: center;
     justify-content: center;
 }
@@ -31,7 +31,7 @@
 
 .title {
     font-size: 52px;
-    color: #e8eaf0;
+    color: #f0f2ff;
     -unity-font-style: bold;
     -unity-text-align: upper-center;
     letter-spacing: 8px;
@@ -40,7 +40,7 @@
 
 .subtitle {
     font-size: 13px;
-    color: #5a6480;
+    color: #8890b0;
     -unity-text-align: upper-center;
     letter-spacing: 5px;
     margin-bottom: 4px;
@@ -48,7 +48,7 @@
 
 .divider {
     height: 1px;
-    background-color: #2e3550;
+    background-color: #4a5070;
     margin-top: 12px;
     margin-bottom: 24px;
 }
@@ -56,60 +56,60 @@
 .btn {
     height: 52px;
     margin-bottom: 10px;
-    background-color: #16181f;
-    border-color: #2e3550;
+    background-color: #2a2d3e;
+    border-color: #4a5070;
     border-width: 1px;
     border-radius: 4px;
-    color: #a8b0c8;
+    color: #c8cce0;
     font-size: 14px;
     letter-spacing: 3px;
     transition-duration: 0.12s;
 }
 
 .btn:hover {
-    background-color: #1e2130;
-    border-color: #7a9fff;
-    color: #e8eaf0;
+    background-color: #363a52;
+    border-color: #7eb4ff;
+    color: #f0f2ff;
 }
 
 .btn:active {
     scale: 0.98;
-    background-color: #252840;
+    background-color: #404466;
 }
 
 .btn-primary {
-    background-color: #1e2a50;
-    border-color: #4a5a8a;
-    color: #a8c4ff;
+    background-color: #2e4070;
+    border-color: #7a8ab0;
+    color: #aed0ff;
 }
 
 .btn-primary:hover {
-    background-color: #263260;
-    border-color: #7a9fff;
-    color: #e8eaf0;
+    background-color: #384880;
+    border-color: #7eb4ff;
+    color: #f0f2ff;
 }
 
 .btn-danger {
-    border-color: #7a3030;
-    color: #c08080;
+    border-color: #905050;
+    color: #e09090;
 }
 
 .btn-danger:hover {
-    background-color: #2a1818;
-    border-color: #c05050;
-    color: #e8a0a0;
+    background-color: #3a2828;
+    border-color: #e06060;
+    color: #ffaaaa;
 }
 
 .version {
     font-size: 11px;
-    color: #2e3550;
+    color: #4a5070;
     -unity-text-align: upper-center;
     margin-top: 20px;
 }
 
 .credit {
     font-size: 10px;
-    color: #2e3550;
+    color: #4a5070;
     -unity-text-align: upper-center;
     margin-top: 4px;
     letter-spacing: 1px;

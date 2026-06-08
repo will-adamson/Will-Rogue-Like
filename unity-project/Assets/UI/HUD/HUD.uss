@@ -12,8 +12,8 @@
     flex-direction: column;
     margin: 8px;
     width: 220px;
-    background-color: rgba(22, 24, 31, 0.95);
-    border-color: #2e3550;
+    background-color: rgba(42, 45, 62, 0.96);
+    border-color: #4a5070;
     border-width: 1px;
     padding: 12px;
 }
@@ -27,8 +27,8 @@
 .char-sprite {
     width: 38px;
     height: 38px;
-    background-color: #0d0d0f;
-    border-color: #2e3550;
+    background-color: #1c1f2e;
+    border-color: #4a5070;
     border-width: 1px;
     margin-right: 10px;
     flex-shrink: 0;
@@ -39,14 +39,14 @@
 
 .char-name {
     font-size: 13px;
-    color: #e8eaf0;
+    color: #f0f2ff;
     -unity-font-style: bold;
     letter-spacing: 2px;
 }
 
 .char-type {
     font-size: 10px;
-    color: #5a6480;
+    color: #8890b0;
     letter-spacing: 1px;
     margin-top: 2px;
 }
@@ -68,15 +68,15 @@
     -unity-font-style: bold;
 }
 
-.bar-icon-hp  { color: #e06060; }
-.bar-icon-sta { color: #60c080; }
-.bar-icon-exp { color: #c8a030; }
+.bar-icon-hp  { color: #ff8080; }
+.bar-icon-sta { color: #60d890; }
+.bar-icon-exp { color: #f0c040; }
 
 .bar-track {
     flex-grow: 1;
     height: 14px;
-    background-color: #0d0d0f;
-    border-color: #2e3550;
+    background-color: #1c1f2e;
+    border-color: #4a5070;
     border-width: 1px;
     overflow: hidden;
 }
@@ -85,13 +85,13 @@
 
 .bar-fill { height: 100%; }
 
-.bar-fill-hp  { background-color: #c05050; }
-.bar-fill-sta { background-color: #50a070; }
-.bar-fill-exp { background-color: #a08020; }
+.bar-fill-hp  { background-color: #c84848; }
+.bar-fill-sta { background-color: #48a868; }
+.bar-fill-exp { background-color: #b08820; }
 
 .bar-num {
     font-size: 10px;
-    color: #a8b0c8;
+    color: #c8cce0;
     width: 54px;
     -unity-text-align: middle-right;
     margin-left: 6px;
@@ -102,7 +102,7 @@
 
 .panel-divider {
     height: 1px;
-    background-color: #2e3550;
+    background-color: #4a5070;
     margin-top: 6px;
     margin-bottom: 8px;
 }
@@ -118,19 +118,19 @@
 
 .stat-key {
     font-size: 10px;
-    color: #5a6480;
+    color: #8890b0;
     -unity-font-style: bold;
 }
 
 .stat-val {
     font-size: 11px;
-    color: #a8b0c8;
+    color: #c8cce0;
     -unity-text-align: middle-right;
 }
 
 .section-title {
     font-size: 9px;
-    color: #4a5a8a;
+    color: #7a8ab0;
     letter-spacing: 3px;
     margin-bottom: 6px;
     -unity-font-style: bold;
@@ -147,12 +147,12 @@
 
 .class-stat-key {
     font-size: 10px;
-    color: #4a5a8a;
+    color: #7a8ab0;
 }
 
 .class-stat-val {
     font-size: 10px;
-    color: #7a9fff;
+    color: #7eb4ff;
     -unity-text-align: middle-right;
 }
 
@@ -164,9 +164,9 @@
     left: 8px;
     width: 420px;
     height: 110px;
-    background-color: rgba(13, 13, 15, 0.90);
+    background-color: rgba(42, 45, 62, 0.92);
     border-width: 1px;
-    border-color: #2e3550;
+    border-color: #4a5070;
     padding: 6px 10px;
     flex-shrink: 0;
 }
@@ -181,21 +181,21 @@
 
 .log-line {
     font-size: 11px;
-    color: #2e3550;
+    color: #4a5070;
     white-space: normal;
     margin-bottom: 2px;
 }
 
-.log-line.log-line-latest            { color: #a8b0c8; }
-.log-line.log-line-damage            { color: #c06060; }
-.log-line.log-line-good              { color: #60a870; }
-.log-line.log-line-gold              { color: #c8a030; }
-.log-line.log-line-system            { color: #5a6480; -unity-font-style: italic; }
+.log-line.log-line-latest            { color: #c8cce0; }
+.log-line.log-line-damage            { color: #d07070; }
+.log-line.log-line-good              { color: #60b878; }
+.log-line.log-line-gold              { color: #d0a830; }
+.log-line.log-line-system            { color: #7a8ab0; -unity-font-style: italic; }
 
-.log-line.log-line-latest.log-line-damage { color: #e08080; }
-.log-line.log-line-latest.log-line-good   { color: #80c890; }
-.log-line.log-line-latest.log-line-gold   { color: #e0b840; }
-.log-line.log-line-latest.log-line-system { color: #7a8aaa; -unity-font-style: italic; }
+.log-line.log-line-latest.log-line-damage { color: #ff9090; }
+.log-line.log-line-latest.log-line-good   { color: #80d898; }
+.log-line.log-line-latest.log-line-gold   { color: #f0c040; }
+.log-line.log-line-latest.log-line-system { color: #a0aad0; -unity-font-style: italic; }
 
 /* ── Minimap ─────────────────────────────────────────────────────────── */
 
@@ -207,15 +207,15 @@
     height: 148px;
     border-radius: 74px;
     border-width: 1px;
-    border-color: #2e3550;
-    background-color: rgba(22, 24, 31, 0.95);
+    border-color: #4a5070;
+    background-color: rgba(42, 45, 62, 0.96);
     align-items: center;
     justify-content: center;
 }
 
 .minimap-zone-label {
     font-size: 8px;
-    color: #4a5a8a;
+    color: #7a8ab0;
     letter-spacing: 2px;
     -unity-text-align: middle-center;
 }
@@ -233,8 +233,8 @@
 .quickslots-row {
     flex-direction: row;
     align-items: center;
-    background-color: rgba(22, 24, 31, 0.95);
-    border-color: #2e3550;
+    background-color: rgba(42, 45, 62, 0.96);
+    border-color: #4a5070;
     border-width: 1px;
     padding: 6px;
 }
@@ -242,8 +242,8 @@
 .quickslot {
     width: 52px;
     height: 52px;
-    background-color: #0d0d0f;
-    border-color: #2e3550;
+    background-color: #1c1f2e;
+    border-color: #4a5070;
     border-width: 1px;
     margin-left: 3px;
     margin-right: 3px;
@@ -254,7 +254,7 @@
 }
 
 .quickslot-selected {
-    border-color: #7a9fff;
+    border-color: #7eb4ff;
     border-width: 2px;
 }
 
@@ -263,7 +263,7 @@
     top: 2px;
     left: 3px;
     font-size: 8px;
-    color: #4a5a8a;
+    color: #7a8ab0;
     -unity-font-style: bold;
 }
 
@@ -281,7 +281,7 @@
     bottom: 2px;
     right: 3px;
     font-size: 8px;
-    color: #a8b0c8;
+    color: #c8cce0;
     -unity-font-style: bold;
     -unity-text-align: lower-right;
 }
@@ -292,17 +292,17 @@
     left: 0;
     right: 0;
     height: 0;
-    background-color: rgba(0, 0, 0, 0.70);
+    background-color: rgba(0, 0, 0, 0.65);
 }
 
 .quickslot-locked {
-    background-color: rgba(13, 13, 15, 0.5);
-    border-color: #1a1d28;
+    background-color: rgba(28, 31, 46, 0.6);
+    border-color: #363a52;
 }
 
 .quickslot-lock-icon {
     font-size: 14px;
-    color: #2e3550;
+    color: #4a5070;
     -unity-text-align: middle-center;
 }
 
@@ -321,8 +321,8 @@
 
 .telegraph-inner {
     flex-direction: column;
-    background-color: rgba(22, 24, 31, 0.95);
-    border-color: #2e3550;
+    background-color: rgba(42, 45, 62, 0.96);
+    border-color: #4a5070;
     border-width: 1px;
     padding: 10px 16px;
     min-width: 260px;
@@ -332,7 +332,7 @@
 
 .telegraph-enemy-name {
     font-size: 9px;
-    color: #5a6480;
+    color: #8890b0;
     letter-spacing: 3px;
     -unity-font-style: bold;
     -unity-text-align: middle-center;
@@ -353,20 +353,20 @@
     flex-shrink: 0;
 }
 
-.telegraph-danger-low    { background-color: #50a070; }
-.telegraph-danger-medium { background-color: #c8a030; }
-.telegraph-danger-high   { background-color: #c05050; }
+.telegraph-danger-low    { background-color: #60c888; }
+.telegraph-danger-medium { background-color: #f0c040; }
+.telegraph-danger-high   { background-color: #e06060; }
 
 .telegraph-attack-name {
     font-size: 12px;
-    color: #e8eaf0;
+    color: #f0f2ff;
     -unity-font-style: bold;
     flex-grow: 1;
 }
 
 .telegraph-timer {
     font-size: 11px;
-    color: #a8b0c8;
+    color: #c8cce0;
     -unity-text-align: middle-right;
     margin-left: 10px;
     flex-shrink: 0;
@@ -374,8 +374,8 @@
 
 .telegraph-bar-track {
     height: 4px;
-    background-color: #0d0d0f;
-    border-color: #2e3550;
+    background-color: #1c1f2e;
+    border-color: #4a5070;
     border-width: 1px;
     overflow: hidden;
 }
@@ -383,12 +383,12 @@
 .telegraph-bar-fill {
     height: 100%;
     width: 100%;
-    background-color: #5a6480;
+    background-color: #7a8ab0;
 }
 
-.telegraph-bar-fill.telegraph-danger-low    { background-color: #50a070; }
-.telegraph-bar-fill.telegraph-danger-medium { background-color: #a08020; }
-.telegraph-bar-fill.telegraph-danger-high   { background-color: #c05050; }
+.telegraph-bar-fill.telegraph-danger-low    { background-color: #48a868; }
+.telegraph-bar-fill.telegraph-danger-medium { background-color: #b08820; }
+.telegraph-bar-fill.telegraph-danger-high   { background-color: #c84848; }
 
 /* ── Status Tray ─────────────────────────────────────────────────────── */
 
@@ -411,8 +411,8 @@
 .tray-slot {
     width: 56px;
     height: 56px;
-    background-color: rgba(22, 24, 31, 0.95);
-    border-color: #2e3550;
+    background-color: rgba(42, 45, 62, 0.96);
+    border-color: #4a5070;
     border-width: 1px;
     margin-left: 4px;
     margin-bottom: 4px;
@@ -422,7 +422,7 @@
     justify-content: center;
 }
 
-.tray-slot-debuff { border-color: #7a3030; }
+.tray-slot-debuff { border-color: #905050; }
 
 .tray-icon {
     position: absolute;
@@ -431,7 +431,7 @@
     right: 4px;
     bottom: 18px;
     -unity-background-scale-mode: scale-to-fit;
-    background-color: #1e2130;
+    background-color: #363a52;
 }
 
 .tray-timer {
@@ -441,10 +441,10 @@
     right: 0;
     height: 18px;
     font-size: 11px;
-    color: #e8eaf0;
+    color: #f0f2ff;
     -unity-text-align: middle-center;
     -unity-font-style: bold;
-    background-color: rgba(0, 0, 0, 0.75);
+    background-color: rgba(0, 0, 0, 0.70);
 }
 
 .tray-stacks {
@@ -452,7 +452,7 @@
     top: 3px;
     right: 4px;
     font-size: 11px;
-    color: #c8a030;
+    color: #f0c040;
     -unity-font-style: bold;
     -unity-text-align: upper-right;
 }

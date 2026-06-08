@@ -1,7 +1,7 @@
 .root {
     width: 100%;
     height: 100%;
-    background-color: #0d0d0f;
+    background-color: #1c1f2e;
     align-items: center;
     justify-content: center;
     padding: 32px;
@@ -9,7 +9,7 @@
 
 .title {
     font-size: 26px;
-    color: #e8eaf0;
+    color: #f0f2ff;
     -unity-font-style: bold;
     -unity-text-align: upper-center;
     letter-spacing: 6px;
@@ -19,7 +19,7 @@
 .divider {
     width: 100%;
     height: 1px;
-    background-color: #2e3550;
+    background-color: #4a5070;
     margin-top: 8px;
     margin-bottom: 24px;
 }
@@ -35,8 +35,8 @@
     margin-left: 10px;
     margin-right: 10px;
     padding: 24px;
-    background-color: #16181f;
-    border-color: #2e3550;
+    background-color: #2a2d3e;
+    border-color: #4a5070;
     border-width: 1px;
     border-radius: 10px;
     align-items: center;
@@ -44,13 +44,13 @@
 }
 
 .card:hover {
-    background-color: #1e2130;
-    border-color: #4a5a8a;
+    background-color: #363a52;
+    border-color: #7a8ab0;
 }
 
 .card-selected {
-    background-color: #1a2040;
-    border-color: #7a9fff;
+    background-color: #2e3a60;
+    border-color: #7eb4ff;
     border-width: 2px;
 }
 
@@ -69,7 +69,7 @@
 
 .card-name {
     font-size: 15px;
-    color: #e8eaf0;
+    color: #f0f2ff;
     -unity-font-style: bold;
     letter-spacing: 3px;
     -unity-text-align: upper-center;
@@ -78,7 +78,7 @@
 
 .card-desc {
     font-size: 12px;
-    color: #a8b0c8;
+    color: #c8cce0;
     -unity-text-align: upper-center;
     white-space: normal;
     margin-bottom: 14px;
@@ -86,7 +86,7 @@
 
 .card-passive {
     font-size: 10px;
-    color: #5a6480;
+    color: #8890b0;
     -unity-text-align: upper-center;
     white-space: normal;
     margin-top: 8px;
@@ -95,8 +95,8 @@
 .info-bar {
     width: 100%;
     padding: 14px 24px;
-    background-color: #16181f;
-    border-color: #2e3550;
+    background-color: #2a2d3e;
+    border-color: #4a5070;
     border-width: 1px;
     border-radius: 6px;
     margin-bottom: 20px;
@@ -105,7 +105,7 @@
 
 .info-text {
     font-size: 13px;
-    color: #a8b0c8;
+    color: #c8cce0;
     letter-spacing: 1px;
     -unity-text-align: upper-center;
 }
@@ -121,34 +121,34 @@
     height: 52px;
     margin-left: 8px;
     margin-right: 8px;
-    background-color: #16181f;
-    border-color: #2e3550;
+    background-color: #2a2d3e;
+    border-color: #4a5070;
     border-width: 1px;
     border-radius: 4px;
-    color: #a8b0c8;
+    color: #c8cce0;
     font-size: 13px;
     letter-spacing: 3px;
     transition-duration: 0.12s;
 }
 
 .btn:hover {
-    background-color: #1e2130;
-    border-color: #7a9fff;
-    color: #e8eaf0;
+    background-color: #363a52;
+    border-color: #7eb4ff;
+    color: #f0f2ff;
 }
 
 .btn:active { scale: 0.98; }
 
 .btn-primary {
-    background-color: #1e2a50;
-    border-color: #4a5a8a;
-    color: #a8c4ff;
+    background-color: #2e4070;
+    border-color: #7a8ab0;
+    color: #aed0ff;
 }
 
 .btn-primary:hover {
-    background-color: #263260;
-    border-color: #7a9fff;
-    color: #e8eaf0;
+    background-color: #384880;
+    border-color: #7eb4ff;
+    color: #f0f2ff;
 }
 
 .card-abilities {
@@ -161,7 +161,7 @@
 
 .card-abilities-title {
     font-size: 9px;
-    color: #4a5a8a;
+    color: #7a8ab0;
     letter-spacing: 3px;
     margin-bottom: 8px;
     -unity-font-style: bold;
@@ -176,8 +176,8 @@
 .card-ability-slot {
     width: 40px;
     height: 40px;
-    background-color: #0d0d0f;
-    border-color: #2e3550;
+    background-color: #1c1f2e;
+    border-color: #4a5070;
     border-width: 1px;
     border-radius: 6px;
     margin-right: 5px;
@@ -188,17 +188,17 @@
 }
 
 .card-ability-slot:hover {
-    border-color: #7a9fff;
+    border-color: #7eb4ff;
 }
 
 .card-ability-slot-empty {
-    border-color: #1a1d28;
-    background-color: rgba(13, 13, 15, 0.5);
+    border-color: #363a52;
+    background-color: rgba(28, 31, 46, 0.5);
 }
 
 .card-ability-name {
     font-size: 7px;
-    color: #5a6480;
+    color: #8890b0;
     -unity-text-align: middle-center;
     white-space: normal;
     margin-top: 2px;
@@ -207,8 +207,8 @@
 
 .ability-tooltip {
     position: absolute;
-    background-color: #16181f;
-    border-color: #7a9fff;
+    background-color: #2a2d3e;
+    border-color: #7eb4ff;
     border-width: 1px;
     border-radius: 4px;
     padding: 6px 10px;
@@ -217,7 +217,7 @@
 
 .ability-tooltip-text {
     font-size: 11px;
-    color: #e8eaf0;
+    color: #f0f2ff;
     letter-spacing: 1px;
     -unity-text-align: middle-center;
     white-space: normal;

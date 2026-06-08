@@ -163,485 +163,441 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Wizard_Die_0
+      name: Die_0
       rect:
         serializedVersion: 2
-        x: 8
-        y: 12
-        width: 13
-        height: 10
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: f0436cad611581770800000000000000
-      internalID: 8581698248556033039
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Wizard_Die_1
-      rect:
-        serializedVersion: 2
-        x: 40
-        y: 12
-        width: 11
-        height: 10
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 89d5a17b4f727e4e0800000000000000
-      internalID: -1952547981444358760
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Wizard_Die_2
-      rect:
-        serializedVersion: 2
-        x: 70
-        y: 12
-        width: 12
-        height: 11
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 4131203ce5d105ad0800000000000000
-      internalID: -2715638282468584684
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Wizard_Die_3
-      rect:
-        serializedVersion: 2
-        x: 101
-        y: 12
-        width: 15
-        height: 15
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 82adab6bfaf137c80800000000000000
-      internalID: -8326276446532478424
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Wizard_Die_4
-      rect:
-        serializedVersion: 2
-        x: 133
-        y: 12
-        width: 17
-        height: 15
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 1b32e6fcc7c5488b0800000000000000
-      internalID: -5150890382679202895
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Wizard_Die_5
-      rect:
-        serializedVersion: 2
-        x: 163
-        y: 12
-        width: 11
-        height: 9
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 368a2f0f3f478e640800000000000000
-      internalID: 5109462368320137315
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Wizard_Die_6
-      rect:
-        serializedVersion: 2
-        x: 172
-        y: 12
-        width: 10
-        height: 19
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 9a9117a857ab2a6c0800000000000000
-      internalID: -4133536493976086103
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Wizard_Die_7
-      rect:
-        serializedVersion: 2
-        x: 194
-        y: 12
+        x: 9
+        y: 13
         width: 11
         height: 8
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: c4b421a7fa2e1e760800000000000000
-      internalID: 7485513298961648460
+      spriteID: 4c3f041f5b02244a3a2ea597f3269156
+      internalID: 1218443433
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Wizard_Die_8
+      name: Die_1
       rect:
         serializedVersion: 2
-        x: 205
-        y: 12
+        x: 41
+        y: 13
         width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5337378bf5bf4f5faa7c2298d7ced3f
+      internalID: -1445136727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Die_2
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 13
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6f16764e49844e5a896ff1fecc4467f
+      internalID: -869282327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Die_3
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 13
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0ea73db88ab841e4bdd61772333a8f7
+      internalID: 492939202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Die_4
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 13
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb3eabeeaabcc4ce78803860c89b547b
+      internalID: -1332340650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Die_5
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 13
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99f9c34aa5351465a9a1e475c8e194bf
+      internalID: -735267847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Die_6
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 13
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b82322696085b43939e5032d5018113d
+      internalID: 859872939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Die_7
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 13
+        width: 19
         height: 18
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: fd5b547ce8e307b30800000000000000
-      internalID: 4282992028578854367
+      spriteID: 11ad4959051844915a353631e2f16c83
+      internalID: 979472434
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Wizard_Die_9
+      name: Die_8
       rect:
         serializedVersion: 2
-        x: 226
-        y: 12
-        width: 19
-        height: 8
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: ab4325b414a1dad20800000000000000
-      internalID: 3291315770416575674
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Wizard_Die_10
-      rect:
-        serializedVersion: 2
-        x: 234
-        y: 18
-        width: 13
-        height: 14
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 60ace97ab37623d20800000000000000
-      internalID: 3256778986455222790
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Wizard_Die_11
-      rect:
-        serializedVersion: 2
-        x: 258
-        y: 12
-        width: 19
-        height: 9
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: ed9e7fa664ed4e280800000000000000
-      internalID: -9014836160065181218
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Wizard_Die_12
-      rect:
-        serializedVersion: 2
-        x: 266
-        y: 22
-        width: 14
-        height: 10
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: a85374be5b84e0d50800000000000000
-      internalID: 6705376841374840202
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Wizard_Die_13
-      rect:
-        serializedVersion: 2
-        x: 297
-        y: 20
-        width: 13
-        height: 12
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 93c01f8b171a13b70800000000000000
-      internalID: 8877053850330139705
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Wizard_Die_14
-      rect:
-        serializedVersion: 2
-        x: 322
-        y: 12
+        x: 259
+        y: 13
         width: 20
-        height: 20
+        height: 18
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 8d95c221ffa514bc0800000000000000
-      internalID: -3800656558955931176
+      spriteID: 9cb2858551ca0443fa2b499ae646f696
+      internalID: -745266771
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Wizard_Die_15
+      name: Die_9
       rect:
         serializedVersion: 2
-        x: 354
-        y: 12
-        width: 21
-        height: 20
+        x: 291
+        y: 13
+        width: 18
+        height: 18
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 6843db995e1cfc780800000000000000
-      internalID: -8660490366539189114
+      spriteID: 7cca4d16680b94a7897b87d653ee26e6
+      internalID: 1374411608
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Wizard_Die_16
+      name: Die_10
       rect:
         serializedVersion: 2
-        x: 290
-        y: 12
+        x: 323
+        y: 13
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5e5171eb28ac452f9ed7fe3d157c07b
+      internalID: -1679992061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Die_11
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 13
         width: 19
-        height: 6
+        height: 18
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: cf3989b145496d660800000000000000
-      internalID: 7410273325845877756
+      spriteID: d51bb5436cf85412bae2b82c51e9ad51
+      internalID: -1257126931
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Wizard_Die_17
+      name: Die_12
       rect:
         serializedVersion: 2
-        x: 386
+        x: 387
+        y: 13
+        width: 18
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddb846fb6398c4add9157aaa9b79b28a
+      internalID: -1576767873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Die_13
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 13
+        width: 10
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccc7be58a92004474ba63bb8461515cb
+      internalID: 476652054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Die_14
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 13
+        width: 10
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c65f2adc16f5b4f178a3e7f8c194e527
+      internalID: -331459206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Die_15
+      rect:
+        serializedVersion: 2
+        x: 483
         y: 12
-        width: 20
-        height: 7
+        width: 10
+        height: 5
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: a8e693ff3c535f000800000000000000
-      internalID: 69020485210959498
+      spriteID: 67a83c12ce6c64eb088ed039ee6d1570
+      internalID: -2026393716
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Wizard_Die_18
+      name: Die_16
       rect:
         serializedVersion: 2
-        x: 418
+        x: 516
         y: 12
-        width: 12
-        height: 6
+        width: 8
+        height: 4
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 02d0233e2206bc440800000000000000
-      internalID: 4957161517808225568
+      spriteID: c25e825be0e7845d193e7fe3de76415a
+      internalID: 1125862194
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Wizard_Die_19
+      name: Die_17
       rect:
         serializedVersion: 2
-        x: 450
+        x: 549
         y: 12
-        width: 12
-        height: 6
+        width: 7
+        height: 3
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 34607105fc4ffb3a0800000000000000
-      internalID: -6647325353736468925
+      spriteID: b02a9a0158849421d99e9e2b9574c46a
+      internalID: -475972150
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Wizard_Die_20
+      name: Die_18
       rect:
         serializedVersion: 2
-        x: 482
-        y: 11
-        width: 12
-        height: 7
+        x: 583
+        y: 12
+        width: 4
+        height: 2
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: b3f20612759d0d150800000000000000
-      internalID: 5895450880473313083
+      spriteID: 6bf8f99f71a2a438d80328f3906e23ec
+      internalID: -1623477967
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Wizard_Die_21
+      name: Die_19
       rect:
         serializedVersion: 2
-        x: 515
-        y: 11
-        width: 104
-        height: 6
+        x: 616
+        y: 12
+        width: 2
+        height: 2
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 97cc5eff6e6e16b70800000000000000
-      internalID: 8890641019216186489
+      spriteID: 12ff01694b3c047f6a180a58aa5cb0cf
+      internalID: -1588631891
       vertices: []
       indices: 
       edges: []
@@ -650,7 +606,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 89992c59909b8438ab0972defc753e12
     internalID: 0
     vertices: []
     indices: 
@@ -658,30 +614,30 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     spriteCustomMetadata:
-      entries: []
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":32.0,"y":32.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
     nameFileIdTable:
-      Wizard_Die_0: 8581698248556033039
-      Wizard_Die_1: -1952547981444358760
-      Wizard_Die_10: 3256778986455222790
-      Wizard_Die_11: -9014836160065181218
-      Wizard_Die_12: 6705376841374840202
-      Wizard_Die_13: 8877053850330139705
-      Wizard_Die_14: -3800656558955931176
-      Wizard_Die_15: -8660490366539189114
-      Wizard_Die_16: 7410273325845877756
-      Wizard_Die_17: 69020485210959498
-      Wizard_Die_18: 4957161517808225568
-      Wizard_Die_19: -6647325353736468925
-      Wizard_Die_2: -2715638282468584684
-      Wizard_Die_20: 5895450880473313083
-      Wizard_Die_21: 8890641019216186489
-      Wizard_Die_3: -8326276446532478424
-      Wizard_Die_4: -5150890382679202895
-      Wizard_Die_5: 5109462368320137315
-      Wizard_Die_6: -4133536493976086103
-      Wizard_Die_7: 7485513298961648460
-      Wizard_Die_8: 4282992028578854367
-      Wizard_Die_9: 3291315770416575674
+      Die_0: 1218443433
+      Die_1: -1445136727
+      Die_10: -1679992061
+      Die_11: -1257126931
+      Die_12: -1576767873
+      Die_13: 476652054
+      Die_14: -331459206
+      Die_15: -2026393716
+      Die_16: 1125862194
+      Die_17: -475972150
+      Die_18: -1623477967
+      Die_19: -1588631891
+      Die_2: -869282327
+      Die_3: 492939202
+      Die_4: -1332340650
+      Die_5: -735267847
+      Die_6: 859872939
+      Die_7: 979472434
+      Die_8: -745266771
+      Die_9: 1374411608
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

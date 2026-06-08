@@ -1,15 +1,15 @@
 .root {
     width: 100%;
     height: 100%;
-    background-color: rgba(10, 10, 14, 0.82);
+    background-color: rgba(20, 22, 34, 0.82);
     align-items: center;
     justify-content: center;
 }
 
 .pause-container {
     width: 340px;
-    background-color: #16181f;
-    border-color: #2e3550;
+    background-color: #2a2d3e;
+    border-color: #4a5070;
     border-width: 1px;
     border-radius: 6px;
     padding: 36px;
@@ -18,7 +18,7 @@
 
 .title {
     font-size: 30px;
-    color: #e8eaf0;
+    color: #f0f2ff;
     -unity-font-style: bold;
     -unity-text-align: upper-center;
     letter-spacing: 8px;
@@ -27,21 +27,21 @@
 
 .divider {
     height: 1px;
-    background-color: #2e3550;
+    background-color: #4a5070;
     margin-top: 8px;
     margin-bottom: 24px;
 }
 
 .divider-thin {
     height: 1px;
-    background-color: #1a1d28;
+    background-color: #363a52;
     margin-top: 8px;
     margin-bottom: 16px;
 }
 
 .prompt-text {
     font-size: 13px;
-    color: #a8b0c8;
+    color: #c8cce0;
     white-space: normal;
     -unity-text-align: upper-center;
     margin-bottom: 8px;
@@ -50,32 +50,32 @@
 .btn {
     height: 52px;
     margin-bottom: 10px;
-    background-color: #0d0d0f;
-    border-color: #2e3550;
+    background-color: #1c1f2e;
+    border-color: #4a5070;
     border-width: 1px;
     border-radius: 4px;
-    color: #a8b0c8;
+    color: #c8cce0;
     font-size: 13px;
     letter-spacing: 3px;
     transition-duration: 0.12s;
 }
 
 .btn:hover {
-    background-color: #1e2130;
-    border-color: #7a9fff;
-    color: #e8eaf0;
+    background-color: #363a52;
+    border-color: #7eb4ff;
+    color: #f0f2ff;
 }
 
 .btn:active { scale: 0.98; }
 
 .btn-danger {
-    border-color: #7a3030;
-    color: #c08080;
+    border-color: #905050;
+    color: #e09090;
     margin-bottom: 0;
 }
 
 .btn-danger:hover {
-    background-color: #2a1818;
-    border-color: #c05050;
-    color: #e8a0a0;
+    background-color: #3a2828;
+    border-color: #e06060;
+    color: #ffaaaa;
 }
