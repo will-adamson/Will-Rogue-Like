@@ -4,10 +4,10 @@ using UnityEngine;
 public class ChestData : ScriptableObject
 {
     [Header("Reward Weights")]
-    public float weightEmpty      = 20f;
-    public float weightCoins      = 40f;
+    public float weightEmpty = 20f;
+    public float weightCoins = 40f;
     public float weightExperience = 30f;
-    public float weightLoreNote   = 10f;
+    public float weightLoreNote = 10f;
 
     [Header("Coin Reward")]
     public int coinsMin = 5;
