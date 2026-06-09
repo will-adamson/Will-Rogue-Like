@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: EasyEnemyWave
   m_EditorClassIdentifier: Assembly-CSharp::EnemyWaveData
   enemies:
-  - enemyType: Slime
+  - enemyType: Large Slime
     count: 4
-    spawnAreaSize: {x: 20, y: 20}
+    spawnAreaSize: {x: 15, y: 15}
   spawnDelay: 0.1

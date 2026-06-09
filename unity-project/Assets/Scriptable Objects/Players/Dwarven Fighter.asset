@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: Dwarven Fighter
   m_EditorClassIdentifier: Assembly-CSharp::KnightData
   sprite: {fileID: 1754428778, guid: af40bd469d32b470ea9d2f8e1d56ae46, type: 3}
-  name: Dwarven Fighter
+  name: Borin Ironmantle
   health: 1
   stamina: 100
   damage: 15

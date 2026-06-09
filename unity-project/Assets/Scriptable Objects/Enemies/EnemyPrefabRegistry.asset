@@ -13,9 +13,5 @@ MonoBehaviour:
   m_Name: EnemyPrefabRegistry
   m_EditorClassIdentifier: Assembly-CSharp::EnemyPrefabRegistry
   enemies:
-  - type: Large Rat
-    prefab: {fileID: 6464531875417237264, guid: c3a0a0fa911d64efd9af478fbed8dfe5, type: 3}
-  - type: Small Rat
-    prefab: {fileID: 6464531875417237264, guid: 7e12e73a573a74eaba7a385013cbce16, type: 3}
-  - type: Slime
+  - type: Large Slime
     prefab: {fileID: 6464531875417237264, guid: d5e85201d9ebe8e41961b431a42857cd, type: 3}

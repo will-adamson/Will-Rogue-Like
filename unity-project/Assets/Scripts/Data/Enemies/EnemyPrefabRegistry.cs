@@ -10,7 +10,7 @@ public class EnemyPrefabRegistry : ScriptableObject
     [System.Serializable]
     private struct EnemyTypePrefab
     {
-        /// <summary>Must match the type string used in EnemyWaveData. Examples: "Large Rat", "Slime".</summary>
+        /// <summary>Must match the type string used in EnemyWaveData. Examples: "Large Slime", "Small Slime".</summary>
         public string type;
         public GameObject prefab;
     }
