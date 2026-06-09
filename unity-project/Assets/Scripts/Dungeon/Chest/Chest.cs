@@ -2,6 +2,8 @@ using UnityEngine;
 
 public class Chest : MonoBehaviour
 {
+    public enum ChestRewardType { Empty, Coins, Experience, LoreNote }
+
     [SerializeField] private ChestData chestData;
     [SerializeField] private Animator animator;
 

@@ -9,21 +9,29 @@ public class SlimeEnemyController : MeleeEnemyController
     [SerializeField] private float splitSpread = 1.2f;
 
     [Header("Patrol")]
-    [SerializeField] private Vector2 patrolDirection = Vector2.right;
     [SerializeField] private float patrolSpeedMultiplier = 0.5f;
     [SerializeField] private float patrolChangeInterval = 3f;
+    [SerializeField] private float patrolChangeIntervalVariance = 1f;
 
     [Header("Separation")]
     [SerializeField] private float separationRadius = 0.8f;
     [SerializeField] private float separationForce = 2f;
 
+    [Header("Stimulus Detection")]
+    [SerializeField] private float stimulusDetectionRadius = 6f;
+    [SerializeField] private LayerMask stimulusLayer;
+
+    private Vector2 patrolDirection;
+    private float currentPatrolInterval;
+    private float patrolChangeTimer = 0f;
     private EnemyState state = EnemyState.Patrol;
     private bool isSplit = false;
-    private float patrolChangeTimer = 0f;
+    private Transform attractedTo = null;
 
     protected override void Awake()
     {
         base.Awake();
+        PickNewPatrolDirection();
         if (isSplit) StartCoroutine(SpawnScaleIn());
     }
 
@@ -81,16 +89,58 @@ public class SlimeEnemyController : MeleeEnemyController
 
     private void HandlePatrol()
     {
-        patrolChangeTimer += Time.deltaTime;
-        if (patrolChangeTimer >= patrolChangeInterval)
+        CheckForStimulus();
+
+        if (attractedTo != null)
         {
-            patrolDirection *= -1f;
-            patrolChangeTimer = 0f;
+            Vector2 dirToStimulus =
+                ((Vector2)attractedTo.position - (Vector2)transform.position).normalized;
+            MovementComp.SetSpeed(Data.speed * patrolSpeedMultiplier * 1.5f);
+            MovementComp.Move(dirToStimulus);
+            Sprite.flipX = dirToStimulus.x < 0f;
+            return;
         }
+
+        patrolChangeTimer += Time.deltaTime;
+        if (patrolChangeTimer >= currentPatrolInterval)
+            PickNewPatrolDirection();
 
         MovementComp.SetSpeed(Data.speed * patrolSpeedMultiplier);
         MovementComp.Move(patrolDirection);
         Sprite.flipX = patrolDirection.x < 0f;
+    }
+
+    private void PickNewPatrolDirection()
+    {
+        float angle = Random.Range(0f, 360f) * Mathf.Deg2Rad;
+        patrolDirection = new Vector2(Mathf.Cos(angle), Mathf.Sin(angle));
+
+        patrolChangeTimer = 0f;
+        currentPatrolInterval = patrolChangeInterval + Random.Range(
+            -patrolChangeIntervalVariance, patrolChangeIntervalVariance);
+    }
+
+    private void CheckForStimulus()
+    {
+        Collider2D[] hits = Physics2D.OverlapCircleAll(
+            transform.position, stimulusDetectionRadius, stimulusLayer);
+
+        float closest = float.MaxValue;
+        attractedTo = null;
+
+        foreach (Collider2D col in hits)
+        {
+            if (!col.TryGetComponent(out SlimeStimulus stimulus)) continue;
+
+            float dist = Vector2.SqrMagnitude(
+                (Vector2)transform.position - (Vector2)col.transform.position);
+
+            if (dist < closest)
+            {
+                closest = dist;
+                attractedTo = col.transform;
+            }
+        }
     }
 
     private void TransitionToAlert()
@@ -122,6 +172,12 @@ public class SlimeEnemyController : MeleeEnemyController
         }
     }
 
+    public void AlertImmediate()
+    {
+        state = EnemyState.Chase;
+        MovementComp.ResetSpeed();
+    }
+
     protected override void HandleDeath()
     {
         MeleeEnemyData data = Data as MeleeEnemyData;
@@ -134,18 +190,23 @@ public class SlimeEnemyController : MeleeEnemyController
     {
         yield return null;
 
+        Vector2 spawnPos = transform.position;
+
         for (int i = 0; i < splitCount; i++)
         {
             float angle = 360f / splitCount * i * Mathf.Deg2Rad;
             Vector2 offset = new Vector2(Mathf.Cos(angle), Mathf.Sin(angle)) * splitSpread;
 
             GameObject split = Instantiate(smallSlimePrefab,
-                (Vector2)transform.position + offset, Quaternion.identity);
+                spawnPos + offset, Quaternion.identity);
 
             split.transform.localScale = transform.localScale * 0.6f;
 
             if (split.TryGetComponent(out SlimeEnemyController splitController))
+            {
                 splitController.isSplit = true;
+                splitController.AlertImmediate();
+            }
         }
     }
 

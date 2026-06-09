@@ -10,23 +10,23 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: c80815e4b7cd2f64497efedf321cbd48, type: 3}
-  m_Name: Large Slime
+  m_Name: Small Slime
   m_EditorClassIdentifier: Assembly-CSharp::MeleeEnemyData
   sprite: {fileID: 1153889677, guid: 7b01760a00c2042d696c2ed28a36e960, type: 3}
-  name: Large Slime
-  health: 80
-  speed: 2.5
+  name: Small Slime
+  health: 20
+  speed: 5
   defence: 0
   detectionRange: 4
-  attackRange: 0.8
+  attackRange: 0.5
   isHoldPosition: 0
-  attackName: Slam
-  telegraphDuration: 1
+  attackName: Sting
+  telegraphDuration: 0.5
   danger: 0
-  xpReward: 10
-  damage: 10
-  knockbackForce: 5
-  attackCooldown: 2
+  xpReward: 3
+  damage: 5
+  knockbackForce: 1
+  attackCooldown: 1
   attackShape: 2
   attackAngle: 45
   attackHitCount: 1
@@ -37,6 +37,6 @@ MonoBehaviour:
   zigzagAmplitude: 0
   zigzagFrequency: 0
   canBeStaggered: 1
-  staggerThreshold: 20
-  onHitEffect: {fileID: 11400000, guid: b9cf30dc4eecd46e4bbb3d175b8e1fee, type: 2}
-  splitOnDeathChance: 1
+  staggerThreshold: 0
+  onHitEffect: {fileID: 0}
+  splitOnDeathChance: 0

@@ -24,7 +24,7 @@ public class GridManager : MonoBehaviour
 
     /// <summary>
     /// Marks cells overlapping wall colliders as non-walkable.
-    /// Expensive O(width x height) — call once after all room prefabs are placed.
+    /// Expensive O(width x height) - call once after all room prefabs are placed.
     /// </summary>
     public void BakeWalls()
     {

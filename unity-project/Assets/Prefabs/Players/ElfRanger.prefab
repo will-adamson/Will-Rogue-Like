@@ -181,8 +181,8 @@ MonoBehaviour:
   playerData: {fileID: 11400000, guid: e30dbb4c70aef46a8b8b35a82e031ab8, type: 2}
   inputActions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
   tombstonePrefabs:
-  - {fileID: 2165334475683372404, guid: 3a7d07cf6a6d242eb89fe82d50b197db, type: 3}
-  - {fileID: 6793544996667055961, guid: 304c21989af7140549221457f1451e21, type: 3}
+  - {fileID: 572436269183905953, guid: 7dc7d843c7d02bd4ebf16636c4859e8d, type: 3}
+  - {fileID: 572436269183905953, guid: 3a7d07cf6a6d242eb89fe82d50b197db, type: 3}
 --- !u!114 &6884320628012651400
 MonoBehaviour:
   m_ObjectHideFlags: 0

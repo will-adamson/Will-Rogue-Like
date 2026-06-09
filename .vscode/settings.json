@@ -1,0 +1,29 @@
+{
+  "explorer.excludeGitIgnore": true,
+  
+  "files.exclude": {
+    // Unity config folders
+    "unity-project/Packages": true,
+    "unity-project/ProjectSettings": true,
+    "unity-project/UserSettings": true,
+    "unity-project/UIElementsSchema": true,
+
+    // Meta files
+    "**/*.meta": true,
+
+    // Asset folders
+    "unity-project/Assets/Animations/": true,
+    "unity-project/Assets/Prefabs/": true,
+    "unity-project/Assets/Scenes/": true,
+    "unity-project/Assets/Scriptable Objects/": true,
+    "unity-project/Assets/Settings/": true,
+    "unity-project/Assets/Sprites/": true,
+    "unity-project/Assets/Tilesets/": true,
+    "unity-project/Assets/UI Toolkit/": true,
+
+    // Asset files in root Assets folder
+    "unity-project/Assets/*.asset": true,
+    "unity-project/Assets/*.cs": true,
+    "unity-project/Assets/*.inputactions": true
+  }
+}

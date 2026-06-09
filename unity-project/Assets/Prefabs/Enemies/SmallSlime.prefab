@@ -18,7 +18,7 @@ PrefabInstance:
       objectReference: {fileID: 9100000, guid: 7bd0a3e7945644eb9aea884ea60b06c6, type: 2}
     - target: {fileID: 1066187540425520198, guid: 20aa68c61ef26402aae1e34a0b16c0b1, type: 3}
       propertyPath: m_Mass
-      value: 3
+      value: 0.5
       objectReference: {fileID: 0}
     - target: {fileID: 1066187540425520198, guid: 20aa68c61ef26402aae1e34a0b16c0b1, type: 3}
       propertyPath: m_Constraints
@@ -30,7 +30,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1066187540425520198, guid: 20aa68c61ef26402aae1e34a0b16c0b1, type: 3}
       propertyPath: m_LinearDamping
-      value: 4
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 1066187540425520198, guid: 20aa68c61ef26402aae1e34a0b16c0b1, type: 3}
       propertyPath: m_AngularDamping
@@ -42,7 +42,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6856069884653584963, guid: 20aa68c61ef26402aae1e34a0b16c0b1, type: 3}
       propertyPath: m_Name
-      value: LargeSlime
+      value: SmallSlime
       objectReference: {fileID: 0}
     - target: {fileID: 8463980101459232825, guid: 20aa68c61ef26402aae1e34a0b16c0b1, type: 3}
       propertyPath: m_Size.x
@@ -197,15 +197,15 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f0f182a140c774923a730b7fd2eb6c22, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::SlimeEnemyController
-  meleeEnemyData: {fileID: 11400000, guid: ac2641263d10bf342a3c4dff96f50e20, type: 2}
-  smallSlimePrefab: {fileID: 6464531875417237264, guid: 019aeb69585d9a649a0dc42550344dc4, type: 3}
+  meleeEnemyData: {fileID: 11400000, guid: 62c8b5b0522b2ce43be415476b848c2d, type: 2}
+  smallSlimePrefab: {fileID: 0}
   splitCount: 2
-  splitSpread: 1.2
-  patrolSpeedMultiplier: 0.5
-  patrolChangeInterval: 3
-  patrolChangeIntervalVariance: 1
-  separationRadius: 0.8
-  separationForce: 2
+  splitSpread: 0
+  patrolSpeedMultiplier: 0.7
+  patrolChangeInterval: 2
+  patrolChangeIntervalVariance: 0.5
+  separationRadius: 0.5
+  separationForce: 1.5
   stimulusDetectionRadius: 6
   stimulusLayer:
     serializedVersion: 2

@@ -13,6 +13,8 @@ public class RoomPrefabs
 [RequireComponent(typeof(PlayerSpawner), typeof(EnemySpawner), typeof(ChestSpawner))]
 public class LevelGenerator : MonoBehaviour
 {
+    public enum Direction { Up, Down, Left, Right }
+    
     [Header("References")]
     [SerializeField] private GameObject dungeonParent;
     [SerializeField] private RoomPrefabs roomPrefabs;
