@@ -15,3 +15,5 @@ MonoBehaviour:
   enemies:
   - type: Large Slime
     prefab: {fileID: 6464531875417237264, guid: d5e85201d9ebe8e41961b431a42857cd, type: 3}
+  - type: Small Slime
+    prefab: {fileID: 6464531875417237264, guid: 019aeb69585d9a649a0dc42550344dc4, type: 3}

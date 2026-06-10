@@ -21,12 +21,18 @@ public class SlimeEnemyController : MeleeEnemyController
     [SerializeField] private float stimulusDetectionRadius = 6f;
     [SerializeField] private LayerMask stimulusLayer;
 
+    [Header("Wall Detection")]
+    [SerializeField] private float wallCheckDistance = 0.3f;
+    [SerializeField] private LayerMask wallLayer;
+
     private Vector2 patrolDirection;
     private float currentPatrolInterval;
     private float patrolChangeTimer = 0f;
     private EnemyState state = EnemyState.Patrol;
     private bool isSplit = false;
     private Transform attractedTo = null;
+    private float wallCollisionCooldown = 0f;
+    private const float wallCollisionCooldownDuration = 0.3f;
 
     protected override void Awake()
     {
@@ -42,6 +48,8 @@ public class SlimeEnemyController : MeleeEnemyController
         bool playerDetected = PlayerDetectorComp.IsTargetDetected(
             out Vector2 dirToPlayer, out float sqrDist);
 
+        wallCollisionCooldown -= Time.deltaTime;
+        
         switch (state)
         {
             case EnemyState.Patrol:
@@ -51,9 +59,11 @@ public class SlimeEnemyController : MeleeEnemyController
                     return;
                 }
                 HandlePatrol();
+                UpdateAnimationDirection(patrolDirection);
                 break;
 
             case EnemyState.Alert:
+                UpdateAnimationDirection(Vector2.zero);
                 break;
 
             case EnemyState.Chase:
@@ -62,10 +72,10 @@ public class SlimeEnemyController : MeleeEnemyController
                 {
                     state = EnemyState.Patrol;
                     MovementComp.ResetSpeed();
+                    UpdateAnimationDirection(Vector2.zero);
                     return;
                 }
 
-                Sprite.flipX = dirToPlayer.x < 0f;
                 bool inAttackRange = PlayerDetectorComp.IsInAttackRange(sqrDist);
 
                 if (!inAttackRange && !Data.isHoldPosition)
@@ -77,14 +87,38 @@ public class SlimeEnemyController : MeleeEnemyController
                 {
                     state = EnemyState.Attack;
                     HandleAttack(dirToPlayer);
+                    UpdateAnimationDirection(Vector2.zero);
                 }
                 else
                 {
                     state = EnemyState.Chase;
+                    UpdateAnimationDirection(dirToPlayer);
                 }
+
                 ApplySeparation();
                 break;
         }
+    }
+
+    private void OnCollisionEnter2D(Collision2D collision)
+    {
+        if (!IsWallLayer(collision.gameObject)) return;
+        PickNewPatrolDirection();
+        wallCollisionCooldown = wallCollisionCooldownDuration;
+    }
+
+    private void OnCollisionStay2D(Collision2D collision)
+    {
+        if (!IsWallLayer(collision.gameObject)) return;
+        if (wallCollisionCooldown > 0f) return;
+
+        PickNewPatrolDirection();
+        wallCollisionCooldown = wallCollisionCooldownDuration;
+    }
+
+    private bool IsWallLayer(GameObject obj)
+    {
+        return ((wallLayer.value & (1 << obj.layer)) != 0);
     }
 
     private void HandlePatrol()
@@ -112,8 +146,14 @@ public class SlimeEnemyController : MeleeEnemyController
 
     private void PickNewPatrolDirection()
     {
-        float angle = Random.Range(0f, 360f) * Mathf.Deg2Rad;
-        patrolDirection = new Vector2(Mathf.Cos(angle), Mathf.Sin(angle));
+        Vector2[] cardinalDirections = {
+            Vector2.up,
+            Vector2.down,
+            Vector2.left,
+            Vector2.right
+        };
+
+        patrolDirection = cardinalDirections[Random.Range(0, cardinalDirections.Length)];
 
         patrolChangeTimer = 0f;
         currentPatrolInterval = patrolChangeInterval + Random.Range(

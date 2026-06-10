@@ -11,6 +11,12 @@ public abstract class EnemyController : EntityController
     protected override float MaxHealth => Data.health;
     protected override float GetDefence() => Data.defence;
 
+    private static readonly int HashIsWalking = Animator.StringToHash("IsWalking");
+    private static readonly int HashLastDirX = Animator.StringToHash("LastDirX");
+    private static readonly int HashLastDirY = Animator.StringToHash("LastDirY");
+
+    private Vector2 lastMoveDirection = Vector2.down;
+
     protected override void Awake()
     {
         base.Awake();
@@ -27,23 +33,29 @@ public abstract class EnemyController : EntityController
         if (IsDead || PlayerDetectorComp == null)
         {
             MovementComp.Move(Vector2.zero);
+            UpdateAnimationDirection(Vector2.zero);
             return;
         }
 
         if (!PlayerDetectorComp.IsTargetDetected(out Vector2 dir, out float sqrDist))
         {
             MovementComp.Move(Vector2.zero);
+            UpdateAnimationDirection(Vector2.zero);
             return;
         }
-
-        Sprite.flipX = dir.x < 0f;
 
         bool inAttackRange = PlayerDetectorComp.IsInAttackRange(sqrDist);
 
         if (!inAttackRange && !Data.isHoldPosition)
+        {
             HandleMovement(dir, sqrDist);
+            UpdateAnimationDirection(dir);
+        }
         else
+        {
             MovementComp.Move(Vector2.zero);
+            UpdateAnimationDirection(Vector2.zero);
+        }
 
         if (inAttackRange)
             HandleAttack(dir);
@@ -55,6 +67,28 @@ public abstract class EnemyController : EntityController
     }
 
     protected abstract void HandleAttack(Vector2 dir);
+
+    protected void UpdateAnimationDirection(Vector2 moveDirection)
+    {
+        bool isMoving = moveDirection.sqrMagnitude > 0.01f;
+        Anim.SetBool(HashIsWalking, isMoving);
+
+        if (isMoving)
+            lastMoveDirection = SnapToCardinal(moveDirection);
+
+        Anim.SetFloat(HashLastDirX, lastMoveDirection.x);
+        Anim.SetFloat(HashLastDirY, lastMoveDirection.y);
+
+        Debug.Log($"DirX: {lastMoveDirection.x} DirY: {lastMoveDirection.y}");
+    }
+
+    private Vector2 SnapToCardinal(Vector2 dir)
+    {
+        if (Mathf.Abs(dir.x) >= Mathf.Abs(dir.y))
+            return new Vector2(Mathf.Sign(dir.x), 0f);
+        else
+            return new Vector2(0f, Mathf.Sign(dir.y));
+    }
 
     protected void TriggerAttackAnimation() => Anim.SetTrigger(HashAttack);
 
