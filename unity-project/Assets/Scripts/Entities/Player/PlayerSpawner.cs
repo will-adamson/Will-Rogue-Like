@@ -24,6 +24,8 @@ public class PlayerSpawner : MonoBehaviour
 
         if (CameraController.Instance != null)
             CameraController.Instance.ChangeTarget(player.transform);
+        if (MinimapCameraController.Instance != null)
+            MinimapCameraController.Instance.ChangeTarget(player.transform);
 
         return player;
     }

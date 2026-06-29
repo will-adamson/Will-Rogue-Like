@@ -22,7 +22,8 @@ public class CameraController : MonoBehaviour
     void Start()
     {
         if (cam != null)
-            cam.orthographicSize = (roomHeight / 2f) + roomPadding;
+            //cam.orthographicSize = (roomHeight / 2f) + roomPadding;
+            cam.orthographicSize = 6;
     }
 
     void FixedUpdate()
